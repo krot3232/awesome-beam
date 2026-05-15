@@ -1,6 +1,6 @@
-# rabar3 plugin
+# Rabar3 plugin
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
-|-|-|-|-|-|-|-
+|:-|-|-|-|:-|-|-
 |1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.1.0|2026-03-03|Hex.pm plugin for rebar3|50386641|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)|
 |2|[rebar3_lint](https://hex.pm/packages/rebar3_lint)|5.0.3|2026-04-10|Erlang linter - rebar3 plugin|7060005|[![46386](https://img.shields.io/github/stars/project-fifo/rebar3_lint)](https://github.com/project-fifo/rebar3_lint)|
 |3|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|2.23.8|2026-02-15|A rebar3 gpb plugin for compiling .proto files|3761739|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)|

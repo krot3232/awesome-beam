@@ -1,6 +1,6 @@
-# mix task
+# Mix task
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
-|-|-|-|-|-|-|-
+|:-|-|-|-|:-|-|-
 |1|[phx_new](https://hex.pm/packages/phx_new)|1.8.7|2026-05-06|Phoenix framework project generator.Provides a mix phx.new task to bootstrap a new Elixir applicationwith Phoenix dependencies.|2082725|[![45039](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|
 |2|[sbom](https://hex.pm/packages/sbom)|0.10.0|2026-04-09|Mix task to generate a Software Bill-of-Materials (SBoM) in CycloneDX format|326830|[![63710](https://img.shields.io/github/stars/erlef/mix_sbom)](https://github.com/erlef/mix_sbom)|
 |3|[bun](https://hex.pm/packages/bun)|2.0.0|2026-02-13|Mix tasks for installing and invoking bun|81002|[![31934](https://img.shields.io/github/stars/crbelaus/bun)](https://github.com/crbelaus/bun)|
