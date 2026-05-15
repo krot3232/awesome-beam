@@ -9,9 +9,8 @@
 |6|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|10696|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)|
 |7|[simple_bridge](https://hex.pm/packages/simple_bridge)|2.3.1|2024-09-06|Common Interface to Erlang HTTP Servers|4620|[![64214](https://img.shields.io/github/stars/nitrogen/simple_bridge)](https://github.com/nitrogen/simple_bridge)|
 |8|[lmug](https://hex.pm/packages/lmug)|0.2.8|2024-02-18|LFE HTTP Server Abstraction and Web Application Middleware Infrastructure|2005|[![41566](https://img.shields.io/github/stars/lfe-mug/lmug)](https://github.com/lfe-mug/lmug)|
-|9|[my_cowboy](https://hex.pm/packages/my_cowboy)|2.12.0|2024-10-27|Small, fast, modern HTTP server.|221|[![43132](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)|
-|10|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7150||
-|11|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|411680|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)|
+|9|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7150||
+|10|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|411680|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)|
 # Elixir HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
