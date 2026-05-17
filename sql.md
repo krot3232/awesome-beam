@@ -1,4 +1,4 @@
-# Erlang sql
+# Erlang SQL
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[epgsql](https://hex.pm/packages/epgsql)|4.8.0|2025-06-06|PostgreSQL Client|2608263|[![35129](https://img.shields.io/github/stars/epgsql/epgsql)](https://github.com/epgsql/epgsql)|
@@ -37,7 +37,7 @@
 |34|[hasaki_emysql](https://hex.pm/packages/hasaki_emysql)|0.5.1|2022-05-25|Emysql - Erlang MySQL driver|218|[![39387](https://img.shields.io/github/stars/code-hasaki/Emysql)](https://github.com/code-hasaki/Emysql)|
 |35|[msmp](https://hex.pm/packages/msmp)|0.1.2|2023-11-22|MySQL/MariaDB Message Protocol|157|[![43027](https://img.shields.io/github/stars/shortishly/msmp)](https://github.com/shortishly/msmp)|
 |36|[epg_migrator](https://hex.pm/packages/epg_migrator)|0.0.2|2026-04-01|PostgreSQL database migration library|32|[![35127](https://img.shields.io/github/stars/ttt161/epg_migrator)](https://github.com/ttt161/epg_migrator)|
-# Elixir sql
+# Elixir SQL
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[postgrex](https://hex.pm/packages/postgrex)|1.0.0-rc.1|2026-05-12|PostgreSQL driver for Elixir|134929327|[![45561](https://img.shields.io/github/stars/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)|
@@ -197,7 +197,7 @@
 |155|[sql_parser_ex](https://hex.pm/packages/sql_parser_ex)|0.1.0|2026-04-12|Elixir NIF wrapper for the sqlparser Rust crate — parse and reconstruct SQL across multiple dialects|43|[![64827](https://img.shields.io/github/stars/ndrluis/sql-parser-ex)](https://github.com/ndrluis/sql-parser-ex)|
 |156|[ecto_view](https://hex.pm/packages/ecto_view)|1.0.0|2026-03-17|Ecto helpers for creating and refreshing SQL views|41||
 |157|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|38|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)|
-# Gleam sql
+# Gleam SQL
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[pog](https://hex.pm/packages/pog)|4.1.0|2025-07-15|A PostgreSQL database client for Gleam, based on PGO|93577|[![45424](https://img.shields.io/github/stars/lpil/pog)](https://github.com/lpil/pog)|
