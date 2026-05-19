@@ -94,6 +94,7 @@
 |77|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|107|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)|
 |78|[faux_mq](https://hex.pm/packages/faux_mq)|1.0.0|2026-04-06|Dummy AMQP 0-9-1 broker for integration testing with powerful mocking API.|72|[![37312](https://img.shields.io/github/stars/aszymanskiit/faux-mq)](https://github.com/aszymanskiit/faux-mq)|
 |79|[raft_ex](https://hex.pm/packages/raft_ex)|0.0.2|2026-04-05|Elixir port of RabbitMQ RA Raft consensus. Implements leader election, log replication, snapshots, and cluster management. APIs are unstable and under active development.|64|[![46085](https://img.shields.io/github/stars/manhvu/raft_ex)](https://github.com/manhvu/raft_ex)|
+|80|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.1.0|2026-05-18|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|0||
 # Gleam AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
