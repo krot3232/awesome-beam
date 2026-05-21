@@ -1,4 +1,4 @@
-# [Networking](./Networking)
+# Networking
 ## HTTP server
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -129,7 +129,7 @@
 |12|[nessie](https://hex.pm/packages/nessie)|0.1.0|2024-04-07|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|395|[![43437](https://img.shields.io/github/stars/ckreiling/nessie)](https://github.com/ckreiling/nessie)|gleam
 |13|[esdee](https://hex.pm/packages/esdee)|1.0.1|2025-12-25|Gleam DNS-SD discovery on Erlang|230|[![35348](https://img.shields.io/github/stars/sbergen/esdee)](https://github.com/sbergen/esdee)|gleam
 |14|[nessie_2](https://hex.pm/packages/nessie_2)|0.2.0|2025-11-14|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|88|[![43438](https://img.shields.io/github/stars/violetbuse/nessie_2)](https://github.com/violetbuse/nessie_2)|gleam
-# [Database & Caching](./Database & Caching)
+# Database & Caching
 ## SQL
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -219,7 +219,7 @@
 |4|[erldb](https://hex.pm/packages/erldb)|1.0.0|2021-11-02|Erlang ORM|2693||erlang
 |5|[emysql_orm](https://hex.pm/packages/emysql_orm)|0.0.1|2021-06-09|emysql ORM|274|[![35033](https://img.shields.io/github/stars/aijingsun6/emysql_orm)](https://github.com/aijingsun6/emysql_orm)|erlang
 |6|[ormlette](https://hex.pm/packages/ormlette)|1.0.2|2024-10-13|A delightful ORM (?) for Gleam! 🍳|267|[![44260](https://img.shields.io/github/stars/ashercn97/ormlette)](https://github.com/ashercn97/ormlette)|gleam
-# [Serialization](./Serialization)
+# Serialization
 ## JSON
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -286,7 +286,7 @@
 |8|[rebar3_gpb_rpc_plugin](https://hex.pm/packages/rebar3_gpb_rpc_plugin)|1.3.1|2019-07-31|A rebar3 gpb rpc plugin for compiling .proto files|9716|[![46372](https://img.shields.io/github/stars/feng19/rebar3_gpb_rpc_plugin)](https://github.com/feng19/rebar3_gpb_rpc_plugin)|erlang
 |9|[protozoa_dev](https://hex.pm/packages/protozoa_dev)|2.0.3|2025-09-17|CLI tool for the Protozoa Protocol Buffers library|224|[![45793](https://img.shields.io/github/stars/renatillas/protozoa_dev)](https://github.com/renatillas/protozoa_dev)|gleam
 |10|[protozoa](https://hex.pm/packages/protozoa)|2.0.3|2025-09-17|A Protocol Buffers library for Gleam, providing encoding and decoding of protobuf messages.|223|[![45792](https://img.shields.io/github/stars/renatillas/protozoa)](https://github.com/renatillas/protozoa)|gleam
-# [Cryptography & Security](./Cryptography & Security)
+# Cryptography & Security
 ## JWT
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -314,7 +314,7 @@
 |5|[oauth2_metadata_updater](https://hex.pm/packages/oauth2_metadata_updater)|1.2.2|2023-07-05|OAuth2 and OpenID Connect metadata updater for Elixir|19667|[![43831](https://img.shields.io/github/stars/tanguilp/oauth2_metadata_updater)](https://github.com/tanguilp/oauth2_metadata_updater)|elixir
 |6|[tesla_oauth2_client_auth](https://hex.pm/packages/tesla_oauth2_client_auth)|1.0.0|2021-02-13|Tesla middlewares for OAuth2 and OpenID Connect client authentication|19622|[![65678](https://img.shields.io/github/stars/tanguilp/tesla_oauth2_client_auth)](https://github.com/tanguilp/tesla_oauth2_client_auth)|elixir
 |7|[oauth2_erlang](https://hex.pm/packages/oauth2_erlang)|0.6.1|2016-02-17|Erlang OAuth 2.0 implementation|3329|[![43827](https://img.shields.io/github/stars/kivra/oauth2)](https://github.com/kivra/oauth2)|erlang
-# [Web Frameworks](./Web Frameworks)
+# Web Frameworks
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -333,7 +333,7 @@
 |13|[lfe_http](https://hex.pm/packages/lfe_http)|1.0.0|2025-10-29|General purpose data, functions, and utilities for use by LFE/Erlang HTTP clients, servers, URL-parsers, web frameworks, etc.|3031|[![41254](https://img.shields.io/github/stars/lfe-http/http)](https://github.com/lfe-http/http)|erlang
 |14|[tiramisu](https://hex.pm/packages/tiramisu)|8.1.0|2026-03-29|A 3D game framework for building performant web games in Gleam|2706|[![65923](https://img.shields.io/github/stars/renatillas/tiramisu)](https://github.com/renatillas/tiramisu)|gleam
 |15|[glimr](https://hex.pm/packages/glimr)|1.4.0|2026-05-12|A batteries-included web framework for Gleam|2519|[![38513](https://img.shields.io/github/stars/glimr-org/framework)](https://github.com/glimr-org/framework)|gleam
-# [Concurrency & Distributed Systems](./Concurrency & Distributed Systems)
+# Concurrency & Distributed Systems
 ## pool
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -352,7 +352,7 @@
 |13|[puddle](https://hex.pm/packages/puddle)|0.5.0|2023-11-14|A resource pool manager for gleam|1902|[![45845](https://img.shields.io/github/stars/massivefermion/puddle)](https://github.com/massivefermion/puddle)|gleam
 |14|[gmysql](https://hex.pm/packages/gmysql)|1.4.0|2024-07-31|Gleam mysql client and connection pooler.|1682|[![38630](https://img.shields.io/github/stars/VioletBuse/gmysql)](https://github.com/VioletBuse/gmysql)|gleam
 |15|[crew](https://hex.pm/packages/crew)|2.0.0|2025-12-09|An asynchronous task pool with limited concurrency|687||gleam
-# [Messaging & Queues](./Messaging & Queues)
+# Messaging & Queues
 ## AMQP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -394,7 +394,7 @@
 |8|[natsio](https://hex.pm/packages/natsio)|0.1.6|2017-12-27|NATS framework for Elixir|1773|[![43208](https://img.shields.io/github/stars/nats-io/elixir-nats)](https://github.com/nats-io/elixir-nats)|elixir
 |9|[natserl](https://hex.pm/packages/natserl)|0.1.3|2022-07-19|A simple NATS client for Erlang/OTP|597|[![43204](https://img.shields.io/github/stars/wmnsk/nats.erl)](https://github.com/wmnsk/nats.erl)|erlang
 |10|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|552|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)|elixir
-# [File & Storage](./File & Storage)
+# File & Storage
 ## S3
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -410,7 +410,7 @@
 |10|[zotonic_mod_filestore](https://hex.pm/packages/zotonic_mod_filestore)|1.0.0-rc.17|2026-03-30|Store files on cloud storage services like FTP, S3 and WebDAV|4630|[![67707](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)|erlang
 |11|[jhn_s3c](https://hex.pm/packages/jhn_s3c)|0.3.2|2025-12-18|An S3 client lib|3457|[![40426](https://img.shields.io/github/stars/JanHenryNystrom/jhn_s3c)](https://github.com/JanHenryNystrom/jhn_s3c)|erlang
 |12|[jaws3](https://hex.pm/packages/jaws3)|0.1.1|2017-07-27|An Erlang/Elixir application for upload files easily to AWS S3|402|[![40385](https://img.shields.io/github/stars/davecaos/jaws3)](https://github.com/davecaos/jaws3)|erlang
-# [Logging & Monitoring](./Logging & Monitoring)
+# Logging & Monitoring
 ## Logging
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -447,7 +447,7 @@
 |13|[promgleam](https://hex.pm/packages/promgleam)|0.2.0|2024-07-07|A Prometheus client library for Gleam|430|[![45739](https://img.shields.io/github/stars/dios-david/promgleam)](https://github.com/dios-david/promgleam)|gleam
 |14|[opengleametry](https://hex.pm/packages/opengleametry)|1.1.0|2026-01-28|Gleam bindings to opentelemetry; can capture crash reports.|331||gleam
 |15|[observatory](https://hex.pm/packages/observatory)|0.0.1|2024-03-13|A Gleam client library for Prometheus|170||gleam
-# [Testing](./Testing)
+# Testing
 ## Testing
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -466,7 +466,7 @@
 |13|[glacier_gleeunit](https://hex.pm/packages/glacier_gleeunit)|1.3.1003|2025-12-25|This is a fork of gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI.|9761|[![38311](https://img.shields.io/github/stars/inoas/gleeunit)](https://github.com/inoas/gleeunit)|gleam
 |14|[glacier](https://hex.pm/packages/glacier)|1.3.3|2025-12-25|Glacier brings incremental interactive unit testing to Gleam. It is meant as a drop-in replacement for Gleeunit and depends on and wraps a fork of it.|8229|[![38310](https://img.shields.io/github/stars/inoas/glacier)](https://github.com/inoas/glacier)|gleam
 |15|[glistix_gleeunit](https://hex.pm/packages/glistix_gleeunit)|1.1.0|2024-04-23|A fork of gleeunit for Glistix&#039;s Nix target|4831|[![38531](https://img.shields.io/github/stars/glistix/gleeunit)](https://github.com/glistix/gleeunit)|gleam
-# [Dev Tools](./Dev Tools)
+# Dev Tools
 ## Rabar3 plugin
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -511,7 +511,7 @@
 |9|[xprof_core](https://hex.pm/packages/xprof_core)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler tracer core|13350|[![67431](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)|erlang
 |10|[og](https://hex.pm/packages/og)|1.1.2|2017-10-31|Og is a small collection of debugging functions for use during development.|12405|[![43939](https://img.shields.io/github/stars/stephenmoloney/og)](https://github.com/stephenmoloney/og)|elixir
 |11|[tardis](https://hex.pm/packages/tardis)|0.3.0|2024-12-26|Time traveller debugger, tailor-made for Lustre|1652|[![65456](https://img.shields.io/github/stars/ghivert/tardis)](https://github.com/ghivert/tardis)|gleam
-# [Parsing & Compilers](./Parsing & Compilers)
+# Parsing & Compilers
 ## Regex
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -528,7 +528,7 @@
 |11|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|298|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)|gleam
 |12|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|61||gleam
 |13|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|34||gleam
-# [AI & NLP](./AI & NLP)
+# AI & NLP
 ## AI
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -551,7 +551,7 @@
 |3|[verbnet](https://hex.pm/packages/verbnet)|0.3.1|2019-02-15|This module provides a lookup interface into the VerbNet semantic mapping dataset for natural language processing (NLP) solutions.|1709|[![66828](https://img.shields.io/github/stars/arpieb/verbnet)](https://github.com/arpieb/verbnet)|elixir
 |4|[textgain](https://hex.pm/packages/textgain)|0.1.4|2019-02-20|This module provides access to the various natural language processing (NLP) text analytics services provided by Textgain.|1348|[![65752](https://img.shields.io/github/stars/arpieb/textgain)](https://github.com/arpieb/textgain)|elixir
 |5|[yargy](https://hex.pm/packages/yargy)|0.5.2|2026-02-23|Earley parser with grammar DSL for Russian NLP|316|[![67500](https://img.shields.io/github/stars/natasha-ex/yargy)](https://github.com/natasha-ex/yargy)|elixir
-# [Configuration](./Configuration)
+# Configuration
 ## env
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -566,7 +566,7 @@
 |9|[glenvy](https://hex.pm/packages/glenvy)|2.0.1|2025-07-30|A pleasant way to interact with your environment variables.|10058|[![38472](https://img.shields.io/github/stars/maxdeviant/glenvy)](https://github.com/maxdeviant/glenvy)|gleam
 |10|[macula_envy](https://hex.pm/packages/macula_envy)|0.1.1|2025-12-24|Environment variable wrapper prefixing with application name|2398|[![41874](https://img.shields.io/github/stars/macula-io/macula-envy)](https://github.com/macula-io/macula-envy)|erlang
 |11|[envie](https://hex.pm/packages/envie)|1.2.0|2026-04-27|Type-safe environment variables for Gleam. Zero dependencies.|378|[![35102](https://img.shields.io/github/stars/lupodevelop/envie)](https://github.com/lupodevelop/envie)|gleam
-# [Interop & Bindings](./Interop & Bindings)
+# Interop & Bindings
 ## NIF
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -584,7 +584,7 @@
 |12|[viva_tensor](https://hex.pm/packages/viva_tensor)|2.2.100|2026-04-27|High-performance tensor library for Gleam/BEAM with Zig NIF, Intel MKL (931 GFLOPS), CUDA Tensor Cores (1854 TOPS), and quantization|333|[![66924](https://img.shields.io/github/stars/gabrielmaialva33/viva_tensor)](https://github.com/gabrielmaialva33/viva_tensor)|gleam
 |13|[pturso](https://hex.pm/packages/pturso)|1.1.0|2026-01-16|Turso for Gleam. Similar to the sqlight library, but uses a Port instead of a NIF (so it works fine even for statically linked BEAM builds).|154|[![45824](https://img.shields.io/github/stars/Resonious/pturso)](https://github.com/Resonious/pturso)|gleam
 |14|[taffy](https://hex.pm/packages/taffy)|1.1.0|2026-05-16|A YAML 1.2 parser for Gleam, with an optional native fast_yaml C NIF backend.|104|[![65389](https://img.shields.io/github/stars/qwexvf/taffy)](https://github.com/qwexvf/taffy)|gleam
-# [Metaprogramming](./Metaprogramming)
+# Metaprogramming
 ## Parse transform
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
