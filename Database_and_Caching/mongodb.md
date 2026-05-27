@@ -1,17 +1,17 @@
 # Erlang MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mongodb_erlang](https://hex.pm/packages/mongodb_erlang)|3.4.0|2021-06-16|Client interface to MongoDB, also known as the driver. See www.mongodb.org|57330|[![42905](https://img.shields.io/github/stars/filmor/mongodb-erlang)](https://github.com/filmor/mongodb-erlang)
+|1|[mongodb_erlang](https://hex.pm/packages/mongodb_erlang)|3.4.0|2021-06-16|Client interface to MongoDB, also known as the driver. See www.mongodb.org|57371|[![42905](https://img.shields.io/github/stars/filmor/mongodb-erlang)](https://github.com/filmor/mongodb-erlang)
 |2|[mongodb_client](https://hex.pm/packages/mongodb_client)|3.2.0|2018-03-08|Client interface to MongoDB, also known as the driver. See www.mongodb.org|5718|[![42902](https://img.shields.io/github/stars/filmor/mongodb-erlang)](https://github.com/filmor/mongodb-erlang)
 |3|[mongodriver](https://hex.pm/packages/mongodriver)|1.0.0|2023-09-23|Client interface to MongoDB, also known as the driver. See www.mongodb.org|203|
 # Elixir MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.3|2026-05-19|The MongoDB driver for Elixir|1104452|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
-|2|[mongodb](https://hex.pm/packages/mongodb)|1.0.1|2025-03-12|MongoDB driver for Elixir|876393|[![42901](https://img.shields.io/github/stars/elixir-mongo/mongodb)](https://github.com/elixir-mongo/mongodb)
-|3|[mongodb_ecto](https://hex.pm/packages/mongodb_ecto)|2.1.1|2025-03-12|MongoDB adapter for Ecto|127044|[![42904](https://img.shields.io/github/stars/elixir-mongo/mongodb_ecto)](https://github.com/elixir-mongo/mongodb_ecto)
-|4|[opentelemetry_mongodb_dri ver ](https://hex.pm/packages/opentelemetry_mongodb_driver)|0.1.0|2023-08-23|Trace MongoDB queries with OpenTelemetry.|29685|[![44167](https://img.shields.io/github/stars/open-telemetry/opentelemetry-erlang-contrib)](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
-|5|[mongo](https://hex.pm/packages/mongo)|0.5.4|2015-12-01|MongoDB driver for Elixir|6339|[![42899](https://img.shields.io/github/stars/checkiz/elixir-mongo)](https://github.com/checkiz/elixir-mongo)
+|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.3|2026-05-19|The MongoDB driver for Elixir|1105457|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
+|2|[mongodb](https://hex.pm/packages/mongodb)|1.0.1|2025-03-12|MongoDB driver for Elixir|876429|[![42901](https://img.shields.io/github/stars/elixir-mongo/mongodb)](https://github.com/elixir-mongo/mongodb)
+|3|[mongodb_ecto](https://hex.pm/packages/mongodb_ecto)|2.1.1|2025-03-12|MongoDB adapter for Ecto|127161|[![42904](https://img.shields.io/github/stars/elixir-mongo/mongodb_ecto)](https://github.com/elixir-mongo/mongodb_ecto)
+|4|[opentelemetry_mongodb_dri ver ](https://hex.pm/packages/opentelemetry_mongodb_driver)|0.1.0|2023-08-23|Trace MongoDB queries with OpenTelemetry.|29703|[![44167](https://img.shields.io/github/stars/open-telemetry/opentelemetry-erlang-contrib)](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+|5|[mongo](https://hex.pm/packages/mongo)|0.5.4|2015-12-01|MongoDB driver for Elixir|6341|[![42899](https://img.shields.io/github/stars/checkiz/elixir-mongo)](https://github.com/checkiz/elixir-mongo)
 |6|[eidetic_eventstore_mongod b ](https://hex.pm/packages/eidetic_eventstore_mongodb)|1.0.0-alpha1|2018-04-02|A MongoDB EventStore for the Eidetic EventSourcing library|5275|
 |7|[yildun](https://hex.pm/packages/yildun)|0.1.2|2021-09-18|Yildun is a white-hued star in the northern circumpolar constellation of Ursa Minor, forming the second star in the bear&#039;s tail.And it is a very small library to support structs while using the MongoDB driver for Elixir.|5047|[![67535](https://img.shields.io/github/stars/zookzook/yildun)](https://github.com/zookzook/yildun)
 |8|[mongoman](https://hex.pm/packages/mongoman)|0.3.6|2016-12-12|Configures and starts local or distributed MongoDB clusters|4556|[![42908](https://img.shields.io/github/stars/vertify/mongoman)](https://github.com/vertify/mongoman)
@@ -29,4 +29,4 @@
 # Gleam MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mungo](https://hex.pm/packages/mungo)|0.27.0|2024-12-20|A MongoDB driver for Gleam (formerly gleam_mongo)|2296|[![43092](https://img.shields.io/github/stars/massivefermion/mungo)](https://github.com/massivefermion/mungo)
+|1|[mungo](https://hex.pm/packages/mungo)|0.27.0|2024-12-20|A MongoDB driver for Gleam (formerly gleam_mongo)|2300|[![43092](https://img.shields.io/github/stars/massivefermion/mungo)](https://github.com/massivefermion/mungo)

@@ -1,10 +1,10 @@
 # Erlang NATS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[enats_msg](https://hex.pm/packages/enats_msg)|1.0.3|2025-07-14|Pure Erlang NATS Protocol Message Encoder/Decoder|18155|[![35037](https://img.shields.io/github/stars/travelping/enats_msg)](https://github.com/travelping/enats_msg)
-|2|[enats](https://hex.pm/packages/enats)|1.2.0|2025-09-15|Erlang NATS.io client library|15949|[![35036](https://img.shields.io/github/stars/travelping/enats)](https://github.com/travelping/enats)
-|3|[nats_msg](https://hex.pm/packages/nats_msg)|0.4.1|2016-03-23|Pure Erlang NATS Protocol Message Encoder/Decoder|7075|[![43209](https://img.shields.io/github/stars/yuce/nats_msg)](https://github.com/yuce/nats_msg)
-|4|[teacup_nats](https://hex.pm/packages/teacup_nats)|0.4.1|2017-03-10|Teacup based NATS Client for Erlang|6524|[![65511](https://img.shields.io/github/stars/yuce/teacup_nats)](https://github.com/yuce/teacup_nats)
+|1|[enats_msg](https://hex.pm/packages/enats_msg)|1.0.3|2025-07-14|Pure Erlang NATS Protocol Message Encoder/Decoder|18224|[![35037](https://img.shields.io/github/stars/travelping/enats_msg)](https://github.com/travelping/enats_msg)
+|2|[enats](https://hex.pm/packages/enats)|1.2.0|2025-09-15|Erlang NATS.io client library|16007|[![35036](https://img.shields.io/github/stars/travelping/enats)](https://github.com/travelping/enats)
+|3|[nats_msg](https://hex.pm/packages/nats_msg)|0.4.1|2016-03-23|Pure Erlang NATS Protocol Message Encoder/Decoder|7077|[![43209](https://img.shields.io/github/stars/yuce/nats_msg)](https://github.com/yuce/nats_msg)
+|4|[teacup_nats](https://hex.pm/packages/teacup_nats)|0.4.1|2017-03-10|Teacup based NATS Client for Erlang|6531|[![65511](https://img.shields.io/github/stars/yuce/teacup_nats)](https://github.com/yuce/teacup_nats)
 |5|[natserl](https://hex.pm/packages/natserl)|0.1.3|2022-07-19|A simple NATS client for Erlang/OTP|599|[![43204](https://img.shields.io/github/stars/wmnsk/nats.erl)](https://github.com/wmnsk/nats.erl)
 # Elixir NATS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
