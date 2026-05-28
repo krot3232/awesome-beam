@@ -6,11 +6,11 @@
 # Elixir ORM
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[active_memory](https://hex.pm/packages/active_memory)|0.3.0|2026-01-22|A Simple ORM for ETS and Mnesia|207698|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
+|1|[active_memory](https://hex.pm/packages/active_memory)|0.3.0|2026-01-22|A Simple ORM for ETS and Mnesia|207699|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
 |2|[form](https://hex.pm/packages/form)|11.4.15|2026-04-14|ERP/1 X-FORM Business Cartulary|19375|[![37715](https://img.shields.io/github/stars/synrc/form)](https://github.com/synrc/form)
 |3|[triton](https://hex.pm/packages/triton)|0.2.4|2018-10-18|Pure Elixir Cassandra ORM built on top of Xandra.|10111|[![66181](https://img.shields.io/github/stars/blitzstudios/triton)](https://github.com/blitzstudios/triton)
-|4|[sql](https://hex.pm/packages/sql)|0.5.0|2026-03-31|SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, parameterized queries directly, without translating to Ecto or any ORM.|4632|[![64798](https://img.shields.io/github/stars/elixir-dbvisor/sql)](https://github.com/elixir-dbvisor/sql)
-|5|[graveyard](https://hex.pm/packages/graveyard)|0.6.6|2019-10-03|A teeny-tiny ORM/library for managing ElasticSearch documents in Elixir|3948|[![39116](https://img.shields.io/github/stars/sebastialonso/graveyard)](https://github.com/sebastialonso/graveyard)
+|4|[sql](https://hex.pm/packages/sql)|0.5.0|2026-03-31|SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, parameterized queries directly, without translating to Ecto or any ORM.|4639|[![64798](https://img.shields.io/github/stars/elixir-dbvisor/sql)](https://github.com/elixir-dbvisor/sql)
+|5|[graveyard](https://hex.pm/packages/graveyard)|0.6.6|2019-10-03|A teeny-tiny ORM/library for managing ElasticSearch documents in Elixir|3950|[![39116](https://img.shields.io/github/stars/sebastialonso/graveyard)](https://github.com/sebastialonso/graveyard)
 # Gleam ORM
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

@@ -1,13 +1,13 @@
 # Erlang MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.1|2026-05-22|Erlang MQTT v5.0 Client|661603|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
-|2|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|176596|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)
-|3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.2.0|2026-04-02|MQTT v5 packet encoder and decoder|73608|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
-|4|[mqtt_sessions](https://hex.pm/packages/mqtt_sessions)|2.7.0|2026-04-02|MQTT v5 Sessions Manager|66960|[![43004](https://img.shields.io/github/stars/zotonic/mqtt_sessions)](https://github.com/zotonic/mqtt_sessions)
-|5|[vmq_commons](https://hex.pm/packages/vmq_commons)|1.0.0|2016-06-24|Common Functionality for the VerneMQ MQTT broker|48206|[![66933](https://img.shields.io/github/stars/erlio/vmq_commons)](https://github.com/erlio/vmq_commons)
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.2|2026-05-27|Erlang MQTT v5.0 Client|662038|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
+|2|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|176763|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)
+|3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.2.0|2026-04-02|MQTT v5 packet encoder and decoder|73620|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
+|4|[mqtt_sessions](https://hex.pm/packages/mqtt_sessions)|2.7.0|2026-04-02|MQTT v5 Sessions Manager|66972|[![43004](https://img.shields.io/github/stars/zotonic/mqtt_sessions)](https://github.com/zotonic/mqtt_sessions)
+|5|[vmq_commons](https://hex.pm/packages/vmq_commons)|1.0.0|2016-06-24|Common Functionality for the VerneMQ MQTT broker|48227|[![66933](https://img.shields.io/github/stars/erlio/vmq_commons)](https://github.com/erlio/vmq_commons)
 |6|[ejabberd](https://hex.pm/packages/ejabberd)|26.4.0|2026-04-20|Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)|43900|[![34690](https://img.shields.io/github/stars/processone/ejabberd)](https://github.com/processone/ejabberd)
-|7|[mqtt](https://hex.pm/packages/mqtt)|0.3.3|2020-06-10|Erlang/Elixir low level MQTT protocol implementation|22235|[![42998](https://img.shields.io/github/stars/kopera/erlang-mqtt)](https://github.com/kopera/erlang-mqtt)
+|7|[mqtt](https://hex.pm/packages/mqtt)|0.3.3|2020-06-10|Erlang/Elixir low level MQTT protocol implementation|22240|[![42998](https://img.shields.io/github/stars/kopera/erlang-mqtt)](https://github.com/kopera/erlang-mqtt)
 |8|[zotonic_mod_mqtt](https://hex.pm/packages/zotonic_mod_mqtt)|1.0.0-rc.17|2026-03-30|MQTT messaging, connecting server and browser.|5083|[![67720](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |9|[zotonic_mod_fileuploader](https://hex.pm/packages/zotonic_mod_fileuploader)|1.0.0-rc.17|2026-03-30|Upload files via MQTT|4673|[![67708](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |10|[zotonic_listen_mqtt](https://hex.pm/packages/zotonic_listen_mqtt)|1.0.0-rc.17|2026-03-30|Zotonic MQTT Listener|4663|[![67670](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
@@ -16,19 +16,19 @@
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|460945|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
-|2|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|185928|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)
+|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|461080|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
+|2|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|186173|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)
 |3|[hulaaki](https://hex.pm/packages/hulaaki)|0.1.2|2018-02-07|An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).|63038|[![39812](https://img.shields.io/github/stars/suvash/hulaaki)](https://github.com/suvash/hulaaki)
-|4|[jackalope](https://hex.pm/packages/jackalope)|0.9.0|2024-09-25|An opinionated MQTT client library based on Tortoise MQTT|59566|[![40350](https://img.shields.io/github/stars/smartrent/jackalope)](https://github.com/smartrent/jackalope)
-|5|[gen_mqtt](https://hex.pm/packages/gen_mqtt)|0.4.0|2019-02-11|An Elixir behaviour that makes it possible to communicate with a MQTT server|50716|[![38081](https://img.shields.io/github/stars/gausby/gen_mqtt)](https://github.com/gausby/gen_mqtt)
-|6|[n2o](https://hex.pm/packages/n2o)|13.4.15|2026-04-14|N2O MQTT TCP WebSocket|39457|[![43160](https://img.shields.io/github/stars/synrc/n2o)](https://github.com/synrc/n2o)
+|4|[jackalope](https://hex.pm/packages/jackalope)|0.9.0|2024-09-25|An opinionated MQTT client library based on Tortoise MQTT|59575|[![40350](https://img.shields.io/github/stars/smartrent/jackalope)](https://github.com/smartrent/jackalope)
+|5|[gen_mqtt](https://hex.pm/packages/gen_mqtt)|0.4.0|2019-02-11|An Elixir behaviour that makes it possible to communicate with a MQTT server|50738|[![38081](https://img.shields.io/github/stars/gausby/gen_mqtt)](https://github.com/gausby/gen_mqtt)
+|6|[n2o](https://hex.pm/packages/n2o)|13.4.15|2026-04-14|N2O MQTT TCP WebSocket|39508|[![43160](https://img.shields.io/github/stars/synrc/n2o)](https://github.com/synrc/n2o)
 |7|[off_broadway_mqtt_connect or ](https://hex.pm/packages/off_broadway_mqtt_connector)|0.2.0|2019-08-16|A MQTT connector for Broadway|10571|[![43927](https://img.shields.io/github/stars/kbredemeier/off_broadway_mqtt)](https://github.com/kbredemeier/off_broadway_mqtt)
-|8|[pint_broker](https://hex.pm/packages/pint_broker)|1.0.2|2024-06-23|A simple, pint-sized MQTT broker that can be used for testing and development|7288|[![45101](https://img.shields.io/github/stars/jjcarstens/pint_broker)](https://github.com/jjcarstens/pint_broker)
-|9|[exmqtt](https://hex.pm/packages/exmqtt)|0.1.0|2020-05-01|Elixir MQTT v5.0 Client|2984|[![36431](https://img.shields.io/github/stars/brianbinbin/exmqtt)](https://github.com/brianbinbin/exmqtt)
+|8|[pint_broker](https://hex.pm/packages/pint_broker)|1.0.2|2024-06-23|A simple, pint-sized MQTT broker that can be used for testing and development|7295|[![45101](https://img.shields.io/github/stars/jjcarstens/pint_broker)](https://github.com/jjcarstens/pint_broker)
+|9|[exmqtt](https://hex.pm/packages/exmqtt)|0.1.0|2020-05-01|Elixir MQTT v5.0 Client|2989|[![36431](https://img.shields.io/github/stars/brianbinbin/exmqtt)](https://github.com/brianbinbin/exmqtt)
 |10|[off_broadway_emqtt](https://hex.pm/packages/off_broadway_emqtt)|0.3.0|2026-04-20|An MQTT connector based on emqtt for Broadway.|1905|[![43920](https://img.shields.io/github/stars/Intility/off_broadway_emqtt)](https://github.com/Intility/off_broadway_emqtt)
 |11|[flux_mqtt](https://hex.pm/packages/flux_mqtt)|0.0.4|2020-02-20|An interface to connect to MQTT broker, sending and handling messages.|1833|
-|12|[phoenix_pubsub_vernemq](https://hex.pm/packages/phoenix_pubsub_vernemq)|0.0.3|2015-06-29|The VerneMQ MQTT pubsub adapter for the Phoenix framework|1328|[![44916](https://img.shields.io/github/stars/larshesel/phoenix_pubsub_vernemq)](https://github.com/larshesel/phoenix_pubsub_vernemq)
-|13|[mqttx](https://hex.pm/packages/mqttx)|0.10.0|2026-05-07|Fast, pure Elixir MQTT 5.0 — client, server, and codec in one package|1312|[![43005](https://img.shields.io/github/stars/cignosystems/mqttx)](https://github.com/cignosystems/mqttx)
+|12|[phoenix_pubsub_vernemq](https://hex.pm/packages/phoenix_pubsub_vernemq)|0.0.3|2015-06-29|The VerneMQ MQTT pubsub adapter for the Phoenix framework|1330|[![44916](https://img.shields.io/github/stars/larshesel/phoenix_pubsub_vernemq)](https://github.com/larshesel/phoenix_pubsub_vernemq)
+|13|[mqttx](https://hex.pm/packages/mqttx)|0.10.0|2026-05-07|Fast, pure Elixir MQTT 5.0 — client, server, and codec in one package|1319|[![43005](https://img.shields.io/github/stars/cignosystems/mqttx)](https://github.com/cignosystems/mqttx)
 |14|[mqttc](https://hex.pm/packages/mqttc)|0.2.1|2025-09-23|MQTT v5 Client for Elixir.|952|[![43000](https://img.shields.io/github/stars/narslan/mqttc)](https://github.com/narslan/mqttc)
 |15|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|719|
 |16|[control_packet](https://hex.pm/packages/control_packet)|1.1.1|2024-07-29|MQTT 5 packet decoder and encoder|615|[![33004](https://img.shields.io/github/stars/TimisRobert/control_packet)](https://github.com/TimisRobert/control_packet)
