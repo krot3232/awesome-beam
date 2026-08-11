@@ -1,10 +1,10 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.4|2026-02-24|Kafka protocol library for Erlang/Elixir|1073xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.5.8|2026-08-06|Apache Kafka Erlang client library|1053xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
-|3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|260xxx|
-|4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|121xxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.4|2026-02-24|Kafka protocol library for Erlang/Elixir|1075xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.0|2026-08-10|Apache Kafka Erlang client library|1054xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|261xxx|
+|4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|122xxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|20xxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
 |6|[claws_kafka](https://hex.pm/packages/claws_kafka)|0.4.1|2018-08-08|Kafka Client for Snatch|2xxx|[![32512](https://img.shields.io/github/stars/snatch-xmpp/claws_kafka)](https://github.com/snatch-xmpp/claws_kafka)
 |7|[kafkerl](https://hex.pm/packages/kafkerl)|2.1.0|2016-08-16|Apache Kafka 0.8.2 high performance producer/consumer for erlang.|9xx|[![40678](https://img.shields.io/github/stars/hernanrivasacosta/kafkerl)](https://github.com/hernanrivasacosta/kafkerl)
@@ -14,7 +14,7 @@
 |:-|-|-|-|:-|-|-
 |1|[kayrock](https://hex.pm/packages/kayrock)|1.0.0|2026-04-22|Elixir interface to the Kafka protocol|3723xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3238xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
-|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.5.0|2026-07-23|A Kafka connector for Broadway|284xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
+|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.5.0|2026-07-23|A Kafka connector for Broadway|285xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
 |4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|115xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)
 |5|[elsa](https://hex.pm/packages/elsa)|1.0.0-rc.3|2021-11-22|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod.|303xxx|[![34960](https://img.shields.io/github/stars/bbalser/elsa)](https://github.com/bbalser/elsa)
 |6|[kafka_ex_tc](https://hex.pm/packages/kafka_ex_tc)|0.13.0|2024-08-10|Kafka client for Elixir/Erlang.|87xxx|[![40670](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)

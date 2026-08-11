@@ -1,8 +1,8 @@
 # Erlang Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|390xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
-|2|[protobuffs](https://hex.pm/packages/protobuffs)|0.8.4|2016-07-25|An implementation of Google&#039;s Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.|723xxx|[![45777](https://img.shields.io/github/stars/basho/erlang_protobuffs)](https://github.com/basho/erlang_protobuffs)
+|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|391xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
+|2|[protobuffs](https://hex.pm/packages/protobuffs)|0.8.4|2016-07-25|An implementation of Google&#039;s Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.|724xxx|[![45777](https://img.shields.io/github/stars/basho/erlang_protobuffs)](https://github.com/basho/erlang_protobuffs)
 |3|[riak_pb](https://hex.pm/packages/riak_pb)|2.3.2|2017-03-02|Riak Protocol Buffers Messages|618xxx|[![63347](https://img.shields.io/github/stars/basho/riak_pb)](https://github.com/basho/riak_pb)
 |4|[nextroll_rebar3_gpb_plugi n ](https://hex.pm/packages/nextroll_rebar3_gpb_plugin)|3.0.0|2023-03-15|A rebar3 gpb plugin for compiling .proto files|30xxx|[![43521](https://img.shields.io/github/stars/AdRoll/rebar3_gpb_plugin)](https://github.com/AdRoll/rebar3_gpb_plugin)
 |5|[rebar3_gpb_rpc_plugin](https://hex.pm/packages/rebar3_gpb_rpc_plugin)|1.3.1|2019-07-31|A rebar3 gpb rpc plugin for compiling .proto files|10xxx|[![46372](https://img.shields.io/github/stars/feng19/rebar3_gpb_rpc_plugin)](https://github.com/feng19/rebar3_gpb_rpc_plugin)
@@ -16,4 +16,4 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[protozoa](https://hex.pm/packages/protozoa)|2.0.3|2025-09-17|A Protocol Buffers library for Gleam, providing encoding and decoding of protobuf messages.|1xxx|[![45792](https://img.shields.io/github/stars/renatillas/protozoa)](https://github.com/renatillas/protozoa)
-|2|[protozoa_dev](https://hex.pm/packages/protozoa_dev)|2.0.3|2025-09-17|CLI tool for the Protozoa Protocol Buffers library|9xx|[![45793](https://img.shields.io/github/stars/renatillas/protozoa_dev)](https://github.com/renatillas/protozoa_dev)
+|2|[protozoa_dev](https://hex.pm/packages/protozoa_dev)|2.0.3|2025-09-17|CLI tool for the Protozoa Protocol Buffers library|1xxx|[![45793](https://img.shields.io/github/stars/renatillas/protozoa_dev)](https://github.com/renatillas/protozoa_dev)

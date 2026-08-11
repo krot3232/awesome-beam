@@ -1,7 +1,7 @@
 # Erlang MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.4|2026-07-29|Erlang MQTT v5.0 Client|698xxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.4|2026-07-29|Erlang MQTT v5.0 Client|701xxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
 |2|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|184xxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)
 |3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.3.1|2026-07-10|MQTT v5 packet encoder and decoder|76xxx|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
 |4|[mqtt_sessions](https://hex.pm/packages/mqtt_sessions)|2.8.0|2026-07-10|MQTT v5 Sessions Manager|69xxx|[![43004](https://img.shields.io/github/stars/zotonic/mqtt_sessions)](https://github.com/zotonic/mqtt_sessions)
@@ -16,8 +16,8 @@
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|477xxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
-|2|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|201xxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)
+|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|478xxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
+|2|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|202xxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)
 |3|[hulaaki](https://hex.pm/packages/hulaaki)|0.1.2|2018-02-07|An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).|63xxx|[![39812](https://img.shields.io/github/stars/suvash/hulaaki)](https://github.com/suvash/hulaaki)
 |4|[jackalope](https://hex.pm/packages/jackalope)|0.9.0|2024-09-25|An opinionated MQTT client library based on Tortoise MQTT|60xxx|[![40350](https://img.shields.io/github/stars/smartrent/jackalope)](https://github.com/smartrent/jackalope)
 |5|[gen_mqtt](https://hex.pm/packages/gen_mqtt)|0.4.0|2019-02-11|An Elixir behaviour that makes it possible to communicate with a MQTT server|52xxx|[![38081](https://img.shields.io/github/stars/gausby/gen_mqtt)](https://github.com/gausby/gen_mqtt)

@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|15968xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|15980xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|22xxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -31,15 +31,15 @@
 |16|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|5xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
 |17|[transport](https://hex.pm/packages/transport)|0.1.0|2020-05-08|an abstraction api and helpers for TCP and TLS|4xx|[![66131](https://img.shields.io/github/stars/ityonemo/transport)](https://github.com/ityonemo/transport)
 |18|[nexus](https://hex.pm/packages/nexus)|0.1.0|2018-09-05|A lightweight and functional TCP socket pool acceptor for use with flux.|3xx|[![43523](https://img.shields.io/github/stars/cjfreeze/nexus)](https://github.com/cjfreeze/nexus)
-|19|[ex_vertx](https://hex.pm/packages/ex_vertx)|1.0.0|2019-03-18|Elixir to Vert.x TCP bridge connector.|2xx|[![37117](https://img.shields.io/github/stars/PharosProduction/ExVertx)](https://github.com/PharosProduction/ExVertx)
+|19|[ex_vertx](https://hex.pm/packages/ex_vertx)|1.0.0|2019-03-18|Elixir to Vert.x TCP bridge connector.|3xx|[![37117](https://img.shields.io/github/stars/PharosProduction/ExVertx)](https://github.com/PharosProduction/ExVertx)
 |20|[vowpal_client](https://hex.pm/packages/vowpal_client)|0.1.0|2018-11-16|Vowpal Wabbit (awesome machine learning tool - https://github.com/JohnLangford/vowpal_wabbit/) TCP client to query for training and predicting|2xx|[![66956](https://img.shields.io/github/stars/jackdoe/elixir-vowpal-client)](https://github.com/jackdoe/elixir-vowpal-client)
 |21|[gen_tailscale](https://hex.pm/packages/gen_tailscale)|0.1.1|2025-09-23|Functionality to serve TCP servers directly on your Tailscale network usinglibtailscale.|2xx|[![38124](https://img.shields.io/github/stars/Munksgaard/gen_tailscale)](https://github.com/Munksgaard/gen_tailscale)
-|22|[clickhouse_adapter_ecto](https://hex.pm/packages/clickhouse_adapter_ecto)|0.3.2|2026-08-03|An Ecto adapter for ClickHouse that speaks its native TCP protocol.|1xx|[![6149591](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
+|22|[clickhouse_adapter_ecto](https://hex.pm/packages/clickhouse_adapter_ecto)|0.3.2|2026-08-03|An Ecto adapter for ClickHouse that speaks its native TCP protocol.|2xx|[![6149591](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
 |23|[ch_driver](https://hex.pm/packages/ch_driver)|0.2.0|2026-08-01|DBConnection driver speaking ClickHouse&#039;s native TCP protocol, including its LZ4/CityHash compression NIF and compressed-block wire envelope.|1xx|[![6149393](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|47xxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
+|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|48xxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
 |2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|4xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
 |4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx|

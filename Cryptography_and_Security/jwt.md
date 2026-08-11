@@ -1,18 +1,18 @@
 # Erlang JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[jwerl](https://hex.pm/packages/jwerl)|1.2.0|2022-10-21|JWT Library for Erlang and Elixir|516xxx|
+|1|[jwerl](https://hex.pm/packages/jwerl)|1.2.0|2022-10-21|JWT Library for Erlang and Elixir|517xxx|
 |2|[erljwt](https://hex.pm/packages/erljwt)|2.1.0|2024-02-20|A simple JWT decoding/encoding library|235xxx|[![35260](https://img.shields.io/github/stars/Erlang-Openid/erljwt)](https://github.com/Erlang-Openid/erljwt)
 |3|[jwt](https://hex.pm/packages/jwt)|0.1.11|2021-10-06|Erlang JWT library|193xxx|[![40635](https://img.shields.io/github/stars/artemeff/jwt)](https://github.com/artemeff/jwt)
 |4|[foodog](https://hex.pm/packages/foodog)|0.2.1|2024-02-17|An easy to use JWT library|6xx|
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5688xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5693xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|159xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|366xxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|82xxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
-|5|[kitten_blue](https://hex.pm/packages/kitten_blue)|0.9.2|2025-08-01|KittenBlue is a JOSE wrapper library that makes JWT implementation simpler for Elixir.|62xxx|[![40907](https://img.shields.io/github/stars/ritou/elixir-kitten-blue)](https://github.com/ritou/elixir-kitten-blue)
+|5|[kitten_blue](https://hex.pm/packages/kitten_blue)|0.9.2|2025-08-01|KittenBlue is a JOSE wrapper library that makes JWT implementation simpler for Elixir.|63xxx|[![40907](https://img.shields.io/github/stars/ritou/elixir-kitten-blue)](https://github.com/ritou/elixir-kitten-blue)
 |6|[authex](https://hex.pm/packages/authex)|2.4.0|2025-10-20|Authex is a simple and opinionated JWT authentication and authorization library.|39xxx|[![7776](https://img.shields.io/github/stars/nsweeting/authex)](https://github.com/nsweeting/authex)
 |7|[btrz_ex_auth_api](https://hex.pm/packages/btrz_ex_auth_api)|1.3.0|2024-03-21|Elixir package for authentication handling using Plug and Guardian (JWT)|31xxx|[![31881](https://img.shields.io/github/stars/Betterez/btrz_ex_auth_api)](https://github.com/Betterez/btrz_ex_auth_api)
 |8|[ash_authentication_oauth2 _server ](https://hex.pm/packages/ash_authentication_oauth2_server)|0.3.0|2026-07-29|An OAuth 2.1 authorization server for Ash Framework apps — RFC 7591 dynamicclient registration, PKCE, audience-bound JWTs, refresh-token rotation, anda built-in consent flow on top of ash_authentication + Phoenix.|16xxx|[![3328881](https://img.shields.io/github/stars/ash-project/ash_authentication_oauth2_server)](https://github.com/ash-project/ash_authentication_oauth2_server)
@@ -45,7 +45,7 @@
 # Gleam JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|8xxx|
+|1|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|9xxx|
 |2|[gwt](https://hex.pm/packages/gwt)|2.1.2|2025-08-11|A JWT library written in Gleam|8xxx|[![39287](https://img.shields.io/github/stars/brettkolodny/gwt)](https://github.com/brettkolodny/gwt)
 |3|[ywt_erlang](https://hex.pm/packages/ywt_erlang)|2.0.0|2026-05-29|The ywt package for JWT targeting erlang.|2xxx|
 |4|[gose](https://hex.pm/packages/gose)|2.1.0|2026-04-18|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|2xxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)

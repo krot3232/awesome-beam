@@ -12,7 +12,7 @@
 |1|[nats_streaming](https://hex.pm/packages/nats_streaming)|0.0.3|2026-07-01|BETA support for interacting with a NATS streaming server|4xxx|[![43210](https://img.shields.io/github/stars/mmmries/nats.ex_streaming)](https://github.com/mmmries/nats.ex_streaming)
 |2|[natsex](https://hex.pm/packages/natsex)|0.9.1|2018-12-19|Client for NATS|3xxx|[![43206](https://img.shields.io/github/stars/bersegosx/Natsex)](https://github.com/bersegosx/Natsex)
 |3|[natsio](https://hex.pm/packages/natsio)|0.1.6|2017-12-27|NATS framework for Elixir|1xxx|[![43208](https://img.shields.io/github/stars/nats-io/elixir-nats)](https://github.com/nats-io/elixir-nats)
-|4|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|5xx|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)
+|4|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|6xx|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)
 # Gleam NATS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

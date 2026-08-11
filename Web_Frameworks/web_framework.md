@@ -1,7 +1,7 @@
 # Erlang Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[nova](https://hex.pm/packages/nova)|0.15.3|2026-08-07|Nova is a web application framework|63xxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
+|1|[nova](https://hex.pm/packages/nova)|0.16.0|2026-08-10|Nova is a web application framework|63xxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|55xxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
 |3|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|5xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
 |4|[nitrogen_core](https://hex.pm/packages/nitrogen_core)|3.0.0-alpha.15|2026-07-27|Nitrogen Web Framework Core Library|4xxx|[![43588](https://img.shields.io/github/stars/nitrogen/nitrogen_core)](https://github.com/nitrogen/nitrogen_core)
@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.9|2026-07-07|Productive. Reliable. Fast. A productive web framework thatdoes not compromise speed or maintainability.|15320xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.10|2026-08-10|Peace of mind from prototype to production|15332xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|315xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|822xxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|416xxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -51,7 +51,7 @@
 |32|[gold_needle](https://hex.pm/packages/gold_needle)|0.0.3|2018-06-12|Various web page generator in Phoenix(Elixir Web Framework)|8xx|[![38651](https://img.shields.io/github/stars/piacere-ex/gold_needle)](https://github.com/piacere-ex/gold_needle)
 |33|[spirit](https://hex.pm/packages/spirit)|0.0.1|2015-07-30|Elixir microframework for web development.|6xx|[![64750](https://img.shields.io/github/stars/emancu/spirit)](https://github.com/emancu/spirit)
 |34|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|6xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
-|35|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|5xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
+|35|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
 |36|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|4xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
 |37|[game_server_web](https://hex.pm/packages/game_server_web)|1.0.943|2026-04-24|Web interface for Gamend GameServer, built with Phoenix Framework. Provides APIs, authentication, and real-time features.|3xx|[![37913](https://img.shields.io/github/stars/appsinacup/game_server)](https://github.com/appsinacup/game_server)
 |38|[dialup](https://hex.pm/packages/dialup)|0.2.0|2026-07-03|WebSocket-first Elixir framework with auto-generated HTTP MCP APIs|3xx|[![33775](https://img.shields.io/github/stars/SouichiroTsujimoto/Dialup)](https://github.com/SouichiroTsujimoto/Dialup)
@@ -66,16 +66,16 @@
 |47|[azoth](https://hex.pm/packages/azoth)|0.1.1|2026-04-28|Web Components-first PWA framework for Elixir, powered by WebAssembly.|1xx|[![31079](https://img.shields.io/github/stars/LouisGehle/azoth)](https://github.com/LouisGehle/azoth)
 |48|[datastar_ex](https://hex.pm/packages/datastar_ex)|0.1.0|2025-12-03|An Elixir SDK for the Datastar web framework. Provides server-sent event (SSE)utilities for real-time DOM manipulation, state synchronization, and script execution.|1xx|[![33511](https://img.shields.io/github/stars/Xs-and-10s/datastar_elixir)](https://github.com/Xs-and-10s/datastar_elixir)
 |49|[illuminate](https://hex.pm/packages/illuminate)|0.0.1|2025-08-17|An Elixir Framework for Building Web Applications.|1xx|
-|50|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|9x|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|51|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|9x|
-|52|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|8x|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
+|50|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|9x|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
+|51|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|9x|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|52|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|9x|
 |53|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|8x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |54|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|8x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |55|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|8x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|273xxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
+|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|275xxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
 |2|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|34xxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)
 |3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|5xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
 |4|[tiramisu](https://hex.pm/packages/tiramisu)|8.1.0|2026-03-29|A 3D game framework for building performant web games in Gleam|3xxx|[![65923](https://img.shields.io/github/stars/renatillas/tiramisu)](https://github.com/renatillas/tiramisu)
