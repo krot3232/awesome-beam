@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|15980xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
-|2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|22xxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
+|2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
 |5|[sockerl](https://hex.pm/packages/sockerl)|17.9.10|2017-09-10|Advanced Erlang socket library for TCP protocols and provides fast, useful and simple API for implementing server, client and connection pool.|1xxx|[![64553](https://img.shields.io/github/stars/Pouriya-Jahanbakhsh/sockerl)](https://github.com/Pouriya-Jahanbakhsh/sockerl)
@@ -13,16 +13,16 @@
 # Elixir TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[extreme](https://hex.pm/packages/extreme)|1.1.4|2025-10-09|Elixir TCP client for EventStore.|132xxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)
-|2|[modbus](https://hex.pm/packages/modbus)|0.4.0|2022-02-23|Modbus library with TCP Master &amp; Slave implementation.|126xxx|[![42830](https://img.shields.io/github/stars/samuelventura/modbus)](https://github.com/samuelventura/modbus)
-|3|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|94xxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)
-|4|[modbux](https://hex.pm/packages/modbux)|0.3.14|2025-03-15|Modbus for network and serial communication, this library implements TCP (Client &amp; Server) and RTU (Master &amp; Slave) protocols.|77xxx|[![42832](https://img.shields.io/github/stars/valiot/modbux)](https://github.com/valiot/modbux)
-|5|[n2o](https://hex.pm/packages/n2o)|13.4.15|2026-04-14|N2O MQTT TCP WebSocket|42xxx|[![43160](https://img.shields.io/github/stars/synrc/n2o)](https://github.com/synrc/n2o)
-|6|[acception_client_tcp](https://hex.pm/packages/acception_client_tcp)|0.1.0|2018-11-23|The official Elixir TCP client for the Acception log/error aggregation app.|21xxx|[![100](https://img.shields.io/github/stars/midas/acception)](https://github.com/midas/acception)
-|7|[membrane_tcp_plugin](https://hex.pm/packages/membrane_tcp_plugin)|0.6.1|2026-06-29|Membrane TCP plugin|21xxx|[![42426](https://img.shields.io/github/stars/membraneframework/membrane_tcp_plugin)](https://github.com/membraneframework/membrane_tcp_plugin)
-|8|[ahab](https://hex.pm/packages/ahab)|0.1.1|2016-03-03|A lightweight, low latency TCP acceptor pool for Elixir.|19xxx|
-|9|[logger_logentries_backend](https://hex.pm/packages/logger_logentries_backend)|0.0.1|2015-12-20|A Logger backend to support the Logentries service(logentries.com) TCP input log mechanism|12xxx|[![41662](https://img.shields.io/github/stars/sysdia-solutions/logger_logentries_backend)](https://github.com/sysdia-solutions/logger_logentries_backend)
-|10|[chatter](https://hex.pm/packages/chatter)|0.0.15|2016-06-04|Chatter is extracted from the ScaleSmall project as a standalone piece.This may be used independently to broadcast messages to a set of nodes.It uses a mixture of UDP multicast and TCP to deliver messages and triesto minimize network traffic while doing so.|10xxx|[![32342](https://img.shields.io/github/stars/dbeck/chatter_ex)](https://github.com/dbeck/chatter_ex)
+|1|[extreme](https://hex.pm/packages/extreme)|1.1.4|2025-10-09|Elixir TCP client for EventStore.|13xxxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)
+|2|[modbus](https://hex.pm/packages/modbus)|0.4.0|2022-02-23|Modbus library with TCP Master &amp; Slave implementation.|12xxxx|[![42830](https://img.shields.io/github/stars/samuelventura/modbus)](https://github.com/samuelventura/modbus)
+|3|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|9xxxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)
+|4|[modbux](https://hex.pm/packages/modbux)|0.3.14|2025-03-15|Modbus for network and serial communication, this library implements TCP (Client &amp; Server) and RTU (Master &amp; Slave) protocols.|7xxxx|[![42832](https://img.shields.io/github/stars/valiot/modbux)](https://github.com/valiot/modbux)
+|5|[n2o](https://hex.pm/packages/n2o)|13.4.15|2026-04-14|N2O MQTT TCP WebSocket|4xxxx|[![43160](https://img.shields.io/github/stars/synrc/n2o)](https://github.com/synrc/n2o)
+|6|[acception_client_tcp](https://hex.pm/packages/acception_client_tcp)|0.1.0|2018-11-23|The official Elixir TCP client for the Acception log/error aggregation app.|2xxxx|[![100](https://img.shields.io/github/stars/midas/acception)](https://github.com/midas/acception)
+|7|[membrane_tcp_plugin](https://hex.pm/packages/membrane_tcp_plugin)|0.6.1|2026-06-29|Membrane TCP plugin|2xxxx|[![42426](https://img.shields.io/github/stars/membraneframework/membrane_tcp_plugin)](https://github.com/membraneframework/membrane_tcp_plugin)
+|8|[ahab](https://hex.pm/packages/ahab)|0.1.1|2016-03-03|A lightweight, low latency TCP acceptor pool for Elixir.|1xxxx|
+|9|[logger_logentries_backend](https://hex.pm/packages/logger_logentries_backend)|0.0.1|2015-12-20|A Logger backend to support the Logentries service(logentries.com) TCP input log mechanism|1xxxx|[![41662](https://img.shields.io/github/stars/sysdia-solutions/logger_logentries_backend)](https://github.com/sysdia-solutions/logger_logentries_backend)
+|10|[chatter](https://hex.pm/packages/chatter)|0.0.15|2016-06-04|Chatter is extracted from the ScaleSmall project as a standalone piece.This may be used independently to broadcast messages to a set of nodes.It uses a mixture of UDP multicast and TCP to deliver messages and triesto minimize network traffic while doing so.|1xxxx|[![32342](https://img.shields.io/github/stars/dbeck/chatter_ex)](https://github.com/dbeck/chatter_ex)
 |11|[modbus_tcp_server](https://hex.pm/packages/modbus_tcp_server)|1.1.0|2017-01-09|A Modbus TCP Server Implementation|1xxx|
 |12|[modbuzz](https://hex.pm/packages/modbuzz)|0.3.0|2026-06-13|Yet another MODBUS library, supporting both TCP and RTU, providing gateway functionality.|1xxx|[![42833](https://img.shields.io/github/stars/tombo-works/modbuzz)](https://github.com/tombo-works/modbuzz)
 |13|[compound](https://hex.pm/packages/compound)|0.2.0|2018-06-29|Compound is a minimalistic TCP Server written in Elixir|8xx|[![32854](https://img.shields.io/github/stars/lvlick/Compound)](https://github.com/lvlick/Compound)
@@ -39,7 +39,7 @@
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|48xxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
+|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|4xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
 |2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|4xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
 |4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx|

@@ -1,7 +1,7 @@
 # Elixir NLP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[corenlp](https://hex.pm/packages/corenlp)|0.1.2|2019-02-15|This package provides a client interface to a Stanford CoreNLP Server for natural language processing (NLP) of textual content.|66xxx|[![33037](https://img.shields.io/github/stars/arpieb/corenlp)](https://github.com/arpieb/corenlp)
+|1|[corenlp](https://hex.pm/packages/corenlp)|0.1.2|2019-02-15|This package provides a client interface to a Stanford CoreNLP Server for natural language processing (NLP) of textual content.|6xxxx|[![33037](https://img.shields.io/github/stars/arpieb/corenlp)](https://github.com/arpieb/corenlp)
 |2|[penelope](https://hex.pm/packages/penelope)|0.5.0|2020-05-20|Natural Language Processing (NLP) and Machine Learning (ML) library forElixir.|6xxx|[![44624](https://img.shields.io/github/stars/pylon/penelope)](https://github.com/pylon/penelope)
 |3|[verbnet](https://hex.pm/packages/verbnet)|0.3.1|2019-02-15|This module provides a lookup interface into the VerbNet semantic mapping dataset for natural language processing (NLP) solutions.|1xxx|[![66828](https://img.shields.io/github/stars/arpieb/verbnet)](https://github.com/arpieb/verbnet)
 |4|[textgain](https://hex.pm/packages/textgain)|0.1.4|2019-02-20|This module provides access to the various natural language processing (NLP) text analytics services provided by Textgain.|1xxx|[![65752](https://img.shields.io/github/stars/arpieb/textgain)](https://github.com/arpieb/textgain)
