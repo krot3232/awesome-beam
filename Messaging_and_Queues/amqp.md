@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2135xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2137xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|207xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -15,8 +15,8 @@
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp](https://hex.pm/packages/amqp)|4.1.1|2026-06-14|Idiomatic Elixir client for RabbitMQ.|1697xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
-|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|340xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
+|1|[amqp](https://hex.pm/packages/amqp)|4.1.1|2026-06-14|Idiomatic Elixir client for RabbitMQ.|1699xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
+|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|341xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
 |3|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|104xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)
 |4|[gen_rmq](https://hex.pm/packages/gen_rmq)|4.0.0|2022-03-16|Set of behaviours meant to be used to create RabbitMQ consumers and publishers.|53xxxx|[![38104](https://img.shields.io/github/stars/meltwater/gen_rmq)](https://github.com/meltwater/gen_rmq)
 |5|[rabbit](https://hex.pm/packages/rabbit)|0.21.0|2024-12-13|A set of tools for building robust applications with RabbitMQ.|31xxxx|[![46052](https://img.shields.io/github/stars/nsweeting/rabbit)](https://github.com/nsweeting/rabbit)
@@ -44,8 +44,8 @@
 |27|[carrot](https://hex.pm/packages/carrot)|1.1.0|2018-07-09|AMQP connection manager|1xxxx|[![32160](https://img.shields.io/github/stars/bleacherreport/carrot)](https://github.com/bleacherreport/carrot)
 |28|[peluquero](https://hex.pm/packages/peluquero)|0.99.43|2020-11-03|RabbitMQ middleware to plug into exchange chain to transform data.Peluquero is reading all the configured source exchanges, transforms and publishes to all destination exchanges.Transformers might be added in runtime using Peluquero.handler!/1.|1xxxx|[![44622](https://img.shields.io/github/stars/am-kantox/peluquero)](https://github.com/am-kantox/peluquero)
 |29|[current_rabbit_pool](https://hex.pm/packages/current_rabbit_pool)|1.1.1|2024-10-23|Forked RabbitMQ connection pool library|1xxxx|[![33388](https://img.shields.io/github/stars/secomind/current_rabbit_pool)](https://github.com/secomind/current_rabbit_pool)
-|30|[fireworks](https://hex.pm/packages/fireworks)|0.7.0|2018-03-02|Simple elixir work queue consumption for RabbitMQ|1xxxx|[![37508](https://img.shields.io/github/stars/livehelpnow/fireworks)](https://github.com/livehelpnow/fireworks)
-|31|[off_broadway_amqp10](https://hex.pm/packages/off_broadway_amqp10)|0.2.0|2025-03-10|An AMQP 1.0 connector for Broadway|1xxxx|[![43916](https://img.shields.io/github/stars/highmobility/off_broadway_amqp10)](https://github.com/highmobility/off_broadway_amqp10)
+|30|[off_broadway_amqp10](https://hex.pm/packages/off_broadway_amqp10)|0.2.0|2025-03-10|An AMQP 1.0 connector for Broadway|1xxxx|[![43916](https://img.shields.io/github/stars/highmobility/off_broadway_amqp10)](https://github.com/highmobility/off_broadway_amqp10)
+|31|[fireworks](https://hex.pm/packages/fireworks)|0.7.0|2018-03-02|Simple elixir work queue consumption for RabbitMQ|1xxxx|[![37508](https://img.shields.io/github/stars/livehelpnow/fireworks)](https://github.com/livehelpnow/fireworks)
 |32|[channels](https://hex.pm/packages/channels)|0.0.6|2016-09-06|An application to manage AMQP consumers and publishers.|8xxx|[![32305](https://img.shields.io/github/stars/jcabotc/channels)](https://github.com/jcabotc/channels)
 |33|[rabbit_hutch](https://hex.pm/packages/rabbit_hutch)|1.0.0|2021-05-03|Managed RabbitMQ channels with auto-reconnect and backoff|8xxx|[![46056](https://img.shields.io/github/stars/zenneriot/rabbit_hutch)](https://github.com/zenneriot/rabbit_hutch)
 |34|[carguero_task_bunny](https://hex.pm/packages/carguero_task_bunny)|0.0.8|2020-12-16|Background processing application/library written in Elixir that uses RabbitMQ as a messaging backend|7xxx|
@@ -61,8 +61,8 @@
 |44|[spotter](https://hex.pm/packages/spotter)|0.6.1|2019-08-08|Package for implementing AMQP workers and middlewares|3xxx|[![64778](https://img.shields.io/github/stars/OpenMatchmaking/spotter)](https://github.com/OpenMatchmaking/spotter)
 |45|[salemove_hare](https://hex.pm/packages/salemove_hare)|0.2.2|2017-08-29|Some abstractions to interact with a AMQP broker (SaleMove fork)|3xxx|
 |46|[rabbitmq_stream](https://hex.pm/packages/rabbitmq_stream)|0.4.2|2025-09-30|Elixir Client for RabbitMQ Streams Protocol|3xxx|[![46063](https://img.shields.io/github/stars/VictorGaiva/rabbitmq-stream)](https://github.com/VictorGaiva/rabbitmq-stream)
-|47|[rogger](https://hex.pm/packages/rogger)|0.1.0|2015-05-11|Elixir logger to publish log messages in RabbitMQ.|2xxx|[![63432](https://img.shields.io/github/stars/duartejc/rogger)](https://github.com/duartejc/rogger)
-|48|[ex_rabbitmq_admin](https://hex.pm/packages/ex_rabbitmq_admin)|0.3.0|2026-07-14|A Http client library for RabbitMQ Web API|2xxx|[![36706](https://img.shields.io/github/stars/Intility/ex_rabbitmq_admin)](https://github.com/Intility/ex_rabbitmq_admin)
+|47|[ex_rabbitmq_admin](https://hex.pm/packages/ex_rabbitmq_admin)|0.3.1|2026-08-11|A Http client library for RabbitMQ Web API|2xxx|[![36706](https://img.shields.io/github/stars/Intility/ex_rabbitmq_admin)](https://github.com/Intility/ex_rabbitmq_admin)
+|48|[rogger](https://hex.pm/packages/rogger)|0.1.0|2015-05-11|Elixir logger to publish log messages in RabbitMQ.|2xxx|[![63432](https://img.shields.io/github/stars/duartejc/rogger)](https://github.com/duartejc/rogger)
 |49|[rabbitmq_sender](https://hex.pm/packages/rabbitmq_sender)|0.1.8|2018-02-21|This is a GenServer-ish implementation RabbitMQ Sender.|2xxx|
 |50|[logger_amqp_backend](https://hex.pm/packages/logger_amqp_backend)|0.1.7|2023-05-22|Elixir Logger backend to send logs to an AMQP broker (eg: RabbitMQ)|1xxx|[![41632](https://img.shields.io/github/stars/denvera/logger_amqp_backend)](https://github.com/denvera/logger_amqp_backend)
 |51|[flux_amqp](https://hex.pm/packages/flux_amqp)|0.0.5|2020-02-20|AMQP Interface for message consumption and delivery.|1xxx|

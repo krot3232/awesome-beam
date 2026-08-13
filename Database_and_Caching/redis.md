@@ -1,8 +1,8 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1535xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
-|2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|134xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1537xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|135xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|2.6.2|2022-04-19|Erlang Redis Client|6xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
 |5|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
@@ -17,10 +17,10 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.6.0|2026-07-06|Fast, pipelined, resilient Redis driver for Elixir.|4486xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
-|2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2313xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
+|1|[redix](https://hex.pm/packages/redix)|1.6.0|2026-07-06|Fast, pipelined, resilient Redis driver for Elixir.|4489xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2314xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|336xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
-|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|189xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
+|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|190xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
 |5|[exredis](https://hex.pm/packages/exredis)|0.3.0|2019-07-31|Redis client for Elixir|131xxxx|[![36725](https://img.shields.io/github/stars/artemeff/exredis)](https://github.com/artemeff/exredis)
 |6|[verk](https://hex.pm/packages/verk)|1.7.3|2021-09-14|Verk is a job processing system backed by Redis.|90xxxx|[![66839](https://img.shields.io/github/stars/edgurgel/verk)](https://github.com/edgurgel/verk)
 |7|[redis_mutex](https://hex.pm/packages/redis_mutex)|1.1.0|2024-10-01|RedisMutex is a library for creating a Redis lock for a single Redis instance|57xxxx|[![63024](https://img.shields.io/github/stars/podium/redis_mutex)](https://github.com/podium/redis_mutex)
@@ -56,7 +56,7 @@
 |37|[relocker](https://hex.pm/packages/relocker)|0.0.8|2016-03-24|A library for holding a lock in Redis.|8xxx|[![63118](https://img.shields.io/github/stars/grandCru/relocker)](https://github.com/grandCru/relocker)
 |38|[redix_cluster](https://hex.pm/packages/redix_cluster)|0.0.2|2019-04-13|A wrapper for redix to support cluster mode of redis|8xxx|[![63036](https://img.shields.io/github/stars/tinglei8/redix-cluster)](https://github.com/tinglei8/redix-cluster)
 |39|[autocompletex](https://hex.pm/packages/autocompletex)|0.1.3|2017-05-23|Autocompletex is a low-latency plug and play autocomplete tool using Redis sorted set.|6xxx|[![30992](https://img.shields.io/github/stars/rickyhan/autocompletex)](https://github.com/rickyhan/autocompletex)
-|40|[bullmq](https://hex.pm/packages/bullmq)|2.0.3|2026-08-02|A powerful, fast, and robust job queue for Elixir backed by Redis|6xxx|[![31925](https://img.shields.io/github/stars/taskforcesh/bullmq)](https://github.com/taskforcesh/bullmq)
+|40|[bullmq](https://hex.pm/packages/bullmq)|2.1.0|2026-08-12|A powerful, fast, and robust job queue for Elixir backed by Redis|6xxx|[![31925](https://img.shields.io/github/stars/taskforcesh/bullmq)](https://github.com/taskforcesh/bullmq)
 |41|[rediscl](https://hex.pm/packages/rediscl)|1.0.0|2022-06-14|A minimal redis client with connection pooling|5xxx|[![63014](https://img.shields.io/github/stars/akdilsiz/elixir-rediscl)](https://github.com/akdilsiz/elixir-rediscl)
 |42|[brink](https://hex.pm/packages/brink)|0.1.3|2018-11-24|Elixir GenStage front-end for Redis Streams|5xxx|[![31817](https://img.shields.io/github/stars/spawnfest/team-brb)](https://github.com/spawnfest/team-brb)
 |43|[authex_blacklist_redis](https://hex.pm/packages/authex_blacklist_redis)|0.1.2|2018-02-25|A simple library for using redis as the token blacklist storage with Authex.|5xxx|[![7777](https://img.shields.io/github/stars/nsweeting/authex_blacklist_redis)](https://github.com/nsweeting/authex_blacklist_redis)

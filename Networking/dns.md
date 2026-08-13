@@ -3,7 +3,7 @@
 |:-|-|-|-|:-|-|-
 |1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.17|2026-07-30|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
 |2|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)
-|3|[erldns](https://hex.pm/packages/erldns)|11.2.0|2026-08-04|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
+|3|[erldns](https://hex.pm/packages/erldns)|11.2.1|2026-08-11|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
 |4|[mdns_client](https://hex.pm/packages/mdns_client)|0.1.10|2017-10-25|mDNS service discovery client|6xxx|[![42242](https://img.shields.io/github/stars/Licenser/erlang-mdns-client)](https://github.com/Licenser/erlang-mdns-client)
 |5|[macula_mdns](https://hex.pm/packages/macula_mdns)|0.1.0|2025-12-24|Multicast DNS (mDNS/Zeroconf/Bonjour) for Erlang/OTP|4xxx|[![41876](https://img.shields.io/github/stars/macula-io/macula-mdns)](https://github.com/macula-io/macula-mdns)
 |6|[mdns_server](https://hex.pm/packages/mdns_server)|0.2.0|2015-07-26|mDNS service discovery server|2xxx|[![42245](https://img.shields.io/github/stars/Licenser/erlang-mdns-server)](https://github.com/Licenser/erlang-mdns-server)
@@ -12,7 +12,7 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.2.0|2025-03-04|Simple DNS clustering for distributed Elixir nodes|731xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.2.0|2025-03-04|Simple DNS clustering for distributed Elixir nodes|735xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|142xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|67xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-05-25|A simple, no frills mDNS implementation in Elixir|39xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
@@ -41,8 +41,8 @@
 |27|[inetnet_mapper](https://hex.pm/packages/inetnet_mapper)|0.2.0|2025-03-06|A tool to map IPs, perform HTTP requests, and do reverse DNS lookups|2xx|
 |28|[raven_integration_dns](https://hex.pm/packages/raven_integration_dns)|0.3.3|2026-07-24|DNS resolution monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Dns.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |29|[palisade](https://hex.pm/packages/palisade)|0.1.0|2026-05-12|Shared trust-boundary primitives for CarverAutomation services(currently CRM + ServiceRadar). Outbound URL / network addresspolicy (SSRF defense), HTTP fetch with resolved-IP binding todefeat DNS rebinding, and — in later versions — OIDC + SAMLprimitives needed to make federated identity safe.|1xx|
-|30|[dnsrobot](https://hex.pm/packages/dnsrobot)|0.1.0|2026-03-13|Official Elixir client for DNS Robot (dnsrobot.net) — DNS lookups, WHOIS, SSL checks, SPF/DKIM/DMARC validation, and more.|9x|[![33955](https://img.shields.io/github/stars/dnsrobot/dnsrobot-elixir)](https://github.com/dnsrobot/dnsrobot-elixir)
-|31|[defdo_ddns](https://hex.pm/packages/defdo_ddns)|0.5.1|2026-08-07|Cloudflare DDNS updater for A/AAAA/CNAME records with proxy-aware synchronization.|9x|[![5949451](https://img.shields.io/github/stars/defdo-dev/defdo_ddns)](https://github.com/defdo-dev/defdo_ddns)
+|30|[defdo_ddns](https://hex.pm/packages/defdo_ddns)|0.5.1|2026-08-07|Cloudflare DDNS updater for A/AAAA/CNAME records with proxy-aware synchronization.|9x|[![5949451](https://img.shields.io/github/stars/defdo-dev/defdo_ddns)](https://github.com/defdo-dev/defdo_ddns)
+|31|[dnsrobot](https://hex.pm/packages/dnsrobot)|0.1.0|2026-03-13|Official Elixir client for DNS Robot (dnsrobot.net) — DNS lookups, WHOIS, SSL checks, SPF/DKIM/DMARC validation, and more.|9x|[![33955](https://img.shields.io/github/stars/dnsrobot/dnsrobot-elixir)](https://github.com/dnsrobot/dnsrobot-elixir)
 # Gleam DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

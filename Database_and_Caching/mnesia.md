@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|347xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|348xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|4xx|
@@ -37,8 +37,8 @@
 |25|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|3xx|
 |26|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|3xx|
 |27|[mnesia_ex](https://hex.pm/packages/mnesia_ex)|0.2.0|2025-10-21|A functional, monadic wrapper for Mnesia built with category theory principles.Features: auto-increment counters, TTL with automatic cleanup, backup/restore,real-time events, and a clean CRUD API. Pure functional programming throughout.|3xx|[![42787](https://img.shields.io/github/stars/AR3ON/mnesia_ex)](https://github.com/AR3ON/mnesia_ex)
-|28|[mnesiaex](https://hex.pm/packages/mnesiaex)|0.1.0|2021-07-23|Elixir ecto 3 adapter for mnesia.|2xx|[![42786](https://img.shields.io/github/stars/beardedeagle/mnesiaex)](https://github.com/beardedeagle/mnesiaex)
-|29|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|2xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
+|28|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|2xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
+|29|[mnesiaex](https://hex.pm/packages/mnesiaex)|0.1.0|2021-07-23|Elixir ecto 3 adapter for mnesia.|2xx|[![42786](https://img.shields.io/github/stars/beardedeagle/mnesiaex)](https://github.com/beardedeagle/mnesiaex)
 |30|[nebulex_mnesia_adapter](https://hex.pm/packages/nebulex_mnesia_adapter)|2.6.5|2025-10-03|Nebulex adapter for Mnesia|2xx|[![43256](https://img.shields.io/github/stars/amco/nebulex-mnesia-adapter)](https://github.com/amco/nebulex-mnesia-adapter)
 |31|[otplabs](https://hex.pm/packages/otplabs)|0.1.0|2022-08-19|Otplabs-lib provides Horde and Mnesia Supervisor, Horde Registry and NodeObserver that loads nodes dynamicallywhen they start. Those recives notitication when a node up and down and update Horde and mnesia cluster.|2xx|[![44301](https://img.shields.io/github/stars/pahagon/otp-labs)](https://github.com/pahagon/otp-labs)
 |32|[recall](https://hex.pm/packages/recall)|0.1.0|2026-06-16|An Ecto 3 adapter for Mnesia — memory, recollected.|1xx|

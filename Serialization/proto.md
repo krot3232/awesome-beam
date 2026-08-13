@@ -9,7 +9,7 @@
 # Elixir Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[protox](https://hex.pm/packages/protox)|2.0.9|2026-06-04|A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)|192xxxx|[![45791](https://img.shields.io/github/stars/ahamez/protox)](https://github.com/ahamez/protox)
+|1|[protox](https://hex.pm/packages/protox)|2.0.9|2026-06-04|A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)|193xxxx|[![45791](https://img.shields.io/github/stars/ahamez/protox)](https://github.com/ahamez/protox)
 |2|[astarte_rpc](https://hex.pm/packages/astarte_rpc)|1.2.2|2026-04-24|Astarte platform shared Protocol Buffers .proto files and Elixir AMQP client code.This component is one of the core components and basically is required to allow communication between different Astarte blocks.|15xxxx|[![7692](https://img.shields.io/github/stars/astarte-platform/astarte_rpc)](https://github.com/astarte-platform/astarte_rpc)
 |3|[protein](https://hex.pm/packages/protein)|0.20.0|2020-01-08|Multi-platform remote procedure call (RPC) system based on Protocol Buffers|5xxxx|[![45772](https://img.shields.io/github/stars/surgeventures/protein-elixir)](https://github.com/surgeventures/protein-elixir)
 # Gleam Protocol Buffers

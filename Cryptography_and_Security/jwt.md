@@ -8,7 +8,7 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5693xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5698xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|159xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|36xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
@@ -22,8 +22,8 @@
 |12|[express](https://hex.pm/packages/express)|1.3.3|2017-12-12|Library for sending push notifications.Supports Apple APNS (with either ssl certificate or JWT) and Google FCM services.|6xxx|[![36657](https://img.shields.io/github/stars/madeinussr/express)](https://github.com/madeinussr/express)
 |13|[no_way_jose](https://hex.pm/packages/no_way_jose)|1.0.2|2026-02-05|Rust NIF for signing and verifying JWTs with JWKS support|6xxx|[![43735](https://img.shields.io/github/stars/scrogson/no-way-jose)](https://github.com/scrogson/no-way-jose)
 |14|[apiac_auth_client_jwt](https://hex.pm/packages/apiac_auth_client_jwt)|1.2.0|2020-07-24|APIac Elixir plug that implements RFC7523 client JWT authentication|5xxx|[![7367](https://img.shields.io/github/stars/tanguilp/apiac_auth_client_jwt)](https://github.com/tanguilp/apiac_auth_client_jwt)
-|15|[hr](https://hex.pm/packages/hr)|0.2.2|2015-10-28|User accounts for Phoenix. Supports OAuth, JWT and forms out of the box|3xxx|[![39699](https://img.shields.io/github/stars/zensavona/hr)](https://github.com/zensavona/hr)
-|16|[pushx](https://hex.pm/packages/pushx)|0.11.0|2026-05-07|Modern push notifications for Elixir. Supports Apple APNS and Google FCMwith HTTP/2, JWT authentication, and a clean unified API.|3xxx|[![45886](https://img.shields.io/github/stars/cignosystems/pushx)](https://github.com/cignosystems/pushx)
+|15|[pushx](https://hex.pm/packages/pushx)|0.11.0|2026-05-07|Modern push notifications for Elixir. Supports Apple APNS and Google FCMwith HTTP/2, JWT authentication, and a clean unified API.|3xxx|[![45886](https://img.shields.io/github/stars/cignosystems/pushx)](https://github.com/cignosystems/pushx)
+|16|[hr](https://hex.pm/packages/hr)|0.2.2|2015-10-28|User accounts for Phoenix. Supports OAuth, JWT and forms out of the box|3xxx|[![39699](https://img.shields.io/github/stars/zensavona/hr)](https://github.com/zensavona/hr)
 |17|[jwt_test_utils](https://hex.pm/packages/jwt_test_utils)|0.2.0|2018-05-29|Test utils for app based JWT authentication|2xxx|
 |18|[id_token](https://hex.pm/packages/id_token)|0.2.1|2022-07-02|ID Token JWT Verifier|2xxx|[![39953](https://img.shields.io/github/stars/Joe-noh/id_token)](https://github.com/Joe-noh/id_token)
 |19|[prx_auth](https://hex.pm/packages/prx_auth)|0.3.0|2020-09-08|Plug to verify PRX-issued JWT|2xxx|[![45812](https://img.shields.io/github/stars/PRX/prx_auth-elixir)](https://github.com/PRX/prx_auth-elixir)

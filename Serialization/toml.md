@@ -5,7 +5,7 @@
 # Elixir TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|684xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
+|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|686xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
 |2|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.1.0|2026-02-15|Modern TOML parser and encoder for Elixir with protocol-based struct support|3xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)
 # Gleam TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

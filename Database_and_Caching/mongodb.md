@@ -7,7 +7,7 @@
 # Elixir MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.4|2026-07-24|The MongoDB driver for Elixir|116xxxx|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
+|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.4|2026-07-24|The MongoDB driver for Elixir|117xxxx|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
 |2|[mongodb](https://hex.pm/packages/mongodb)|1.0.1|2025-03-12|MongoDB driver for Elixir|87xxxx|[![42901](https://img.shields.io/github/stars/elixir-mongo/mongodb)](https://github.com/elixir-mongo/mongodb)
 |3|[mongodb_ecto](https://hex.pm/packages/mongodb_ecto)|2.1.1|2025-03-12|MongoDB adapter for Ecto|13xxxx|[![42904](https://img.shields.io/github/stars/elixir-mongo/mongodb_ecto)](https://github.com/elixir-mongo/mongodb_ecto)
 |4|[opentelemetry_mongodb_dri ver ](https://hex.pm/packages/opentelemetry_mongodb_driver)|0.1.0|2023-08-23|Trace MongoDB queries with OpenTelemetry.|3xxxx|[![44167](https://img.shields.io/github/stars/open-telemetry/opentelemetry-erlang-contrib)](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
