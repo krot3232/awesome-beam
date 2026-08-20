@@ -7,16 +7,16 @@
 |4|[cloudi_service_udp](https://hex.pm/packages/cloudi_service_udp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework UDP Service|8xxx|[![32637](https://img.shields.io/github/stars/CloudI/cloudi_service_udp)](https://github.com/CloudI/cloudi_service_udp)
 |5|[my_esockd](https://hex.pm/packages/my_esockd)|5.9.4|2022-08-09|General Non-blocking TCP/SSL and UDP/DTLS Server|1xxx|[![43136](https://img.shields.io/github/stars/emqx/esockd)](https://github.com/emqx/esockd)
 |6|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|5xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
-|7|[enet](https://hex.pm/packages/enet)|1.0.0|2024-10-23|ENet - Reliable UDP networking library|2xx|[![35054](https://img.shields.io/github/stars/saltysystems/enet)](https://github.com/saltysystems/enet)
+|7|[enet](https://hex.pm/packages/enet)|1.0.0|2024-10-23|ENet - Reliable UDP networking library|3xx|[![35054](https://img.shields.io/github/stars/saltysystems/enet)](https://github.com/saltysystems/enet)
 |8|[myesockd](https://hex.pm/packages/myesockd)|5.9.4|2022-08-09|General Non-blocking TCP/SSL and UDP/DTLS Server|2xx|[![43135](https://img.shields.io/github/stars/edsonhuang/esockd)](https://github.com/edsonhuang/esockd)
-|9|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|2xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
-|10|[graylog_logger](https://hex.pm/packages/graylog_logger)|1.0.1|2025-11-16|OTP logger backend that sends log events to Graylog via GELF UDP input.|2xx|[![39121](https://img.shields.io/github/stars/silviucpp/graylog_logger)](https://github.com/silviucpp/graylog_logger)
+|9|[graylog_logger](https://hex.pm/packages/graylog_logger)|1.0.1|2025-11-16|OTP logger backend that sends log events to Graylog via GELF UDP input.|2xx|[![39121](https://img.shields.io/github/stars/silviucpp/graylog_logger)](https://github.com/silviucpp/graylog_logger)
+|10|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|2xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
 |11|[inet_free_port](https://hex.pm/packages/inet_free_port)|0.2.0|2026-04-19|Erlang library for finding free TCP/UDP ports within a specified range|1xx|[![40072](https://img.shields.io/github/stars/krot3232/inet_free_port)](https://github.com/krot3232/inet_free_port)
 |12|[masque](https://hex.pm/packages/masque)|0.7.0|2026-06-12|MASQUE: Proxying UDP in HTTP (RFC 9298) for Erlang|9x|[![4064692](https://img.shields.io/github/stars/benoitc/erlang_masque)](https://github.com/benoitc/erlang_masque)
 # Elixir UDP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|67xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
+|1|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |2|[logger_logstash_backend](https://hex.pm/packages/logger_logstash_backend)|5.0.0|2017-11-04|Logstash UDP producer backend for Logger.|32xxxx|[![41666](https://img.shields.io/github/stars/marcelog/logger_logstash_backend)](https://github.com/marcelog/logger_logstash_backend)
 |3|[abyss](https://hex.pm/packages/abyss)|0.5.0|2025-10-14|Abyss is a pure Elixir UDP server|15xxxx|[![95](https://img.shields.io/github/stars/gsmlg-dev/abyss)](https://github.com/gsmlg-dev/abyss)
 |4|[riemannx](https://hex.pm/packages/riemannx)|4.2.0|2020-04-02|A riemann client for elixir with UDP/TCP/TLS support.|10xxxx|[![63354](https://img.shields.io/github/stars/hazardfn/riemannx)](https://github.com/hazardfn/riemannx)
@@ -38,6 +38,6 @@
 # Gleam UDP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|9xx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)
-|2|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|8xx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)
+|1|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|1xxx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)
+|2|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|9xx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)
 |3|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|6xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)

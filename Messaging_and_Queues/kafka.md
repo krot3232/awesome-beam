@@ -1,8 +1,8 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.4|2026-02-24|Kafka protocol library for Erlang/Elixir|1077xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.0|2026-08-10|Apache Kafka Erlang client library|1056xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1081xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.2|2026-08-19|Apache Kafka Erlang client library|1061xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|26xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -12,9 +12,9 @@
 # Elixir Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.0|2026-04-22|Elixir interface to the Kafka protocol|3723xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
-|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3239xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
-|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.5.0|2026-07-23|A Kafka connector for Broadway|285xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
+|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.0|2026-04-22|Elixir interface to the Kafka protocol|3724xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
+|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3240xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
+|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.5.0|2026-07-23|A Kafka connector for Broadway|286xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
 |4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|115xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)
 |5|[elsa](https://hex.pm/packages/elsa)|1.0.0-rc.3|2021-11-22|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod.|30xxxx|[![34960](https://img.shields.io/github/stars/bbalser/elsa)](https://github.com/bbalser/elsa)
 |6|[kafka_ex_tc](https://hex.pm/packages/kafka_ex_tc)|0.13.0|2024-08-10|Kafka client for Elixir/Erlang.|8xxxx|[![40670](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
@@ -24,7 +24,7 @@
 |10|[kafka_msk_auth](https://hex.pm/packages/kafka_msk_auth)|0.1.0|2024-07-31|Kafka Auth library for AWS MSK|1xxxx|[![40676](https://img.shields.io/github/stars/halfdan/kafka_msk_auth)](https://github.com/halfdan/kafka_msk_auth)
 |11|[taskafka](https://hex.pm/packages/taskafka)|0.1.1|2019-03-14|TasKafka is a background processing application written in Elixir and uses Kafka as a messaging backend.|7xxx|[![65460](https://img.shields.io/github/stars/edenlabllc/taskafka)](https://github.com/edenlabllc/taskafka)
 |12|[ex_kafka_logger](https://hex.pm/packages/ex_kafka_logger)|3.1.0|2018-02-01|Elixir logger that serializes to JSON and publish it to Apache Kafka|7xxx|[![36272](https://img.shields.io/github/stars/jeffhsta/ExKafkaLogger)](https://github.com/jeffhsta/ExKafkaLogger)
-|13|[elsa_fi](https://hex.pm/packages/elsa_fi)|3.6.0|2026-08-05|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod. (Simpli.fi fork)|6xxx|[![34961](https://img.shields.io/github/stars/simplifi/elsa_fi)](https://github.com/simplifi/elsa_fi)
+|13|[elsa_fi](https://hex.pm/packages/elsa_fi)|3.6.0|2026-08-05|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod. (Simpli.fi fork)|7xxx|[![34961](https://img.shields.io/github/stars/simplifi/elsa_fi)](https://github.com/simplifi/elsa_fi)
 |14|[klife_protocol](https://hex.pm/packages/klife_protocol)|1.0.1|2026-07-12|An Elixir implementation of the Kafka protocol. It enables communication with Kafka brokers using standard Elixir data structures without the need for manual serialization.|6xxx|[![40917](https://img.shields.io/github/stars/oliveigah/klife_protocol)](https://github.com/oliveigah/klife_protocol)
 |15|[csh2fjhyll_kvasir](https://hex.pm/packages/csh2fjhyll_kvasir)|0.0.18|2022-11-25|Opinionated Kafka library.|5xxx|[![33292](https://img.shields.io/github/stars/IanLuites/kvasir)](https://github.com/IanLuites/kvasir)
 |16|[kafka_impl](https://hex.pm/packages/kafka_impl)|0.5.0|2017-10-16|A wrapper around KafkaEx so you can mock it in test.|5xxx|[![40673](https://img.shields.io/github/stars/avvo/kafka_impl)](https://github.com/avvo/kafka_impl)

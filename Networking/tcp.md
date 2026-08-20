@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|15994xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16030xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -18,8 +18,8 @@
 |3|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|9xxxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)
 |4|[modbux](https://hex.pm/packages/modbux)|0.3.14|2025-03-15|Modbus for network and serial communication, this library implements TCP (Client &amp; Server) and RTU (Master &amp; Slave) protocols.|7xxxx|[![42832](https://img.shields.io/github/stars/valiot/modbux)](https://github.com/valiot/modbux)
 |5|[n2o](https://hex.pm/packages/n2o)|13.4.15|2026-04-14|N2O MQTT TCP WebSocket|4xxxx|[![43160](https://img.shields.io/github/stars/synrc/n2o)](https://github.com/synrc/n2o)
-|6|[acception_client_tcp](https://hex.pm/packages/acception_client_tcp)|0.1.0|2018-11-23|The official Elixir TCP client for the Acception log/error aggregation app.|2xxxx|[![100](https://img.shields.io/github/stars/midas/acception)](https://github.com/midas/acception)
-|7|[membrane_tcp_plugin](https://hex.pm/packages/membrane_tcp_plugin)|0.6.1|2026-06-29|Membrane TCP plugin|2xxxx|[![42426](https://img.shields.io/github/stars/membraneframework/membrane_tcp_plugin)](https://github.com/membraneframework/membrane_tcp_plugin)
+|6|[membrane_tcp_plugin](https://hex.pm/packages/membrane_tcp_plugin)|0.6.1|2026-06-29|Membrane TCP plugin|2xxxx|[![42426](https://img.shields.io/github/stars/membraneframework/membrane_tcp_plugin)](https://github.com/membraneframework/membrane_tcp_plugin)
+|7|[acception_client_tcp](https://hex.pm/packages/acception_client_tcp)|0.1.0|2018-11-23|The official Elixir TCP client for the Acception log/error aggregation app.|2xxxx|[![100](https://img.shields.io/github/stars/midas/acception)](https://github.com/midas/acception)
 |8|[ahab](https://hex.pm/packages/ahab)|0.1.1|2016-03-03|A lightweight, low latency TCP acceptor pool for Elixir.|1xxxx|
 |9|[logger_logentries_backend](https://hex.pm/packages/logger_logentries_backend)|0.0.1|2015-12-20|A Logger backend to support the Logentries service(logentries.com) TCP input log mechanism|1xxxx|[![41662](https://img.shields.io/github/stars/sysdia-solutions/logger_logentries_backend)](https://github.com/sysdia-solutions/logger_logentries_backend)
 |10|[chatter](https://hex.pm/packages/chatter)|0.0.15|2016-06-04|Chatter is extracted from the ScaleSmall project as a standalone piece.This may be used independently to broadcast messages to a set of nodes.It uses a mixture of UDP multicast and TCP to deliver messages and triesto minimize network traffic while doing so.|1xxxx|[![32342](https://img.shields.io/github/stars/dbeck/chatter_ex)](https://github.com/dbeck/chatter_ex)

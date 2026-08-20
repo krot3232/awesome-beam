@@ -16,7 +16,7 @@
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|47xxxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
+|1|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|48xxxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)
 |2|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|20xxxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)
 |3|[hulaaki](https://hex.pm/packages/hulaaki)|0.1.2|2018-02-07|An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).|6xxxx|[![39812](https://img.shields.io/github/stars/suvash/hulaaki)](https://github.com/suvash/hulaaki)
 |4|[jackalope](https://hex.pm/packages/jackalope)|0.9.0|2024-09-25|An opinionated MQTT client library based on Tortoise MQTT|6xxxx|[![40350](https://img.shields.io/github/stars/smartrent/jackalope)](https://github.com/smartrent/jackalope)
