@@ -17,7 +17,7 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.6.0|2026-07-06|Fast, pipelined, resilient Redis driver for Elixir.|4498xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.7.0|2026-08-20|Fast, pipelined, resilient Redis driver for Elixir.|4498xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2316xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|338xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
 |4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|191xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
@@ -81,8 +81,8 @@
 |62|[trifle_stats](https://hex.pm/packages/trifle_stats)|2.7.0|2026-07-30|Time-series metrics for Elixir. Track custom business metrics using your existing Postgres, MongoDB, Redis, MySQL, or SQLite.|1xxx|[![66168](https://img.shields.io/github/stars/trifle-io/trifle_stats)](https://github.com/trifle-io/trifle_stats)
 |63|[exredis_key_auth](https://hex.pm/packages/exredis_key_auth)|0.4.1|2019-01-10|Library for authenticating keys matching on Redis instance.|1xxx|[![36727](https://img.shields.io/github/stars/stilihristov/exredis_key_auth)](https://github.com/stilihristov/exredis_key_auth)
 |64|[exred_node_redis_daemon](https://hex.pm/packages/exred_node_redis_daemon)|0.2.2|2019-01-27|Provides connection pool to a Redis database|1xxx|[![36742](https://img.shields.io/github/stars/exredorg/exred_node_redis_daemon)](https://github.com/exredorg/exred_node_redis_daemon)
-|65|[hll](https://hex.pm/packages/hll)|0.1.1|2019-02-18|Redis compatible HyperLogLog implementation in Elixir|1xxx|[![39607](https://img.shields.io/github/stars/gyson/hll)](https://github.com/gyson/hll)
-|66|[yggdrasil_redis](https://hex.pm/packages/yggdrasil_redis)|4.1.4|2019-01-22|Redis adapter for Yggdrasil (pub/sub)|1xxx|[![67531](https://img.shields.io/github/stars/gmtprime/yggdrasil_redis)](https://github.com/gmtprime/yggdrasil_redis)
+|65|[yggdrasil_redis](https://hex.pm/packages/yggdrasil_redis)|4.1.4|2019-01-22|Redis adapter for Yggdrasil (pub/sub)|1xxx|[![67531](https://img.shields.io/github/stars/gmtprime/yggdrasil_redis)](https://github.com/gmtprime/yggdrasil_redis)
+|66|[hll](https://hex.pm/packages/hll)|0.1.1|2019-02-18|Redis compatible HyperLogLog implementation in Elixir|1xxx|[![39607](https://img.shields.io/github/stars/gyson/hll)](https://github.com/gyson/hll)
 |67|[redisank](https://hex.pm/packages/redisank)|0.1.3|2017-01-25|A common ranking system on Redis with Plug|1xxx|[![63012](https://img.shields.io/github/stars/ikeikeikeike/redisank)](https://github.com/ikeikeikeike/redisank)
 |68|[red_mutex](https://hex.pm/packages/red_mutex)|0.3.0|2021-02-13|Redlock (Redis Distributed Lock) implementation|1xxx|[![63049](https://img.shields.io/github/stars/thiamsantos/red_mutex)](https://github.com/thiamsantos/red_mutex)
 |69|[flux_redis](https://hex.pm/packages/flux_redis)|0.0.2|2020-02-20|Integrate Redis to Elixir projects.|1xxx|

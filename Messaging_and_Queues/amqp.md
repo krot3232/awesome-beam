@@ -95,7 +95,7 @@
 |78|[raft_ex](https://hex.pm/packages/raft_ex)|0.1.0|2026-07-27|Elixir port of RabbitMQ RA Raft consensus. Implements leader election, log replication, snapshots, and cluster management. APIs are unstable and under active development.|1xx|[![46085](https://img.shields.io/github/stars/manhvu/raft_ex)](https://github.com/manhvu/raft_ex)
 |79|[nldoc_stream](https://hex.pm/packages/nldoc_stream)|1.0.0|2025-01-27|Logic for consuming and producing on RabbitMQ Streams|1xx|
 |80|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|1xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
-|81|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.1.0|2026-05-18|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|9x|
+|81|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|9x|
 # Gleam AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
