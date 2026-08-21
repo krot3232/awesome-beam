@@ -26,7 +26,7 @@
 ## MQTT
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.4|2026-07-29|Erlang MQTT v5.0 Client|70xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.0|2026-08-21|Erlang MQTT v5.0 Client|70xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
 |2|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|48xxxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)|elixir
 |3|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|20xxxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)|elixir
 |4|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|18xxxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)|erlang
@@ -130,7 +130,7 @@
 ## Redis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.7.0|2026-08-20|Fast, pipelined, resilient Redis driver for Elixir.|4500xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
+|1|[redix](https://hex.pm/packages/redix)|1.8.0|2026-08-21|Fast, pipelined, resilient Redis driver for Elixir.|4500xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2316xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)|elixir
 |3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1541xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|338xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
@@ -280,7 +280,7 @@
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3240xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1082xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
 |4|[brod](https://hex.pm/packages/brod)|4.6.2|2026-08-19|Apache Kafka Erlang client library|1062xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
-|5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.5.0|2026-07-23|A Kafka connector for Broadway|286xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
+|5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.0|2026-08-21|A Kafka connector for Broadway|286xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
 |6|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|26xxxx||erlang
 |7|[franz](https://hex.pm/packages/franz)|3.0.0|2025-08-23|A Gleam library for interacting with Kafka|1xxx|[![37777](https://img.shields.io/github/stars/renatillas/franz)](https://github.com/renatillas/franz)|gleam
 ## NATS
@@ -365,7 +365,7 @@
 ## Code Analysis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[elvis_core](https://hex.pm/packages/elvis_core)|5.0.4|2026-05-29|Core library for the Erlang style reviewer|855xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)|erlang
+|1|[elvis_core](https://hex.pm/packages/elvis_core)|6.0.0|2026-08-21|Core library for the Erlang style reviewer|855xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)|erlang
 |2|[exprof](https://hex.pm/packages/exprof)|0.2.4|2020-12-17|A simple code profiler for Elixir using eprof.|234xxxx|[![36665](https://img.shields.io/github/stars/parroty/exprof)](https://github.com/parroty/exprof)|elixir
 |3|[eflame](https://hex.pm/packages/eflame)|1.0.1|2017-02-06|Flame Graph profiler for Erlang and Elixir.|73xxxx|[![34641](https://img.shields.io/github/stars/proger/eflame)](https://github.com/proger/eflame)|elixir
 |4|[geas](https://hex.pm/packages/geas)|2.11.1|2026-06-14|Guess Erlang Application Scattering|23xxxx|[![37979](https://img.shields.io/github/stars/crownedgrouse/geas)](https://github.com/crownedgrouse/geas)|erlang

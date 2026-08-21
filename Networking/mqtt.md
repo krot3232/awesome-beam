@@ -1,7 +1,7 @@
 # Erlang MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.15.4|2026-07-29|Erlang MQTT v5.0 Client|70xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.0|2026-08-21|Erlang MQTT v5.0 Client|70xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
 |2|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|18xxxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)
 |3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.3.1|2026-07-10|MQTT v5 packet encoder and decoder|7xxxx|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
 |4|[mqtt_sessions](https://hex.pm/packages/mqtt_sessions)|2.8.0|2026-07-10|MQTT v5 Sessions Manager|6xxxx|[![43004](https://img.shields.io/github/stars/zotonic/mqtt_sessions)](https://github.com/zotonic/mqtt_sessions)
