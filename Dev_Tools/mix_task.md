@@ -1,7 +1,7 @@
 # Mix task
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[tailwind](https://hex.pm/packages/tailwind)|0.5.1|2026-06-16|Mix tasks for installing and invoking tailwind|1404xxxx|[![65411](https://img.shields.io/github/stars/phoenixframework/tailwind)](https://github.com/phoenixframework/tailwind)
+|1|[tailwind](https://hex.pm/packages/tailwind)|0.5.1|2026-06-16|Mix tasks for installing and invoking tailwind|1406xxxx|[![65411](https://img.shields.io/github/stars/phoenixframework/tailwind)](https://github.com/phoenixframework/tailwind)
 |2|[phx_new](https://hex.pm/packages/phx_new)|1.8.9|2026-07-07|Phoenix framework project generator.Provides a mix phx.new task to bootstrap a new Elixir applicationwith Phoenix dependencies.|219xxxx|[![45039](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |3|[sbom](https://hex.pm/packages/sbom)|0.10.0|2026-04-09|Mix task to generate a Software Bill-of-Materials (SBoM) in CycloneDX format|42xxxx|[![63710](https://img.shields.io/github/stars/erlef/mix_sbom)](https://github.com/erlef/mix_sbom)
 |4|[bun](https://hex.pm/packages/bun)|2.0.0|2026-02-13|Mix tasks for installing and invoking bun|11xxxx|[![31934](https://img.shields.io/github/stars/crbelaus/bun)](https://github.com/crbelaus/bun)
@@ -50,10 +50,10 @@
 |47|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|8x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |48|[mix_credence](https://hex.pm/packages/mix_credence)|1.1.0|2026-08-02|A mix task wrapper for the Cinderella-Man/credence semantic linter|8x|
 |49|[mixtape](https://hex.pm/packages/mixtape)|0.1.0|2026-04-01|Extremely fast HTTP recording and playback for Elixir tests.|7x|
-|50|[dialyxir](https://hex.pm/packages/dialyxir)|1.4.7|2025-11-06|Mix tasks to simplify use of Dialyzer in Elixir projects.|9035xxxx|[![33777](https://img.shields.io/github/stars/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir)
-|51|[esbuild](https://hex.pm/packages/esbuild)|0.10.0|2025-05-27|Mix tasks for installing and invoking esbuild|1902xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)
-|52|[mix_test_watch](https://hex.pm/packages/mix_test_watch)|1.4.0|2025-10-21|Automatically run tests when files change|1554xxxx|[![42744](https://img.shields.io/github/stars/lpil/mix-test.watch)](https://github.com/lpil/mix-test.watch)
-|53|[mix_audit](https://hex.pm/packages/mix_audit)|2.1.5|2025-06-09|MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities|1107xxxx|[![42683](https://img.shields.io/github/stars/mirego/mix_audit)](https://github.com/mirego/mix_audit)
+|50|[dialyxir](https://hex.pm/packages/dialyxir)|1.4.7|2025-11-06|Mix tasks to simplify use of Dialyzer in Elixir projects.|9039xxxx|[![33777](https://img.shields.io/github/stars/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir)
+|51|[esbuild](https://hex.pm/packages/esbuild)|0.10.0|2025-05-27|Mix tasks for installing and invoking esbuild|1904xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)
+|52|[mix_test_watch](https://hex.pm/packages/mix_test_watch)|1.4.0|2025-10-21|Automatically run tests when files change|1555xxxx|[![42744](https://img.shields.io/github/stars/lpil/mix-test.watch)](https://github.com/lpil/mix-test.watch)
+|53|[mix_audit](https://hex.pm/packages/mix_audit)|2.1.5|2025-06-09|MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities|1109xxxx|[![42683](https://img.shields.io/github/stars/mirego/mix_audit)](https://github.com/mirego/mix_audit)
 |54|[inch_ex](https://hex.pm/packages/inch_ex)|2.1.0|2025-12-01|Provides a Mix task that gives you hints where to improve your inline docs|231xxxx|[![40041](https://img.shields.io/github/stars/rrrene/inch_ex)](https://github.com/rrrene/inch_ex)
 |55|[mix_test_interactive](https://hex.pm/packages/mix_test_interactive)|5.1.0|2025-12-30|Interactive test runner for mix test with watch mode.|73xxxx|[![42741](https://img.shields.io/github/stars/randycoulman/mix_test_interactive)](https://github.com/randycoulman/mix_test_interactive)
 |56|[mix_rebar3](https://hex.pm/packages/mix_rebar3)|0.3.0|2025-10-22|mix_rebar3 is a rebar3 compiler for your mix project|16xxxx|[![42730](https://img.shields.io/github/stars/dominicletz/mix_rebar3)](https://github.com/dominicletz/mix_rebar3)

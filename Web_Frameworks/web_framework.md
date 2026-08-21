@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.11|2026-08-18|Peace of mind from prototype to production|15383xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.12|2026-08-20|Peace of mind from prototype to production|15390xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|316xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -78,7 +78,7 @@
 |1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|28xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
 |2|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|3xxxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)
 |3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|5xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
-|4|[tiramisu](https://hex.pm/packages/tiramisu)|8.1.0|2026-03-29|A 3D game framework for building performant web games in Gleam|3xxx|[![65923](https://img.shields.io/github/stars/renatillas/tiramisu)](https://github.com/renatillas/tiramisu)
+|4|[tiramisu](https://hex.pm/packages/tiramisu)|8.1.0|2026-03-29|A 3D game framework for building performant web games in Gleam|4xxx|[![65923](https://img.shields.io/github/stars/renatillas/tiramisu)](https://github.com/renatillas/tiramisu)
 |5|[glimr](https://hex.pm/packages/glimr)|1.4.0|2026-05-12|A batteries-included web framework for Gleam|3xxx|[![38513](https://img.shields.io/github/stars/glimr-org/framework)](https://github.com/glimr-org/framework)
 |6|[glen_node](https://hex.pm/packages/glen_node)|0.0.3|2025-02-21|NodeJS adapter for the Glen web framework|2xxx|[![38469](https://img.shields.io/github/stars/Enderchief/glen_node)](https://github.com/Enderchief/glen_node)
 |7|[glimr_sqlite](https://hex.pm/packages/glimr_sqlite)|1.0.4|2026-04-29|SQLite driver for the Glimr web framework|1xxx|[![38518](https://img.shields.io/github/stars/glimr-org/sqlite)](https://github.com/glimr-org/sqlite)

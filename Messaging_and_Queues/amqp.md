@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2143xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2144xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|207xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -15,8 +15,8 @@
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp](https://hex.pm/packages/amqp)|4.1.1|2026-06-14|Idiomatic Elixir client for RabbitMQ.|1704xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
-|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|342xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
+|1|[amqp](https://hex.pm/packages/amqp)|4.1.1|2026-06-14|Idiomatic Elixir client for RabbitMQ.|1705xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
+|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|343xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
 |3|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|104xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)
 |4|[gen_rmq](https://hex.pm/packages/gen_rmq)|4.0.0|2022-03-16|Set of behaviours meant to be used to create RabbitMQ consumers and publishers.|53xxxx|[![38104](https://img.shields.io/github/stars/meltwater/gen_rmq)](https://github.com/meltwater/gen_rmq)
 |5|[rabbit](https://hex.pm/packages/rabbit)|0.21.0|2024-12-13|A set of tools for building robust applications with RabbitMQ.|31xxxx|[![46052](https://img.shields.io/github/stars/nsweeting/rabbit)](https://github.com/nsweeting/rabbit)
@@ -95,7 +95,7 @@
 |78|[raft_ex](https://hex.pm/packages/raft_ex)|0.1.0|2026-07-27|Elixir port of RabbitMQ RA Raft consensus. Implements leader election, log replication, snapshots, and cluster management. APIs are unstable and under active development.|1xx|[![46085](https://img.shields.io/github/stars/manhvu/raft_ex)](https://github.com/manhvu/raft_ex)
 |79|[nldoc_stream](https://hex.pm/packages/nldoc_stream)|1.0.0|2025-01-27|Logic for consuming and producing on RabbitMQ Streams|1xx|
 |80|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|1xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
-|81|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|9x|
+|81|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|1xx|
 # Gleam AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

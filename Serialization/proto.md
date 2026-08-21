@@ -1,7 +1,7 @@
 # Erlang Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|392xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
+|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|393xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
 |2|[protobuffs](https://hex.pm/packages/protobuffs)|0.8.4|2016-07-25|An implementation of Google&#039;s Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.|72xxxx|[![45777](https://img.shields.io/github/stars/basho/erlang_protobuffs)](https://github.com/basho/erlang_protobuffs)
 |3|[riak_pb](https://hex.pm/packages/riak_pb)|2.3.2|2017-03-02|Riak Protocol Buffers Messages|61xxxx|[![63347](https://img.shields.io/github/stars/basho/riak_pb)](https://github.com/basho/riak_pb)
 |4|[nextroll_rebar3_gpb_plugi n ](https://hex.pm/packages/nextroll_rebar3_gpb_plugin)|3.0.0|2023-03-15|A rebar3 gpb plugin for compiling .proto files|3xxxx|[![43521](https://img.shields.io/github/stars/AdRoll/rebar3_gpb_plugin)](https://github.com/AdRoll/rebar3_gpb_plugin)

@@ -1,11 +1,11 @@
 # Rabar3 plugin
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.2.0|2026-08-13|Hex.pm plugin for rebar3|5202xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
+|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.2.0|2026-08-13|Hex.pm plugin for rebar3|5204xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
 |2|[rebar3_lint](https://hex.pm/packages/rebar3_lint)|5.0.4|2026-05-29|Erlang linter - rebar3 plugin|739xxxx|[![46386](https://img.shields.io/github/stars/project-fifo/rebar3_lint)](https://github.com/project-fifo/rebar3_lint)
-|3|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|699xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
-|4|[erlfmt](https://hex.pm/packages/erlfmt)|1.8.0|2026-02-23|erlfmt is an opinionated Erlang code formatter|623xxxx|[![35254](https://img.shields.io/github/stars/WhatsApp/erlfmt)](https://github.com/WhatsApp/erlfmt)
-|5|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|392xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
+|3|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|701xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
+|4|[erlfmt](https://hex.pm/packages/erlfmt)|1.8.0|2026-02-23|erlfmt is an opinionated Erlang code formatter|624xxxx|[![35254](https://img.shields.io/github/stars/WhatsApp/erlfmt)](https://github.com/WhatsApp/erlfmt)
+|5|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|393xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
 |6|[grpcbox_plugin](https://hex.pm/packages/grpcbox_plugin)|0.10.0|2026-06-29|Rebar3 plugin to generate behaviours for grpc services|272xxxx|[![39183](https://img.shields.io/github/stars/tsloughter/grpcbox_plugin)](https://github.com/tsloughter/grpcbox_plugin)
 |7|[rebar3_hank](https://hex.pm/packages/rebar3_hank)|2.0.0|2026-08-19|A rebar plugin for dead code cleaning|90xxxx|[![46375](https://img.shields.io/github/stars/AdRoll/rebar3_hank)](https://github.com/AdRoll/rebar3_hank)
 |8|[rebar3_appup_plugin](https://hex.pm/packages/rebar3_appup_plugin)|2.4.11|2026-03-26|A rebar3 plugin for handling .appup files|80xxxx|[![46314](https://img.shields.io/github/stars/lrascao/rebar3_appup_plugin)](https://github.com/lrascao/rebar3_appup_plugin)
@@ -66,7 +66,7 @@
 |63|[rebar3_erlquery](https://hex.pm/packages/rebar3_erlquery)|0.2.2|2023-04-18|A rebar3 plugin for compiling erlquery modules in a project.|1xxx|
 |64|[rebar3_eetcd_plugin](https://hex.pm/packages/rebar3_eetcd_plugin)|0.3.2|2022-02-11|Rebar3 plugin to generate client for eetcd|189xxxx|[![46344](https://img.shields.io/github/stars/zhongwencool/rebar3_eetcd_plugin)](https://github.com/zhongwencool/rebar3_eetcd_plugin)
 |65|[rebar3_dialyzer_html](https://hex.pm/packages/rebar3_dialyzer_html)|0.3.0|2022-01-03|Generate an HTML report from dialyzer output|39xxxx|[![46335](https://img.shields.io/github/stars/srijan/rebar3_dialyzer_html)](https://github.com/srijan/rebar3_dialyzer_html)
-|66|[rebar3_cargo](https://hex.pm/packages/rebar3_cargo)|0.1.1|2022-12-12|A rebar plugin to build Rust crates|16xxxx|[![46325](https://img.shields.io/github/stars/rusterlium/rebar3_cargo)](https://github.com/rusterlium/rebar3_cargo)
+|66|[rebar3_cargo](https://hex.pm/packages/rebar3_cargo)|0.1.1|2022-12-12|A rebar plugin to build Rust crates|17xxxx|[![46325](https://img.shields.io/github/stars/rusterlium/rebar3_cargo)](https://github.com/rusterlium/rebar3_cargo)
 |67|[rebar3_rustler](https://hex.pm/packages/rebar3_rustler)|0.1.1|2022-12-13|Create new rustler-based Erlang NIF libs in no time|3xxxx|[![46404](https://img.shields.io/github/stars/brucify/rebar3_rustler)](https://github.com/brucify/rebar3_rustler)
 |68|[rebar_edown_plugin](https://hex.pm/packages/rebar_edown_plugin)|0.7.0|2022-03-24|A rebar3 plugin for edown.|2xxxx|[![46425](https://img.shields.io/github/stars/altenwald/rebar_edown_plugin)](https://github.com/altenwald/rebar_edown_plugin)
 |69|[rebar3_deb](https://hex.pm/packages/rebar3_deb)|0.1.1|2022-01-22|A rebar plugin to package releases as debian package|3xxx|[![46333](https://img.shields.io/github/stars/drvspw/rebar3_deb)](https://github.com/drvspw/rebar3_deb)
