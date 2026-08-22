@@ -1,11 +1,11 @@
 # Erlang pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8699xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
-|2|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16036xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8701xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
+|2|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16042xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |3|[worker_pool](https://hex.pm/packages/worker_pool)|6.5.3|2026-03-20|Erlang Worker Pool|149xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)
 |4|[pgo](https://hex.pm/packages/pgo)|0.20.0|2025-12-12|Postgres client with connection pool|20xxxx|[![44713](https://img.shields.io/github/stars/erleans/pgo)](https://github.com/erleans/pgo)
-|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|2879xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
+|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|2881xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
 |6|[sbroker](https://hex.pm/packages/sbroker)|1.0.0|2019-04-30|Low level pooling library|58xxxx|[![63711](https://img.shields.io/github/stars/fishcakez/sbroker)](https://github.com/fishcakez/sbroker)
 |7|[sidejob](https://hex.pm/packages/sidejob)|2.2.0|2024-10-11|sidejob is an Erlang library that implements a parallel, capacity-limited request pool. In sidejob, these pools are called resources. A resource is managed by multiple gen_server like processes which can be sent calls and casts using sidejob:call or sidejob:cast respectively.|24xxxx|[![64144](https://img.shields.io/github/stars/erlangpack/sidejob)](https://github.com/erlangpack/sidejob)
 |8|[pooler](https://hex.pm/packages/pooler)|1.7.0|2026-05-15|An OTP Process Pool Application|87xxxx|[![45500](https://img.shields.io/github/stars/epgsql/pooler)](https://github.com/epgsql/pooler)
@@ -35,8 +35,8 @@
 # Elixir pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|14808xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
-|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2024-03-25|A tiny resource-pool implementation|5741xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
+|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|14813xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
+|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2024-03-25|A tiny resource-pool implementation|5747xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
 |3|[browse](https://hex.pm/packages/browse)|0.5.0|2026-03-27|Shared browser automation contract and pool implementation for Elixir browser backends|2xxxx|[![31851](https://img.shields.io/github/stars/pepicrft/browse)](https://github.com/pepicrft/browse)
 |4|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)
 |5|[grpc_connection_pool](https://hex.pm/packages/grpc_connection_pool)|0.5.2|2026-08-07|A flexible and robust gRPC connection pooling library for Elixir.Features environment-agnostic configuration, connection warming, health monitoring,and automatic retry logic with exponential backoff and jitter.|4xxx|[![39187](https://img.shields.io/github/stars/nyo16/grpc_connection_pool)](https://github.com/nyo16/grpc_connection_pool)
@@ -105,8 +105,8 @@
 |68|[spaghetti_pool](https://hex.pm/packages/spaghetti_pool)|0.1.0|2016-05-25|A worker pool for concurrently read and written ETS table.|5xx|[![64651](https://img.shields.io/github/stars/theemuts/spaghetti_pool)](https://github.com/theemuts/spaghetti_pool)
 |69|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|5xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
 |70|[conn_pool](https://hex.pm/packages/conn_pool)|0.2.1|2018-04-18|Connection pool helps storing, sharing and using connections. It also make its possible to use the   same connection concurrently.|5xx|
-|71|[swampman](https://hex.pm/packages/swampman)|0.0.4|2025-10-23|A library for pooling and managing resources|4xx|[![65281](https://img.shields.io/github/stars/zen-en-tonal/swampman)](https://github.com/zen-en-tonal/swampman)
-|72|[nebula_graph_ex](https://hex.pm/packages/nebula_graph_ex)|0.1.10|2026-04-10|NebulaGraph client for Elixir — connection pooling, session management, and rich result decoding.|4xx|
+|71|[nebula_graph_ex](https://hex.pm/packages/nebula_graph_ex)|0.1.10|2026-04-10|NebulaGraph client for Elixir — connection pooling, session management, and rich result decoding.|4xx|
+|72|[swampman](https://hex.pm/packages/swampman)|0.0.4|2025-10-23|A library for pooling and managing resources|4xx|[![65281](https://img.shields.io/github/stars/zen-en-tonal/swampman)](https://github.com/zen-en-tonal/swampman)
 |73|[smart_websocket_client](https://hex.pm/packages/smart_websocket_client)|0.1.0|2017-02-01|SmartWebsocketClient is a (not-so) smart websocket client with pool support.|4xx|[![64450](https://img.shields.io/github/stars/HackerExperience/SmartWebsocketClient)](https://github.com/HackerExperience/SmartWebsocketClient)
 |74|[guise](https://hex.pm/packages/guise)|0.1.0|2026-07-30|Session-sticky User-Agent rotation with modern, refreshable browser profiles. Assigns one realistic browser identity (UA + Accept-Language) per session key and keeps it sticky; the desktop + mobile pool is rendered from a small version table you refresh with mix guise.refresh.|4xx|[![6111810](https://img.shields.io/github/stars/alexdont/guise)](https://github.com/alexdont/guise)
 |75|[gen_pool](https://hex.pm/packages/gen_pool)|0.1.0|2023-06-02|Gen Pool|3xx|
@@ -115,7 +115,7 @@
 |78|[rsrc_pool_ex](https://hex.pm/packages/rsrc_pool_ex)|1.0.3|2020-06-24|The goal of ResourcePool (rsrc_pool_ex) Elixir library is reduce the overhead of creating new resources by reusing of the same resources among multiple processes.|2xx|[![63515](https://img.shields.io/github/stars/alekras/ex.rsrc_pool)](https://github.com/alekras/ex.rsrc_pool)
 |79|[huginn](https://hex.pm/packages/huginn)|0.4.0|2026-06-06|ClickHouse client for Elixir using gRPC with connection pooling.|1xx|[![39807](https://img.shields.io/github/stars/nyo16/huginn)](https://github.com/nyo16/huginn)
 |80|[gen_agent_ensemble](https://hex.pm/packages/gen_agent_ensemble)|0.1.0|2026-04-18|Multi-agent orchestration strategies for GenAgent. One ensemble process owns N sub-agents under a strategy (Solo, Supervisor, Pool, Pipeline).|8x|[![38009](https://img.shields.io/github/stars/genagent/gen_agent_ensemble)](https://github.com/genagent/gen_agent_ensemble)
-|81|[semantic_verifier](https://hex.pm/packages/semantic_verifier)|0.1.3|2026-08-21|Pure Elixir SMT-LIB2 formal verification engine for FrameNet Semantic IR with persistent Z3 session pools.|0|[![7105328](https://img.shields.io/github/stars/collective-mind/semantic_verifier)](https://github.com/collective-mind/semantic_verifier)
+|81|[semantic_verifier](https://hex.pm/packages/semantic_verifier)|0.1.3|2026-08-21|Pure Elixir SMT-LIB2 formal verification engine for FrameNet Semantic IR with persistent Z3 session pools.|6x|[![7105328](https://img.shields.io/github/stars/collective-mind/semantic_verifier)](https://github.com/collective-mind/semantic_verifier)
 # Gleam pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
