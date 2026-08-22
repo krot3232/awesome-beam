@@ -72,6 +72,7 @@
 |53|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|8x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |54|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|8x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |55|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|8x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|56|[ash_hooks](https://hex.pm/packages/ash_hooks)|0.2.2|2026-08-22|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|0|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
