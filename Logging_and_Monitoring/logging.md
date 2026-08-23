@@ -32,10 +32,10 @@
 |29|[erlogger](https://hex.pm/packages/erlogger)|0.1.0|2016-03-09|Logging service for Erlang Applications.|6xx|
 |30|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|5xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
 |31|[elogx](https://hex.pm/packages/elogx)|0.0.2|2021-01-06|erlang logger extension|4xx|[![34954](https://img.shields.io/github/stars/aijingsun6/elogx)](https://github.com/aijingsun6/elogx)
-|32|[tracelog](https://hex.pm/packages/tracelog)|0.1.0|2019-01-25|A log handler for structured logs that plays with opencensus|2xx|
+|32|[tracelog](https://hex.pm/packages/tracelog)|0.1.0|2019-01-25|A log handler for structured logs that plays with opencensus|3xx|
 |33|[graylog_logger](https://hex.pm/packages/graylog_logger)|1.0.1|2025-11-16|OTP logger backend that sends log events to Graylog via GELF UDP input.|2xx|[![39121](https://img.shields.io/github/stars/silviucpp/graylog_logger)](https://github.com/silviucpp/graylog_logger)
 |34|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|2xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
-|35|[logger_telegram_h](https://hex.pm/packages/logger_telegram_h)|0.1.0|2026-04-16|Telegram logging handler for Erlang|8x|[![41679](https://img.shields.io/github/stars/krot3232/logger_telegram_h)](https://github.com/krot3232/logger_telegram_h)
+|35|[logger_telegram_h](https://hex.pm/packages/logger_telegram_h)|0.1.0|2026-04-16|Telegram logging handler for Erlang|9x|[![41679](https://img.shields.io/github/stars/krot3232/logger_telegram_h)](https://github.com/krot3232/logger_telegram_h)
 # Elixir Logging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -234,7 +234,7 @@
 |193|[redislog](https://hex.pm/packages/redislog)|0.1.0|2018-07-17|Redis pubsub backend for standard logger|3xx|[![63022](https://img.shields.io/github/stars/archydragon/elixir-redislog)](https://github.com/archydragon/elixir-redislog)
 |194|[methex](https://hex.pm/packages/methex)|0.0.1|2018-03-18|Metrics system (folsom wrapper) + logger backend|3xx|[![42550](https://img.shields.io/github/stars/timCF/methex)](https://github.com/timCF/methex)
 |195|[logger_iex_backend](https://hex.pm/packages/logger_iex_backend)|1.0.0|2019-09-08|A Logger Backend for IEx interactive sessions.|3xx|[![41655](https://img.shields.io/github/stars/alvivi/logger_iex_backend)](https://github.com/alvivi/logger_iex_backend)
-|196|[logdot](https://hex.pm/packages/logdot)|1.1.0|2026-02-17|LogDot SDK for Elixir - Cloud logging and metrics|2xx|[![41618](https://img.shields.io/github/stars/logdot-io/logdot-elixir)](https://github.com/logdot-io/logdot-elixir)
+|196|[logdot](https://hex.pm/packages/logdot)|1.1.0|2026-02-17|LogDot SDK for Elixir - Cloud logging and metrics|3xx|[![41618](https://img.shields.io/github/stars/logdot-io/logdot-elixir)](https://github.com/logdot-io/logdot-elixir)
 |197|[kvasir_syslog](https://hex.pm/packages/kvasir_syslog)|1.0.1|2025-02-06|Elixir Syslog server, client, and backend for Logger.|2xx|[![41026](https://img.shields.io/github/stars/altenwald/kvasir)](https://github.com/altenwald/kvasir)
 |198|[pitcher_logger_backend](https://hex.pm/packages/pitcher_logger_backend)|0.0.1|2019-08-13|A REST Logger backend|2xx|[![45138](https://img.shields.io/github/stars/Lazarus404/pitcher_logger_backend)](https://github.com/Lazarus404/pitcher_logger_backend)
 |199|[where](https://hex.pm/packages/where)|0.1.0|2022-02-19|Logging and inspecting with location information.|2xx|[![67181](https://img.shields.io/github/stars/bonfire-networks/where)](https://github.com/bonfire-networks/where)
@@ -244,10 +244,10 @@
 |203|[logstash_logger_backend](https://hex.pm/packages/logstash_logger_backend)|0.1.0|2021-01-25|Collect and send log to Logstash over HTTP.|2xx|[![41719](https://img.shields.io/github/stars/ThanhDev2703/logstash_logger_backend)](https://github.com/ThanhDev2703/logstash_logger_backend)
 |204|[kmsg](https://hex.pm/packages/kmsg)|0.1.0|2020-09-30|Elixir logger backend for the printk buffer|2xx|
 |205|[into_log](https://hex.pm/packages/into_log)|1.0.0|2022-07-24|Collectable for Logger|2xx|[![40182](https://img.shields.io/github/stars/grantwest/intolog)](https://github.com/grantwest/intolog)
-|206|[conion](https://hex.pm/packages/conion)|0.1.0|2025-01-17|An Elixir application package providing general purpose modules as Configuration, Key/Value store, a common GenServer, CentralLogger, and more to come...|1xx|[![32936](https://img.shields.io/github/stars/iboard/conion)](https://github.com/iboard/conion)
+|206|[conion](https://hex.pm/packages/conion)|0.1.0|2025-01-17|An Elixir application package providing general purpose modules as Configuration, Key/Value store, a common GenServer, CentralLogger, and more to come...|2xx|[![32936](https://img.shields.io/github/stars/iboard/conion)](https://github.com/iboard/conion)
 |207|[audit_trail](https://hex.pm/packages/audit_trail)|0.1.2|2026-07-31|Reusable structured audit logging, DB change tracking, and crash reporting for Elixir/Phoenix apps|1xx|
 |208|[skuld_durable](https://hex.pm/packages/skuld_durable)|0.32.1|2026-06-13|Durable execution for Skuld: SerializableCoroutine and EffectLogger for capturing and replaying effect logs.|1xx|[![3853404](https://img.shields.io/github/stars/mccraigmccraig/skuld)](https://github.com/mccraigmccraig/skuld)
-|209|[clarion](https://hex.pm/packages/clarion)|0.1.0|2026-07-07|Correct structured/report-style logging for library authors: readable in dev, fully queryable in prod, without a report_cb ever destroying the raw report.|8x|[![5105317](https://img.shields.io/github/stars/singlefleck/clarion)](https://github.com/singlefleck/clarion)
+|209|[clarion](https://hex.pm/packages/clarion)|0.1.0|2026-07-07|Correct structured/report-style logging for library authors: readable in dev, fully queryable in prod, without a report_cb ever destroying the raw report.|9x|[![5105317](https://img.shields.io/github/stars/singlefleck/clarion)](https://github.com/singlefleck/clarion)
 |210|[fort_audit](https://hex.pm/packages/fort_audit)|0.1.1|2026-07-29|Atomic audit logging for Elixir/Phoenix: dual-routes to PostgreSQL and structured JSON logs|8x|[![6043099](https://img.shields.io/github/stars/DarynOngera/fort_audit)](https://github.com/DarynOngera/fort_audit)
 |211|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|6x|
 # Gleam Logging

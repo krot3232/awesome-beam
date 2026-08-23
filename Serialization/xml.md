@@ -8,7 +8,7 @@
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7468xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7469xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
 |2|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7231xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
 |3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7112xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
 |4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2891xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)

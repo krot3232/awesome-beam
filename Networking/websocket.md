@@ -17,9 +17,9 @@
 # Elixir WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3402xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)
+|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3405xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)
 |2|[websockex](https://hex.pm/packages/websockex)|0.5.1|2025-12-01|An Elixir WebSocket client|455xxxx|[![67132](https://img.shields.io/github/stars/witchtails/websockex_wt)](https://github.com/witchtails/websockex_wt)
-|3|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|208xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)
+|3|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|209xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)
 |4|[absinthe_graphql_ws](https://hex.pm/packages/absinthe_graphql_ws)|0.3.6|2022-07-29|Add graphql-ws websocket transport for Absinthe|165xxxx|[![64](https://img.shields.io/github/stars/geometerio/absinthe_graphql_ws)](https://github.com/geometerio/absinthe_graphql_ws)
 |5|[slipstream](https://hex.pm/packages/slipstream)|1.2.2|2025-12-15|A slick websocket client for Phoenix channels|109xxxx|[![64407](https://img.shields.io/github/stars/NFIBrokerage/slipstream)](https://github.com/NFIBrokerage/slipstream)
 |6|[reverse_proxy_plug_websoc ket ](https://hex.pm/packages/reverse_proxy_plug_websocket)|0.2.0|2026-02-22|Support reverse proxying of websocket connections natively in Elixir|12xxxx|[![63306](https://img.shields.io/github/stars/mwhitworth/reverse_proxy_plug_websocket)](https://github.com/mwhitworth/reverse_proxy_plug_websocket)
@@ -113,7 +113,7 @@
 |3|[websocks](https://hex.pm/packages/websocks)|4.0.1|2026-07-29|🧦 WebSocket protocol in Gleam|2xxx|[![67136](https://img.shields.io/github/stars/vshakitskiy/websocks)](https://github.com/vshakitskiy/websocks)
 |4|[discord_gleam_stratus](https://hex.pm/packages/discord_gleam_stratus)|1.0.3|2026-04-10|A Gleam WebSocket client|2xxx|[![33872](https://img.shields.io/github/stars/cyteon/discord_gleam)](https://github.com/cyteon/discord_gleam)
 |5|[nerf](https://hex.pm/packages/nerf)|0.4.0|2023-05-24|Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client|1xxx|[![43284](https://img.shields.io/github/stars/lpil/nerf)](https://github.com/lpil/nerf)
-|6|[collie](https://hex.pm/packages/collie)|3.0.0|2026-07-29|🐕 Websocket client in Gleam|9xx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
+|6|[collie](https://hex.pm/packages/collie)|3.0.0|2026-07-29|🐕 Websocket client in Gleam|1xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
 |7|[gleam_gun](https://hex.pm/packages/gleam_gun)|0.5.0|2024-02-04|Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client|8xx|[![38373](https://img.shields.io/github/stars/gilevskaya/gleam_gun)](https://github.com/gilevskaya/gleam_gun)
 |8|[goose](https://hex.pm/packages/goose)|2.0.0|2025-11-04|A Gleam WebSocket consumer for AT Protocol Jetstream events|6xx|[![39018](https://img.shields.io/github/stars/bigmoves/goose)](https://github.com/bigmoves/goose)
 |9|[stratocumulus](https://hex.pm/packages/stratocumulus)|1.0.0|2026-07-27|Gleam Bindings to browser WebSocket client|5xx|[![65049](https://img.shields.io/github/stars/ghivert/stratocumulus)](https://github.com/ghivert/stratocumulus)

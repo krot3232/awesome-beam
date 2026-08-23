@@ -8,7 +8,7 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5719xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.6.2|2024-08-10|JWT (JSON Web Token) library for Elixir.|5720xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|159xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|36xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
@@ -40,7 +40,7 @@
 |30|[mobile_id_token](https://hex.pm/packages/mobile_id_token)|0.1.1|2026-05-31|Verify Apple and Google mobile OAuth id_token JWTs with JWKS caching and claim checks|1xx|[![3319578](https://img.shields.io/github/stars/metacircu1ar/mobile_id_token)](https://github.com/metacircu1ar/mobile_id_token)
 |31|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|8x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |32|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|6x|
-|33|[banking_circle](https://hex.pm/packages/banking_circle)|1.0.0|2026-08-06|A complete, production-grade Elixir client for the Banking Circle Connect API —payments (single &amp; bulk), accounts, webhooks (AES-256-GCM verified), OAuth2/JWTauth with automatic token refresh, idempotency, retries, and telemetry.|3x|[![6417467](https://img.shields.io/github/stars/iamkanishka/banking_circle)](https://github.com/iamkanishka/banking_circle)
+|33|[banking_circle](https://hex.pm/packages/banking_circle)|1.0.0|2026-08-06|A complete, production-grade Elixir client for the Banking Circle Connect API —payments (single &amp; bulk), accounts, webhooks (AES-256-GCM verified), OAuth2/JWTauth with automatic token refresh, idempotency, retries, and telemetry.|4x|[![6417467](https://img.shields.io/github/stars/iamkanishka/banking_circle)](https://github.com/iamkanishka/banking_circle)
 |34|[agent_push_kit](https://hex.pm/packages/agent_push_kit)|0.1.0|2026-08-18|The complete Agent Push Kit REST API. Application event ingestion uses an organization key beginning with &amp;#x60;apk_&amp;#x60;. Authenticated user operations accept either an Agent Push Kit login JWT or an agent access token beginning with &amp;#x60;apt_&amp;#x60;.|3x|[![6954382](https://img.shields.io/github/stars/JustinBStrong/agent-push-kit-elixir)](https://github.com/JustinBStrong/agent-push-kit-elixir)
 # Gleam JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

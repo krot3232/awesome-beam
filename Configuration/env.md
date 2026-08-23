@@ -6,7 +6,7 @@
 # Elixir env
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[confex](https://hex.pm/packages/confex)|3.5.1|2024-05-17|Helper module that provides a nice way to read configuration at runtime from environment variables orvia adapter-supported interface.|694xxxx|[![32902](https://img.shields.io/github/stars/Nebo15/confex)](https://github.com/Nebo15/confex)
+|1|[confex](https://hex.pm/packages/confex)|3.5.1|2024-05-17|Helper module that provides a nice way to read configuration at runtime from environment variables orvia adapter-supported interface.|695xxxx|[![32902](https://img.shields.io/github/stars/Nebo15/confex)](https://github.com/Nebo15/confex)
 |2|[skogsra](https://hex.pm/packages/skogsra)|2.5.3|2026-04-24|Manages OS environment variables and application configuration options with ease|39xxxx|[![64352](https://img.shields.io/github/stars/gmtprime/skogsra)](https://github.com/gmtprime/skogsra)
 |3|[envar](https://hex.pm/packages/envar)|1.1.0|2022-11-24|Helpful functions for working with Environment Variables|6xxxx|[![35093](https://img.shields.io/github/stars/dwyl/envar)](https://github.com/dwyl/envar)
 |4|[exenv](https://hex.pm/packages/exenv)|0.4.1|2021-02-02|Exenv makes loading environment variables from external sources easy.|1xxxx|[![36041](https://img.shields.io/github/stars/nsweeting/exenv)](https://github.com/nsweeting/exenv)

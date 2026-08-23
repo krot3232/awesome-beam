@@ -10,7 +10,7 @@
 |7|[lpr](https://hex.pm/packages/lpr)|0.1.2|2019-11-14|An ETS-backed process registry with an API that&#039;s a subset of ostinelli/syn|1xxx|[![41755](https://img.shields.io/github/stars/marianoguerra/lpr)](https://github.com/marianoguerra/lpr)
 |8|[ets_cas](https://hex.pm/packages/ets_cas)|0.1.1|2017-10-12|handle CAS semantic to ETS on different OTP version|7xx|
 |9|[keep](https://hex.pm/packages/keep)|0.1.0|2024-12-07|An easy KV wrapper for ETS|2xx|
-|10|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|5x|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
+|10|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|6x|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
 # Elixir ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -59,7 +59,7 @@
 |43|[ets_buffer](https://hex.pm/packages/ets_buffer)|0.2.2|2020-11-04|Simple event buffer using ETS|7xx|[![35443](https://img.shields.io/github/stars/jeffutter/ets_buffer)](https://github.com/jeffutter/ets_buffer)
 |44|[logger_ets_backend](https://hex.pm/packages/logger_ets_backend)|0.1.0|2021-06-17|A simple Logger backend which writes log entries to an ETS table.|7xx|[![41644](https://img.shields.io/github/stars/OldhamMade/logger_ets_backend)](https://github.com/OldhamMade/logger_ets_backend)
 |45|[ex_rets](https://hex.pm/packages/ex_rets)|0.1.1|2020-04-19|RETS client for Elixir.|7xx|[![36763](https://img.shields.io/github/stars/jdav-dev/ex_rets)](https://github.com/jdav-dev/ex_rets)
-|46|[jido_vfs](https://hex.pm/packages/jido_vfs)|1.0.1|2026-08-10|A filesystem abstraction for Elixir with adapters for Local, S3, Git, GitHub, ETS, and InMemory storage.|6xx|[![3209733](https://img.shields.io/github/stars/agentjido/jido_vfs)](https://github.com/agentjido/jido_vfs)
+|46|[jido_vfs](https://hex.pm/packages/jido_vfs)|1.0.1|2026-08-10|A filesystem abstraction for Elixir with adapters for Local, S3, Git, GitHub, ETS, and InMemory storage.|7xx|[![3209733](https://img.shields.io/github/stars/agentjido/jido_vfs)](https://github.com/agentjido/jido_vfs)
 |47|[kdb](https://hex.pm/packages/kdb)|0.1.6|2025-08-28|High performance embedded realtime database combining ETS with TTL for caching, RocksDB for persistent parallel writes, and SQLite for secondary indexing and fast lookups|6xx|[![40731](https://img.shields.io/github/stars/casz92/kdb)](https://github.com/casz92/kdb)
 |48|[redi](https://hex.pm/packages/redi)|0.8.2|2024-06-16|An erlang ETS cache with TTL.|6xx|[![46491](https://img.shields.io/github/stars/bougueil/erlang-redi)](https://github.com/bougueil/erlang-redi)
 |49|[cachetastic](https://hex.pm/packages/cachetastic)|1.0.0|2026-04-01|A unified caching library for Elixir with support for ETS and Redis backends.|6xx|[![32025](https://img.shields.io/github/stars/gskolber/cachetastic)](https://github.com/gskolber/cachetastic)
@@ -100,4 +100,4 @@
 |10|[mala](https://hex.pm/packages/mala)|1.2.0|2026-04-30|ETS bags, an in-memory table where one key can have multiple values|6xx|[![41989](https://img.shields.io/github/stars/lpil/mala)](https://github.com/lpil/mala)
 |11|[glemo](https://hex.pm/packages/glemo)|1.0.1|2024-07-17|Simple function memoization over Erlang ETS / JavaScript Map for Gleam|4xx|[![38463](https://img.shields.io/github/stars/darky/glemo)](https://github.com/darky/glemo)
 |12|[slate](https://hex.pm/packages/slate)|1.0.0|2026-04-07|Type-safe Gleam wrapper for Erlang DETS (Disk Erlang Term Storage)|3xx|[![64392](https://img.shields.io/github/stars/tylerbutler/slate)](https://github.com/tylerbutler/slate)
-|13|[wisp_kv_sessions_ets_stor e ](https://hex.pm/packages/wisp_kv_sessions_ets_store)|0.0.2|2024-12-19|Erlang Term Storage (ETS) driver for wisp_kv_sessions|1xx|
+|13|[wisp_kv_sessions_ets_stor e ](https://hex.pm/packages/wisp_kv_sessions_ets_store)|0.0.2|2024-12-19|Erlang Term Storage (ETS) driver for wisp_kv_sessions|2xx|
