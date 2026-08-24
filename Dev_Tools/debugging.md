@@ -61,7 +61,7 @@
 |45|[elixir_scope](https://hex.pm/packages/elixir_scope)|0.0.1|2025-05-27|ElixirScope is a next-generation debugging and observability platform for Elixir applications, designed to provide an Execution Cinema experience through deep, compile-time AST instrumentation guided by AI-powered analysis.|1xx|[![34871](https://img.shields.io/github/stars/nshkrdotcom/ElixirScope)](https://github.com/nshkrdotcom/ElixirScope)
 |46|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
 |47|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|6x|
-|48|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.1.0|2026-08-23|UI components for authoring, observing, and debugging statifier statecharts|2x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|48|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.1.1|2026-08-24|UI components for authoring, observing, and debugging statifier statecharts|2x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

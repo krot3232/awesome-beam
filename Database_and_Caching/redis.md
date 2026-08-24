@@ -122,6 +122,7 @@
 |103|[kino_redis_cluster](https://hex.pm/packages/kino_redis_cluster)|0.1.1|2026-03-03|Livebook extension for RedisCluster|1xx|[![40862](https://img.shields.io/github/stars/Tubitv/redis_cluster)](https://github.com/Tubitv/redis_cluster)
 |104|[ex_limit](https://hex.pm/packages/ex_limit)|0.1.0|2025-08-05|Fast, Redis-backed token-bucket rate limiter|1xx|[![36319](https://img.shields.io/github/stars/meszmate/ex_limit)](https://github.com/meszmate/ex_limit)
 |105|[redis_oban](https://hex.pm/packages/redis_oban)|0.1.0|2026-01-16|A high-performance, Redis-backed job processing library for Elixir.|9x|[![63025](https://img.shields.io/github/stars/matheus1lva/redis_oban)](https://github.com/matheus1lva/redis_oban)
+|106|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.1.0|2026-08-24|Process-scoped Redis connections for concurrent ExUnit tests|0|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
 # Gleam Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
