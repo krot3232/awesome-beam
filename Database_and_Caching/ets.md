@@ -6,7 +6,7 @@
 |3|[ecache](https://hex.pm/packages/ecache)|2.14.4|2026-04-17|ecache - Erlang ETS Based Cache|4xxx|[![34286](https://img.shields.io/github/stars/Ledest/ecache)](https://github.com/Ledest/ecache)
 |4|[http_cache_store_memory](https://hex.pm/packages/http_cache_store_memory)|1.0.1|2026-05-17|A store for http_cache that uses ETS for in-memory caching|3xxx|[![39751](https://img.shields.io/github/stars/tanguilp/http_cache_store_memory)](https://github.com/tanguilp/http_cache_store_memory)
 |5|[etsmgr](https://hex.pm/packages/etsmgr)|0.4.0|2025-11-22|ETS Table Manager|2xxx|[![35451](https://img.shields.io/github/stars/fredyouhanaie/etsmgr)](https://github.com/fredyouhanaie/etsmgr)
-|6|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|1xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
+|6|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|2xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |7|[lpr](https://hex.pm/packages/lpr)|0.1.2|2019-11-14|An ETS-backed process registry with an API that&#039;s a subset of ostinelli/syn|1xxx|[![41755](https://img.shields.io/github/stars/marianoguerra/lpr)](https://github.com/marianoguerra/lpr)
 |8|[ets_cas](https://hex.pm/packages/ets_cas)|0.1.1|2017-10-12|handle CAS semantic to ETS on different OTP version|7xx|
 |9|[keep](https://hex.pm/packages/keep)|0.1.0|2024-12-07|An easy KV wrapper for ETS|2xx|
@@ -15,7 +15,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2458xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|1975xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|1976xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
 |3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|496xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
 |4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|199xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
 |5|[event_bus](https://hex.pm/packages/event_bus)|1.7.0|2022-01-02|Traceable, extendable and minimalist event bus implementation for Elixirwith built-in event store and event watcher based on ETS|63xxxx|[![35486](https://img.shields.io/github/stars/otobus/event_bus)](https://github.com/otobus/event_bus)
@@ -34,7 +34,7 @@
 |18|[plug_ets_cache](https://hex.pm/packages/plug_ets_cache)|0.3.1|2018-12-11|A simple caching system based on Plug and ETS.|1xxxx|[![45264](https://img.shields.io/github/stars/andreapavoni/plug_ets_cache)](https://github.com/andreapavoni/plug_ets_cache)
 |19|[indexed](https://hex.pm/packages/indexed)|0.3.4|2023-03-09|Manage and Paginate records in ETS.|1xxxx|[![40051](https://img.shields.io/github/stars/djthread/indexed)](https://github.com/djthread/indexed)
 |20|[blanket](https://hex.pm/packages/blanket)|1.0.0|2017-05-15|Don&#039;t loose your ETS tables with Elixir.|1xxxx|[![31577](https://img.shields.io/github/stars/niahoo/blanket)](https://github.com/niahoo/blanket)
-|21|[vettore](https://hex.pm/packages/vettore)|0.3.3|2026-08-12|Adaptive vector search for Elixir with ETS storage and native acceleration|6xxx|[![66859](https://img.shields.io/github/stars/elchemista/vettore)](https://github.com/elchemista/vettore)
+|21|[vettore](https://hex.pm/packages/vettore)|0.3.4|2026-08-23|Adaptive vector search for Elixir with ETS storage and native acceleration|6xxx|[![66859](https://img.shields.io/github/stars/elchemista/vettore)](https://github.com/elchemista/vettore)
 |22|[leaky](https://hex.pm/packages/leaky)|0.1.1|2024-05-07|Implements a token-based rate limiter using the leaky bucket algorithm, ideal for controlling access rates to resources in Elixir applications. This implementation leverages ETS for optimized performance, making it suitable for high-load environments.|3xxx|[![41174](https://img.shields.io/github/stars/ihorkatkov/leaky)](https://github.com/ihorkatkov/leaky)
 |23|[ets_helper](https://hex.pm/packages/ets_helper)|0.1.0|2017-09-18|ETS Wrapper to help in your Elixir projects.|3xxx|[![35446](https://img.shields.io/github/stars/mendrugory/ets_helper)](https://github.com/mendrugory/ets_helper)
 |24|[fakeredis](https://hex.pm/packages/fakeredis)|0.2.1|2020-04-26|FakeRedis recreates the Redis API using only native Erlang/Elixir features,especially ETS.|2xxx|[![37243](https://img.shields.io/github/stars/roryqueue/fakeredis)](https://github.com/roryqueue/fakeredis)
@@ -96,7 +96,7 @@
 |6|[reki](https://hex.pm/packages/reki)|1.2.0|2026-06-10|A Gleam actor registry that manages actors by key, with fast ETS lookups and automatic cleanup|1xxx|[![63098](https://img.shields.io/github/stars/alii/reki)](https://github.com/alii/reki)
 |7|[rasa](https://hex.pm/packages/rasa)|2.1.0|2026-06-21|Type-safe ETS tables, queues, and counters for Gleam|1xxx|[![46169](https://img.shields.io/github/stars/stndrs/rasa)](https://github.com/stndrs/rasa)
 |8|[dream_ets](https://hex.pm/packages/dream_ets)|2.0.0|2025-12-09|Type-safe ETS (Erlang Term Storage) for Gleam|7xx|[![34107](https://img.shields.io/github/stars/TrustBound/dream)](https://github.com/TrustBound/dream)
-|9|[cell](https://hex.pm/packages/cell)|1.0.0|2025-10-07|Mutable references that can be concurrently accessed, based on ETS tables|6xx|[![32240](https://img.shields.io/github/stars/lpil/cell)](https://github.com/lpil/cell)
+|9|[cell](https://hex.pm/packages/cell)|1.0.0|2025-10-07|Mutable references that can be concurrently accessed, based on ETS tables|7xx|[![32240](https://img.shields.io/github/stars/lpil/cell)](https://github.com/lpil/cell)
 |10|[mala](https://hex.pm/packages/mala)|1.2.0|2026-04-30|ETS bags, an in-memory table where one key can have multiple values|6xx|[![41989](https://img.shields.io/github/stars/lpil/mala)](https://github.com/lpil/mala)
 |11|[glemo](https://hex.pm/packages/glemo)|1.0.1|2024-07-17|Simple function memoization over Erlang ETS / JavaScript Map for Gleam|4xx|[![38463](https://img.shields.io/github/stars/darky/glemo)](https://github.com/darky/glemo)
 |12|[slate](https://hex.pm/packages/slate)|1.0.0|2026-04-07|Type-safe Gleam wrapper for Erlang DETS (Disk Erlang Term Storage)|3xx|[![64392](https://img.shields.io/github/stars/tylerbutler/slate)](https://github.com/tylerbutler/slate)

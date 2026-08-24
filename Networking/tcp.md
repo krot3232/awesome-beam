@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16045xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16047xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -25,7 +25,7 @@
 |10|[chatter](https://hex.pm/packages/chatter)|0.0.15|2016-06-04|Chatter is extracted from the ScaleSmall project as a standalone piece.This may be used independently to broadcast messages to a set of nodes.It uses a mixture of UDP multicast and TCP to deliver messages and triesto minimize network traffic while doing so.|1xxxx|[![32342](https://img.shields.io/github/stars/dbeck/chatter_ex)](https://github.com/dbeck/chatter_ex)
 |11|[modbus_tcp_server](https://hex.pm/packages/modbus_tcp_server)|1.1.0|2017-01-09|A Modbus TCP Server Implementation|1xxx|
 |12|[modbuzz](https://hex.pm/packages/modbuzz)|0.3.0|2026-06-13|Yet another MODBUS library, supporting both TCP and RTU, providing gateway functionality.|1xxx|[![42833](https://img.shields.io/github/stars/tombo-works/modbuzz)](https://github.com/tombo-works/modbuzz)
-|13|[ferricstore_sdk](https://hex.pm/packages/ferricstore_sdk)|0.11.13|2026-08-22|Official Elixir SDK for FerricStore over native TCP and stateless HTTP.|9xx|[![4495886](https://img.shields.io/github/stars/ferricstore/ferricstore-elixir)](https://github.com/ferricstore/ferricstore-elixir)
+|13|[ferricstore_sdk](https://hex.pm/packages/ferricstore_sdk)|0.11.14|2026-08-23|Official Elixir SDK for FerricStore over native TCP and stateless HTTP.|9xx|[![4495886](https://img.shields.io/github/stars/ferricstore/ferricstore-elixir)](https://github.com/ferricstore/ferricstore-elixir)
 |14|[compound](https://hex.pm/packages/compound)|0.2.0|2018-06-29|Compound is a minimalistic TCP Server written in Elixir|8xx|[![32854](https://img.shields.io/github/stars/lvlick/Compound)](https://github.com/lvlick/Compound)
 |15|[joker](https://hex.pm/packages/joker)|0.2.0|2016-07-27|Socket acceptor pool for TCP protocol written in Elixir.|8xx|[![40474](https://img.shields.io/github/stars/0x00evil/joker)](https://github.com/0x00evil/joker)
 |16|[rodeo_tcp](https://hex.pm/packages/rodeo_tcp)|0.2.0|2019-02-15|Rodeo provides a convenient way for creating a plain TCP mock server. This is useful for testing integrations with simple, proprietary TCP servers.|6xx|[![63429](https://img.shields.io/github/stars/suitepad-gmbh/rodeo)](https://github.com/suitepad-gmbh/rodeo)
