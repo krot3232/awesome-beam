@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[tailwind](https://hex.pm/packages/tailwind)|0.5.1|2026-06-16|Mix tasks for installing and invoking tailwind|1413xxxx|[![65411](https://img.shields.io/github/stars/phoenixframework/tailwind)](https://github.com/phoenixframework/tailwind)
-|2|[phx_new](https://hex.pm/packages/phx_new)|1.8.12|2026-08-23|Phoenix framework project generator.Provides a mix phx.new task to bootstrap a new Elixir applicationwith Phoenix dependencies.|219xxxx|[![45039](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|2|[phx_new](https://hex.pm/packages/phx_new)|1.8.13|2026-08-25|Phoenix framework project generator.Provides a mix phx.new task to bootstrap a new Elixir applicationwith Phoenix dependencies.|219xxxx|[![45039](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |3|[sbom](https://hex.pm/packages/sbom)|0.10.0|2026-04-09|Mix task to generate a Software Bill-of-Materials (SBoM) in CycloneDX format|42xxxx|[![63710](https://img.shields.io/github/stars/erlef/mix_sbom)](https://github.com/erlef/mix_sbom)
 |4|[bun](https://hex.pm/packages/bun)|2.0.0|2026-02-13|Mix tasks for installing and invoking bun|11xxxx|[![31934](https://img.shields.io/github/stars/crbelaus/bun)](https://github.com/crbelaus/bun)
 |5|[deps_nix](https://hex.pm/packages/deps_nix)|3.1.1|2026-08-12|Mix task that converts Mix dependencies to Nix derivations|9xxxx|[![33715](https://img.shields.io/github/stars/code-supply/deps_nix)](https://github.com/code-supply/deps_nix)

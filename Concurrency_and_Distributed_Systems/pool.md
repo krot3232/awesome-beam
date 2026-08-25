@@ -36,7 +36,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|14826xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
-|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2024-03-25|A tiny resource-pool implementation|5757xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
+|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|5757xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
 |3|[browse](https://hex.pm/packages/browse)|0.5.0|2026-03-27|Shared browser automation contract and pool implementation for Elixir browser backends|2xxxx|[![31851](https://img.shields.io/github/stars/pepicrft/browse)](https://github.com/pepicrft/browse)
 |4|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)
 |5|[grpc_connection_pool](https://hex.pm/packages/grpc_connection_pool)|0.5.2|2026-08-07|A flexible and robust gRPC connection pooling library for Elixir.Features environment-agnostic configuration, connection warming, health monitoring,and automatic retry logic with exponential backoff and jitter.|4xxx|[![39187](https://img.shields.io/github/stars/nyo16/grpc_connection_pool)](https://github.com/nyo16/grpc_connection_pool)

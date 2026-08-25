@@ -82,7 +82,7 @@
 ## DNS
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.2.0|2025-03-04|Simple DNS clustering for distributed Elixir nodes|756xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)|elixir
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|756xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)|elixir
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|143xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)|elixir
 |3|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-05-25|A simple, no frills mDNS implementation in Elixir|39xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)|elixir
 |4|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.17|2026-07-30|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)|erlang
@@ -97,7 +97,7 @@
 |-|-|-|-|:-|-|-|-
 |1|[postgrex](https://hex.pm/packages/postgrex)|1.0.0-rc.1|2026-08-07|PostgreSQL driver for Elixir|13895xxxx|[![45561](https://img.shields.io/github/stars/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)|elixir
 |2|[ecto_sql](https://hex.pm/packages/ecto_sql)|3.14.0|2026-05-19|SQL-based adapters for Ecto and database migrations|12724xxxx|[![34535](https://img.shields.io/github/stars/elixir-ecto/ecto_sql)](https://github.com/elixir-ecto/ecto_sql)|elixir
-|3|[oban](https://hex.pm/packages/oban)|2.23.1|2026-08-03|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2643xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
+|3|[oban](https://hex.pm/packages/oban)|2.24.0|2026-08-25|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2643xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
 |4|[epgsql](https://hex.pm/packages/epgsql)|4.8.0|2025-06-06|PostgreSQL Client|268xxxx|[![35129](https://img.shields.io/github/stars/epgsql/epgsql)](https://github.com/epgsql/epgsql)|erlang
 |5|[eql](https://hex.pm/packages/eql)|0.2.0|2018-12-06|Erlang with SQL|75xxxx|[![35157](https://img.shields.io/github/stars/artemeff/eql)](https://github.com/artemeff/eql)|erlang
 |6|[mysql](https://hex.pm/packages/mysql)|1.9.0|2025-03-16|MySQL/OTP - Erlang MySQL client driver|59xxxx|[![43154](https://img.shields.io/github/stars/mysql-otp/mysql-otp)](https://github.com/mysql-otp/mysql-otp)|erlang
@@ -241,7 +241,7 @@
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.12|2026-08-20|Peace of mind from prototype to production|15410xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15410xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|316xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)|elixir
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)|elixir
 |4|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|28xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)|gleam
@@ -256,7 +256,7 @@
 |-|-|-|-|:-|-|-|-
 |1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|14826xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
 |2|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8705xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)|erlang
-|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2024-03-25|A tiny resource-pool implementation|5757xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
+|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|5757xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
 |4|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|2886xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)|erlang
 |5|[worker_pool](https://hex.pm/packages/worker_pool)|6.5.3|2026-03-20|Erlang Worker Pool|149xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)|erlang
 |6|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)|elixir

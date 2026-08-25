@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.12|2026-08-20|Peace of mind from prototype to production|15410xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15410xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|316xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -70,8 +70,8 @@
 |51|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|9x|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |52|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|9x|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
 |53|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|9x|
-|54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|9x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|55|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|54|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|55|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|9x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |56|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|9x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
