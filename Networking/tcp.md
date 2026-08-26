@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16055xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16062xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -28,7 +28,7 @@
 |13|[ferricstore_sdk](https://hex.pm/packages/ferricstore_sdk)|0.11.14|2026-08-23|Official Elixir SDK for FerricStore over native TCP and stateless HTTP.|9xx|[![4495886](https://img.shields.io/github/stars/ferricstore/ferricstore-elixir)](https://github.com/ferricstore/ferricstore-elixir)
 |14|[compound](https://hex.pm/packages/compound)|0.2.0|2018-06-29|Compound is a minimalistic TCP Server written in Elixir|8xx|[![32854](https://img.shields.io/github/stars/lvlick/Compound)](https://github.com/lvlick/Compound)
 |15|[joker](https://hex.pm/packages/joker)|0.2.0|2016-07-27|Socket acceptor pool for TCP protocol written in Elixir.|8xx|[![40474](https://img.shields.io/github/stars/0x00evil/joker)](https://github.com/0x00evil/joker)
-|16|[rodeo_tcp](https://hex.pm/packages/rodeo_tcp)|0.2.0|2019-02-15|Rodeo provides a convenient way for creating a plain TCP mock server. This is useful for testing integrations with simple, proprietary TCP servers.|6xx|[![63429](https://img.shields.io/github/stars/suitepad-gmbh/rodeo)](https://github.com/suitepad-gmbh/rodeo)
+|16|[rodeo_tcp](https://hex.pm/packages/rodeo_tcp)|0.2.0|2019-02-15|Rodeo provides a convenient way for creating a plain TCP mock server. This is useful for testing integrations with simple, proprietary TCP servers.|7xx|[![63429](https://img.shields.io/github/stars/suitepad-gmbh/rodeo)](https://github.com/suitepad-gmbh/rodeo)
 |17|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|5xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
 |18|[transport](https://hex.pm/packages/transport)|0.1.0|2020-05-08|an abstraction api and helpers for TCP and TLS|4xx|[![66131](https://img.shields.io/github/stars/ityonemo/transport)](https://github.com/ityonemo/transport)
 |19|[nexus](https://hex.pm/packages/nexus)|0.1.0|2018-09-05|A lightweight and functional TCP socket pool acceptor for use with flux.|3xx|[![43523](https://img.shields.io/github/stars/cjfreeze/nexus)](https://github.com/cjfreeze/nexus)
@@ -41,7 +41,7 @@
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|4xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
+|1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|5xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
 |2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|4xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
 |4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx|

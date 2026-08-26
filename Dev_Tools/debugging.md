@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|958xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|959xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|56xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|11xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -42,7 +42,7 @@
 |26|[ex_pi](https://hex.pm/packages/ex_pi)|1.0.3|2020-12-29|Pretty Inspect pi() function for those, who love puts debugging.|7xx|[![36604](https://img.shields.io/github/stars/versilov/pi)](https://github.com/versilov/pi)
 |27|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|7xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
 |28|[jido_otel](https://hex.pm/packages/jido_otel)|1.0.0|2026-05-23|OpenTelemetry tracer bridge for Jido.Observe|7xx|[![3209728](https://img.shields.io/github/stars/agentjido/jido_otel)](https://github.com/agentjido/jido_otel)
-|29|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|6xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
+|29|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|7xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
 |30|[ether](https://hex.pm/packages/ether)|0.0.1|2015-05-12|Elixir Debugger|6xx|[![35413](https://img.shields.io/github/stars/maarek/ether)](https://github.com/maarek/ether)
 |31|[probe](https://hex.pm/packages/probe)|1.0.1|2017-07-05|A super-powered version of IO.inspect for better print debugging.|6xx|[![45688](https://img.shields.io/github/stars/strobe-audio/probe)](https://github.com/strobe-audio/probe)
 |32|[slog](https://hex.pm/packages/slog)|0.1.1|2018-11-19|Print multiple values as string (except functions and binaries) for debugging.|5xx|[![64411](https://img.shields.io/github/stars/palerdot/slog)](https://github.com/palerdot/slog)
@@ -57,11 +57,11 @@
 |41|[color_process_inspect](https://hex.pm/packages/color_process_inspect)|0.1.0|2022-08-01|Library for development and debugging that provides color-coded inspectoutput according the the process (pid) that is doing the inspecting.|2xx|[![32769](https://img.shields.io/github/stars/LiterateLabs/ColorProcessInspect)](https://github.com/LiterateLabs/ColorProcessInspect)
 |42|[tracing_web](https://hex.pm/packages/tracing_web)|0.0.0|2025-01-29|Dashboard for Tracing applications using erlang debugger|2xx|[![66078](https://img.shields.io/github/stars/thiagoesteves/tracing_web)](https://github.com/thiagoesteves/tracing_web)
 |43|[phoenix_debug_bar](https://hex.pm/packages/phoenix_debug_bar)|0.1.0|2022-01-19|A debugging toolbar for Phoenix|2xx|
-|44|[replayx](https://hex.pm/packages/replayx)|1.0.3|2026-02-06|Deterministic replay debugging for Elixir GenServers. Record what led to a crash, then replay it exactly.|1xx|[![63173](https://img.shields.io/github/stars/SumitPugalia/replayx)](https://github.com/SumitPugalia/replayx)
+|44|[replayx](https://hex.pm/packages/replayx)|1.0.3|2026-02-06|Deterministic replay debugging for Elixir GenServers. Record what led to a crash, then replay it exactly.|2xx|[![63173](https://img.shields.io/github/stars/SumitPugalia/replayx)](https://github.com/SumitPugalia/replayx)
 |45|[elixir_scope](https://hex.pm/packages/elixir_scope)|0.0.1|2025-05-27|ElixirScope is a next-generation debugging and observability platform for Elixir applications, designed to provide an Execution Cinema experience through deep, compile-time AST instrumentation guided by AI-powered analysis.|1xx|[![34871](https://img.shields.io/github/stars/nshkrdotcom/ElixirScope)](https://github.com/nshkrdotcom/ElixirScope)
 |46|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
 |47|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|6x|
-|48|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.1.1|2026-08-24|UI components for authoring, observing, and debugging statifier statecharts|4x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|48|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.1.1|2026-08-24|UI components for authoring, observing, and debugging statifier statecharts|5x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

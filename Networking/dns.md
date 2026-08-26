@@ -12,7 +12,7 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|756xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|758xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|143xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-05-25|A simple, no frills mDNS implementation in Elixir|39xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
@@ -46,7 +46,7 @@
 # Gleam DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[nessie_cluster](https://hex.pm/packages/nessie_cluster)|0.3.0|2025-01-27|A small DNS clustering library for Gleam applications.|7xx|[![43439](https://img.shields.io/github/stars/ckreiling/nessie_cluster)](https://github.com/ckreiling/nessie_cluster)
+|1|[nessie_cluster](https://hex.pm/packages/nessie_cluster)|0.3.0|2025-01-27|A small DNS clustering library for Gleam applications.|8xx|[![43439](https://img.shields.io/github/stars/ckreiling/nessie_cluster)](https://github.com/ckreiling/nessie_cluster)
 |2|[nessie](https://hex.pm/packages/nessie)|0.1.0|2024-04-07|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|4xx|[![43437](https://img.shields.io/github/stars/ckreiling/nessie)](https://github.com/ckreiling/nessie)
 |3|[esdee](https://hex.pm/packages/esdee)|1.0.1|2025-12-25|Gleam DNS-SD discovery on Erlang|3xx|[![35348](https://img.shields.io/github/stars/sbergen/esdee)](https://github.com/sbergen/esdee)
 |4|[nessie_2](https://hex.pm/packages/nessie_2)|0.2.0|2025-11-14|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|1xx|[![43438](https://img.shields.io/github/stars/violetbuse/nessie_2)](https://github.com/violetbuse/nessie_2)

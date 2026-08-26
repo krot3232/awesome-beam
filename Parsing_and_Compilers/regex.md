@@ -40,4 +40,4 @@
 |2|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|1xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|4xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
 |4|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|1xx|
-|5|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|9x|
+|5|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|1xx|

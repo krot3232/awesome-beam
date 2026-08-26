@@ -1,8 +1,8 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6828xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
-|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|657xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6830xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|658xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|86xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|77xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
 |5|[unite](https://hex.pm/packages/unite)|0.4.3|2023-09-27|Pretty EUnit test formatters|21xxxx|[![66591](https://img.shields.io/github/stars/eproxus/unite)](https://github.com/eproxus/unite)
@@ -23,7 +23,7 @@
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2094xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2095xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
 |2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|416xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
 |3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|254xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.16.0|2024-03-01|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|199xxxx|
@@ -50,7 +50,7 @@
 |25|[mixunit](https://hex.pm/packages/mixunit)|0.9.2|2015-05-13|an eunit task for mix|8xxx|[![42747](https://img.shields.io/github/stars/talentdeficit/mixunit)](https://github.com/talentdeficit/mixunit)
 |26|[web_spell](https://hex.pm/packages/web_spell)|0.4.0|2018-05-02|WebSpell is an HTTP mocking library for Elixir. It is somewhat inspired by WebMock for Ruby, but adapted to the different programming environment of Elixir.|8xxx|[![67137](https://img.shields.io/github/stars/langalex/web_spell)](https://github.com/langalex/web_spell)
 |27|[dummy](https://hex.pm/packages/dummy)|2.1.0|2024-08-19|Elixir mocking that makes sense. Dummy relies on meck and exposes a      simpler way to mock methods than mock|7xxx|
-|28|[moxinet](https://hex.pm/packages/moxinet)|0.8.0|2026-08-10|Mocking server that, just like mox, allows parallel testing, but over HTTP.|6xxx|[![42975](https://img.shields.io/github/stars/johantell/moxinet)](https://github.com/johantell/moxinet)
+|28|[moxinet](https://hex.pm/packages/moxinet)|0.8.0|2026-08-10|Mocking server that, just like mox, allows parallel testing, but over HTTP.|7xxx|[![42975](https://img.shields.io/github/stars/johantell/moxinet)](https://github.com/johantell/moxinet)
 |29|[httpmock](https://hex.pm/packages/httpmock)|0.1.7|2024-07-10|HTTP mocking for Elixir|6xxx|[![39773](https://img.shields.io/github/stars/andridus/httpmock)](https://github.com/andridus/httpmock)
 |30|[grpc_mock2](https://hex.pm/packages/grpc_mock2)|0.4.0|2023-03-08|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|4xxx|[![39194](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |31|[mock_http_server](https://hex.pm/packages/mock_http_server)|0.4.0-pre1|2025-10-22|A mock http server for testing/mocking remote http calls|2xxx|[![42823](https://img.shields.io/github/stars/sriedel/mock_http_server)](https://github.com/sriedel/mock_http_server)
@@ -68,8 +68,8 @@
 |43|[propcheck_derive](https://hex.pm/packages/propcheck_derive)|0.1.1|2020-02-11|Derive PropCheck generators from types|4xx|[![45754](https://img.shields.io/github/stars/evnu/propcheck_derive)](https://github.com/evnu/propcheck_derive)
 |44|[placebo_test](https://hex.pm/packages/placebo_test)|3.0.1|2023-05-26|A mocking library for ExUnit inspired by RSpec and based on meck.|3xx|
 |45|[faux_mq](https://hex.pm/packages/faux_mq)|1.0.0|2026-04-06|Dummy AMQP 0-9-1 broker for integration testing with powerful mocking API.|3xx|[![37312](https://img.shields.io/github/stars/aszymanskiit/faux-mq)](https://github.com/aszymanskiit/faux-mq)
-|46|[exunit_elephant](https://hex.pm/packages/exunit_elephant)|0.1.0|2019-12-07|Elephant is an opinionated mocking library for Elixir. It takes the stance that the easiest way to create loose coupling in your codebase is to follow the Dependency Inversion Principle (DIP).This framework allows adhoc mocks so that you can emulate edge cases in your tests.|2xx|[![37064](https://img.shields.io/github/stars/steven-solomon/elephant)](https://github.com/steven-solomon/elephant)
-|47|[rtypes_propcheck](https://hex.pm/packages/rtypes_propcheck)|0.1.0|2019-12-22|A PropCheck backend that implements data generators for use with RTypes library|2xx|[![63536](https://img.shields.io/github/stars/d2km/rtypes_propcheck)](https://github.com/d2km/rtypes_propcheck)
+|46|[rtypes_propcheck](https://hex.pm/packages/rtypes_propcheck)|0.1.0|2019-12-22|A PropCheck backend that implements data generators for use with RTypes library|2xx|[![63536](https://img.shields.io/github/stars/d2km/rtypes_propcheck)](https://github.com/d2km/rtypes_propcheck)
+|47|[exunit_elephant](https://hex.pm/packages/exunit_elephant)|0.1.0|2019-12-07|Elephant is an opinionated mocking library for Elixir. It takes the stance that the easiest way to create loose coupling in your codebase is to follow the Dependency Inversion Principle (DIP).This framework allows adhoc mocks so that you can emulate edge cases in your tests.|2xx|[![37064](https://img.shields.io/github/stars/steven-solomon/elephant)](https://github.com/steven-solomon/elephant)
 |48|[marvin_load_test](https://hex.pm/packages/marvin_load_test)|0.1.0|2020-12-31|A light-weight load testing tool.|2xx|[![42101](https://img.shields.io/github/stars/cardinalblue/marvin)](https://github.com/cardinalblue/marvin)
 # Gleam Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
