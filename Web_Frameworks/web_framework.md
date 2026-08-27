@@ -32,7 +32,7 @@
 |13|[tokumei](https://hex.pm/packages/tokumei)|0.9.1|2017-11-07|The Elixir web unframework|8xxx|[![65983](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |14|[ashes](https://hex.pm/packages/ashes)|0.0.3|2015-01-23|A code generation tool for the phoenix web framework|7xxx|
 |15|[raxx_kit](https://hex.pm/packages/raxx_kit)|0.12.2|2020-04-07|Micro framework for web applications with Raxx and Ace.|6xxx|[![46225](https://img.shields.io/github/stars/crowdhailer/raxx_kit)](https://github.com/crowdhailer/raxx_kit)
-|16|[hologram](https://hex.pm/packages/hologram)|0.11.0|2026-08-05|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
+|16|[hologram](https://hex.pm/packages/hologram)|0.11.1|2026-08-27|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
 |17|[trot](https://hex.pm/packages/trot)|0.7.0|2019-06-05|A web micro-framework based on Plug and Cowboy.|4xxx|[![66194](https://img.shields.io/github/stars/hexedpackets/trot)](https://github.com/hexedpackets/trot)
 |18|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |19|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
