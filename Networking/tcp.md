@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16062xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16067xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -36,7 +36,7 @@
 |21|[gen_tailscale](https://hex.pm/packages/gen_tailscale)|0.1.1|2025-09-23|Functionality to serve TCP servers directly on your Tailscale network usinglibtailscale.|2xx|[![38124](https://img.shields.io/github/stars/Munksgaard/gen_tailscale)](https://github.com/Munksgaard/gen_tailscale)
 |22|[vowpal_client](https://hex.pm/packages/vowpal_client)|0.1.0|2018-11-16|Vowpal Wabbit (awesome machine learning tool - https://github.com/JohnLangford/vowpal_wabbit/) TCP client to query for training and predicting|2xx|[![66956](https://img.shields.io/github/stars/jackdoe/elixir-vowpal-client)](https://github.com/jackdoe/elixir-vowpal-client)
 |23|[clickhouse_adapter_ecto](https://hex.pm/packages/clickhouse_adapter_ecto)|0.3.4|2026-08-26|An Ecto adapter for ClickHouse that speaks its native TCP protocol.|2xx|[![6149591](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
-|24|[ch_driver](https://hex.pm/packages/ch_driver)|0.4.0|2026-08-26|DBConnection driver speaking ClickHouse&#039;s native TCP protocol, including its LZ4/CityHash compression NIF and compressed-block wire envelope.|1xx|[![6149393](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
+|24|[ch_driver](https://hex.pm/packages/ch_driver)|0.4.0|2026-08-26|DBConnection driver speaking ClickHouse&#039;s native TCP protocol, including its LZ4/CityHash compression NIF and compressed-block wire envelope.|2xx|[![6149393](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
 |25|[autoport](https://hex.pm/packages/autoport)|1.0.0|2026-08-20|Automatically finds an available local TCP port, so multiple Phoenix apps can run at once.|1xx|[![7066065](https://img.shields.io/github/stars/chrisgreg/autoport)](https://github.com/chrisgreg/autoport)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

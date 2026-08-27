@@ -1,7 +1,7 @@
 # Erlang Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|393xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
+|1|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|394xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
 |2|[protobuffs](https://hex.pm/packages/protobuffs)|0.8.4|2016-07-25|An implementation of Google&#039;s Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.|72xxxx|[![45777](https://img.shields.io/github/stars/basho/erlang_protobuffs)](https://github.com/basho/erlang_protobuffs)
 |3|[riak_pb](https://hex.pm/packages/riak_pb)|2.3.2|2017-03-02|Riak Protocol Buffers Messages|62xxxx|[![63347](https://img.shields.io/github/stars/basho/riak_pb)](https://github.com/basho/riak_pb)
 |4|[nextroll_rebar3_gpb_plugi n ](https://hex.pm/packages/nextroll_rebar3_gpb_plugin)|3.0.0|2023-03-15|A rebar3 gpb plugin for compiling .proto files|3xxxx|[![43521](https://img.shields.io/github/stars/AdRoll/rebar3_gpb_plugin)](https://github.com/AdRoll/rebar3_gpb_plugin)
@@ -9,7 +9,7 @@
 # Elixir Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[protox](https://hex.pm/packages/protox)|2.0.10|2026-08-14|A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)|193xxxx|[![45791](https://img.shields.io/github/stars/ahamez/protox)](https://github.com/ahamez/protox)
+|1|[protox](https://hex.pm/packages/protox)|2.0.10|2026-08-14|A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)|194xxxx|[![45791](https://img.shields.io/github/stars/ahamez/protox)](https://github.com/ahamez/protox)
 |2|[astarte_rpc](https://hex.pm/packages/astarte_rpc)|1.2.2|2026-04-24|Astarte platform shared Protocol Buffers .proto files and Elixir AMQP client code.This component is one of the core components and basically is required to allow communication between different Astarte blocks.|15xxxx|[![7692](https://img.shields.io/github/stars/astarte-platform/astarte_rpc)](https://github.com/astarte-platform/astarte_rpc)
 |3|[protein](https://hex.pm/packages/protein)|0.20.0|2020-01-08|Multi-platform remote procedure call (RPC) system based on Protocol Buffers|5xxxx|[![45772](https://img.shields.io/github/stars/surgeventures/protein-elixir)](https://github.com/surgeventures/protein-elixir)
 # Gleam Protocol Buffers

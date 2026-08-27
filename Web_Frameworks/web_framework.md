@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15417xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15424xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|316xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -50,8 +50,8 @@
 |31|[tokumei_router](https://hex.pm/packages/tokumei_router)|0.3.0|2017-02-12|Tiny but might Elixir web framework|1xxx|[![65984](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |32|[gold_needle](https://hex.pm/packages/gold_needle)|0.0.3|2018-06-12|Various web page generator in Phoenix(Elixir Web Framework)|8xx|[![38651](https://img.shields.io/github/stars/piacere-ex/gold_needle)](https://github.com/piacere-ex/gold_needle)
 |33|[spirit](https://hex.pm/packages/spirit)|0.0.1|2015-07-30|Elixir microframework for web development.|6xx|[![64750](https://img.shields.io/github/stars/emancu/spirit)](https://github.com/emancu/spirit)
-|34|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|6xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
-|35|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
+|34|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
+|35|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|6xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
 |36|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|4xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
 |37|[game_server_web](https://hex.pm/packages/game_server_web)|1.0.943|2026-04-24|Web interface for Gamend GameServer, built with Phoenix Framework. Provides APIs, authentication, and real-time features.|3xx|[![37913](https://img.shields.io/github/stars/appsinacup/game_server)](https://github.com/appsinacup/game_server)
 |38|[dialup](https://hex.pm/packages/dialup)|0.2.0|2026-07-03|WebSocket-first Elixir framework with auto-generated HTTP MCP APIs|3xx|[![33775](https://img.shields.io/github/stars/SouichiroTsujimoto/Dialup)](https://github.com/SouichiroTsujimoto/Dialup)
