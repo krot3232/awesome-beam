@@ -1,9 +1,9 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|959xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|960xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|56xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
-|3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|11xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
+|3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
 |5|[xprof_gui](https://hex.pm/packages/xprof_gui)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler GUI|1xxxx|[![67432](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
 |6|[xprof_core](https://hex.pm/packages/xprof_core)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler tracer core|1xxxx|[![67431](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -60,8 +60,8 @@
 |44|[replayx](https://hex.pm/packages/replayx)|1.0.3|2026-02-06|Deterministic replay debugging for Elixir GenServers. Record what led to a crash, then replay it exactly.|2xx|[![63173](https://img.shields.io/github/stars/SumitPugalia/replayx)](https://github.com/SumitPugalia/replayx)
 |45|[elixir_scope](https://hex.pm/packages/elixir_scope)|0.0.1|2025-05-27|ElixirScope is a next-generation debugging and observability platform for Elixir applications, designed to provide an Execution Cinema experience through deep, compile-time AST instrumentation guided by AI-powered analysis.|1xx|[![34871](https://img.shields.io/github/stars/nshkrdotcom/ElixirScope)](https://github.com/nshkrdotcom/ElixirScope)
 |46|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
-|47|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|6x|
-|48|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.1.1|2026-08-24|UI components for authoring, observing, and debugging statifier statecharts|5x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|47|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.2.0|2026-08-27|UI components for authoring, observing, and debugging statifier statecharts|7x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|48|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|7x|
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

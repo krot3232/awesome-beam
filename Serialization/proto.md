@@ -15,5 +15,5 @@
 # Gleam Protocol Buffers
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[protozoa](https://hex.pm/packages/protozoa)|2.0.3|2025-09-17|A Protocol Buffers library for Gleam, providing encoding and decoding of protobuf messages.|1xxx|[![45792](https://img.shields.io/github/stars/renatillas/protozoa)](https://github.com/renatillas/protozoa)
+|1|[protozoa](https://hex.pm/packages/protozoa)|2.0.3|2025-09-17|A Protocol Buffers library for Gleam, providing encoding and decoding of protobuf messages.|2xxx|[![45792](https://img.shields.io/github/stars/renatillas/protozoa)](https://github.com/renatillas/protozoa)
 |2|[protozoa_dev](https://hex.pm/packages/protozoa_dev)|2.0.3|2025-09-17|CLI tool for the Protozoa Protocol Buffers library|1xxx|[![45793](https://img.shields.io/github/stars/renatillas/protozoa_dev)](https://github.com/renatillas/protozoa_dev)

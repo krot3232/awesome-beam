@@ -1,8 +1,8 @@
 # Erlang WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5571xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)
-|2|[gun](https://hex.pm/packages/gun)|2.5.0|2026-07-28|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1449xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
+|1|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5572xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)
+|2|[gun](https://hex.pm/packages/gun)|2.5.0|2026-07-28|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1451xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
 |3|[websocket_client](https://hex.pm/packages/websocket_client)|1.6.1|2025-11-08|Erlang websocket client|332xxxx|[![67129](https://img.shields.io/github/stars/sanmiguel/websocket_client)](https://github.com/sanmiguel/websocket_client)
 |4|[remedy_cowlib](https://hex.pm/packages/remedy_cowlib)|2.11.1|2021-10-03|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63127](https://img.shields.io/github/stars/bdanklin/cowlib)](https://github.com/bdanklin/cowlib)
 |5|[remedy_gun](https://hex.pm/packages/remedy_gun)|2.0.1|2021-10-05|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63129](https://img.shields.io/github/stars/bdanklin/gun)](https://github.com/bdanklin/gun)
@@ -17,9 +17,9 @@
 # Elixir WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3426xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)
-|2|[websockex](https://hex.pm/packages/websockex)|0.5.1|2025-12-01|An Elixir WebSocket client|458xxxx|[![67132](https://img.shields.io/github/stars/witchtails/websockex_wt)](https://github.com/witchtails/websockex_wt)
-|3|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|210xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)
+|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3432xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)
+|2|[websockex](https://hex.pm/packages/websockex)|0.5.1|2025-12-01|An Elixir WebSocket client|459xxxx|[![67132](https://img.shields.io/github/stars/witchtails/websockex_wt)](https://github.com/witchtails/websockex_wt)
+|3|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|211xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)
 |4|[absinthe_graphql_ws](https://hex.pm/packages/absinthe_graphql_ws)|0.3.6|2022-07-29|Add graphql-ws websocket transport for Absinthe|166xxxx|[![64](https://img.shields.io/github/stars/geometerio/absinthe_graphql_ws)](https://github.com/geometerio/absinthe_graphql_ws)
 |5|[slipstream](https://hex.pm/packages/slipstream)|1.2.2|2025-12-15|A slick websocket client for Phoenix channels|110xxxx|[![64407](https://img.shields.io/github/stars/NFIBrokerage/slipstream)](https://github.com/NFIBrokerage/slipstream)
 |6|[reverse_proxy_plug_websoc ket ](https://hex.pm/packages/reverse_proxy_plug_websocket)|0.2.0|2026-02-22|Support reverse proxying of websocket connections natively in Elixir|12xxxx|[![63306](https://img.shields.io/github/stars/mwhitworth/reverse_proxy_plug_websocket)](https://github.com/mwhitworth/reverse_proxy_plug_websocket)
@@ -47,7 +47,7 @@
 |28|[ex_golos](https://hex.pm/packages/ex_golos)|0.11.1|2018-07-03|Elixir websockets library and utilities for GOLOS JSONRPC websocket interface|5xxx|[![36153](https://img.shields.io/github/stars/cyberpunk-ventures/ex_golos)](https://github.com/cyberpunk-ventures/ex_golos)
 |29|[francis](https://hex.pm/packages/francis)|0.3.3|2026-05-20|Boilerplate killer using Plug with Bandit to quickly build endpoints, websocket and SSE listeners|5xxx|[![37773](https://img.shields.io/github/stars/francis-build/francis)](https://github.com/francis-build/francis)
 |30|[sock](https://hex.pm/packages/sock)|0.3.2|2022-11-02|A specification for WebSocket connections - PACKAGE RENAMED to websock|5xxx|[![64552](https://img.shields.io/github/stars/mtrudel/sock)](https://github.com/mtrudel/sock)
-|31|[reverse_it](https://hex.pm/packages/reverse_it)|0.2.6|2026-08-13|A full-featured reverse proxy for Phoenix and Plug applications with HTTP and WebSocket support.|4xxx|[![63301](https://img.shields.io/github/stars/chrismccord/reverse_it)](https://github.com/chrismccord/reverse_it)
+|31|[reverse_it](https://hex.pm/packages/reverse_it)|0.2.6|2026-08-13|A full-featured reverse proxy for Phoenix and Plug applications with HTTP and WebSocket support.|5xxx|[![63301](https://img.shields.io/github/stars/chrismccord/reverse_it)](https://github.com/chrismccord/reverse_it)
 |32|[graphql_ws_client](https://hex.pm/packages/graphql_ws_client)|2.0.2|2024-03-29|A client for connecting with GraphQL over Websockets following the graphql-ws conventions.|4xxx|[![39105](https://img.shields.io/github/stars/tlux/graphql_ws_client)](https://github.com/tlux/graphql_ws_client)
 |33|[cirro_connect](https://hex.pm/packages/cirro_connect)|0.1.9|2019-03-06|An Elixir websocket-based SQL connector for Cirro. CirroConnect allows Elixir programs to connect to Cirro (http://www.cirro.com) using its websocket API and issue federated queries.|4xxx|[![32475](https://img.shields.io/github/stars/cirroinc/cirro_connect)](https://github.com/cirroinc/cirro_connect)
 |34|[minch](https://hex.pm/packages/minch)|0.2.1|2025-07-04|A WebSocket client|4xxx|[![42622](https://img.shields.io/github/stars/nmbrone/minch)](https://github.com/nmbrone/minch)
@@ -77,8 +77,8 @@
 |58|[ws](https://hex.pm/packages/ws)|0.0.1|2016-05-22|An RFC 6455 WebSocket implementation.|5xx|
 |59|[http_web_socket](https://hex.pm/packages/http_web_socket)|0.11.0|2026-07-04|A browser-like WebSocket client API for Elixir|4xx|[![4804983](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
 |60|[smart_websocket_client](https://hex.pm/packages/smart_websocket_client)|0.1.0|2017-02-01|SmartWebsocketClient is a (not-so) smart websocket client with pool support.|4xx|[![64450](https://img.shields.io/github/stars/HackerExperience/SmartWebsocketClient)](https://github.com/HackerExperience/SmartWebsocketClient)
-|61|[flick](https://hex.pm/packages/flick)|0.2.0|2026-06-19|Binary (Erlang External Term Format) WebSocket transport for Phoenix, paired with erlb.js|4xx|[![4190641](https://img.shields.io/github/stars/saleyn/flick)](https://github.com/saleyn/flick)
-|62|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
+|61|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
+|62|[flick](https://hex.pm/packages/flick)|0.2.0|2026-06-19|Binary (Erlang External Term Format) WebSocket transport for Phoenix, paired with erlb.js|4xx|[![4190641](https://img.shields.io/github/stars/saleyn/flick)](https://github.com/saleyn/flick)
 |63|[mint_websocket_client](https://hex.pm/packages/mint_websocket_client)|0.1.1|2023-06-23|Behaviour module for implementing websocket clients.|3xx|[![42652](https://img.shields.io/github/stars/vshev4enko/mint_websocket_client)](https://github.com/vshev4enko/mint_websocket_client)
 |64|[rifle](https://hex.pm/packages/rifle)|0.1.0|2018-06-30|Elixir HTTP Client which supports HTTP 1.1 &amp; HTTP 2 &amp; Websockets. Wrapper over gun (https://github.com/ninenines/gun)|3xx|[![63357](https://img.shields.io/github/stars/iamd3vil/rifle)](https://github.com/iamd3vil/rifle)
 |65|[gundam](https://hex.pm/packages/gundam)|0.1.1|2023-04-04|Websocket client|3xx|[![39264](https://img.shields.io/github/stars/erikhu/gundam)](https://github.com/erikhu/gundam)
@@ -115,7 +115,7 @@
 |5|[collie](https://hex.pm/packages/collie)|3.0.0|2026-07-29|🐕 Websocket client in Gleam|1xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
 |6|[nerf](https://hex.pm/packages/nerf)|0.4.0|2023-05-24|Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client|1xxx|[![43284](https://img.shields.io/github/stars/lpil/nerf)](https://github.com/lpil/nerf)
 |7|[gleam_gun](https://hex.pm/packages/gleam_gun)|0.5.0|2024-02-04|Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client|8xx|[![38373](https://img.shields.io/github/stars/gilevskaya/gleam_gun)](https://github.com/gilevskaya/gleam_gun)
-|8|[goose](https://hex.pm/packages/goose)|2.0.0|2025-11-04|A Gleam WebSocket consumer for AT Protocol Jetstream events|6xx|[![39018](https://img.shields.io/github/stars/bigmoves/goose)](https://github.com/bigmoves/goose)
+|8|[goose](https://hex.pm/packages/goose)|2.0.0|2025-11-04|A Gleam WebSocket consumer for AT Protocol Jetstream events|7xx|[![39018](https://img.shields.io/github/stars/bigmoves/goose)](https://github.com/bigmoves/goose)
 |9|[stratocumulus](https://hex.pm/packages/stratocumulus)|1.0.0|2026-07-27|Gleam Bindings to browser WebSocket client|5xx|[![65049](https://img.shields.io/github/stars/ghivert/stratocumulus)](https://github.com/ghivert/stratocumulus)
 |10|[gleam_cowboy_websockets](https://hex.pm/packages/gleam_cowboy_websockets)|0.1.0|2022-04-04|An expermimental Gleam library for playing with Cowboy websockets|3xx|[![38358](https://img.shields.io/github/stars/vstreame/gleam_cowboy_websockets)](https://github.com/vstreame/gleam_cowboy_websockets)
 |11|[grom_stratus](https://hex.pm/packages/grom_stratus)|1.0.2|2025-11-11|A Gleam WebSocket client - fork for grom|2xx|[![39168](https://img.shields.io/github/stars/folospior/stratus)](https://github.com/folospior/stratus)
