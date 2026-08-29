@@ -77,8 +77,8 @@
 |58|[ws](https://hex.pm/packages/ws)|0.0.1|2016-05-22|An RFC 6455 WebSocket implementation.|5xx|
 |59|[http_web_socket](https://hex.pm/packages/http_web_socket)|0.11.0|2026-07-04|A browser-like WebSocket client API for Elixir|4xx|[![4804983](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
 |60|[smart_websocket_client](https://hex.pm/packages/smart_websocket_client)|0.1.0|2017-02-01|SmartWebsocketClient is a (not-so) smart websocket client with pool support.|4xx|[![64450](https://img.shields.io/github/stars/HackerExperience/SmartWebsocketClient)](https://github.com/HackerExperience/SmartWebsocketClient)
-|61|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
-|62|[flick](https://hex.pm/packages/flick)|0.2.0|2026-06-19|Binary (Erlang External Term Format) WebSocket transport for Phoenix, paired with erlb.js|4xx|[![4190641](https://img.shields.io/github/stars/saleyn/flick)](https://github.com/saleyn/flick)
+|61|[flick](https://hex.pm/packages/flick)|0.2.0|2026-06-19|Binary (Erlang External Term Format) WebSocket transport for Phoenix, paired with erlb.js|4xx|[![4190641](https://img.shields.io/github/stars/saleyn/flick)](https://github.com/saleyn/flick)
+|62|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
 |63|[mint_websocket_client](https://hex.pm/packages/mint_websocket_client)|0.1.1|2023-06-23|Behaviour module for implementing websocket clients.|3xx|[![42652](https://img.shields.io/github/stars/vshev4enko/mint_websocket_client)](https://github.com/vshev4enko/mint_websocket_client)
 |64|[rifle](https://hex.pm/packages/rifle)|0.1.0|2018-06-30|Elixir HTTP Client which supports HTTP 1.1 &amp; HTTP 2 &amp; Websockets. Wrapper over gun (https://github.com/ninenines/gun)|3xx|[![63357](https://img.shields.io/github/stars/iamd3vil/rifle)](https://github.com/iamd3vil/rifle)
 |65|[gundam](https://hex.pm/packages/gundam)|0.1.1|2023-04-04|Websocket client|3xx|[![39264](https://img.shields.io/github/stars/erikhu/gundam)](https://github.com/erikhu/gundam)
@@ -105,6 +105,7 @@
 |86|[websockex_adapter](https://hex.pm/packages/websockex_adapter)|0.1.1|2025-08-11|A robust WebSocket client library for Elixir, built on Gun transport for production-gradereliability. Designed for financial APIs with automatic reconnection, comprehensive errorhandling, and real-world testing.|1xx|[![67133](https://img.shields.io/github/stars/ZenHive/websockex_adapter)](https://github.com/ZenHive/websockex_adapter)
 |87|[ccxt](https://hex.pm/packages/ccxt)|0.1.0-binance-pro-preview|2026-06-11|Binance-first Elixir target generated from CCXT TypeScript sources, including CCXT Pro websocket support.|1xx|
 |88|[phoenix_echo](https://hex.pm/packages/phoenix_echo)|0.1.0|2025-11-23|Forward browser console logs and errors to Phoenix server logs via WebSocket|1xx|[![44792](https://img.shields.io/github/stars/itoxiq/phoenix_echo)](https://github.com/itoxiq/phoenix_echo)
+|89|[phoenix_htmx_ws](https://hex.pm/packages/phoenix_htmx_ws)|0.1.0|2026-08-29|Phoenix WebSocket transport for the htmx 4 hx-ws extension|0|[![7457966](https://img.shields.io/github/stars/on-my-machine-works/phoenix_htmx_ws)](https://github.com/on-my-machine-works/phoenix_htmx_ws)
 # Gleam WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
