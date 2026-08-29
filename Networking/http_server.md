@@ -1,21 +1,21 @@
 # Erlang HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14778xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14782xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
 |2|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|43xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
 |5|[simple_bridge](https://hex.pm/packages/simple_bridge)|2.3.2|2026-07-27|Common Interface to Erlang HTTP Servers|5xxx|[![64214](https://img.shields.io/github/stars/nitrogen/simple_bridge)](https://github.com/nitrogen/simple_bridge)
 |6|[roadrunner](https://hex.pm/packages/roadrunner)|0.8.0|2026-06-28|Pure-Erlang HTTP/1.1, HTTP/2, HTTP/3, and WebSocket server. Beep beep.|2xxx|[![3002014](https://img.shields.io/github/stars/arizona-framework/roadrunner)](https://github.com/arizona-framework/roadrunner)
 |7|[lmug](https://hex.pm/packages/lmug)|0.2.8|2024-02-18|LFE HTTP Server Abstraction and Web Application Middleware Infrastructure|2xxx|[![41566](https://img.shields.io/github/stars/lfe-mug/lmug)](https://github.com/lfe-mug/lmug)
-|8|[nhttp](https://hex.pm/packages/nhttp)|1.0.4|2026-08-24|HTTP/1.1, HTTP/2, and HTTP/3 server for Erlang/OTP 27+|1xxx|[![5094709](https://img.shields.io/github/stars/nomasystems/nhttp)](https://github.com/nomasystems/nhttp)
+|8|[nhttp](https://hex.pm/packages/nhttp)|1.0.4|2026-08-24|HTTP/1.1, HTTP/2, and HTTP/3 server for Erlang/OTP 27+|2xxx|[![5094709](https://img.shields.io/github/stars/nomasystems/nhttp)](https://github.com/nomasystems/nhttp)
 |9|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.1.2|2026-07-04|gRPC for Erlang on the livery HTTP/2 stack: server and client|1xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |10|[whitecap](https://hex.pm/packages/whitecap)|0.2.0|2026-08-23|High-Performance Erlang HTTP 1.1 Server|7xx|[![2382463](https://img.shields.io/github/stars/lpgauth/whitecap)](https://github.com/lpgauth/whitecap)
 |11|[hornbeam](https://hex.pm/packages/hornbeam)|1.4.1|2026-02-25|WSGI/ASGI HTTP server powered by the BEAM|4xx|[![39678](https://img.shields.io/github/stars/benoitc/hornbeam)](https://github.com/benoitc/hornbeam)
 # Elixir HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1377xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
+|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1381xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
 |2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1293xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
 |3|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)
 |4|[plug_signature](https://hex.pm/packages/plug_signature)|0.11.0|2023-03-07|Server side implementation of IETF HTTP signature draft as a reusable Plug|68xxxx|[![45356](https://img.shields.io/github/stars/voltone/plug_signature)](https://github.com/voltone/plug_signature)

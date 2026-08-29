@@ -12,7 +12,7 @@
 |:-|-|-|-|:-|-|-
 |1|[memento](https://hex.pm/packages/memento)|0.6.0|2026-06-11|Simple &amp; Powerful Elixir wrapper for the Mnesia Database|70xxxx|[![42457](https://img.shields.io/github/stars/sheharyarn/memento)](https://github.com/sheharyarn/memento)
 |2|[que](https://hex.pm/packages/que)|0.12.0|2026-06-11|Simple Background Job Processing with Mnesia|46xxxx|[![45986](https://img.shields.io/github/stars/sheharyarn/que)](https://github.com/sheharyarn/que)
-|3|[amnesia](https://hex.pm/packages/amnesia)|0.2.8|2019-12-16|mnesia wrapper for Elixir|34xxxx|[![1649](https://img.shields.io/github/stars/meh/amnesia)](https://github.com/meh/amnesia)
+|3|[amnesia](https://hex.pm/packages/amnesia)|0.2.8|2019-12-16|mnesia wrapper for Elixir|35xxxx|[![1649](https://img.shields.io/github/stars/meh/amnesia)](https://github.com/meh/amnesia)
 |4|[active_memory](https://hex.pm/packages/active_memory)|0.8.2|2026-08-18|The typed, attribute-queryable in-memory store for ETS and Mnesia, with Ecto changeset support, record expiry (TTL), crash resilience, and atomic take-once reads.|20xxxx|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
 |5|[hammer_backend_mnesia](https://hex.pm/packages/hammer_backend_mnesia)|0.7.1|2025-07-23|Mnesia backend for Hammer rate-limiter|16xxxx|[![39329](https://img.shields.io/github/stars/ExHammer/hammer-backend-mnesia)](https://github.com/ExHammer/hammer-backend-mnesia)
 |6|[mnesiac](https://hex.pm/packages/mnesiac)|0.3.14|2023-05-13|Auto clustering for Mnesia made easy!|14xxxx|[![42785](https://img.shields.io/github/stars/beardedeagle/mnesiac)](https://github.com/beardedeagle/mnesiac)

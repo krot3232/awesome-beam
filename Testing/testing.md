@@ -1,7 +1,7 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6834xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6836xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
 |2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|659xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|86xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|77xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
@@ -23,14 +23,14 @@
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2097xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2098xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
 |2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|418xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
-|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|254xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
+|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|255xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.16.0|2024-03-01|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|199xxxx|
 |5|[propcheck](https://hex.pm/packages/propcheck)|1.5.0|2025-04-21|PropCheck provides property based testing and is an Elixir layer aroundPropEr. It is also inspired by Quviq&#039;s QuickCheck Elixir library.|162xxxx|[![45752](https://img.shields.io/github/stars/alfert/propcheck)](https://github.com/alfert/propcheck)
 |6|[ex_meck](https://hex.pm/packages/ex_meck)|0.3.0|2019-12-01|A mocking library particularly suitable for stateful property based testing.|86xxxx|[![36386](https://img.shields.io/github/stars/MaartenFaddegon/ex_meck)](https://github.com/MaartenFaddegon/ex_meck)
 |7|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|82xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
-|8|[mneme](https://hex.pm/packages/mneme)|0.10.2|2025-01-24|Snapshot testing tool using familiar assertions|21xxxx|[![42771](https://img.shields.io/github/stars/zachallaun/mneme)](https://github.com/zachallaun/mneme)
+|8|[mneme](https://hex.pm/packages/mneme)|0.10.2|2025-01-24|Snapshot testing tool using familiar assertions|22xxxx|[![42771](https://img.shields.io/github/stars/zachallaun/mneme)](https://github.com/zachallaun/mneme)
 |9|[placebo](https://hex.pm/packages/placebo)|2.0.0|2020-12-05|A mocking library for ExUnit inspired by RSpec and based on meck.|15xxxx|[![45158](https://img.shields.io/github/stars/bbalser/Placebo)](https://github.com/bbalser/Placebo)
 |10|[mix_eunit](https://hex.pm/packages/mix_eunit)|0.3.0|2019-04-02|A mix task to run eunit tests, works for umbrella projects|12xxxx|[![42706](https://img.shields.io/github/stars/dantswain/mix_eunit)](https://github.com/dantswain/mix_eunit)
 |11|[response_snapshot](https://hex.pm/packages/response_snapshot)|1.0.1|2020-12-04|ResponseSnapshot is a testing tool for Elixir that captures the output of responsesand ensures that they do not change in between test runs.|12xxxx|[![63248](https://img.shields.io/github/stars/sb8244/elixir_response_snapshot)](https://github.com/sb8244/elixir_response_snapshot)

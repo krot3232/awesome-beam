@@ -7,7 +7,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[oauther](https://hex.pm/packages/oauther)|1.3.0|2021-10-02|A library to authenticate using the OAuth 1.0 protocol.|2637xxxx|[![43839](https://img.shields.io/github/stars/lexmag/oauther)](https://github.com/lexmag/oauther)
-|2|[oauth2](https://hex.pm/packages/oauth2)|2.1.1|2026-06-03|An Elixir OAuth 2.0 Client Library|1447xxxx|[![43823](https://img.shields.io/github/stars/scrogson/oauth2)](https://github.com/scrogson/oauth2)
+|2|[oauth2](https://hex.pm/packages/oauth2)|2.1.1|2026-06-03|An Elixir OAuth 2.0 Client Library|1448xxxx|[![43823](https://img.shields.io/github/stars/scrogson/oauth2)](https://github.com/scrogson/oauth2)
 |3|[elixir_auth_google](https://hex.pm/packages/elixir_auth_google)|1.6.11|2026-03-12|Minimalist Google OAuth Authentication for Elixir Apps|39xxxx|[![34783](https://img.shields.io/github/stars/dwyl/elixir-auth-google)](https://github.com/dwyl/elixir-auth-google)
 |4|[oauth2_metadata_updater](https://hex.pm/packages/oauth2_metadata_updater)|1.2.2|2023-07-05|OAuth2 and OpenID Connect metadata updater for Elixir|2xxxx|[![43831](https://img.shields.io/github/stars/tanguilp/oauth2_metadata_updater)](https://github.com/tanguilp/oauth2_metadata_updater)
 |5|[tesla_oauth2_client_auth](https://hex.pm/packages/tesla_oauth2_client_auth)|1.0.0|2021-02-13|Tesla middlewares for OAuth2 and OpenID Connect client authentication|2xxxx|[![65678](https://img.shields.io/github/stars/tanguilp/tesla_oauth2_client_auth)](https://github.com/tanguilp/tesla_oauth2_client_auth)

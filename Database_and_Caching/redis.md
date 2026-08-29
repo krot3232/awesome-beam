@@ -17,7 +17,7 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.8.0|2026-08-21|Fast, pipelined, resilient Redis driver for Elixir.|4510xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.8.0|2026-08-21|Fast, pipelined, resilient Redis driver for Elixir.|4511xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2318xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|339xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
 |4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|192xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
@@ -55,7 +55,7 @@
 |36|[off_broadway_redis](https://hex.pm/packages/off_broadway_redis)|0.4.3|2021-03-07|An opinionated Redis list connector for Broadway|9xxx|[![43930](https://img.shields.io/github/stars/amokan/off_broadway_redis)](https://github.com/amokan/off_broadway_redis)
 |37|[relocker](https://hex.pm/packages/relocker)|0.0.8|2016-03-24|A library for holding a lock in Redis.|8xxx|[![63118](https://img.shields.io/github/stars/grandCru/relocker)](https://github.com/grandCru/relocker)
 |38|[redix_cluster](https://hex.pm/packages/redix_cluster)|0.0.2|2019-04-13|A wrapper for redix to support cluster mode of redis|8xxx|[![63036](https://img.shields.io/github/stars/tinglei8/redix-cluster)](https://github.com/tinglei8/redix-cluster)
-|39|[bullmq](https://hex.pm/packages/bullmq)|2.2.2|2026-08-27|A powerful, fast, and robust job queue for Elixir backed by Redis|7xxx|[![31925](https://img.shields.io/github/stars/taskforcesh/bullmq)](https://github.com/taskforcesh/bullmq)
+|39|[bullmq](https://hex.pm/packages/bullmq)|2.2.2|2026-08-27|A powerful, fast, and robust job queue for Elixir backed by Redis|8xxx|[![31925](https://img.shields.io/github/stars/taskforcesh/bullmq)](https://github.com/taskforcesh/bullmq)
 |40|[autocompletex](https://hex.pm/packages/autocompletex)|0.1.3|2017-05-23|Autocompletex is a low-latency plug and play autocomplete tool using Redis sorted set.|6xxx|[![30992](https://img.shields.io/github/stars/rickyhan/autocompletex)](https://github.com/rickyhan/autocompletex)
 |41|[rediscl](https://hex.pm/packages/rediscl)|1.0.0|2022-06-14|A minimal redis client with connection pooling|5xxx|[![63014](https://img.shields.io/github/stars/akdilsiz/elixir-rediscl)](https://github.com/akdilsiz/elixir-rediscl)
 |42|[brink](https://hex.pm/packages/brink)|0.1.3|2018-11-24|Elixir GenStage front-end for Redis Streams|5xxx|[![31817](https://img.shields.io/github/stars/spawnfest/team-brb)](https://github.com/spawnfest/team-brb)
