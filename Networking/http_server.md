@@ -1,7 +1,7 @@
 # Erlang HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14782xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14784xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
 |2|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|43xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
@@ -15,7 +15,7 @@
 # Elixir HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1381xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
+|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1383xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
 |2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1293xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
 |3|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)
 |4|[plug_signature](https://hex.pm/packages/plug_signature)|0.11.0|2023-03-07|Server side implementation of IETF HTTP signature draft as a reusable Plug|68xxxx|[![45356](https://img.shields.io/github/stars/voltone/plug_signature)](https://github.com/voltone/plug_signature)
@@ -55,8 +55,8 @@
 |38|[flux_adapters](https://hex.pm/packages/flux_adapters)|0.1.0|2018-09-05|A lightweight and functional http server designed from the ground up to work with plug.|3xx|[![37646](https://img.shields.io/github/stars/cjfreeze/flux_adapters)](https://github.com/cjfreeze/flux_adapters)
 |39|[servcore](https://hex.pm/packages/servcore)|0.3.0|2026-06-08|A minimal, forkable Elixir server with HTTP routing, background job queueing, and pluggable persistence.|2xx|[![3799008](https://img.shields.io/github/stars/DarynOngera/ServCore)](https://github.com/DarynOngera/ServCore)
 |40|[mail_catchex](https://hex.pm/packages/mail_catchex)|0.1.0|2019-12-27|A super-simpler SMTP and HTTP server to catch and show all received emails.|2xx|[![41930](https://img.shields.io/github/stars/vfsoraki/mail_catchex)](https://github.com/vfsoraki/mail_catchex)
-|41|[exws_channels](https://hex.pm/packages/exws_channels)|0.0.1|2022-11-09|Channel (or rooms) for exws websocket server|2xx|
-|42|[legatus](https://hex.pm/packages/legatus)|0.2.0|2026-06-03|STDIO ↔ HTTP / WebSocket proxy built in Elixir.Legatus relays JSON-RPC messages between agents and MCP servers.|2xx|[![41194](https://img.shields.io/github/stars/sovetnik/legatus)](https://github.com/sovetnik/legatus)
+|41|[legatus](https://hex.pm/packages/legatus)|0.2.0|2026-06-03|STDIO ↔ HTTP / WebSocket proxy built in Elixir.Legatus relays JSON-RPC messages between agents and MCP servers.|2xx|[![41194](https://img.shields.io/github/stars/sovetnik/legatus)](https://github.com/sovetnik/legatus)
+|42|[exws_channels](https://hex.pm/packages/exws_channels)|0.0.1|2022-11-09|Channel (or rooms) for exws websocket server|2xx|
 |43|[elixir_server](https://hex.pm/packages/elixir_server)|0.1.0|2023-11-04|Easily run http server from terminal|2xx|[![34877](https://img.shields.io/github/stars/vikram25897/elixir_server)](https://github.com/vikram25897/elixir_server)
 |44|[serve](https://hex.pm/packages/serve)|0.1.0|2025-02-20|Serve escript to quickly start an HTTP server|2xx|[![63972](https://img.shields.io/github/stars/quexpl/serve)](https://github.com/quexpl/serve)
 |45|[live_react_islands_ssr_vi te ](https://hex.pm/packages/live_react_islands_ssr_vite)|0.1.1|2026-05-19|Vite dev server SSR backend for LiveReactIslands. Provides development-modeserver-side rendering of React components via HTTP communication with Vite.|1xx|[![41491](https://img.shields.io/github/stars/dcza/live-react-islands)](https://github.com/dcza/live-react-islands)
@@ -65,7 +65,7 @@
 # Gleam HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleam_http](https://hex.pm/packages/gleam_http)|4.3.0|2025-10-02|Types and functions for Gleam HTTP clients and servers|55xxxx|[![38377](https://img.shields.io/github/stars/gleam-lang/http)](https://github.com/gleam-lang/http)
+|1|[gleam_http](https://hex.pm/packages/gleam_http)|4.3.0|2026-08-30|Types and functions for Gleam HTTP clients and servers|55xxxx|[![38377](https://img.shields.io/github/stars/gleam-lang/http)](https://github.com/gleam-lang/http)
 |2|[rsvp](https://hex.pm/packages/rsvp)|2.0.0|2026-05-04|Send HTTP requests from Lustre applications and server components.|2xxxx|[![63524](https://img.shields.io/github/stars/hayleigh-dot-dev/rsvp)](https://github.com/hayleigh-dot-dev/rsvp)
 |3|[gleam_elli](https://hex.pm/packages/gleam_elli)|3.0.0|2025-06-02|Run Gleam HTTP services with the Elli web server|7xxx|[![38364](https://img.shields.io/github/stars/gleam-lang/elli)](https://github.com/gleam-lang/elli)
 |4|[gleam_cowboy](https://hex.pm/packages/gleam_cowboy)|1.1.0|2025-11-01|Run Gleam HTTP services with the Cowboy web server|5xxx|[![38357](https://img.shields.io/github/stars/gleam-lang/cowboy)](https://github.com/gleam-lang/cowboy)

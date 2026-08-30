@@ -5,7 +5,7 @@
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
 |3|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
 |4|[nitrogen_core](https://hex.pm/packages/nitrogen_core)|3.0.0-alpha.15|2026-07-27|Nitrogen Web Framework Core Library|4xxx|[![43588](https://img.shields.io/github/stars/nitrogen/nitrogen_core)](https://github.com/nitrogen/nitrogen_core)
-|5|[livery](https://hex.pm/packages/livery)|0.8.0|2026-08-12|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|3xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
+|5|[livery](https://hex.pm/packages/livery)|0.9.2|2026-08-30|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|3xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
 |6|[lfe_http](https://hex.pm/packages/lfe_http)|1.0.0|2025-10-29|General purpose data, functions, and utilities for use by LFE/Erlang HTTP clients, servers, URL-parsers, web frameworks, etc.|3xxx|[![41254](https://img.shields.io/github/stars/lfe-http/http)](https://github.com/lfe-http/http)
 |7|[nova_resilience](https://hex.pm/packages/nova_resilience)|1.0.3|2026-03-31|Production-grade resilience patterns for Nova web framework|1xxx|[![43728](https://img.shields.io/github/stars/novaframework/nova_resilience)](https://github.com/novaframework/nova_resilience)
 |8|[webpage](https://hex.pm/packages/webpage)|1.0.0|2016-09-02|Yet another web framework for Erlang|4xx|[![67116](https://img.shields.io/github/stars/cthulhuology/webpage)](https://github.com/cthulhuology/webpage)
@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15436xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15439xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|316xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -44,8 +44,8 @@
 |25|[tamnoon](https://hex.pm/packages/tamnoon)|1.0.0-rc.4|2025-09-02|A simplicity-first web framework for Elixir, designed to make building web applications easy and enjoyable.|1xxx|[![65436](https://img.shields.io/github/stars/omer-sm/tamnoon)](https://github.com/omer-sm/tamnoon)
 |26|[phoenix_generator](https://hex.pm/packages/phoenix_generator)|0.2.1|2015-02-20|A collection of boilerplate generators for the Phoenix web framework.|1xxx|[![44808](https://img.shields.io/github/stars/etufe/phoenix_generator)](https://github.com/etufe/phoenix_generator)
 |27|[phoenix_microsoftbot](https://hex.pm/packages/phoenix_microsoftbot)|1.0.0|2016-12-22|This library allows for easy creation of the web API that the Microsoft bot framework can connect to.|1xxx|[![44883](https://img.shields.io/github/stars/zabirauf/phoenix_microsoftbot)](https://github.com/zabirauf/phoenix_microsoftbot)
-|28|[sunta](https://hex.pm/packages/sunta)|1.0.0-alpha.1|2016-12-20|Web API Framework|1xxx|
-|29|[requiem](https://hex.pm/packages/requiem)|0.4.0|2022-04-20|A WebTransport server framework.|1xxx|[![63229](https://img.shields.io/github/stars/xflagstudio/requiem)](https://github.com/xflagstudio/requiem)
+|28|[requiem](https://hex.pm/packages/requiem)|0.4.0|2022-04-20|A WebTransport server framework.|1xxx|[![63229](https://img.shields.io/github/stars/xflagstudio/requiem)](https://github.com/xflagstudio/requiem)
+|29|[sunta](https://hex.pm/packages/sunta)|1.0.0-alpha.1|2016-12-20|Web API Framework|1xxx|
 |30|[scraper](https://hex.pm/packages/scraper)|0.1.1|2018-03-16|Web scraper framework attempt|1xxx|[![63792](https://img.shields.io/github/stars/princemaple/scraper)](https://github.com/princemaple/scraper)
 |31|[tokumei_router](https://hex.pm/packages/tokumei_router)|0.3.0|2017-02-12|Tiny but might Elixir web framework|1xxx|[![65984](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |32|[gold_needle](https://hex.pm/packages/gold_needle)|0.0.3|2018-06-12|Various web page generator in Phoenix(Elixir Web Framework)|8xx|[![38651](https://img.shields.io/github/stars/piacere-ex/gold_needle)](https://github.com/piacere-ex/gold_needle)
@@ -89,7 +89,7 @@
 |11|[gliew](https://hex.pm/packages/gliew)|0.3.0|2023-06-12|A gleam server-side rendered web framework with live updating UI|9xx|[![38502](https://img.shields.io/github/stars/arnarg/gliew)](https://github.com/arnarg/gliew)
 |12|[inertia_wisp](https://hex.pm/packages/inertia_wisp)|0.2.1|2025-11-09|Inertia.js adapter for the Wisp web framework|8xx|[![40066](https://img.shields.io/github/stars/team-alembic/inertia-wisp)](https://github.com/team-alembic/inertia-wisp)
 |13|[lily](https://hex.pm/packages/lily)|0.7.0|2026-07-31|Lily is designed to be a web framework for Gleam that allows for real-time updates while preserving offline functionality!|6xx|[![41376](https://img.shields.io/github/stars/haleywhazel/lily)](https://github.com/haleywhazel/lily)
-|14|[bliss](https://hex.pm/packages/bliss)|0.1.1|2022-05-11|A micro web framework for Gleam|5xx|[![31597](https://img.shields.io/github/stars/sporto/bliss)](https://github.com/sporto/bliss)
+|14|[bliss](https://hex.pm/packages/bliss)|0.1.1|2022-05-11|A micro web framework for Gleam|6xx|[![31597](https://img.shields.io/github/stars/sporto/bliss)](https://github.com/sporto/bliss)
 |15|[glimr_redis](https://hex.pm/packages/glimr_redis)|1.0.4|2026-04-29|Redis cache driver for the Glimr web framework|5xx|[![38517](https://img.shields.io/github/stars/glimr-org/redis)](https://github.com/glimr-org/redis)
 |16|[meadow](https://hex.pm/packages/meadow)|1.0.1|2024-05-12|A server side for glare, the web framework based on SolidJS, adding server signals and more.|3xx|[![42248](https://img.shields.io/github/stars/JoelVerm/meadow)](https://github.com/JoelVerm/meadow)
 |17|[glimr_auth](https://hex.pm/packages/glimr_auth)|1.0.1|2026-04-21|Auth layer for the Glimr web framework|2xx|[![38515](https://img.shields.io/github/stars/glimr-org/auth)](https://github.com/glimr-org/auth)

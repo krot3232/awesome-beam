@@ -8,9 +8,9 @@
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7472xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7473xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
 |2|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7231xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
-|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7128xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
+|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7129xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
 |4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2894xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
 |5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|913xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
 |6|[xmlrpc](https://hex.pm/packages/xmlrpc)|1.5.0|2026-07-10|XML-RPC encoder/decder for Elixir. Supports all valid datatypes. Input (ie untrusted) is parsed with erlsom against an xml-schema for security.|45xxxx|[![67410](https://img.shields.io/github/stars/ewildgoose/elixir-xml_rpc)](https://github.com/ewildgoose/elixir-xml_rpc)
@@ -25,7 +25,7 @@
 |15|[simple_xml](https://hex.pm/packages/simple_xml)|1.3.4|2026-05-14|A simplified Elixir string-based XML processor that avoids the atom exhaustion vulnerabilitypresent with xmerl based parsers.|2xxxx|[![64281](https://img.shields.io/github/stars/MBXSystems/simple_xml)](https://github.com/MBXSystems/simple_xml)
 |16|[xml_builder_ex](https://hex.pm/packages/xml_builder_ex)|3.1.4159|2024-06-26|XML builder for Elixir|2xxxx|
 |17|[friendly](https://hex.pm/packages/friendly)|1.1.0|2018-12-11|HTML and XML parser with the most friendly API in Elixir land. CSS selector in, list of elements out.|7xxx|[![37805](https://img.shields.io/github/stars/qertoip/friendly)](https://github.com/qertoip/friendly)
-|18|[statifier](https://hex.pm/packages/statifier)|2.2.0|2026-08-27|A W3C SCXML-conformant statecharts engine for Elixir|1xxx|[![64936](https://img.shields.io/github/stars/riddler/statifier-ex)](https://github.com/riddler/statifier-ex)
+|18|[statifier](https://hex.pm/packages/statifier)|2.2.1|2026-08-29|A W3C SCXML-conformant statecharts engine for Elixir|1xxx|[![64936](https://img.shields.io/github/stars/riddler/statifier-ex)](https://github.com/riddler/statifier-ex)
 |19|[sign_core](https://hex.pm/packages/sign_core)|0.1.4|2026-05-11|Signer-agnostic PDF (PAdES B-B/B-T) and XML (XAdES B-B/B-T) signing primitives. Wire in your own signature source (PKCS#11 hardware via pkcs11ex, PKCS#12 / PKCS#8 software keys via soft_signer, cloud KMS, etc.) by implementing the SignCore.Signer protocol.|9xx|[![64178](https://img.shields.io/github/stars/utaladriz/pkcs11ex)](https://github.com/utaladriz/pkcs11ex)
 |20|[elixir_faker](https://hex.pm/packages/elixir_faker)|0.2.0|2023-09-19|Faker is a Elixir package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.|5xx|[![34815](https://img.shields.io/github/stars/kamaroly/elixir_faker)](https://github.com/kamaroly/elixir_faker)
 # Gleam XML
