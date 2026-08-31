@@ -268,7 +268,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2151xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)|erlang
-|2|[amqp](https://hex.pm/packages/amqp)|4.2.0|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1710xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)|elixir
+|2|[amqp](https://hex.pm/packages/amqp)|4.2.1|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1710xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)|elixir
 |3|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|345xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)|elixir
 |4|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|207xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)|erlang
 |5|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|104xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)|elixir
