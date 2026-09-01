@@ -4,7 +4,7 @@
 |1|[re2](https://hex.pm/packages/re2)|1.9.8|2022-06-25|Erlang NIF bindings for RE2 regex library|51xxxx|[![46263](https://img.shields.io/github/stars/dukesoferl/re2)](https://github.com/dukesoferl/re2)
 |2|[re_tuner](https://hex.pm/packages/re_tuner)|0.1.21|2021-09-06|Erlang Regular Expressions simplifyer. Functions for simplifying working with Regular Expressions.|3xxx|[![63295](https://img.shields.io/github/stars/rustkas/re_tuner)](https://github.com/rustkas/re_tuner)
 |3|[xs_regex](https://hex.pm/packages/xs_regex)|0.1.0|2022-01-05|XML Schema regex translation library|1xxx|[![67446](https://img.shields.io/github/stars/zadean/xs_regex)](https://github.com/zadean/xs_regex)
-|4|[barrel_ngram](https://hex.pm/packages/barrel_ngram)|0.9.0|2026-08-15|Trigram substring and regex index over barrel_docdb documents|9x|[![6552536](https://img.shields.io/github/stars/barrel-db/barrel)](https://github.com/barrel-db/barrel)
+|4|[barrel_ngram](https://hex.pm/packages/barrel_ngram)|0.9.0|2026-08-15|Trigram substring and regex index over barrel_docdb documents|1xx|[![6552536](https://img.shields.io/github/stars/barrel-db/barrel)](https://github.com/barrel-db/barrel)
 # Elixir Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -32,7 +32,7 @@
 |22|[xeger](https://hex.pm/packages/xeger)|0.1.1|2026-08-03|Xeger - generate strings that match a regex-like pattern (regex → strings).|2xx|[![6146408](https://img.shields.io/github/stars/joetjen/xeger)](https://github.com/joetjen/xeger)
 |23|[regex_spec](https://hex.pm/packages/regex_spec)|0.21.38|2021-02-07|Generated type specifications for regualar expressions at compile time|2xx|[![63087](https://img.shields.io/github/stars/devstopfix/regex_spec)](https://github.com/devstopfix/regex_spec)
 |24|[excavator](https://hex.pm/packages/excavator)|0.1.0|2026-04-06|Excavate JavaScript variable values from HTML script tags using AST parsing. Supports var/let/const declarations, window.* assignments, JSON.parse() calls, and nested objects/arrays — no regex needed.|1xx|[![35762](https://img.shields.io/github/stars/onnimonni/excavator)](https://github.com/onnimonni/excavator)
-|25|[superjson](https://hex.pm/packages/superjson)|0.1.0|2026-07-26|A SuperJSON decoder and encoder for Elixir, enabling seamless rehydration of complex JS/TS types(Dates, MapSets, Maps, BigInts, Regexps, and referential equalities) from SuperJSON payloads.|5x|[![5965225](https://img.shields.io/github/stars/boxxxie/superjson)](https://github.com/boxxxie/superjson)
+|25|[superjson](https://hex.pm/packages/superjson)|0.1.0|2026-07-26|A SuperJSON decoder and encoder for Elixir, enabling seamless rehydration of complex JS/TS types(Dates, MapSets, Maps, BigInts, Regexps, and referential equalities) from SuperJSON payloads.|6x|[![5965225](https://img.shields.io/github/stars/boxxxie/superjson)](https://github.com/boxxxie/superjson)
 # Gleam Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -41,4 +41,4 @@
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|4xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
 |4|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|1xx|
 |5|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|1xx|
-|6|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.1.0|2026-08-27|Regular expressions for Gleam on Erlang and Geam|3x|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
+|6|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.1.0|2026-08-27|Regular expressions for Gleam on Erlang and Geam|5x|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
