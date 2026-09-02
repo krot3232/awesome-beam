@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|961xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|963xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|56xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -23,7 +23,7 @@
 |7|[og](https://hex.pm/packages/og)|1.1.2|2017-10-31|Og is a small collection of debugging functions for use during development.|1xxxx|[![43939](https://img.shields.io/github/stars/stephenmoloney/og)](https://github.com/stephenmoloney/og)
 |8|[smart_tracer](https://hex.pm/packages/smart_tracer)|0.2.1|2021-02-05|A simple tracer with recording capabilities that would help you in live debugging.|9xxx|[![64449](https://img.shields.io/github/stars/vinceurag/smart_tracer)](https://github.com/vinceurag/smart_tracer)
 |9|[inspector](https://hex.pm/packages/inspector)|0.1.0|2021-09-17|A simple module that allows a more friendly debugging experience|8xxx|[![40137](https://img.shields.io/github/stars/marciol/inspector)](https://github.com/marciol/inspector)
-|10|[sagents_live_debugger](https://hex.pm/packages/sagents_live_debugger)|0.6.1|2026-08-20|A Phoenix LiveView dashboard for debugging and monitoring Sagents agents in real-time.|6xxx|[![63614](https://img.shields.io/github/stars/sagents-ai/sagents_live_debugger)](https://github.com/sagents-ai/sagents_live_debugger)
+|10|[sagents_live_debugger](https://hex.pm/packages/sagents_live_debugger)|0.6.1|2026-08-20|A Phoenix LiveView dashboard for debugging and monitoring Sagents agents in real-time.|7xxx|[![63614](https://img.shields.io/github/stars/sagents-ai/sagents_live_debugger)](https://github.com/sagents-ai/sagents_live_debugger)
 |11|[rexerbug](https://hex.pm/packages/rexerbug)|1.0.0|2022-08-14|An opinionated Rexbug/redbug wrapper for trace debugging|6xxx|[![63318](https://img.shields.io/github/stars/jdenen/rexerbug)](https://github.com/jdenen/rexerbug)
 |12|[time_travel](https://hex.pm/packages/time_travel)|0.3.2|2022-12-26|LiveView TimeTravel debugger allows you to record and replay your LiveView&#039;s lifecycle as you interact with the page|5xxx|[![65885](https://img.shields.io/github/stars/JohnnyCurran/TimeTravel)](https://github.com/JohnnyCurran/TimeTravel)
 |13|[inspector_gadget](https://hex.pm/packages/inspector_gadget)|0.2.0|2017-01-02|Helpers for debugging &amp; inspecting code flow|5xxx|[![40138](https://img.shields.io/github/stars/expede/inspector_gadget)](https://github.com/expede/inspector_gadget)
@@ -43,8 +43,8 @@
 |27|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|7xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
 |28|[jido_otel](https://hex.pm/packages/jido_otel)|1.0.0|2026-05-23|OpenTelemetry tracer bridge for Jido.Observe|7xx|[![3209728](https://img.shields.io/github/stars/agentjido/jido_otel)](https://github.com/agentjido/jido_otel)
 |29|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|7xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
-|30|[ether](https://hex.pm/packages/ether)|0.0.1|2015-05-12|Elixir Debugger|6xx|[![35413](https://img.shields.io/github/stars/maarek/ether)](https://github.com/maarek/ether)
-|31|[probe](https://hex.pm/packages/probe)|1.0.1|2017-07-05|A super-powered version of IO.inspect for better print debugging.|6xx|[![45688](https://img.shields.io/github/stars/strobe-audio/probe)](https://github.com/strobe-audio/probe)
+|30|[probe](https://hex.pm/packages/probe)|1.0.1|2017-07-05|A super-powered version of IO.inspect for better print debugging.|6xx|[![45688](https://img.shields.io/github/stars/strobe-audio/probe)](https://github.com/strobe-audio/probe)
+|31|[ether](https://hex.pm/packages/ether)|0.0.1|2015-05-12|Elixir Debugger|6xx|[![35413](https://img.shields.io/github/stars/maarek/ether)](https://github.com/maarek/ether)
 |32|[slog](https://hex.pm/packages/slog)|0.1.1|2018-11-19|Print multiple values as string (except functions and binaries) for debugging.|5xx|[![64411](https://img.shields.io/github/stars/palerdot/slog)](https://github.com/palerdot/slog)
 |33|[exbug](https://hex.pm/packages/exbug)|0.0.1|2017-02-19|A more traditional experience for the :debugger module|5xx|[![35741](https://img.shields.io/github/stars/Gwash3189/exbug)](https://github.com/Gwash3189/exbug)
 |34|[sink](https://hex.pm/packages/sink)|0.1.0|2026-01-13|Universal local adapter with web UI for debugging external service calls|4xx|

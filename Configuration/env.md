@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[stillir](https://hex.pm/packages/stillir)|1.1.0|2019-01-12|Read Unix env vars into application config|34xxxx|[![65001](https://img.shields.io/github/stars/heroku/stillir)](https://github.com/heroku/stillir)
-|2|[macula_envy](https://hex.pm/packages/macula_envy)|0.1.1|2025-12-24|Environment variable wrapper prefixing with application name|4xxx|[![41874](https://img.shields.io/github/stars/macula-io/macula-envy)](https://github.com/macula-io/macula-envy)
+|2|[macula_envy](https://hex.pm/packages/macula_envy)|0.1.1|2025-12-24|Environment variable wrapper prefixing with application name|5xxx|[![41874](https://img.shields.io/github/stars/macula-io/macula-envy)](https://github.com/macula-io/macula-envy)
 # Elixir env
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -16,7 +16,7 @@
 # Gleam env
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[envoy](https://hex.pm/packages/envoy)|1.2.0|2026-04-18|A zero dependency cross platform Gleam package for reading environment variables|36xxxx|[![35108](https://img.shields.io/github/stars/lpil/envoy)](https://github.com/lpil/envoy)
+|1|[envoy](https://hex.pm/packages/envoy)|1.2.0|2026-04-18|A zero dependency cross platform Gleam package for reading environment variables|37xxxx|[![35108](https://img.shields.io/github/stars/lpil/envoy)](https://github.com/lpil/envoy)
 |2|[dot_env](https://hex.pm/packages/dot_env)|1.3.0|2026-06-14|Load and use environment variables from files|7xxxx|[![34046](https://img.shields.io/github/stars/aosasona/dotenv)](https://github.com/aosasona/dotenv)
 |3|[glenvy](https://hex.pm/packages/glenvy)|2.0.1|2025-07-30|A pleasant way to interact with your environment variables.|1xxxx|[![38472](https://img.shields.io/github/stars/maxdeviant/glenvy)](https://github.com/maxdeviant/glenvy)
 |4|[envie](https://hex.pm/packages/envie)|1.2.0|2026-04-27|Type-safe environment variables for Gleam. Zero dependencies.|1xxx|[![35102](https://img.shields.io/github/stars/lupodevelop/envie)](https://github.com/lupodevelop/envie)

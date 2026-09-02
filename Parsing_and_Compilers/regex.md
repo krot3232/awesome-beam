@@ -41,4 +41,4 @@
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|4xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
 |4|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|1xx|
 |5|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|1xx|
-|6|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.1.0|2026-08-27|Regular expressions for Gleam on Erlang and Geam|5x|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
+|6|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.1.0|2026-08-27|Regular expressions for Gleam on Erlang and Geam|8x|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)

@@ -38,6 +38,6 @@
 # Gleam UDP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|1xxx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)
-|2|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|1xxx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)
+|1|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|1xxx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)
+|2|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|1xxx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)
 |3|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|6xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)

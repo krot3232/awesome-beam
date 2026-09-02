@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15449xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15456xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|317xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -31,8 +31,8 @@
 |12|[spider_man](https://hex.pm/packages/spider_man)|0.6.4|2025-10-22|SpiderMan,a fast high-level web crawling &amp; scraping framework for Elixir|8xxx|[![64740](https://img.shields.io/github/stars/feng19/spider_man)](https://github.com/feng19/spider_man)
 |13|[tokumei](https://hex.pm/packages/tokumei)|0.9.1|2017-11-07|The Elixir web unframework|8xxx|[![65983](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |14|[ashes](https://hex.pm/packages/ashes)|0.0.3|2015-01-23|A code generation tool for the phoenix web framework|7xxx|
-|15|[raxx_kit](https://hex.pm/packages/raxx_kit)|0.12.2|2020-04-07|Micro framework for web applications with Raxx and Ace.|6xxx|[![46225](https://img.shields.io/github/stars/crowdhailer/raxx_kit)](https://github.com/crowdhailer/raxx_kit)
-|16|[hologram](https://hex.pm/packages/hologram)|0.11.1|2026-08-27|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
+|15|[hologram](https://hex.pm/packages/hologram)|0.11.1|2026-08-27|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
+|16|[raxx_kit](https://hex.pm/packages/raxx_kit)|0.12.2|2020-04-07|Micro framework for web applications with Raxx and Ace.|6xxx|[![46225](https://img.shields.io/github/stars/crowdhailer/raxx_kit)](https://github.com/crowdhailer/raxx_kit)
 |17|[trot](https://hex.pm/packages/trot)|0.7.0|2019-06-05|A web micro-framework based on Plug and Cowboy.|4xxx|[![66194](https://img.shields.io/github/stars/hexedpackets/trot)](https://github.com/hexedpackets/trot)
 |18|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |19|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
@@ -69,9 +69,9 @@
 |50|[illuminate](https://hex.pm/packages/illuminate)|0.0.1|2025-08-17|An Elixir Framework for Building Web Applications.|1xx|
 |51|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|1xx|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |52|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|1xx|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
-|53|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|9x|
-|54|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|55|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|9x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|53|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
+|54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|9x|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|55|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |56|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|9x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

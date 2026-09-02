@@ -1,7 +1,7 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1547xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1548xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
 |2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|139xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|2.6.2|2022-04-19|Erlang Redis Client|6xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
@@ -9,7 +9,7 @@
 |6|[eredis_streams](https://hex.pm/packages/eredis_streams)|0.1.0|2021-06-10|Redis Streams Handlers|4xxx|
 |7|[redis_global](https://hex.pm/packages/redis_global)|0.0.8|2021-11-22|erlang global module impl by redis|1xxx|[![63020](https://img.shields.io/github/stars/aijingsun6/redis_global)](https://github.com/aijingsun6/redis_global)
 |8|[eredis_pool](https://hex.pm/packages/eredis_pool)|2.1.0|2024-02-19|Redis Pool|1xxx|
-|9|[edis_proto](https://hex.pm/packages/edis_proto)|0.2.0|2020-09-27|Allow erlang/BEAM applications to expose a Redis compatible protocol|7xx|[![34607](https://img.shields.io/github/stars/marianoguerra/edis_proto)](https://github.com/marianoguerra/edis_proto)
+|9|[edis_proto](https://hex.pm/packages/edis_proto)|0.2.0|2020-09-27|Allow erlang/BEAM applications to expose a Redis compatible protocol|8xx|[![34607](https://img.shields.io/github/stars/marianoguerra/edis_proto)](https://github.com/marianoguerra/edis_proto)
 |10|[ndisc_redis](https://hex.pm/packages/ndisc_redis)|0.0.4|2021-11-22|erlang node discover impl by redis|7xx|[![43238](https://img.shields.io/github/stars/aijingsun6/ndisc_redis)](https://github.com/aijingsun6/ndisc_redis)
 |11|[erc](https://hex.pm/packages/erc)|0.1.1|2021-03-22|Erlang Redis Cluster Library|7xx|[![35167](https://img.shields.io/github/stars/suexcxine/erc)](https://github.com/suexcxine/erc)
 |12|[geo_gateway](https://hex.pm/packages/geo_gateway)|0.2.0|2021-02-07|A gateway for receiving and redistributing data from machine sensors|4xx|[![38161](https://img.shields.io/github/stars/YtoTech/geo_gateway)](https://github.com/YtoTech/geo_gateway)
@@ -17,10 +17,10 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.8.1|2026-08-31|Fast, pipelined, resilient Redis driver for Elixir.|4514xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.8.1|2026-08-31|Fast, pipelined, resilient Redis driver for Elixir.|4516xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2319xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|340xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
-|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|192xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
+|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|193xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
 |5|[exredis](https://hex.pm/packages/exredis)|0.3.0|2019-07-31|Redis client for Elixir|131xxxx|[![36725](https://img.shields.io/github/stars/artemeff/exredis)](https://github.com/artemeff/exredis)
 |6|[verk](https://hex.pm/packages/verk)|1.7.3|2021-09-14|Verk is a job processing system backed by Redis.|90xxxx|[![66839](https://img.shields.io/github/stars/edgurgel/verk)](https://github.com/edgurgel/verk)
 |7|[redis_mutex](https://hex.pm/packages/redis_mutex)|1.1.0|2024-10-01|RedisMutex is a library for creating a Redis lock for a single Redis instance|58xxxx|[![63024](https://img.shields.io/github/stars/podium/redis_mutex)](https://github.com/podium/redis_mutex)
@@ -37,8 +37,8 @@
 |18|[plug_limit](https://hex.pm/packages/plug_limit)|0.1.0|2022-07-19|Rate limiting Plug module based on Redis Lua scripting|3xxxx|[![45293](https://img.shields.io/github/stars/Recruitee/plug_limit)](https://github.com/Recruitee/plug_limit)
 |19|[redis_z](https://hex.pm/packages/redis_z)|0.3.1|2020-02-21|Pooling &amp; sharding support parallel Redis adapter base on Redix.|3xxxx|[![63034](https://img.shields.io/github/stars/ne-sachirou/redis_z)](https://github.com/ne-sachirou/redis_z)
 |20|[rambla](https://hex.pm/packages/rambla)|1.5.0|2025-06-10|Easy publishing to many different targets.Supported back-ends:- Rabbit [Amqp](https://hexdocs.pm/amqp/)- Redis [Redix](https://hexdocs.pm/redix)- Http [:httpc](http://erlang.org/doc/man/httpc.html)- Smtp [:gen_smtp](https://hexdocs.pm/gen_smtp)- Slack [Envío](https://hexdocs.pm/envio)|3xxxx|[![46114](https://img.shields.io/github/stars/am-kantox/rambla)](https://github.com/am-kantox/rambla)
-|21|[phoenix_pubsub_redis_z](https://hex.pm/packages/phoenix_pubsub_redis_z)|0.4.0|2022-05-28|Yet another Redis PubSub adapter for Phoenix. Supports sharding across multiple redis nodes.|3xxxx|[![44915](https://img.shields.io/github/stars/cctiger36/phoenix_pubsub_redis_z)](https://github.com/cctiger36/phoenix_pubsub_redis_z)
-|22|[yggdrasil](https://hex.pm/packages/yggdrasil)|6.0.3|2022-03-26|Agnostic pub/sub with Redis, RabbitMQ and Postgres support|3xxxx|[![67526](https://img.shields.io/github/stars/gmtprime/yggdrasil)](https://github.com/gmtprime/yggdrasil)
+|21|[yggdrasil](https://hex.pm/packages/yggdrasil)|6.0.3|2022-03-26|Agnostic pub/sub with Redis, RabbitMQ and Postgres support|3xxxx|[![67526](https://img.shields.io/github/stars/gmtprime/yggdrasil)](https://github.com/gmtprime/yggdrasil)
+|22|[phoenix_pubsub_redis_z](https://hex.pm/packages/phoenix_pubsub_redis_z)|0.4.0|2022-05-28|Yet another Redis PubSub adapter for Phoenix. Supports sharding across multiple redis nodes.|3xxxx|[![44915](https://img.shields.io/github/stars/cctiger36/phoenix_pubsub_redis_z)](https://github.com/cctiger36/phoenix_pubsub_redis_z)
 |23|[tesla_cacher](https://hex.pm/packages/tesla_cacher)|0.4.0|2020-11-04|A Basic Cache Middleware for Tesla backed by Redis.|3xxxx|[![65662](https://img.shields.io/github/stars/OldhamMade/TeslaCacher)](https://github.com/OldhamMade/TeslaCacher)
 |24|[redis_sessions](https://hex.pm/packages/redis_sessions)|0.3.0|2021-10-19|An advanced session store for Elixir and NodeJS based on Redis|3xxxx|[![63032](https://img.shields.io/github/stars/mpneuried/ex-redis-sessions)](https://github.com/mpneuried/ex-redis-sessions)
 |25|[phoenix_session_redis](https://hex.pm/packages/phoenix_session_redis)|0.1.2|2016-08-02|This library provid redis pool and Plug.Session.REDIS|2xxxx|[![44939](https://img.shields.io/github/stars/igrs/phoenix_session_redis)](https://github.com/igrs/phoenix_session_redis)
@@ -122,7 +122,7 @@
 |103|[kino_redis_cluster](https://hex.pm/packages/kino_redis_cluster)|0.1.1|2026-03-03|Livebook extension for RedisCluster|1xx|[![40862](https://img.shields.io/github/stars/Tubitv/redis_cluster)](https://github.com/Tubitv/redis_cluster)
 |104|[ex_limit](https://hex.pm/packages/ex_limit)|0.1.0|2025-08-05|Fast, Redis-backed token-bucket rate limiter|1xx|[![36319](https://img.shields.io/github/stars/meszmate/ex_limit)](https://github.com/meszmate/ex_limit)
 |105|[redis_oban](https://hex.pm/packages/redis_oban)|0.1.0|2026-01-16|A high-performance, Redis-backed job processing library for Elixir.|1xx|[![63025](https://img.shields.io/github/stars/matheus1lva/redis_oban)](https://github.com/matheus1lva/redis_oban)
-|106|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.1.0|2026-08-24|Process-scoped Redis connections for concurrent ExUnit tests|6x|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
+|106|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.1.0|2026-08-24|Process-scoped Redis connections for concurrent ExUnit tests|8x|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
 # Gleam Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

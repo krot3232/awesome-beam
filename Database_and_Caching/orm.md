@@ -13,6 +13,6 @@
 # Gleam ORM
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[funsies](https://hex.pm/packages/funsies)|1.0.4|2024-10-07|A fun, friendly, and type-safe ORM for Gleam! Compose type-safe SQL queries, generate decoders and types from schemas, and with a fun CLI!|6xx|[![37860](https://img.shields.io/github/stars/ashercn97/funsies)](https://github.com/ashercn97/funsies)
+|1|[funsies](https://hex.pm/packages/funsies)|1.0.4|2024-10-07|A fun, friendly, and type-safe ORM for Gleam! Compose type-safe SQL queries, generate decoders and types from schemas, and with a fun CLI!|7xx|[![37860](https://img.shields.io/github/stars/ashercn97/funsies)](https://github.com/ashercn97/funsies)
 |2|[ormlette](https://hex.pm/packages/ormlette)|1.0.2|2024-10-13|A delightful ORM (?) for Gleam! 🍳|3xx|[![44260](https://img.shields.io/github/stars/ashercn97/ormlette)](https://github.com/ashercn97/ormlette)
 |3|[starmap](https://hex.pm/packages/starmap)|0.1.0|2024-07-04|Type-Safe, ORM-like SQL Library for gleam|2xx|[![64912](https://img.shields.io/github/stars/MoeDevelops/starmap)](https://github.com/MoeDevelops/starmap)
