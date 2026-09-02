@@ -87,7 +87,7 @@
 |3|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-05-25|A simple, no frills mDNS implementation in Elixir|39xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)|elixir
 |4|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.18|2026-08-26|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)|erlang
 |5|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)|erlang
-|6|[erldns](https://hex.pm/packages/erldns)|11.2.1|2026-08-11|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)|erlang
+|6|[erldns](https://hex.pm/packages/erldns)|11.2.3|2026-09-02|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)|erlang
 |7|[nessie_cluster](https://hex.pm/packages/nessie_cluster)|0.3.0|2025-01-27|A small DNS clustering library for Gleam applications.|8xx|[![43439](https://img.shields.io/github/stars/ckreiling/nessie_cluster)](https://github.com/ckreiling/nessie_cluster)|gleam
 |8|[nessie](https://hex.pm/packages/nessie)|0.1.0|2024-04-07|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|4xx|[![43437](https://img.shields.io/github/stars/ckreiling/nessie)](https://github.com/ckreiling/nessie)|gleam
 |9|[esdee](https://hex.pm/packages/esdee)|1.0.1|2025-12-25|Gleam DNS-SD discovery on Erlang|3xx|[![35348](https://img.shields.io/github/stars/sbergen/esdee)](https://github.com/sbergen/esdee)|gleam
@@ -130,7 +130,7 @@
 ## Redis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.8.1|2026-08-31|Fast, pipelined, resilient Redis driver for Elixir.|4516xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
+|1|[redix](https://hex.pm/packages/redix)|1.8.2|2026-09-02|Fast, pipelined, resilient Redis driver for Elixir.|4516xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2319xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)|elixir
 |3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1548xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|340xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
@@ -199,7 +199,7 @@
 |6|[fast_xml](https://hex.pm/packages/fast_xml)|1.1.60|2026-04-13|Fast Expat-based Erlang / Elixir XML parsing library|59xxxx|[![37300](https://img.shields.io/github/stars/processone/fast_xml)](https://github.com/processone/fast_xml)|erlang
 |7|[xmb](https://hex.pm/packages/xmb)|1.4.1|2025-04-06|A tiny XML builder for Gleam|1xxxx|[![67387](https://img.shields.io/github/stars/lpil/xmb)](https://github.com/lpil/xmb)|gleam
 |8|[xmlm](https://hex.pm/packages/xmlm)|1.0.1|2026-01-04|An pull-based XML parser for the Gleam programming language|1xxxx|[![67403](https://img.shields.io/github/stars/mooreryan/gleam_xmlm)](https://github.com/mooreryan/gleam_xmlm)|gleam
-|9|[vxml](https://hex.pm/packages/vxml)|1.0.7|2026-09-01|A simplified XML-like tree datatype for document processing.|3xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)|gleam
+|9|[vxml](https://hex.pm/packages/vxml)|1.0.8|2026-09-02|A simplified XML-like tree datatype for document processing.|3xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)|gleam
 ## CSV
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-

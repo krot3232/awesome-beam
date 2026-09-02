@@ -62,6 +62,7 @@
 |46|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
 |47|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.2.0|2026-08-27|UI components for authoring, observing, and debugging statifier statecharts|9x|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
 |48|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|7x|
+|49|[managoat_acp](https://hex.pm/packages/managoat_acp)|0.1.0|2026-09-02|A client-side Agent Client Protocol session that outlives the turn, with a per-tool permission policy, block normalisation, usage accounting and a tracer, behind a writer callback.|0|[![7630037](https://img.shields.io/github/stars/managoat/managoat_acp)](https://github.com/managoat/managoat_acp)
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

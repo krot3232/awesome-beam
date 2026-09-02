@@ -33,4 +33,4 @@
 |:-|-|-|-|:-|-|-
 |1|[xmb](https://hex.pm/packages/xmb)|1.4.1|2025-04-06|A tiny XML builder for Gleam|1xxxx|[![67387](https://img.shields.io/github/stars/lpil/xmb)](https://github.com/lpil/xmb)
 |2|[xmlm](https://hex.pm/packages/xmlm)|1.0.1|2026-01-04|An pull-based XML parser for the Gleam programming language|1xxxx|[![67403](https://img.shields.io/github/stars/mooreryan/gleam_xmlm)](https://github.com/mooreryan/gleam_xmlm)
-|3|[vxml](https://hex.pm/packages/vxml)|1.0.7|2026-09-01|A simplified XML-like tree datatype for document processing.|3xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)
+|3|[vxml](https://hex.pm/packages/vxml)|1.0.8|2026-09-02|A simplified XML-like tree datatype for document processing.|3xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)

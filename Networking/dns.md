@@ -3,7 +3,7 @@
 |:-|-|-|-|:-|-|-
 |1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.18|2026-08-26|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
 |2|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)
-|3|[erldns](https://hex.pm/packages/erldns)|11.2.1|2026-08-11|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
+|3|[erldns](https://hex.pm/packages/erldns)|11.2.3|2026-09-02|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
 |4|[mdns_client](https://hex.pm/packages/mdns_client)|0.1.10|2017-10-25|mDNS service discovery client|6xxx|[![42242](https://img.shields.io/github/stars/Licenser/erlang-mdns-client)](https://github.com/Licenser/erlang-mdns-client)
 |5|[macula_mdns](https://hex.pm/packages/macula_mdns)|0.1.0|2025-12-24|Multicast DNS (mDNS/Zeroconf/Bonjour) for Erlang/OTP|4xxx|[![41876](https://img.shields.io/github/stars/macula-io/macula-mdns)](https://github.com/macula-io/macula-mdns)
 |6|[mdns_server](https://hex.pm/packages/mdns_server)|0.2.0|2015-07-26|mDNS service discovery server|2xxx|[![42245](https://img.shields.io/github/stars/Licenser/erlang-mdns-server)](https://github.com/Licenser/erlang-mdns-server)
