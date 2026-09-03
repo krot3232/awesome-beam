@@ -1,7 +1,7 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1548xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1549xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
 |2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|139xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|2.6.2|2022-04-19|Erlang Redis Client|6xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
@@ -17,7 +17,7 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.8.2|2026-09-02|Fast, pipelined, resilient Redis driver for Elixir.|4516xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.8.2|2026-09-02|Fast, pipelined, resilient Redis driver for Elixir.|4518xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.1.1|2026-04-15|Redis backend for Hammer rate-limiter|2319xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|340xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
 |4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|193xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
@@ -112,10 +112,10 @@
 |93|[redis_session_plug](https://hex.pm/packages/redis_session_plug)|0.1.1|2018-01-23|The Redis Plug.Session adapter for the Phoenix framework.|3xx|
 |94|[fake_riak](https://hex.pm/packages/fake_riak)|0.3.0|2026-07-24|In-memory fake for Riak, etcd, Redis and memcached that speaks their wire protocols on TCP, so you can point real clients at it. Ships as an escript.|3xx|[![4934133](https://img.shields.io/github/stars/bsanyi/fake_riak)](https://github.com/bsanyi/fake_riak)
 |95|[redislog](https://hex.pm/packages/redislog)|0.1.0|2018-07-17|Redis pubsub backend for standard logger|3xx|[![63022](https://img.shields.io/github/stars/archydragon/elixir-redislog)](https://github.com/archydragon/elixir-redislog)
-|96|[csh2fjhyll_kvasir_redis](https://hex.pm/packages/csh2fjhyll_kvasir_redis)|0.0.3|2020-09-24|Redis [event] source, [cold] storage, and agent cache for Kvasir.|2xx|[![33298](https://img.shields.io/github/stars/IanLuites/kvasir_redis)](https://github.com/IanLuites/kvasir_redis)
+|96|[csh2fjhyll_kvasir_redis](https://hex.pm/packages/csh2fjhyll_kvasir_redis)|0.0.3|2020-09-24|Redis [event] source, [cold] storage, and agent cache for Kvasir.|3xx|[![33298](https://img.shields.io/github/stars/IanLuites/kvasir_redis)](https://github.com/IanLuites/kvasir_redis)
 |97|[redis_cluster_multilock](https://hex.pm/packages/redis_cluster_multilock)|0.1.0|2019-10-01|A multilock for redis cluster using lua scripts and given key(s) hopefully with shard key(s)|2xx|
-|98|[raven_integration_redis](https://hex.pm/packages/raven_integration_redis)|0.3.3|2026-07-24|Redis server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Redis.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
-|99|[ex_redisgraph](https://hex.pm/packages/ex_redisgraph)|0.1.0|2023-06-14|A RedisGraph client library in Elixir with support for Cypher query building.|2xx|[![36726](https://img.shields.io/github/stars/AlexSandro19/redisgraph-ex-lib)](https://github.com/AlexSandro19/redisgraph-ex-lib)
+|98|[ex_redisgraph](https://hex.pm/packages/ex_redisgraph)|0.1.0|2023-06-14|A RedisGraph client library in Elixir with support for Cypher query building.|2xx|[![36726](https://img.shields.io/github/stars/AlexSandro19/redisgraph-ex-lib)](https://github.com/AlexSandro19/redisgraph-ex-lib)
+|99|[raven_integration_redis](https://hex.pm/packages/raven_integration_redis)|0.3.3|2026-07-24|Redis server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Redis.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |100|[quantum_storage_redis](https://hex.pm/packages/quantum_storage_redis)|0.0.1|2023-12-26|A redis storage adapter for quantum|2xx|[![45975](https://img.shields.io/github/stars/senconscious/quantum_storage_redis)](https://github.com/senconscious/quantum_storage_redis)
 |101|[redlock_ex](https://hex.pm/packages/redlock_ex)|0.1.0|2023-10-31|A module to handle distributed locking using Redis.|2xx|[![63048](https://img.shields.io/github/stars/santosh79/redlock_ex)](https://github.com/santosh79/redlock_ex)
 |102|[beexqueue](https://hex.pm/packages/beexqueue)|0.1.0|2025-09-09|Redis-backed job queue library in Elixir, compatible with bee-queue|1xx|

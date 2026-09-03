@@ -34,7 +34,7 @@
 |16|[control_packet](https://hex.pm/packages/control_packet)|1.1.1|2024-07-29|MQTT 5 packet decoder and encoder|7xx|[![33004](https://img.shields.io/github/stars/TimisRobert/control_packet)](https://github.com/TimisRobert/control_packet)
 |17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|5xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
 |18|[conduit_mqtt](https://hex.pm/packages/conduit_mqtt)|0.1.0|2018-10-29|MQTT adapter for Conduit.|4xx|[![32889](https://img.shields.io/github/stars/conduitframework/conduit_mqtt)](https://github.com/conduitframework/conduit_mqtt)
-|19|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|2xx|
+|19|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|3xx|
 |20|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|2xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)
 |21|[simple_mqtt](https://hex.pm/packages/simple_mqtt)|0.1.0|2021-01-02|A basic, single node pub-sub implementation where publishers and subscribers use topics and topics filters compatible with MQTT.|2xx|[![64246](https://img.shields.io/github/stars/kmiecikt/simple_mqtt)](https://github.com/kmiecikt/simple_mqtt)
 |22|[nipper](https://hex.pm/packages/nipper)|0.1.0|2025-08-13|Lightweight, embeddable MQTT broker for BEAM-based edge applications|1xx|
