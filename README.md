@@ -97,7 +97,7 @@
 |-|-|-|-|:-|-|-|-
 |1|[postgrex](https://hex.pm/packages/postgrex)|1.0.0-rc.1|2026-08-07|PostgreSQL driver for Elixir|13941xxxx|[![45561](https://img.shields.io/github/stars/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)|elixir
 |2|[ecto_sql](https://hex.pm/packages/ecto_sql)|3.14.0|2026-05-19|SQL-based adapters for Ecto and database migrations|12771xxxx|[![34535](https://img.shields.io/github/stars/elixir-ecto/ecto_sql)](https://github.com/elixir-ecto/ecto_sql)|elixir
-|3|[oban](https://hex.pm/packages/oban)|2.24.0|2026-08-25|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2671xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
+|3|[oban](https://hex.pm/packages/oban)|2.24.1|2026-09-03|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2671xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
 |4|[epgsql](https://hex.pm/packages/epgsql)|4.8.0|2025-06-06|PostgreSQL Client|269xxxx|[![35129](https://img.shields.io/github/stars/epgsql/epgsql)](https://github.com/epgsql/epgsql)|erlang
 |5|[eql](https://hex.pm/packages/eql)|0.2.0|2018-12-06|Erlang with SQL|75xxxx|[![35157](https://img.shields.io/github/stars/artemeff/eql)](https://github.com/artemeff/eql)|erlang
 |6|[mysql](https://hex.pm/packages/mysql)|1.9.0|2025-03-16|MySQL/OTP - Erlang MySQL client driver|60xxxx|[![43154](https://img.shields.io/github/stars/mysql-otp/mysql-otp)](https://github.com/mysql-otp/mysql-otp)|erlang
@@ -199,7 +199,7 @@
 |6|[fast_xml](https://hex.pm/packages/fast_xml)|1.1.60|2026-04-13|Fast Expat-based Erlang / Elixir XML parsing library|59xxxx|[![37300](https://img.shields.io/github/stars/processone/fast_xml)](https://github.com/processone/fast_xml)|erlang
 |7|[xmb](https://hex.pm/packages/xmb)|1.4.1|2025-04-06|A tiny XML builder for Gleam|1xxxx|[![67387](https://img.shields.io/github/stars/lpil/xmb)](https://github.com/lpil/xmb)|gleam
 |8|[xmlm](https://hex.pm/packages/xmlm)|1.0.1|2026-01-04|An pull-based XML parser for the Gleam programming language|1xxxx|[![67403](https://img.shields.io/github/stars/mooreryan/gleam_xmlm)](https://github.com/mooreryan/gleam_xmlm)|gleam
-|9|[vxml](https://hex.pm/packages/vxml)|1.0.9|2026-09-02|A simplified XML-like tree datatype for document processing.|4xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)|gleam
+|9|[vxml](https://hex.pm/packages/vxml)|2.0.0|2026-09-03|A simplified XML-like tree datatype for document processing.|4xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)|gleam
 ## CSV
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
