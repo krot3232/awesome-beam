@@ -12,7 +12,7 @@
 # Elixir Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.0|2026-04-22|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
+|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3241xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
 |3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|288xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
 |4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|116xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)

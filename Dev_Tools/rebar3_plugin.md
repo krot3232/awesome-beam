@@ -28,8 +28,8 @@
 |25|[erlalign](https://hex.pm/packages/erlalign)|0.1.6|2026-04-28|Erlang code formatter with column alignment|4xx|[![35181](https://img.shields.io/github/stars/saleyn/erlalign)](https://github.com/saleyn/erlalign)
 |26|[rebar3_erli18n](https://hex.pm/packages/rebar3_erli18n)|0.2.0|2026-07-01|rebar3 plugin: extract/merge/check/report/compile gettext catalogs from Erlang abstract forms|3xx|[![4526982](https://img.shields.io/github/stars/eagle-head/erli18n)](https://github.com/eagle-head/erli18n)
 |27|[rebar3_uncovered](https://hex.pm/packages/rebar3_uncovered)|0.2.0|2026-04-17|A Rebar 3 plugin that reports on uncovered lines from tests|2xx|[![46417](https://img.shields.io/github/stars/eproxus/rebar3_uncovered)](https://github.com/eproxus/rebar3_uncovered)
-|28|[cassone](https://hex.pm/packages/cassone)|0.1.1|2026-02-07|Rebar3 plugin to package Erlang escripts and releases in standalone executables|1xx|
-|29|[rebar_calzone](https://hex.pm/packages/rebar_calzone)|1.0.1|2026-05-13|Rebar3 plugin for packaging escripts as Calzone binaries|1xx|
+|28|[rebar_calzone](https://hex.pm/packages/rebar_calzone)|1.0.1|2026-05-13|Rebar3 plugin for packaging escripts as Calzone binaries|1xx|
+|29|[cassone](https://hex.pm/packages/cassone)|0.1.1|2026-02-07|Rebar3 plugin to package Erlang escripts and releases in standalone executables|1xx|
 |30|[rebar3_otter](https://hex.pm/packages/rebar3_otter)|0.3.1|2026-06-25|rebar3 plugin for building Rust NIF crates with otter|1xx|[![4461473](https://img.shields.io/github/stars/cubelio/otter)](https://github.com/cubelio/otter)
 |31|[rebar3_stale](https://hex.pm/packages/rebar3_stale)|0.1.0|2026-03-14|Rebar3 plugin for running only stale tests affected by changed modules|9x|[![46411](https://img.shields.io/github/stars/Taure/rebar3_stale)](https://github.com/Taure/rebar3_stale)
 |32|[atomvm_rebar3_plugin](https://hex.pm/packages/atomvm_rebar3_plugin)|0.7.5|2025-05-27|A rebar plugin for manipulating AtomVM AVM files|10xxxx|[![7734](https://img.shields.io/github/stars/atomvm/atomvm_rebar3_plugin)](https://github.com/atomvm/atomvm_rebar3_plugin)

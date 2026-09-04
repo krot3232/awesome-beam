@@ -17,7 +17,7 @@
 |1|[hackney](https://hex.pm/packages/hackney)|4.7.4|2026-08-12|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17188xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
 |2|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13227xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
 |3|[tesla](https://hex.pm/packages/tesla)|1.21.3|2026-09-01|HTTP client library, with support for middleware and multiple adapters.|7388xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
-|4|[mint](https://hex.pm/packages/mint)|1.9.3|2026-07-16|Small and composable HTTP client.|6459xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
+|4|[mint](https://hex.pm/packages/mint)|1.10.0|2026-09-04|Small and composable HTTP client.|6459xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
 |5|[ibrowse](https://hex.pm/packages/ibrowse)|4.5.0|2026-05-01|Erlang HTTP client application|5619xxxx|[![39902](https://img.shields.io/github/stars/cmullaparthi/ibrowse)](https://github.com/cmullaparthi/ibrowse)|erlang
 |6|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5572xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)|erlang
 |7|[gleam_httpc](https://hex.pm/packages/gleam_httpc)|5.0.0|2025-07-15|Gleam bindings to Erlang&#039;s built in HTTP client, httpc|26xxxx|[![38378](https://img.shields.io/github/stars/gleam-lang/httpc)](https://github.com/gleam-lang/httpc)|gleam
@@ -278,7 +278,7 @@
 ## Kafka
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.0|2026-04-22|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
+|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3241xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1091xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
 |4|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1072xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
