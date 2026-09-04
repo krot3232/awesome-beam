@@ -39,6 +39,6 @@
 |1|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|39xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)
 |2|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|1xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|4xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
-|4|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|1xx|
-|5|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.2.3|2026-09-03|Regular expressions for Gleam on Erlang and Geam|1xx|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
+|4|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.2.3|2026-09-03|Regular expressions for Gleam on Erlang and Geam|1xx|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
+|5|[onigleam](https://hex.pm/packages/onigleam)|1.0.0|2026-01-20|Convert Oniguruma regex patterns to gleam_regexp compatible patterns|1xx|
 |6|[zeroreg](https://hex.pm/packages/zeroreg)|1.0.0|2026-04-22|A human-readable regex builder for Gleam|1xx|

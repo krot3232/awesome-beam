@@ -8,12 +8,12 @@
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|679xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
+|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|680xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|82xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)
 |4|[conn_grpc](https://hex.pm/packages/conn_grpc)|0.4.3|2026-03-17|Persistent channels, and channel pools for gRPC Elixir|23xxxx|[![32948](https://img.shields.io/github/stars/TheRealReal/conn_grpc)](https://github.com/TheRealReal/conn_grpc)
 |5|[grpc_reflection](https://hex.pm/packages/grpc_reflection)|0.5.0|2026-06-22|gRPC reflection server for Elixir|15xxxx|[![39196](https://img.shields.io/github/stars/elixir-grpc/grpc-reflection)](https://github.com/elixir-grpc/grpc-reflection)
-|6|[grpc_core](https://hex.pm/packages/grpc_core)|1.0.5|2026-08-31|Core gRPC types, codecs, and utilities for Elixir|9xxxx|
+|6|[grpc_core](https://hex.pm/packages/grpc_core)|1.0.5|2026-08-31|Core gRPC types, codecs, and utilities for Elixir|10xxxx|
 |7|[mock_grpc](https://hex.pm/packages/mock_grpc)|1.0.0|2026-06-29|Concurrent mocks for gRPC Elixir|7xxxx|[![42821](https://img.shields.io/github/stars/TheRealReal/mock_grpc)](https://github.com/TheRealReal/mock_grpc)
 |8|[grpc_server](https://hex.pm/packages/grpc_server)|1.0.5|2026-08-31|gRPC server implementation for Elixir|4xxxx|
 |9|[cratis_chronicle_contract s ](https://hex.pm/packages/cratis_chronicle_contracts)|17.0.0|2026-09-01|Generated Elixir gRPC contracts for Cratis Chronicle - the open-source event-sourcing database|1xxxx|[![204454](https://img.shields.io/github/stars/Cratis/Chronicle)](https://github.com/Cratis/Chronicle)

@@ -1,7 +1,7 @@
 # Erlang Parse transform
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[parse_trans](https://hex.pm/packages/parse_trans)|3.4.2|2023-10-08|Parse transform library|17198xxxx|[![44490](https://img.shields.io/github/stars/uwiger/parse_trans)](https://github.com/uwiger/parse_trans)
+|1|[parse_trans](https://hex.pm/packages/parse_trans)|3.4.2|2023-10-08|Parse transform library|17204xxxx|[![44490](https://img.shields.io/github/stars/uwiger/parse_trans)](https://github.com/uwiger/parse_trans)
 |2|[decorator_pt](https://hex.pm/packages/decorator_pt)|1.0.3-alertlogic|2019-06-17|Chain of decorators allowed in parse transforms|56xxxx|[![33618](https://img.shields.io/github/stars/alertlogic/erl-decorator-pt)](https://github.com/alertlogic/erl-decorator-pt)
 |3|[kivra_merlin](https://hex.pm/packages/kivra_merlin)|3.0.1|2023-10-24|Parse transform library for Erlang|4xxxx|[![40910](https://img.shields.io/github/stars/kivra/merlin)](https://github.com/kivra/merlin)
 |4|[rekt](https://hex.pm/packages/rekt)|0.1.0|2020-11-16|Erlang Record Extender Parse Transform|5xxx|
