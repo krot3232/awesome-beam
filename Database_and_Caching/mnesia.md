@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|357xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|358xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|4xx|

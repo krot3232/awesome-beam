@@ -1,7 +1,7 @@
 # Erlang Code Analysis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[elvis_core](https://hex.pm/packages/elvis_core)|6.0.0|2026-08-21|Core library for the Erlang style reviewer|862xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)
+|1|[elvis_core](https://hex.pm/packages/elvis_core)|6.0.0|2026-08-21|Core library for the Erlang style reviewer|863xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)
 |2|[rebar3_hank](https://hex.pm/packages/rebar3_hank)|2.0.0|2026-08-19|A rebar plugin for dead code cleaning|92xxxx|[![46375](https://img.shields.io/github/stars/AdRoll/rebar3_hank)](https://github.com/AdRoll/rebar3_hank)
 |3|[geas](https://hex.pm/packages/geas)|2.11.1|2026-06-14|Guess Erlang Application Scattering|23xxxx|[![37979](https://img.shields.io/github/stars/crownedgrouse/geas)](https://github.com/crownedgrouse/geas)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)

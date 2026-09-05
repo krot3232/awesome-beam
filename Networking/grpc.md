@@ -8,7 +8,7 @@
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|680xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
+|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|681xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|82xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)
 |4|[conn_grpc](https://hex.pm/packages/conn_grpc)|0.4.3|2026-03-17|Persistent channels, and channel pools for gRPC Elixir|23xxxx|[![32948](https://img.shields.io/github/stars/TheRealReal/conn_grpc)](https://github.com/TheRealReal/conn_grpc)
@@ -41,5 +41,5 @@
 |31|[huginn](https://hex.pm/packages/huginn)|0.5.0|2026-08-30|ClickHouse client for Elixir using gRPC with connection pooling.|2xx|[![39807](https://img.shields.io/github/stars/nyo16/huginn)](https://github.com/nyo16/huginn)
 |32|[vox_rtc_server](https://hex.pm/packages/vox_rtc_server)|0.2.5|2026-08-01|Elixir gRPC SDK for Vox-hosted WebRTC conversations|2xx|[![5521849](https://img.shields.io/github/stars/eleven-am/vox-sdks)](https://github.com/eleven-am/vox-sdks)
 |33|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|1xx|
-|34|[ada_sdk](https://hex.pm/packages/ada_sdk)|0.0.1|2026-07-24|Strictly typed Ada gRPC SDK for Elixir|7x|
-|35|[typedb_grpc](https://hex.pm/packages/typedb_grpc)|0.2.0|2026-08-30|A driver for TypeDB 3.12+ in Elixir, built on the TypeDB gRPC API. Streaming answers with no count limit, and transactions that pipeline.|6x|[![6797351](https://img.shields.io/github/stars/NoeticEcho/TypedbEx)](https://github.com/NoeticEcho/TypedbEx)
+|34|[ada_sdk](https://hex.pm/packages/ada_sdk)|0.0.1|2026-07-24|Strictly typed Ada gRPC SDK for Elixir|8x|
+|35|[typedb_grpc](https://hex.pm/packages/typedb_grpc)|0.2.0|2026-08-30|A driver for TypeDB 3.12+ in Elixir, built on the TypeDB gRPC API. Streaming answers with no count limit, and transactions that pipeline.|7x|[![6797351](https://img.shields.io/github/stars/NoeticEcho/TypedbEx)](https://github.com/NoeticEcho/TypedbEx)

@@ -5,14 +5,14 @@
 |2|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)
 |3|[erldns](https://hex.pm/packages/erldns)|11.2.3|2026-09-02|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
 |4|[mdns_client](https://hex.pm/packages/mdns_client)|0.1.10|2017-10-25|mDNS service discovery client|6xxx|[![42242](https://img.shields.io/github/stars/Licenser/erlang-mdns-client)](https://github.com/Licenser/erlang-mdns-client)
-|5|[macula_mdns](https://hex.pm/packages/macula_mdns)|0.1.0|2025-12-24|Multicast DNS (mDNS/Zeroconf/Bonjour) for Erlang/OTP|5xxx|[![41876](https://img.shields.io/github/stars/macula-io/macula-mdns)](https://github.com/macula-io/macula-mdns)
+|5|[macula_mdns](https://hex.pm/packages/macula_mdns)|0.1.1|2026-09-05|Multicast DNS (mDNS/Zeroconf/Bonjour) for Erlang/OTP|5xxx|[![41876](https://img.shields.io/github/stars/macula-io/macula-mdns)](https://github.com/macula-io/macula-mdns)
 |6|[mdns_server](https://hex.pm/packages/mdns_server)|0.2.0|2015-07-26|mDNS service discovery server|2xxx|[![42245](https://img.shields.io/github/stars/Licenser/erlang-mdns-server)](https://github.com/Licenser/erlang-mdns-server)
 |7|[dnssec](https://hex.pm/packages/dnssec)|0.1.2|2023-06-23|DNSSEC Library|8xx|[![33956](https://img.shields.io/github/stars/5HT/dnssec)](https://github.com/5HT/dnssec)
 |8|[spartan](https://hex.pm/packages/spartan)|0.0.1|2016-04-18|Node-local DNS service for Mesosphere DCOS|5xx|
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|777xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|780xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|143xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-05-25|A simple, no frills mDNS implementation in Elixir|39xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)

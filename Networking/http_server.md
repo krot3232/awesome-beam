@@ -1,7 +1,7 @@
 # Erlang HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14809xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14814xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
 |2|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|43xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
@@ -15,8 +15,8 @@
 # Elixir HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1404xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
-|2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1296xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
+|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1409xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
+|2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1297xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
 |3|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)
 |4|[plug_signature](https://hex.pm/packages/plug_signature)|0.11.0|2023-03-07|Server side implementation of IETF HTTP signature draft as a reusable Plug|68xxxx|[![45356](https://img.shields.io/github/stars/voltone/plug_signature)](https://github.com/voltone/plug_signature)
 |5|[fake_server](https://hex.pm/packages/fake_server)|2.1.0|2019-11-08|With FakeServer you can create individual HTTP servers for each test case, allowing external requests to be tested without the need for mocks.|40xxxx|[![37247](https://img.shields.io/github/stars/bernardolins/fake_server)](https://github.com/bernardolins/fake_server)
@@ -27,7 +27,7 @@
 |10|[lasso](https://hex.pm/packages/lasso)|0.1.4|2025-02-11|Simulate remote HTTP services with local Bandit servers.|3xxxx|[![41121](https://img.shields.io/github/stars/claytongentry/lasso)](https://github.com/claytongentry/lasso)
 |11|[buckaroo](https://hex.pm/packages/buckaroo)|0.4.2|2022-10-04|Simple :cowboy (v2) webserver with support for SSE and WebSockets.|2xxxx|[![31891](https://img.shields.io/github/stars/IanLuites/buckaroo)](https://github.com/IanLuites/buckaroo)
 |12|[echo_boy](https://hex.pm/packages/echo_boy)|0.6.1|2020-03-28|HTTP and WebSocket echo server as an OTP Application|1xxxx|[![34303](https://img.shields.io/github/stars/rupurt/echo_boy)](https://github.com/rupurt/echo_boy)
-|13|[ex_mcp](https://hex.pm/packages/ex_mcp)|1.2.0|2026-09-02|Elixir implementation of MCP and ACP. Build MCP clients/servers with tools, resources, prompts over stdio, HTTP/SSE, and BEAM. Control coding agents via ACP with adapters for Claude Code, Codex, and more.|9xxx|[![36385](https://img.shields.io/github/stars/azmaveth/ex_mcp)](https://github.com/azmaveth/ex_mcp)
+|13|[ex_mcp](https://hex.pm/packages/ex_mcp)|1.3.0|2026-09-05|Elixir implementation of MCP and ACP. Build MCP clients/servers with tools, resources, prompts over stdio, HTTP/SSE, and BEAM. Control coding agents via ACP with adapters for Claude Code, Codex, and more.|9xxx|[![36385](https://img.shields.io/github/stars/azmaveth/ex_mcp)](https://github.com/azmaveth/ex_mcp)
 |14|[ex_fake_http](https://hex.pm/packages/ex_fake_http)|0.3.2|2019-09-27|A scriptable HTTP server for testing|3xxx|[![36074](https://img.shields.io/github/stars/ishikawa/ex_fake_http)](https://github.com/ishikawa/ex_fake_http)
 |15|[rocket](https://hex.pm/packages/rocket)|0.2.4|2026-03-09|High-performance HTTP/1.1 server for the BEAM using OTP 28 :socket and a picohttpparser NIF.|3xxx|[![63418](https://img.shields.io/github/stars/awksedgreep/rocket)](https://github.com/awksedgreep/rocket)
 |16|[mock_http_server](https://hex.pm/packages/mock_http_server)|0.4.0-pre1|2025-10-22|A mock http server for testing/mocking remote http calls|2xxx|[![42823](https://img.shields.io/github/stars/sriedel/mock_http_server)](https://github.com/sriedel/mock_http_server)
@@ -41,9 +41,9 @@
 |24|[caddy_server](https://hex.pm/packages/caddy_server)|0.3.0|2024-10-22|Start a Caddy HTTP Server|8xx|
 |25|[flux](https://hex.pm/packages/flux)|0.1.1|2018-09-05|A lightweight and functional http server designed from the ground up to work with plug.|7xx|[![37642](https://img.shields.io/github/stars/cjfreeze/flux)](https://github.com/cjfreeze/flux)
 |26|[cowgirl](https://hex.pm/packages/cowgirl)|0.0.1|2015-12-12|Small, fast, modular HTTP server written in Elixir.|7xx|[![33113](https://img.shields.io/github/stars/larrylv/cowgirl)](https://github.com/larrylv/cowgirl)
-|27|[websocket_mock](https://hex.pm/packages/websocket_mock)|0.3.0|2025-12-15|A lightweight WebSocket mock server for testing|6xx|[![67131](https://img.shields.io/github/stars/pascal736/websocket_mock)](https://github.com/pascal736/websocket_mock)
-|28|[exws](https://hex.pm/packages/exws)|0.0.3|2022-11-09|Elixir Websocket Server - Kitchen Sink Not Included|6xx|
-|29|[attesto_mcp_server](https://hex.pm/packages/attesto_mcp_server)|2.1.0|2026-09-04|Authenticated Attesto-native MCP server with HTTP and stdio transports|5xx|[![7332643](https://img.shields.io/github/stars/XukuLLC/attesto_mcp_server)](https://github.com/XukuLLC/attesto_mcp_server)
+|27|[attesto_mcp_server](https://hex.pm/packages/attesto_mcp_server)|2.1.0|2026-09-04|Authenticated Attesto-native MCP server with HTTP and stdio transports|6xx|[![7332643](https://img.shields.io/github/stars/XukuLLC/attesto_mcp_server)](https://github.com/XukuLLC/attesto_mcp_server)
+|28|[websocket_mock](https://hex.pm/packages/websocket_mock)|0.3.0|2025-12-15|A lightweight WebSocket mock server for testing|6xx|[![67131](https://img.shields.io/github/stars/pascal736/websocket_mock)](https://github.com/pascal736/websocket_mock)
+|29|[exws](https://hex.pm/packages/exws)|0.0.3|2022-11-09|Elixir Websocket Server - Kitchen Sink Not Included|6xx|
 |30|[pprof](https://hex.pm/packages/pprof)|0.1.0|2023-01-10|Pprof serves via its HTTP server fprof profiling data in the format expected by the pprof visualization tools for Elixir.|5xx|[![45605](https://img.shields.io/github/stars/dogukanzorlu/pprof)](https://github.com/dogukanzorlu/pprof)
 |31|[servito](https://hex.pm/packages/servito)|0.0.10|2017-01-29|Launches HTTP servers for testing|5xx|[![63989](https://img.shields.io/github/stars/marcelog/servito)](https://github.com/marcelog/servito)
 |32|[fault_tree](https://hex.pm/packages/fault_tree)|0.2.0|2019-06-05|FaultTree is a library for performing [fault tree analysis](https://en.wikipedia.org/wiki/Fault_tree_analysis).It includes a small HTTP server capable of graphing the resulting FTA, or returning it as JSON.|5xx|

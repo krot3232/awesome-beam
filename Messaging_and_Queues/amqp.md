@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2157xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2158xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|207xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -15,7 +15,7 @@
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp](https://hex.pm/packages/amqp)|4.2.1|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1715xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
+|1|[amqp](https://hex.pm/packages/amqp)|4.2.1|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1716xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
 |2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|347xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
 |3|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|104xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)
 |4|[gen_rmq](https://hex.pm/packages/gen_rmq)|4.0.0|2022-03-16|Set of behaviours meant to be used to create RabbitMQ consumers and publishers.|54xxxx|[![38104](https://img.shields.io/github/stars/meltwater/gen_rmq)](https://github.com/meltwater/gen_rmq)
@@ -29,10 +29,10 @@
 |12|[lapin](https://hex.pm/packages/lapin)|2.0.0|2024-11-09|Elixir RabbitMQ Client|14xxxx|[![41106](https://img.shields.io/github/stars/lucacorti/lapin)](https://github.com/lucacorti/lapin)
 |13|[subscribex](https://hex.pm/packages/subscribex)|0.10.0-rc.1|2019-08-09|A high-level library for making RabbitMQ subscribers|9xxxx|
 |14|[amqp_channel_pool](https://hex.pm/packages/amqp_channel_pool)|0.2.1|2026-03-05|A lightweight Elixir library for managing a pool of AMQP channels using NimblePool.|6xxxx|[![1666](https://img.shields.io/github/stars/mpol1t/amqp_channel_pool)](https://github.com/mpol1t/amqp_channel_pool)
-|15|[freddy](https://hex.pm/packages/freddy)|0.17.2|2025-03-31|JSON RPC Client/Server, JSON Publisher-Subscriber over AMQP|5xxxx|
+|15|[freddy](https://hex.pm/packages/freddy)|0.17.2|2025-03-31|JSON RPC Client/Server, JSON Publisher-Subscriber over AMQP|6xxxx|
 |16|[amqp_pool](https://hex.pm/packages/amqp_pool)|0.2.1|2020-04-30|AMQPPool maintains a pool of AMQP channels for you to use.|5xxxx|[![1671](https://img.shields.io/github/stars/derekkraan/amqp_pool)](https://github.com/derekkraan/amqp_pool)
-|17|[wabbit](https://hex.pm/packages/wabbit)|0.4.0|2018-06-12|GenStage based interface for RabbitMQ|5xxxx|[![66981](https://img.shields.io/github/stars/pma/wabbit)](https://github.com/pma/wabbit)
-|18|[lepus](https://hex.pm/packages/lepus)|0.1.6|2025-04-04|Opinionated library for RabbitMQ with exponential backoff retries and RPC.|5xxxx|[![41218](https://img.shields.io/github/stars/Recruitee/lepus)](https://github.com/Recruitee/lepus)
+|17|[lepus](https://hex.pm/packages/lepus)|0.1.6|2025-04-04|Opinionated library for RabbitMQ with exponential backoff retries and RPC.|5xxxx|[![41218](https://img.shields.io/github/stars/Recruitee/lepus)](https://github.com/Recruitee/lepus)
+|18|[wabbit](https://hex.pm/packages/wabbit)|0.4.0|2018-06-12|GenStage based interface for RabbitMQ|5xxxx|[![66981](https://img.shields.io/github/stars/pma/wabbit)](https://github.com/pma/wabbit)
 |19|[ulfnet_amqpx](https://hex.pm/packages/ulfnet_amqpx)|1.1.0|2020-01-13|Higher-level functionality on top of AMQP|4xxxx|[![66529](https://img.shields.io/github/stars/ulfurinn/amqpx)](https://github.com/ulfurinn/amqpx)
 |20|[gen_amqp](https://hex.pm/packages/gen_amqp)|7.0.0|2019-12-10|GenAMQP is a set of utilities to make microservices using the worker pattern|4xxxx|[![38014](https://img.shields.io/github/stars/mrkaspa/gen_amqp)](https://github.com/mrkaspa/gen_amqp)
 |21|[coney](https://hex.pm/packages/coney)|3.1.3|2025-01-03|Consumer server for RabbitMQ.|4xxxx|[![32898](https://img.shields.io/github/stars/coingaming/coney)](https://github.com/coingaming/coney)
