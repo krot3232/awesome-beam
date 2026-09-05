@@ -60,7 +60,7 @@
 |44|[replayx](https://hex.pm/packages/replayx)|1.0.3|2026-02-06|Deterministic replay debugging for Elixir GenServers. Record what led to a crash, then replay it exactly.|2xx|[![63173](https://img.shields.io/github/stars/SumitPugalia/replayx)](https://github.com/SumitPugalia/replayx)
 |45|[phoenix_debug_bar](https://hex.pm/packages/phoenix_debug_bar)|0.1.0|2022-01-19|A debugging toolbar for Phoenix|2xx|
 |46|[elixir_scope](https://hex.pm/packages/elixir_scope)|0.0.1|2025-05-27|ElixirScope is a next-generation debugging and observability platform for Elixir applications, designed to provide an Execution Cinema experience through deep, compile-time AST instrumentation guided by AI-powered analysis.|1xx|[![34871](https://img.shields.io/github/stars/nshkrdotcom/ElixirScope)](https://github.com/nshkrdotcom/ElixirScope)
-|47|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.4.0|2026-09-04|UI components for authoring, observing, and debugging statifier statecharts|1xx|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|47|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.6.0|2026-09-05|UI components for authoring, observing, and debugging statifier statecharts|1xx|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
 |48|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
 |49|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|7x|
 # Gleam Debugging
