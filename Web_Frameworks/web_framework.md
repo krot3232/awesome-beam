@@ -1,11 +1,11 @@
 # Erlang Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[nova](https://hex.pm/packages/nova)|0.16.0|2026-08-10|Nova is a web application framework|6xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
+|1|[nova](https://hex.pm/packages/nova)|0.16.1|2026-09-06|Nova is a web application framework|6xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
 |3|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
 |4|[nitrogen_core](https://hex.pm/packages/nitrogen_core)|3.0.0-alpha.15|2026-07-27|Nitrogen Web Framework Core Library|4xxx|[![43588](https://img.shields.io/github/stars/nitrogen/nitrogen_core)](https://github.com/nitrogen/nitrogen_core)
-|5|[livery](https://hex.pm/packages/livery)|0.9.2|2026-08-30|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|3xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
+|5|[livery](https://hex.pm/packages/livery)|0.9.2|2026-08-30|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|4xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
 |6|[lfe_http](https://hex.pm/packages/lfe_http)|1.0.0|2025-10-29|General purpose data, functions, and utilities for use by LFE/Erlang HTTP clients, servers, URL-parsers, web frameworks, etc.|3xxx|[![41254](https://img.shields.io/github/stars/lfe-http/http)](https://github.com/lfe-http/http)
 |7|[nova_resilience](https://hex.pm/packages/nova_resilience)|1.0.3|2026-03-31|Production-grade resilience patterns for Nova web framework|2xxx|[![43728](https://img.shields.io/github/stars/novaframework/nova_resilience)](https://github.com/novaframework/nova_resilience)
 |8|[webpage](https://hex.pm/packages/webpage)|1.0.0|2016-09-02|Yet another web framework for Erlang|4xx|[![67116](https://img.shields.io/github/stars/cthulhuology/webpage)](https://github.com/cthulhuology/webpage)
@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15477xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.13|2026-08-25|Peace of mind from prototype to production|15484xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|317xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|41xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -31,13 +31,13 @@
 |12|[spider_man](https://hex.pm/packages/spider_man)|0.6.4|2025-10-22|SpiderMan,a fast high-level web crawling &amp; scraping framework for Elixir|8xxx|[![64740](https://img.shields.io/github/stars/feng19/spider_man)](https://github.com/feng19/spider_man)
 |13|[tokumei](https://hex.pm/packages/tokumei)|0.9.1|2017-11-07|The Elixir web unframework|8xxx|[![65983](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |14|[ashes](https://hex.pm/packages/ashes)|0.0.3|2015-01-23|A code generation tool for the phoenix web framework|7xxx|
-|15|[hologram](https://hex.pm/packages/hologram)|0.11.1|2026-08-27|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
+|15|[hologram](https://hex.pm/packages/hologram)|0.11.1|2026-08-27|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|7xxx|[![39642](https://img.shields.io/github/stars/bartblast/hologram)](https://github.com/bartblast/hologram)
 |16|[raxx_kit](https://hex.pm/packages/raxx_kit)|0.12.2|2020-04-07|Micro framework for web applications with Raxx and Ace.|6xxx|[![46225](https://img.shields.io/github/stars/crowdhailer/raxx_kit)](https://github.com/crowdhailer/raxx_kit)
 |17|[trot](https://hex.pm/packages/trot)|0.7.0|2019-06-05|A web micro-framework based on Plug and Cowboy.|4xxx|[![66194](https://img.shields.io/github/stars/hexedpackets/trot)](https://github.com/hexedpackets/trot)
 |18|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |19|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
 |20|[infuse](https://hex.pm/packages/infuse)|0.3.5|2017-11-05|A simple web framework that serves from the filesystem using Simplates!|3xxx|[![40100](https://img.shields.io/github/stars/LawfulGood/infuse)](https://github.com/LawfulGood/infuse)
-|21|[combo](https://hex.pm/packages/combo)|0.11.0|2026-08-08|A web framework, that combines the good parts of modern web development.|1xxx|
+|21|[combo](https://hex.pm/packages/combo)|0.11.0|2026-08-08|A web framework, that combines the good parts of modern web development.|2xxx|
 |22|[plug_and_play](https://hex.pm/packages/plug_and_play)|0.7.0|2017-03-02|Set up a Plug application with less boilerplate.PlugAndPlay is not a web framework – it&#039;s a small scaffold. You use Plug as you would normally, only *sooner*.Later, if you need more control, you can easily replace PlugAndPlay piece by piece or wholesale.|1xxx|[![45229](https://img.shields.io/github/stars/henrik/plug_and_play)](https://github.com/henrik/plug_and_play)
 |23|[nex_core](https://hex.pm/packages/nex_core)|0.4.3|2026-06-06|A minimalist Elixir web framework powered by HTMX|1xxx|[![43505](https://img.shields.io/github/stars/gofenix/nex)](https://github.com/gofenix/nex)
 |24|[euros](https://hex.pm/packages/euros)|0.3.0|2018-01-07|Euros web-spider framework|1xxx|[![35474](https://img.shields.io/github/stars/kytiken/euros)](https://github.com/kytiken/euros)
@@ -78,7 +78,7 @@
 |:-|-|-|-|:-|-|-
 |1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|29xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
 |2|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|3xxxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)
-|3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|5xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
+|3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|6xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
 |4|[tiramisu](https://hex.pm/packages/tiramisu)|8.1.0|2026-03-29|A 3D game framework for building performant web games in Gleam|4xxx|[![65923](https://img.shields.io/github/stars/renatillas/tiramisu)](https://github.com/renatillas/tiramisu)
 |5|[glimr](https://hex.pm/packages/glimr)|1.4.0|2026-05-12|A batteries-included web framework for Gleam|4xxx|[![38513](https://img.shields.io/github/stars/glimr-org/framework)](https://github.com/glimr-org/framework)
 |6|[glen_node](https://hex.pm/packages/glen_node)|0.0.3|2025-02-21|NodeJS adapter for the Glen web framework|2xxx|[![38469](https://img.shields.io/github/stars/Enderchief/glen_node)](https://github.com/Enderchief/glen_node)

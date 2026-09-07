@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|358xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|359xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|4xx|
@@ -11,7 +11,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memento](https://hex.pm/packages/memento)|0.6.0|2026-06-11|Simple &amp; Powerful Elixir wrapper for the Mnesia Database|70xxxx|[![42457](https://img.shields.io/github/stars/sheharyarn/memento)](https://github.com/sheharyarn/memento)
-|2|[que](https://hex.pm/packages/que)|0.12.0|2026-06-11|Simple Background Job Processing with Mnesia|46xxxx|[![45986](https://img.shields.io/github/stars/sheharyarn/que)](https://github.com/sheharyarn/que)
+|2|[que](https://hex.pm/packages/que)|0.12.0|2026-06-11|Simple Background Job Processing with Mnesia|47xxxx|[![45986](https://img.shields.io/github/stars/sheharyarn/que)](https://github.com/sheharyarn/que)
 |3|[amnesia](https://hex.pm/packages/amnesia)|0.2.8|2019-12-16|mnesia wrapper for Elixir|35xxxx|[![1649](https://img.shields.io/github/stars/meh/amnesia)](https://github.com/meh/amnesia)
 |4|[active_memory](https://hex.pm/packages/active_memory)|0.8.2|2026-08-18|The typed, attribute-queryable in-memory store for ETS and Mnesia, with Ecto changeset support, record expiry (TTL), crash resilience, and atomic take-once reads.|20xxxx|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
 |5|[hammer_backend_mnesia](https://hex.pm/packages/hammer_backend_mnesia)|0.7.1|2025-07-23|Mnesia backend for Hammer rate-limiter|16xxxx|[![39329](https://img.shields.io/github/stars/ExHammer/hammer-backend-mnesia)](https://github.com/ExHammer/hammer-backend-mnesia)

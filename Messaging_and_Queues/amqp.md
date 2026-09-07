@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2158xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2159xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|207xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -22,7 +22,7 @@
 |5|[rabbit](https://hex.pm/packages/rabbit)|0.21.0|2024-12-13|A set of tools for building robust applications with RabbitMQ.|31xxxx|[![46052](https://img.shields.io/github/stars/nsweeting/rabbit)](https://github.com/nsweeting/rabbit)
 |6|[task_bunny](https://hex.pm/packages/task_bunny)|0.3.4|2019-07-30|Background processing application/library written in Elixir that uses RabbitMQ as a messaging backend|21xxxx|[![65463](https://img.shields.io/github/stars/shinyscorpion/task_bunny)](https://github.com/shinyscorpion/task_bunny)
 |7|[ex_rabbit_pool](https://hex.pm/packages/ex_rabbit_pool)|1.0.3|2019-09-26|RabbitMQ connection pool library|21xxxx|[![36708](https://img.shields.io/github/stars/esl/ex_rabbit_pool)](https://github.com/esl/ex_rabbit_pool)
-|8|[amqp_helpers](https://hex.pm/packages/amqp_helpers)|1.6.0|2025-09-22|Non opinionated AMQP helpers|18xxxx|[![1670](https://img.shields.io/github/stars/kantox/amqp_helpers)](https://github.com/kantox/amqp_helpers)
+|8|[amqp_helpers](https://hex.pm/packages/amqp_helpers)|1.6.1|2026-09-07|Non opinionated AMQP helpers|18xxxx|[![1670](https://img.shields.io/github/stars/kantox/amqp_helpers)](https://github.com/kantox/amqp_helpers)
 |9|[astarte_rpc](https://hex.pm/packages/astarte_rpc)|1.2.2|2026-04-24|Astarte platform shared Protocol Buffers .proto files and Elixir AMQP client code.This component is one of the core components and basically is required to allow communication between different Astarte blocks.|15xxxx|[![7692](https://img.shields.io/github/stars/astarte-platform/astarte_rpc)](https://github.com/astarte-platform/astarte_rpc)
 |10|[amqp_rpc](https://hex.pm/packages/amqp_rpc)|0.0.8|2016-08-17|AMQP RPC Client/Server templates|15xxxx|[![1672](https://img.shields.io/github/stars/deadtrickster/amqp_rpc)](https://github.com/deadtrickster/amqp_rpc)
 |11|[conduit_amqp](https://hex.pm/packages/conduit_amqp)|0.6.4|2020-05-29|AMQP adapter for Conduit.|15xxxx|[![32885](https://img.shields.io/github/stars/conduitframework/conduit_amqp)](https://github.com/conduitframework/conduit_amqp)
