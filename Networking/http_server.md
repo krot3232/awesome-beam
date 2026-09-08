@@ -1,7 +1,7 @@
 # Erlang HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14822xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.19.0|2026-09-08|Small, fast, modern HTTP server.|14822xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
 |2|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|43xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
@@ -63,7 +63,7 @@
 |46|[live_react_islands_ssr_vi te ](https://hex.pm/packages/live_react_islands_ssr_vite)|0.1.1|2026-05-19|Vite dev server SSR backend for LiveReactIslands. Provides development-modeserver-side rendering of React components via HTTP communication with Vite.|2xx|[![41491](https://img.shields.io/github/stars/dcza/live-react-islands)](https://github.com/dcza/live-react-islands)
 |47|[passby](https://hex.pm/packages/passby)|0.2.0|2026-08-31|A 100% Elixir, 0-dependency HTTP mock server for testing HTTP clients. A lightweight drop-in replacement for Bypass.|1xx|[![7213354](https://img.shields.io/github/stars/altenwald/passby)](https://github.com/altenwald/passby)
 |48|[elixir_server_core](https://hex.pm/packages/elixir_server_core)|0.1.1|2026-06-05|A minimal, forkable Elixir server with HTTP routing, background job queueing, and pluggable persistence.|1xx|[![3786207](https://img.shields.io/github/stars/DarynOngera/ElixirServerCore)](https://github.com/DarynOngera/ElixirServerCore)
-|49|[beam_mcp](https://hex.pm/packages/beam_mcp)|0.3.0|2026-09-07|Model Context Protocol server core for the BEAM: protocol handling, stdio and stateless Streamable HTTP transports, and JSON Schema validation, with the tool catalog and dispatch injected by the host.|8x|[![7817312](https://img.shields.io/github/stars/ScriptKittyOS/beam_mcp)](https://github.com/ScriptKittyOS/beam_mcp)
+|49|[beam_mcp](https://hex.pm/packages/beam_mcp)|0.3.1|2026-09-08|Model Context Protocol server core for the BEAM: protocol handling, stdio and stateless Streamable HTTP transports, and JSON Schema validation, with the tool catalog and dispatch injected by the host.|8x|[![7817312](https://img.shields.io/github/stars/ScriptKittyOS/beam_mcp)](https://github.com/ScriptKittyOS/beam_mcp)
 |50|[mcp42](https://hex.pm/packages/mcp42)|0.1.2|2026-09-07|Transport-agnostic MCP (Model Context Protocol) server library with a Streamable HTTP Plug integration.|6x|[![7828467](https://img.shields.io/github/stars/mikalv/mcp42)](https://github.com/mikalv/mcp42)
 # Gleam HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

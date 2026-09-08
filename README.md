@@ -2,7 +2,7 @@
 ## HTTP server
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.18.0|2026-07-28|Small, fast, modern HTTP server.|14822xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)|erlang
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.19.0|2026-09-08|Small, fast, modern HTTP server.|14822xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)|erlang
 |2|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1417xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)|elixir
 |3|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1298xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)|elixir
 |4|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)|elixir
