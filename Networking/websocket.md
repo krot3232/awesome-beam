@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5572xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)
-|2|[gun](https://hex.pm/packages/gun)|2.5.0|2026-07-28|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1468xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
+|2|[gun](https://hex.pm/packages/gun)|2.6.0|2026-09-08|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1468xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
 |3|[websocket_client](https://hex.pm/packages/websocket_client)|1.6.1|2025-11-08|Erlang websocket client|333xxxx|[![67129](https://img.shields.io/github/stars/sanmiguel/websocket_client)](https://github.com/sanmiguel/websocket_client)
 |4|[remedy_cowlib](https://hex.pm/packages/remedy_cowlib)|2.11.1|2021-10-03|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63127](https://img.shields.io/github/stars/bdanklin/cowlib)](https://github.com/bdanklin/cowlib)
 |5|[remedy_gun](https://hex.pm/packages/remedy_gun)|2.0.1|2021-10-05|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63129](https://img.shields.io/github/stars/bdanklin/gun)](https://github.com/bdanklin/gun)

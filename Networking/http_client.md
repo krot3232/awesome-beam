@@ -4,7 +4,7 @@
 |1|[hackney](https://hex.pm/packages/hackney)|4.7.4|2026-08-12|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17201xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)
 |2|[ibrowse](https://hex.pm/packages/ibrowse)|4.5.0|2026-05-01|Erlang HTTP client application|5619xxxx|[![39902](https://img.shields.io/github/stars/cmullaparthi/ibrowse)](https://github.com/cmullaparthi/ibrowse)
 |3|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5572xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)
-|4|[gun](https://hex.pm/packages/gun)|2.5.0|2026-07-28|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1468xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
+|4|[gun](https://hex.pm/packages/gun)|2.6.0|2026-09-08|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1468xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
 |5|[shotgun](https://hex.pm/packages/shotgun)|1.2.2|2026-06-17|better than just a gun|395xxxx|[![64123](https://img.shields.io/github/stars/inaka/shotgun)](https://github.com/inaka/shotgun)
 |6|[websocket_client](https://hex.pm/packages/websocket_client)|1.6.1|2025-11-08|Erlang websocket client|333xxxx|[![67129](https://img.shields.io/github/stars/sanmiguel/websocket_client)](https://github.com/sanmiguel/websocket_client)
 |7|[lhttpc](https://hex.pm/packages/lhttpc)|1.7.1|2024-10-30|Lightweight HTTP Client|325xxxx|[![41261](https://img.shields.io/github/stars/erlcloud/lhttpc)](https://github.com/erlcloud/lhttpc)
@@ -121,7 +121,7 @@
 |85|[river](https://hex.pm/packages/river)|0.0.7|2017-08-18|River is an http/2 (HTTP2) client for Elixir (a work in progress, though!)|2xxx|[![63381](https://img.shields.io/github/stars/peburrows/river)](https://github.com/peburrows/river)
 |86|[grpc_client_pool](https://hex.pm/packages/grpc_client_pool)|0.0.2-beta|2020-06-09|Elixir GRPC client pooling library|2xxx|[![39186](https://img.shields.io/github/stars/alex88/grpc_client_pool)](https://github.com/alex88/grpc_client_pool)
 |87|[finch_jsonrpc](https://hex.pm/packages/finch_jsonrpc)|0.2.0|2021-09-19|An HTTP JSON-RPC 2.0 client focused on performance, built on Finch.|2xxx|[![37467](https://img.shields.io/github/stars/redmaner/finch_jsonrpc)](https://github.com/redmaner/finch_jsonrpc)
-|88|[ex_rabbitmq_admin](https://hex.pm/packages/ex_rabbitmq_admin)|0.3.1|2026-08-11|A Http client library for RabbitMQ Web API|2xxx|[![36706](https://img.shields.io/github/stars/Intility/ex_rabbitmq_admin)](https://github.com/Intility/ex_rabbitmq_admin)
+|88|[ex_rabbitmq_admin](https://hex.pm/packages/ex_rabbitmq_admin)|0.3.2|2026-09-08|A Http client library for RabbitMQ Web API|2xxx|[![36706](https://img.shields.io/github/stars/Intility/ex_rabbitmq_admin)](https://github.com/Intility/ex_rabbitmq_admin)
 |89|[ex_oapi](https://hex.pm/packages/ex_oapi)|0.1.5|2022-07-22|Elixir library for generating HTTP clients from OpenAPI V3 json specifications|2xxx|
 |90|[mcp_proxy](https://hex.pm/packages/mcp_proxy)|0.3.3|2025-05-02|An escript for connecting STDIO based MCP clients to HTTP (SSE) based MCP servers.|2xxx|[![42217](https://img.shields.io/github/stars/tidewave-ai/mcp_proxy_elixir)](https://github.com/tidewave-ai/mcp_proxy_elixir)
 |91|[xai](https://hex.pm/packages/xai)|0.2.1|2026-08-11|Native Elixir gRPC client for the xAI API (Grok)|2xxx|

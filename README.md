@@ -38,7 +38,7 @@
 ## TCP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.2.1|2026-07-28|Socket acceptor pool for TCP protocols.|16131xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)|erlang
+|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16131xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)|erlang
 |2|[extreme](https://hex.pm/packages/extreme)|1.1.4|2025-10-09|Elixir TCP client for EventStore.|13xxxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)|elixir
 |3|[modbus](https://hex.pm/packages/modbus)|0.4.0|2022-02-23|Modbus library with TCP Master &amp; Slave implementation.|12xxxx|[![42830](https://img.shields.io/github/stars/samuelventura/modbus)](https://github.com/samuelventura/modbus)|elixir
 |4|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|9xxxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)|elixir
