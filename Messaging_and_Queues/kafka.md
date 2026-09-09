@@ -1,8 +1,8 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1093xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1074xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1094xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1075xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|27xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -42,7 +42,7 @@
 |28|[kafka_ex_helpers](https://hex.pm/packages/kafka_ex_helpers)|0.1.2|2017-07-01|An unofficial set of helper utilities for KafkaEx|1xxx|
 |29|[kafka_ex_mock](https://hex.pm/packages/kafka_ex_mock)|0.1.0|2016-07-04|KafkaEx Mock|8xx|[![40669](https://img.shields.io/github/stars/artemeff/kafka_ex_mock)](https://github.com/artemeff/kafka_ex_mock)
 |30|[elsa_kafka](https://hex.pm/packages/elsa_kafka)|2.0.0|2023-05-30|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod.|8xx|[![34962](https://img.shields.io/github/stars/UrbanOS-Public/elsa_kafka)](https://github.com/UrbanOS-Public/elsa_kafka)
-|31|[off_broadway_kafka_pipeli ne ](https://hex.pm/packages/off_broadway_kafka_pipeline)|2.0.0|2023-06-06|Implementation of Broadway that supports a Kafka producer|7xx|[![43923](https://img.shields.io/github/stars/UrbanOS-Public/off_broadway_kafka)](https://github.com/UrbanOS-Public/off_broadway_kafka)
+|31|[off_broadway_kafka_pipeli ne ](https://hex.pm/packages/off_broadway_kafka_pipeline)|2.0.0|2023-06-06|Implementation of Broadway that supports a Kafka producer|8xx|[![43923](https://img.shields.io/github/stars/UrbanOS-Public/off_broadway_kafka)](https://github.com/UrbanOS-Public/off_broadway_kafka)
 |32|[ktsllex](https://hex.pm/packages/ktsllex)|0.0.2|2018-09-17|Kafka Topic and Schema creator|5xx|[![40987](https://img.shields.io/github/stars/quiqupltd/ktsllex)](https://github.com/quiqupltd/ktsllex)
 |33|[kafka_logger_backend](https://hex.pm/packages/kafka_logger_backend)|0.1.10|2017-04-03|A backend for Logger that logs to Kafka using Brod|4xx|[![40674](https://img.shields.io/github/stars/jdalberg/logger_kafka_backend)](https://github.com/jdalberg/logger_kafka_backend)
 |34|[salt_kafka](https://hex.pm/packages/salt_kafka)|0.1.1|2020-10-13|Build microservices with Kafka + Avro schemas.|4xx|
