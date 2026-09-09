@@ -117,6 +117,7 @@
 |80|[semantic_verifier](https://hex.pm/packages/semantic_verifier)|0.2.0-rc.2|2026-08-23|Pure Elixir SMT-LIB2 formal verification engine for FrameNet Semantic IR with persistent Z3 session pools.|1xx|[![7105328](https://img.shields.io/github/stars/collective-mind/semantic_verifier)](https://github.com/collective-mind/semantic_verifier)
 |81|[gen_agent_ensemble](https://hex.pm/packages/gen_agent_ensemble)|0.1.0|2026-04-18|Multi-agent orchestration strategies for GenAgent. One ensemble process owns N sub-agents under a strategy (Solo, Supervisor, Pool, Pipeline).|1xx|[![38009](https://img.shields.io/github/stars/genagent/gen_agent_ensemble)](https://github.com/genagent/gen_agent_ensemble)
 |82|[cistern](https://hex.pm/packages/cistern)|0.1.1|2026-09-05|A Redix wrapper with a Poolboy-managed connection pool and typed read helpers.|2x|[![7774380](https://img.shields.io/github/stars/DennisKh/cistern)](https://github.com/DennisKh/cistern)
+|83|[ml_serve](https://hex.pm/packages/ml_serve)|0.1.3|2026-09-09|Serve machine learning models in Elixir. Production ML inference for Phoenix and the BEAM:OTP supervision, worker pools, dynamic batching, caching, telemetry, model versioning andzero-downtime canary rollout around any backend — Nx, Bumblebee, ONNX, Python or a remoteservice.|0|[![7939445](https://img.shields.io/github/stars/jamesnjovu/ml_serve)](https://github.com/jamesnjovu/ml_serve)
 # Gleam pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

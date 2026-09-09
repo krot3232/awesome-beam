@@ -71,8 +71,9 @@
 |52|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|1xx|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
 |53|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
 |54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|55|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|56|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|9x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|55|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|9x|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|56|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|9x|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|57|[gamend_web](https://hex.pm/packages/gamend_web)|1.0.1216|2026-09-09|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|0|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

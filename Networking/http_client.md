@@ -173,8 +173,8 @@
 |137|[elixir_elastic](https://hex.pm/packages/elixir_elastic)|0.1.0|2017-07-04|A simple Elixir Elasticsearch HTTP client.|4xx|[![34810](https://img.shields.io/github/stars/wlchn/elixir_elastic)](https://github.com/wlchn/elixir_elastic)
 |138|[push_hub](https://hex.pm/packages/push_hub)|0.1.0|2016-09-22|Push Service Http Client for Elixir (Aliyun Push)|4xx|[![45881](https://img.shields.io/github/stars/reteq/push-hub)](https://github.com/reteq/push-hub)
 |139|[hcl](https://hex.pm/packages/hcl)|0.1.0|2017-10-09|A performant HTTP client written in pure Elixir|4xx|[![39416](https://img.shields.io/github/stars/minhajuddin/hcl)](https://github.com/minhajuddin/hcl)
-|140|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
-|141|[revolver](https://hex.pm/packages/revolver)|0.1.0|2017-02-12|A composable HTTP Client inspired by Plug and Ecto.|4xx|[![63312](https://img.shields.io/github/stars/scrogson/revolver)](https://github.com/scrogson/revolver)
+|140|[revolver](https://hex.pm/packages/revolver)|0.1.0|2017-02-12|A composable HTTP Client inspired by Plug and Ecto.|4xx|[![63312](https://img.shields.io/github/stars/scrogson/revolver)](https://github.com/scrogson/revolver)
+|141|[late](https://hex.pm/packages/late)|0.3.0|2025-02-22|A websocket client using MintWebsocket|4xx|[![41124](https://img.shields.io/github/stars/hkrutzer/late)](https://github.com/hkrutzer/late)
 |142|[plotka](https://hex.pm/packages/plotka)|0.1.0|2017-02-24|Elixir wrapper for GwentAPI developed using Tesla HTTP client.|4xx|
 |143|[kunaio_ex](https://hex.pm/packages/kunaio_ex)|0.1.0|2017-03-11|Elixir HTTP client library and utilities for Kuna.io|4xx|[![41008](https://img.shields.io/github/stars/cyberpunk-ventures/kunaio_ex)](https://github.com/cyberpunk-ventures/kunaio_ex)
 |144|[fred_client](https://hex.pm/packages/fred_client)|0.1.1|2023-07-31|An Elixir-based HTTP Client for FRED (Federal Reserve Economic Data) API|4xx|[![37781](https://img.shields.io/github/stars/joeychilson/fred_client)](https://github.com/joeychilson/fred_client)

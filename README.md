@@ -280,7 +280,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
-|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.1|2026-07-27|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3241xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
+|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3241xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.6|2026-08-18|Kafka protocol library for Erlang/Elixir|1094xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
 |4|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1075xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
 |5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|289xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
@@ -307,7 +307,7 @@
 |5|[aws4_request](https://hex.pm/packages/aws4_request)|1.2.3|2026-06-17|An AWS Signature Version 4 client implementation, used for S3 auth, etc|3xxxx|[![31034](https://img.shields.io/github/stars/lpil/aws4_request)](https://github.com/lpil/aws4_request)|gleam
 |6|[bucket](https://hex.pm/packages/bucket)|1.5.0|2026-07-06|Gleam S3 API client, suitable for AWS S3, Garage, Minio, Storj, Backblaze B2, Cloudflare R2, Ceph, Wasabi, and so on!|1xxxx|[![31892](https://img.shields.io/github/stars/lpil/bucket)](https://github.com/lpil/bucket)|gleam
 |7|[fifo_s3](https://hex.pm/packages/fifo_s3)|0.2.15|2018-01-23|S3 storange client library for erlang|7xxx|[![37418](https://img.shields.io/github/stars/project-fifo/fifo_s3)](https://github.com/project-fifo/fifo_s3)|erlang
-|8|[jhn_s3c](https://hex.pm/packages/jhn_s3c)|1.0.3|2026-08-24|An S3 client lib|5xxx|[![40426](https://img.shields.io/github/stars/JanHenryNystrom/jhn_s3c)](https://github.com/JanHenryNystrom/jhn_s3c)|erlang
+|8|[jhn_s3c](https://hex.pm/packages/jhn_s3c)|1.0.4|2026-09-09|An S3 client lib|5xxx|[![40426](https://img.shields.io/github/stars/JanHenryNystrom/jhn_s3c)](https://github.com/JanHenryNystrom/jhn_s3c)|erlang
 |9|[aws_gleam_s3](https://hex.pm/packages/aws_gleam_s3)|1.5.1|2026-06-27|Typed Gleam client for Amazon S3. Generated from the upstream Smithy model with S3 helpers under aws/s3/. Depends on aws_gleam_runtime.|9xx|[![3135897](https://img.shields.io/github/stars/Ulberg/aws-gleam)](https://github.com/Ulberg/aws-gleam)|gleam
 # [Logging and Monitoring](./Logging_and_Monitoring)
 ## Logging
