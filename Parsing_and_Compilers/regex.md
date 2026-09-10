@@ -32,7 +32,7 @@
 |22|[xeger](https://hex.pm/packages/xeger)|0.1.1|2026-08-03|Xeger - generate strings that match a regex-like pattern (regex → strings).|2xx|[![6146408](https://img.shields.io/github/stars/joetjen/xeger)](https://github.com/joetjen/xeger)
 |23|[regex_spec](https://hex.pm/packages/regex_spec)|0.21.38|2021-02-07|Generated type specifications for regualar expressions at compile time|2xx|[![63087](https://img.shields.io/github/stars/devstopfix/regex_spec)](https://github.com/devstopfix/regex_spec)
 |24|[excavator](https://hex.pm/packages/excavator)|0.1.0|2026-04-06|Excavate JavaScript variable values from HTML script tags using AST parsing. Supports var/let/const declarations, window.* assignments, JSON.parse() calls, and nested objects/arrays — no regex needed.|1xx|[![35762](https://img.shields.io/github/stars/onnimonni/excavator)](https://github.com/onnimonni/excavator)
-|25|[superjson](https://hex.pm/packages/superjson)|0.1.0|2026-07-26|A SuperJSON decoder and encoder for Elixir, enabling seamless rehydration of complex JS/TS types(Dates, MapSets, Maps, BigInts, Regexps, and referential equalities) from SuperJSON payloads.|6x|[![5965225](https://img.shields.io/github/stars/boxxxie/superjson)](https://github.com/boxxxie/superjson)
+|25|[superjson](https://hex.pm/packages/superjson)|0.1.0|2026-07-26|A SuperJSON decoder and encoder for Elixir, enabling seamless rehydration of complex JS/TS types(Dates, MapSets, Maps, BigInts, Regexps, and referential equalities) from SuperJSON payloads.|7x|[![5965225](https://img.shields.io/github/stars/boxxxie/superjson)](https://github.com/boxxxie/superjson)
 # Gleam Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

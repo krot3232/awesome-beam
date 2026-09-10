@@ -35,7 +35,7 @@
 |17|[tracker_client](https://hex.pm/packages/tracker_client)|0.1.1|2017-01-06|Make announcements to torrent trackers via HTTP or UDP.|7xx|[![66080](https://img.shields.io/github/stars/sschneider1207/tracker_client)](https://github.com/sschneider1207/tracker_client)
 |18|[phi_accrual_udp](https://hex.pm/packages/phi_accrual_udp)|1.0.0|2026-05-14|Dedicated UDP socket source for phi_accrual. Escapes BEAM distribution head-of-line blocking. Receiver-driven clock discipline; packet timestamp is diagnostic-only.|3xx|[![44742](https://img.shields.io/github/stars/thatsme/phi_accrual_udp)](https://github.com/thatsme/phi_accrual_udp)
 |19|[ex_iso8583](https://hex.pm/packages/ex_iso8583)|0.4.0|2026-02-04|An ISO 8583 library for Elixir with field definitions, encoding/decoding,transaction processing, and pluggable transports (TCP, HTTP, UDP).|1xx|[![36248](https://img.shields.io/github/stars/haimiyahya/ex_iso8583)](https://github.com/haimiyahya/ex_iso8583)
-|20|[gale](https://hex.pm/packages/gale)|0.1.1|2026-09-08|Phoenix adapter for HTTP/1.1, HTTP/2, and HTTP/3 (QUIC). Bandit for TCP, quic_h3 for UDP.|1x|[![7890259](https://img.shields.io/github/stars/niranjanaryan/gale)](https://github.com/niranjanaryan/gale)
+|20|[gale](https://hex.pm/packages/gale)|0.1.1|2026-09-08|Phoenix adapter for HTTP/1.1, HTTP/2, and HTTP/3 (QUIC). Bandit for TCP, quic_h3 for UDP.|2x|[![7890259](https://img.shields.io/github/stars/niranjanaryan/gale)](https://github.com/niranjanaryan/gale)
 # Gleam UDP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

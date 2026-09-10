@@ -30,7 +30,7 @@
 |12|[flux_mqtt](https://hex.pm/packages/flux_mqtt)|0.0.4|2020-02-20|An interface to connect to MQTT broker, sending and handling messages.|1xxx|
 |13|[phoenix_pubsub_vernemq](https://hex.pm/packages/phoenix_pubsub_vernemq)|0.0.3|2015-06-29|The VerneMQ MQTT pubsub adapter for the Phoenix framework|1xxx|[![44916](https://img.shields.io/github/stars/larshesel/phoenix_pubsub_vernemq)](https://github.com/larshesel/phoenix_pubsub_vernemq)
 |14|[mqttc](https://hex.pm/packages/mqttc)|0.2.1|2025-09-23|MQTT v5 Client for Elixir.|1xxx|[![43000](https://img.shields.io/github/stars/narslan/mqttc)](https://github.com/narslan/mqttc)
-|15|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|7xx|
+|15|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|8xx|
 |16|[control_packet](https://hex.pm/packages/control_packet)|1.1.1|2024-07-29|MQTT 5 packet decoder and encoder|7xx|[![33004](https://img.shields.io/github/stars/TimisRobert/control_packet)](https://github.com/TimisRobert/control_packet)
 |17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|5xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
 |18|[conduit_mqtt](https://hex.pm/packages/conduit_mqtt)|0.1.0|2018-10-29|MQTT adapter for Conduit.|4xx|[![32889](https://img.shields.io/github/stars/conduitframework/conduit_mqtt)](https://github.com/conduitframework/conduit_mqtt)
