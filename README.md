@@ -26,7 +26,7 @@
 ## MQTT
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.0|2026-08-21|Erlang MQTT v5.0 Client|71xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.1|2026-09-10|Erlang MQTT v5.0 Client|71xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
 |2|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|48xxxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)|elixir
 |3|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.2|2025-09-12|An MQTT 3.1.1 client for Elixir|20xxxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)|elixir
 |4|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|18xxxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)|erlang
@@ -130,7 +130,7 @@
 ## Redis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.9.0|2026-09-06|Fast, pipelined, resilient Redis driver for Elixir.|4528xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
+|1|[redix](https://hex.pm/packages/redix)|1.9.1|2026-09-10|Fast, pipelined, resilient Redis driver for Elixir.|4528xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2321xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)|elixir
 |3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1554xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|342xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
@@ -333,7 +333,7 @@
 |6|[prometheus_phoenix](https://hex.pm/packages/prometheus_phoenix)|1.3.0|2019-07-18|Prometheus monitoring system client Phoenix instrumenter.|5791xxxx|[![45729](https://img.shields.io/github/stars/deadtrickster/prometheus-phoenix)](https://github.com/deadtrickster/prometheus-phoenix)|elixir
 |7|[themis](https://hex.pm/packages/themis)|4.1.1|2025-12-07|Prometheus client in pure Gleam!|2xxx|[![65785](https://img.shields.io/github/stars/guillheu/Themis)](https://github.com/guillheu/Themis)|gleam
 |8|[glotel](https://hex.pm/packages/glotel)|1.0.1|2025-12-21|Gleam OpenTelemetry library|2xxx|[![38592](https://img.shields.io/github/stars/skinkade/glotel)](https://github.com/skinkade/glotel)|gleam
-|9|[textmetrics](https://hex.pm/packages/textmetrics)|0.7.0|2026-05-22|Edit distances, similarity scores, LCS, and diff for Gleam.|2xxx|[![87623](https://img.shields.io/github/stars/nao1215/textmetrics)](https://github.com/nao1215/textmetrics)|gleam
+|9|[textmetrics](https://hex.pm/packages/textmetrics)|0.8.0|2026-09-10|Edit distances, similarity scores, LCS, and diff for Gleam.|2xxx|[![87623](https://img.shields.io/github/stars/nao1215/textmetrics)](https://github.com/nao1215/textmetrics)|gleam
 # [Testing](./Testing)
 ## Testing
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;

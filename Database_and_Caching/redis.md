@@ -17,7 +17,7 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.9.0|2026-09-06|Fast, pipelined, resilient Redis driver for Elixir.|4528xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.9.1|2026-09-10|Fast, pipelined, resilient Redis driver for Elixir.|4528xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2321xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|342xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
 |4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|194xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
@@ -119,8 +119,8 @@
 |100|[quantum_storage_redis](https://hex.pm/packages/quantum_storage_redis)|0.0.1|2023-12-26|A redis storage adapter for quantum|2xx|[![45975](https://img.shields.io/github/stars/senconscious/quantum_storage_redis)](https://github.com/senconscious/quantum_storage_redis)
 |101|[redlock_ex](https://hex.pm/packages/redlock_ex)|0.1.0|2023-10-31|A module to handle distributed locking using Redis.|2xx|[![63048](https://img.shields.io/github/stars/santosh79/redlock_ex)](https://github.com/santosh79/redlock_ex)
 |102|[beexqueue](https://hex.pm/packages/beexqueue)|0.1.0|2025-09-09|Redis-backed job queue library in Elixir, compatible with bee-queue|1xx|
-|103|[ex_limit](https://hex.pm/packages/ex_limit)|0.1.0|2025-08-05|Fast, Redis-backed token-bucket rate limiter|1xx|[![36319](https://img.shields.io/github/stars/meszmate/ex_limit)](https://github.com/meszmate/ex_limit)
-|104|[kino_redis_cluster](https://hex.pm/packages/kino_redis_cluster)|0.1.1|2026-03-03|Livebook extension for RedisCluster|1xx|[![40862](https://img.shields.io/github/stars/Tubitv/redis_cluster)](https://github.com/Tubitv/redis_cluster)
+|103|[kino_redis_cluster](https://hex.pm/packages/kino_redis_cluster)|0.1.1|2026-03-03|Livebook extension for RedisCluster|1xx|[![40862](https://img.shields.io/github/stars/Tubitv/redis_cluster)](https://github.com/Tubitv/redis_cluster)
+|104|[ex_limit](https://hex.pm/packages/ex_limit)|0.1.0|2025-08-05|Fast, Redis-backed token-bucket rate limiter|1xx|[![36319](https://img.shields.io/github/stars/meszmate/ex_limit)](https://github.com/meszmate/ex_limit)
 |105|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.1.0|2026-08-24|Process-scoped Redis connections for concurrent ExUnit tests|1xx|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
 |106|[redis_oban](https://hex.pm/packages/redis_oban)|0.1.0|2026-01-16|A high-performance, Redis-backed job processing library for Elixir.|1xx|[![63025](https://img.shields.io/github/stars/matheus1lva/redis_oban)](https://github.com/matheus1lva/redis_oban)
 # Gleam Redis

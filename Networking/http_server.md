@@ -7,7 +7,7 @@
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
 |5|[simple_bridge](https://hex.pm/packages/simple_bridge)|2.3.2|2026-07-27|Common Interface to Erlang HTTP Servers|5xxx|[![64214](https://img.shields.io/github/stars/nitrogen/simple_bridge)](https://github.com/nitrogen/simple_bridge)
 |6|[roadrunner](https://hex.pm/packages/roadrunner)|0.9.2|2026-09-03|Pure-Erlang HTTP/1.1, HTTP/2, HTTP/3, and WebSocket server. Beep beep.|3xxx|[![3002014](https://img.shields.io/github/stars/arizona-framework/roadrunner)](https://github.com/arizona-framework/roadrunner)
-|7|[nhttp](https://hex.pm/packages/nhttp)|1.0.4|2026-08-24|HTTP/1.1, HTTP/2, and HTTP/3 server for Erlang/OTP 27+|2xxx|[![5094709](https://img.shields.io/github/stars/nomasystems/nhttp)](https://github.com/nomasystems/nhttp)
+|7|[nhttp](https://hex.pm/packages/nhttp)|1.1.1|2026-09-10|HTTP/1.1, HTTP/2, and HTTP/3 server for Erlang/OTP 27+|2xxx|[![5094709](https://img.shields.io/github/stars/nomasystems/nhttp)](https://github.com/nomasystems/nhttp)
 |8|[lmug](https://hex.pm/packages/lmug)|0.2.8|2024-02-18|LFE HTTP Server Abstraction and Web Application Middleware Infrastructure|2xxx|[![41566](https://img.shields.io/github/stars/lfe-mug/lmug)](https://github.com/lfe-mug/lmug)
 |9|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.1.2|2026-07-04|gRPC for Erlang on the livery HTTP/2 stack: server and client|1xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |10|[whitecap](https://hex.pm/packages/whitecap)|0.2.0|2026-08-23|High-Performance Erlang HTTP 1.1 Server|7xx|[![2382463](https://img.shields.io/github/stars/lpgauth/whitecap)](https://github.com/lpgauth/whitecap)

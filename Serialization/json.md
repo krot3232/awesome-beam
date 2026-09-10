@@ -56,7 +56,7 @@
 |40|[jxon](https://hex.pm/packages/jxon)|0.1.1|2024-07-10|A wrapper for various JSON implementations.|1xxx|[![40642](https://img.shields.io/github/stars/cozy-elixir/jxon)](https://github.com/cozy-elixir/jxon)
 |41|[artefact](https://hex.pm/packages/artefact)|0.3.0|2026-05-13|Arrows JSON ↔ Cypher — knowledge graph fragments made in relationship|7xx|[![7521](https://img.shields.io/github/stars/diffo-dev/artefactory)](https://github.com/diffo-dev/artefactory)
 |42|[jsonrpc2_spec](https://hex.pm/packages/jsonrpc2_spec)|0.1.1|2025-12-15|This is implementation of transport agnostic JSONRPC 2.0 protocol. There is no transport level. It consists only of specification entities|6xx|[![40564](https://img.shields.io/github/stars/undr/jsonrpc2_spec)](https://github.com/undr/jsonrpc2_spec)
-|43|[raxol_mcp](https://hex.pm/packages/raxol_mcp)|2.6.0|2026-07-11|MCP (Model Context Protocol) server and client for Raxol. Provides JSON-RPC 2.0protocol handling, tool/resource registry, stdio and SSE transports.Auto-derives agent tools from your widget tree.|4xx|[![46212](https://img.shields.io/github/stars/DROOdotFOO/raxol)](https://github.com/DROOdotFOO/raxol)
+|43|[raxol_mcp](https://hex.pm/packages/raxol_mcp)|2.7.0|2026-09-10|MCP (Model Context Protocol) server and client for Raxol. Provides JSON-RPC 2.0protocol handling, tool/resource registry, stdio and SSE transports.Auto-derives agent tools from your widget tree.|4xx|[![46212](https://img.shields.io/github/stars/DROOdotFOO/raxol)](https://github.com/DROOdotFOO/raxol)
 # Gleam JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
