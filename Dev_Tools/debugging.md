@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|970xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|971xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|56xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -36,10 +36,10 @@
 |20|[clouseau](https://hex.pm/packages/clouseau)|0.5.0|2019-09-22|Debugging tool. A wrapper around IO.inspect that provides some enhancements|1xxx|[![32647](https://img.shields.io/github/stars/voger/clouseau)](https://github.com/voger/clouseau)
 |21|[ex_debug](https://hex.pm/packages/ex_debug)|1.0.0|2024-04-18|Library with debugging functions for making life easier.|1xxx|[![35947](https://img.shields.io/github/stars/JosePamplona/ExDebug)](https://github.com/JosePamplona/ExDebug)
 |22|[ex_debugger](https://hex.pm/packages/ex_debugger)|0.1.5|2021-11-10|Facilitate debugging by auto-annotating your code-base|1xxx|[![35948](https://img.shields.io/github/stars/Ajwah/ex_debugger)](https://github.com/Ajwah/ex_debugger)
-|23|[traceroute](https://hex.pm/packages/traceroute)|0.2.6|2026-04-02|Runs traceroutes and pings natively in Elixir|1xxx|[![66071](https://img.shields.io/github/stars/PJUllrich/traceroute)](https://github.com/PJUllrich/traceroute)
-|24|[managoat_acp](https://hex.pm/packages/managoat_acp)|0.4.1|2026-09-08|A client-side Agent Client Protocol session that outlives the turn, with a per-tool permission policy, block normalisation, usage accounting and a tracer, behind a writer callback.|1xxx|[![7630037](https://img.shields.io/github/stars/managoat/managoat_acp)](https://github.com/managoat/managoat_acp)
-|25|[qq](https://hex.pm/packages/qq)|0.1.2|2017-09-04|Quick and dirty debugging output for elixir programmers.|9xx|[![45933](https://img.shields.io/github/stars/mandarvaze/q)](https://github.com/mandarvaze/q)
-|26|[jido_otel](https://hex.pm/packages/jido_otel)|1.0.0|2026-05-23|OpenTelemetry tracer bridge for Jido.Observe|9xx|[![3209728](https://img.shields.io/github/stars/agentjido/jido_otel)](https://github.com/agentjido/jido_otel)
+|23|[managoat_acp](https://hex.pm/packages/managoat_acp)|0.4.1|2026-09-08|A client-side Agent Client Protocol session that outlives the turn, with a per-tool permission policy, block normalisation, usage accounting and a tracer, behind a writer callback.|1xxx|[![7630037](https://img.shields.io/github/stars/managoat/managoat_acp)](https://github.com/managoat/managoat_acp)
+|24|[traceroute](https://hex.pm/packages/traceroute)|0.2.6|2026-04-02|Runs traceroutes and pings natively in Elixir|1xxx|[![66071](https://img.shields.io/github/stars/PJUllrich/traceroute)](https://github.com/PJUllrich/traceroute)
+|25|[jido_otel](https://hex.pm/packages/jido_otel)|1.0.0|2026-05-23|OpenTelemetry tracer bridge for Jido.Observe|9xx|[![3209728](https://img.shields.io/github/stars/agentjido/jido_otel)](https://github.com/agentjido/jido_otel)
+|26|[qq](https://hex.pm/packages/qq)|0.1.2|2017-09-04|Quick and dirty debugging output for elixir programmers.|9xx|[![45933](https://img.shields.io/github/stars/mandarvaze/q)](https://github.com/mandarvaze/q)
 |27|[debug](https://hex.pm/packages/debug)|0.1.0|2017-08-22|flexible debugging messages|8xx|[![33592](https://img.shields.io/github/stars/mndvns/debug)](https://github.com/mndvns/debug)
 |28|[ex_pi](https://hex.pm/packages/ex_pi)|1.0.3|2020-12-29|Pretty Inspect pi() function for those, who love puts debugging.|7xx|[![36604](https://img.shields.io/github/stars/versilov/pi)](https://github.com/versilov/pi)
 |29|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|7xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
@@ -62,7 +62,7 @@
 |46|[phoenix_debug_bar](https://hex.pm/packages/phoenix_debug_bar)|0.1.0|2022-01-19|A debugging toolbar for Phoenix|2xx|
 |47|[elixir_scope](https://hex.pm/packages/elixir_scope)|0.0.1|2025-05-27|ElixirScope is a next-generation debugging and observability platform for Elixir applications, designed to provide an Execution Cinema experience through deep, compile-time AST instrumentation guided by AI-powered analysis.|1xx|[![34871](https://img.shields.io/github/stars/nshkrdotcom/ElixirScope)](https://github.com/nshkrdotcom/ElixirScope)
 |48|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
-|49|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|7x|
+|49|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|8x|
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
