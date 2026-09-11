@@ -73,7 +73,7 @@
 |54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |55|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|1xx|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |56|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|1xx|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|57|[gamend_web](https://hex.pm/packages/gamend_web)|1.0.1216|2026-09-09|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|4x|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|57|[gamend_web](https://hex.pm/packages/gamend_web)|1.0.1220|2026-09-11|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|4x|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -90,8 +90,8 @@
 |11|[gliew](https://hex.pm/packages/gliew)|0.3.0|2023-06-12|A gleam server-side rendered web framework with live updating UI|9xx|[![38502](https://img.shields.io/github/stars/arnarg/gliew)](https://github.com/arnarg/gliew)
 |12|[inertia_wisp](https://hex.pm/packages/inertia_wisp)|0.2.1|2025-11-09|Inertia.js adapter for the Wisp web framework|9xx|[![40066](https://img.shields.io/github/stars/team-alembic/inertia-wisp)](https://github.com/team-alembic/inertia-wisp)
 |13|[lily](https://hex.pm/packages/lily)|0.7.0|2026-07-31|Lily is designed to be a web framework for Gleam that allows for real-time updates while preserving offline functionality!|6xx|[![41376](https://img.shields.io/github/stars/haleywhazel/lily)](https://github.com/haleywhazel/lily)
-|14|[glimr_redis](https://hex.pm/packages/glimr_redis)|1.0.4|2026-04-29|Redis cache driver for the Glimr web framework|6xx|[![38517](https://img.shields.io/github/stars/glimr-org/redis)](https://github.com/glimr-org/redis)
-|15|[bliss](https://hex.pm/packages/bliss)|0.1.1|2022-05-11|A micro web framework for Gleam|6xx|[![31597](https://img.shields.io/github/stars/sporto/bliss)](https://github.com/sporto/bliss)
+|14|[bliss](https://hex.pm/packages/bliss)|0.1.1|2022-05-11|A micro web framework for Gleam|6xx|[![31597](https://img.shields.io/github/stars/sporto/bliss)](https://github.com/sporto/bliss)
+|15|[glimr_redis](https://hex.pm/packages/glimr_redis)|1.0.4|2026-04-29|Redis cache driver for the Glimr web framework|6xx|[![38517](https://img.shields.io/github/stars/glimr-org/redis)](https://github.com/glimr-org/redis)
 |16|[meadow](https://hex.pm/packages/meadow)|1.0.1|2024-05-12|A server side for glare, the web framework based on SolidJS, adding server signals and more.|3xx|[![42248](https://img.shields.io/github/stars/JoelVerm/meadow)](https://github.com/JoelVerm/meadow)
 |17|[glimr_auth](https://hex.pm/packages/glimr_auth)|1.0.1|2026-04-21|Auth layer for the Glimr web framework|2xx|[![38515](https://img.shields.io/github/stars/glimr-org/auth)](https://github.com/glimr-org/auth)
 |18|[refrakt](https://hex.pm/packages/refrakt)|0.2.0|2026-03-09|A convention-first web framework for Gleam|2xx|[![63082](https://img.shields.io/github/stars/raskell-io/refrakt)](https://github.com/raskell-io/refrakt)
