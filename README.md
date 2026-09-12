@@ -401,7 +401,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[observer_cli](https://hex.pm/packages/observer_cli)|2.0.0|2026-07-14|Production-ready BEAM diagnostics for operators, automation, and AI agents.|2701xxxx|[![43867](https://img.shields.io/github/stars/zhongwencool/observer_cli)](https://github.com/zhongwencool/observer_cli)|erlang
-|2|[langchain](https://hex.pm/packages/langchain)|0.13.2|2026-09-09|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|88xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
+|2|[langchain](https://hex.pm/packages/langchain)|0.14.0|2026-09-12|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|88xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
 |3|[openai](https://hex.pm/packages/openai)|0.6.2|2024-07-18|community-maintained OpenAI API Wrapper written in Elixir.|74xxxx|[![44041](https://img.shields.io/github/stars/mgallo/openai.ex)](https://github.com/mgallo/openai.ex)|elixir
 |4|[llm_db](https://hex.pm/packages/llm_db)|2026.9.1|2026-09-03|LLM model metadata catalog with fast, capability-aware lookups.|53xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
 |5|[nakai](https://hex.pm/packages/nakai)|1.1.2|2025-06-22|HTML generation for Gleam, on the server or anywhere else|1xxxx|[![43167](https://img.shields.io/github/stars/aslilac/nakai)](https://github.com/aslilac/nakai)|gleam
