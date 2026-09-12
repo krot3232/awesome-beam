@@ -1,11 +1,11 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6860xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
-|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|663xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6863xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|664xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|87xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|77xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
-|5|[unite](https://hex.pm/packages/unite)|0.4.3|2023-09-27|Pretty EUnit test formatters|21xxxx|[![66591](https://img.shields.io/github/stars/eproxus/unite)](https://github.com/eproxus/unite)
+|5|[unite](https://hex.pm/packages/unite)|0.4.3|2023-09-27|Pretty EUnit test formatters|22xxxx|[![66591](https://img.shields.io/github/stars/eproxus/unite)](https://github.com/eproxus/unite)
 |6|[triq](https://hex.pm/packages/triq)|1.3.0|2018-09-19|Triq (Term Reductive Invariant Questant) QuickCheck|8xxxx|
 |7|[eunit_addons](https://hex.pm/packages/eunit_addons)|1.2.0|2021-08-11|Addons for eunit|5xxxx|[![35466](https://img.shields.io/github/stars/klajo/eunit_addons)](https://github.com/klajo/eunit_addons)
 |8|[ct_groups_summary_hook](https://hex.pm/packages/ct_groups_summary_hook)|0.1.1|2024-08-28|Common Tests Group Summary Hook|2xxxx|[![33331](https://img.shields.io/github/stars/esl/ct_groups_summary_hook)](https://github.com/esl/ct_groups_summary_hook)
@@ -23,9 +23,9 @@
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2109xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
-|2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|427xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
-|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|256xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2110xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|428xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
+|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|257xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.16.0|2024-03-01|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|202xxxx|
 |5|[propcheck](https://hex.pm/packages/propcheck)|1.5.0|2025-04-21|PropCheck provides property based testing and is an Elixir layer aroundPropEr. It is also inspired by Quviq&#039;s QuickCheck Elixir library.|162xxxx|[![45752](https://img.shields.io/github/stars/alfert/propcheck)](https://github.com/alfert/propcheck)
 |6|[ex_meck](https://hex.pm/packages/ex_meck)|0.3.0|2019-12-01|A mocking library particularly suitable for stateful property based testing.|86xxxx|[![36386](https://img.shields.io/github/stars/MaartenFaddegon/ex_meck)](https://github.com/MaartenFaddegon/ex_meck)

@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1096xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1077xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1078xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|28xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -13,9 +13,9 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
-|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3241xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
-|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|289xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
-|4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|116xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)
+|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3242xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
+|3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|290xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
+|4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|117xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)
 |5|[elsa](https://hex.pm/packages/elsa)|1.0.0-rc.3|2021-11-22|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod.|30xxxx|[![34960](https://img.shields.io/github/stars/bbalser/elsa)](https://github.com/bbalser/elsa)
 |6|[kafka_ex_tc](https://hex.pm/packages/kafka_ex_tc)|0.13.0|2024-08-10|Kafka client for Elixir/Erlang.|8xxxx|[![40670](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
 |7|[off_broadway_kafka](https://hex.pm/packages/off_broadway_kafka)|1.0.1|2020-03-11|Implementation of Broadway that supports a Kafka producer|4xxxx|[![43922](https://img.shields.io/github/stars/bbalser/off_broadway_kafka)](https://github.com/bbalser/off_broadway_kafka)
