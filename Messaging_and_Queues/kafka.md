@@ -1,8 +1,8 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1096xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1078xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1097xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1079xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|28xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -18,7 +18,7 @@
 |4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|117xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)
 |5|[elsa](https://hex.pm/packages/elsa)|1.0.0-rc.3|2021-11-22|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod.|30xxxx|[![34960](https://img.shields.io/github/stars/bbalser/elsa)](https://github.com/bbalser/elsa)
 |6|[kafka_ex_tc](https://hex.pm/packages/kafka_ex_tc)|0.13.0|2024-08-10|Kafka client for Elixir/Erlang.|8xxxx|[![40670](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
-|7|[off_broadway_kafka](https://hex.pm/packages/off_broadway_kafka)|1.0.1|2020-03-11|Implementation of Broadway that supports a Kafka producer|4xxxx|[![43922](https://img.shields.io/github/stars/bbalser/off_broadway_kafka)](https://github.com/bbalser/off_broadway_kafka)
+|7|[off_broadway_kafka](https://hex.pm/packages/off_broadway_kafka)|1.0.1|2020-03-11|Implementation of Broadway that supports a Kafka producer|5xxxx|[![43922](https://img.shields.io/github/stars/bbalser/off_broadway_kafka)](https://github.com/bbalser/off_broadway_kafka)
 |8|[cloudevents](https://hex.pm/packages/cloudevents)|0.6.1|2022-08-19|Elixir SDK for CloudEvents, with bindings for JSON, AVRO, HTTP, Kafka.|4xxxx|[![32589](https://img.shields.io/github/stars/kevinbader/cloudevents-ex)](https://github.com/kevinbader/cloudevents-ex)
 |9|[kafka_batcher](https://hex.pm/packages/kafka_batcher)|1.1.1|2026-03-26|Library to increase the throughput of producing messages (coming one at a time) to Kafka by accumulating these messages into batches|2xxxx|
 |10|[kafka_msk_auth](https://hex.pm/packages/kafka_msk_auth)|0.1.0|2024-07-31|Kafka Auth library for AWS MSK|1xxxx|[![40676](https://img.shields.io/github/stars/halfdan/kafka_msk_auth)](https://github.com/halfdan/kafka_msk_auth)

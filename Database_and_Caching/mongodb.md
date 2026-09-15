@@ -27,6 +27,7 @@
 |18|[raven_integration_mongo_d b ](https://hex.pm/packages/raven_integration_mongo_db)|0.3.3|2026-07-24|MongoDB server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.MongoDb.Display, #299) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |19|[mjolnir_mongo_datasource](https://hex.pm/packages/mjolnir_mongo_datasource)|0.1.0|2021-08-18|Provides connectivity to MongoDB for the Mjolnir MUD Engine|2xx|
 |20|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|21|[rheo](https://hex.pm/packages/rheo)|0.1.0|2026-09-15|Durable consumer-group semantics over searchable databases (MongoDB first).|0|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
 # Gleam MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
