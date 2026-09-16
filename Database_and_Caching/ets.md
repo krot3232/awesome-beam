@@ -85,7 +85,7 @@
 |69|[slither](https://hex.pm/packages/slither)|0.1.0|2026-02-23|Low-level BEAM↔Python concurrency substrate. ETS-backed shared state withPython views, batched fan-out with real backpressure, and stage compositionover BEAM + Python steps. Built on SnakeBridge/Snakepit.|1xx|[![64410](https://img.shields.io/github/stars/nshkrdotcom/slither)](https://github.com/nshkrdotcom/slither)
 |70|[ecs_comb](https://hex.pm/packages/ecs_comb)|0.1.0|2026-04-20|A BEAM/ETS Entity-Component-System framework with fixed ticks and parallel system scheduling|1xx|[![34322](https://img.shields.io/github/stars/Moeblack/ECSComb)](https://github.com/Moeblack/ECSComb)
 |71|[partitioned_ets](https://hex.pm/packages/partitioned_ets)|0.1.0|2026-04-13|A distributed, partitioned ETS table for Elixir.|1xx|[![44504](https://img.shields.io/github/stars/twinn/partitioned_ets)](https://github.com/twinn/partitioned_ets)
-|72|[rheo](https://hex.pm/packages/rheo)|0.3.0|2026-09-15|Durable consumer-group semantics over searchable databases (MongoDB + ETS).|4x|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|72|[rheo](https://hex.pm/packages/rheo)|0.4.1|2026-09-16|Durable consumer-group semantics over searchable databases (MongoDB + ETS).|4x|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
 # Gleam ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

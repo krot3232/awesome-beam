@@ -206,8 +206,8 @@
 |170|[hui_httpoison](https://hex.pm/packages/hui_httpoison)|0.1.0|2020-07-06|hui_httpoison is an implementation of Hui HTTP client behaviour  for querying Solr search platform.|2xx|[![39810](https://img.shields.io/github/stars/boonious/hui_httpoison)](https://github.com/boonious/hui_httpoison)
 |171|[opentelemetry_tesla_middl eware ](https://hex.pm/packages/opentelemetry_tesla_middleware)|0.1.0-rc.1|2021-09-08|Tesla middleware handler that creates OpenTelemetry spans from Tesla HTTP client events.|2xx|[![44187](https://img.shields.io/github/stars/ricardoccpaiva/opentelemetry_tesla_middleware)](https://github.com/ricardoccpaiva/opentelemetry_tesla_middleware)
 |172|[pushxer](https://hex.pm/packages/pushxer)|0.0.1|2021-01-25|Pusher HTTP client|2xx|[![45887](https://img.shields.io/github/stars/gabheadz/pushxer)](https://github.com/gabheadz/pushxer)
-|173|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
-|174|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|2xx|
+|173|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|2xx|
+|174|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
 |175|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
 |176|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|1xx|
 |177|[hassock](https://hex.pm/packages/hassock)|0.1.3|2026-04-16|Home Assistant WebSocket client for Elixir.|1xx|[![39401](https://img.shields.io/github/stars/bbangert/hassock)](https://github.com/bbangert/hassock)
@@ -222,7 +222,6 @@
 |186|[x_api_ex](https://hex.pm/packages/x_api_ex)|1.0.0|2026-03-08|Elixir HTTP client for the X API v2.|1xx|[![67326](https://img.shields.io/github/stars/kacperduras/x_api_ex)](https://github.com/kacperduras/x_api_ex)
 |187|[plaid_ex](https://hex.pm/packages/plaid_ex)|1.0.0|2026-08-08|Production-grade Plaid API client for Elixir/OTP. Full API coverage,typed schemas, resilient HTTP with circuit breakers, webhook orchestration,cursor-based transaction sync pipelines, multi-tenant support, and deepOpenTelemetry observability. Built for enterprise fintech systems.|8x|[![6522226](https://img.shields.io/github/stars/iamkanishka/plaid_ex)](https://github.com/iamkanishka/plaid_ex)
 |188|[lightstreamer](https://hex.pm/packages/lightstreamer)|0.1.0|2026-09-08|Lightstreamer TLCP client (WebSocket) for Elixir|4x|[![7915915](https://img.shields.io/github/stars/ktec/lightstreamer)](https://github.com/ktec/lightstreamer)
-|189|[abliteration](https://hex.pm/packages/abliteration)|0.0.1|2026-09-16|Elixir wrapper for the abliteration.org catalog API. A real client isplanned; use the HTTP API or the Node CLI in the meantime.|0|
 # Gleam HTTP client
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
