@@ -1,10 +1,10 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1097xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1079xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1098xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1080xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|28xxxx|
-|4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.1|2025-09-18|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
+|4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.2|2026-09-15|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
 |6|[claws_kafka](https://hex.pm/packages/claws_kafka)|0.4.1|2018-08-08|Kafka Client for Snatch|2xxx|[![32512](https://img.shields.io/github/stars/snatch-xmpp/claws_kafka)](https://github.com/snatch-xmpp/claws_kafka)
 |7|[kafkerl](https://hex.pm/packages/kafkerl)|2.1.0|2016-08-16|Apache Kafka 0.8.2 high performance producer/consumer for erlang.|9xx|[![40678](https://img.shields.io/github/stars/hernanrivasacosta/kafkerl)](https://github.com/hernanrivasacosta/kafkerl)
@@ -12,7 +12,7 @@
 # Elixir Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3726xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
+|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3727xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3242xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)
 |3|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|290xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)
 |4|[kaffe](https://hex.pm/packages/kaffe)|2.2.0|2026-07-22|An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.|117xxxx|[![40660](https://img.shields.io/github/stars/spreedly/kaffe)](https://github.com/spreedly/kaffe)

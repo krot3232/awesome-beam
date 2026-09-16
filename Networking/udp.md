@@ -36,10 +36,10 @@
 |18|[tracker_client](https://hex.pm/packages/tracker_client)|0.1.1|2017-01-06|Make announcements to torrent trackers via HTTP or UDP.|7xx|[![66080](https://img.shields.io/github/stars/sschneider1207/tracker_client)](https://github.com/sschneider1207/tracker_client)
 |19|[phi_accrual_udp](https://hex.pm/packages/phi_accrual_udp)|1.0.0|2026-05-14|Dedicated UDP socket source for phi_accrual. Escapes BEAM distribution head-of-line blocking. Receiver-driven clock discipline; packet timestamp is diagnostic-only.|3xx|[![44742](https://img.shields.io/github/stars/thatsme/phi_accrual_udp)](https://github.com/thatsme/phi_accrual_udp)
 |20|[ex_iso8583](https://hex.pm/packages/ex_iso8583)|0.4.0|2026-02-04|An ISO 8583 library for Elixir with field definitions, encoding/decoding,transaction processing, and pluggable transports (TCP, HTTP, UDP).|1xx|[![36248](https://img.shields.io/github/stars/haimiyahya/ex_iso8583)](https://github.com/haimiyahya/ex_iso8583)
-|21|[gale](https://hex.pm/packages/gale)|0.1.1|2026-09-08|Phoenix adapter for HTTP/1.1, HTTP/2, and HTTP/3 (QUIC). Bandit for TCP, quic_h3 for UDP.|3x|[![7890259](https://img.shields.io/github/stars/niranjanaryan/gale)](https://github.com/niranjanaryan/gale)
+|21|[gale](https://hex.pm/packages/gale)|0.1.1|2026-09-08|Phoenix adapter for HTTP/1.1, HTTP/2, and HTTP/3 (QUIC). Bandit for TCP, quic_h3 for UDP.|4x|[![7890259](https://img.shields.io/github/stars/niranjanaryan/gale)](https://github.com/niranjanaryan/gale)
 # Gleam UDP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|1xxx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)
 |2|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|1xxx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)
-|3|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|7xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)
+|3|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|8xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)

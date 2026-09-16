@@ -7,7 +7,7 @@
 # Elixir MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.4|2026-07-24|The MongoDB driver for Elixir|119xxxx|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
+|1|[mongodb_driver](https://hex.pm/packages/mongodb_driver)|1.6.4|2026-07-24|The MongoDB driver for Elixir|120xxxx|[![42903](https://img.shields.io/github/stars/zookzook/elixir-mongodb-driver)](https://github.com/zookzook/elixir-mongodb-driver)
 |2|[mongodb](https://hex.pm/packages/mongodb)|1.0.1|2025-03-12|MongoDB driver for Elixir|88xxxx|[![42901](https://img.shields.io/github/stars/elixir-mongo/mongodb)](https://github.com/elixir-mongo/mongodb)
 |3|[mongodb_ecto](https://hex.pm/packages/mongodb_ecto)|2.1.1|2025-03-12|MongoDB adapter for Ecto|13xxxx|[![42904](https://img.shields.io/github/stars/elixir-mongo/mongodb_ecto)](https://github.com/elixir-mongo/mongodb_ecto)
 |4|[opentelemetry_mongodb_dri ver ](https://hex.pm/packages/opentelemetry_mongodb_driver)|0.1.0|2023-08-23|Trace MongoDB queries with OpenTelemetry.|3xxxx|[![44167](https://img.shields.io/github/stars/open-telemetry/opentelemetry-erlang-contrib)](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
@@ -27,7 +27,7 @@
 |18|[raven_integration_mongo_d b ](https://hex.pm/packages/raven_integration_mongo_db)|0.3.3|2026-07-24|MongoDB server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.MongoDb.Display, #299) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |19|[mjolnir_mongo_datasource](https://hex.pm/packages/mjolnir_mongo_datasource)|0.1.0|2021-08-18|Provides connectivity to MongoDB for the Mjolnir MUD Engine|2xx|
 |20|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|21|[rheo](https://hex.pm/packages/rheo)|0.1.0|2026-09-15|Durable consumer-group semantics over searchable databases (MongoDB first).|0|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|21|[rheo](https://hex.pm/packages/rheo)|0.3.0|2026-09-15|Durable consumer-group semantics over searchable databases (MongoDB + ETS).|4x|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
 # Gleam MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

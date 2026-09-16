@@ -4,11 +4,11 @@
 |1|[jwerl](https://hex.pm/packages/jwerl)|1.2.0|2022-10-21|JWT Library for Erlang and Elixir|52xxxx|
 |2|[erljwt](https://hex.pm/packages/erljwt)|2.1.0|2024-02-20|A simple JWT decoding/encoding library|23xxxx|[![35260](https://img.shields.io/github/stars/Erlang-Openid/erljwt)](https://github.com/Erlang-Openid/erljwt)
 |3|[jwt](https://hex.pm/packages/jwt)|0.1.11|2021-10-06|Erlang JWT library|19xxxx|[![40635](https://img.shields.io/github/stars/artemeff/jwt)](https://github.com/artemeff/jwt)
-|4|[foodog](https://hex.pm/packages/foodog)|0.2.1|2024-02-17|An easy to use JWT library|6xx|
+|4|[foodog](https://hex.pm/packages/foodog)|0.2.1|2024-02-17|An easy to use JWT library|7xx|
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5774xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5777xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|160xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|37xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
