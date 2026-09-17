@@ -1,7 +1,7 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1558xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1559xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
 |2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|144xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|2.6.2|2022-04-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
@@ -17,7 +17,7 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.9.1|2026-09-10|Fast, pipelined, resilient Redis driver for Elixir.|4537xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.9.1|2026-09-10|Fast, pipelined, resilient Redis driver for Elixir.|4539xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2323xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|343xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
 |4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.0.0|2026-02-21|Nebulex adapter for Redis|195xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
@@ -26,7 +26,7 @@
 |7|[redis_mutex](https://hex.pm/packages/redis_mutex)|1.1.0|2024-10-01|RedisMutex is a library for creating a Redis lock for a single Redis instance|59xxxx|[![63024](https://img.shields.io/github/stars/podium/redis_mutex)](https://github.com/podium/redis_mutex)
 |8|[redbird](https://hex.pm/packages/redbird)|0.7.2|2025-06-25|A Redis adapter for Plug.Session|52xxxx|[![46479](https://img.shields.io/github/stars/beam-community/redbird)](https://github.com/beam-community/redbird)
 |9|[redix_pubsub](https://hex.pm/packages/redix_pubsub)|0.5.0|2019-03-19|Elixir library for using Redis Pub/Sub features (built on top of Redix)|33xxxx|[![63041](https://img.shields.io/github/stars/whatyouhide/redix_pubsub)](https://github.com/whatyouhide/redix_pubsub)
-|10|[redix_pool](https://hex.pm/packages/redix_pool)|0.1.0|2017-05-31|Simple Redis pooling built on redix and poolboy|30xxxx|[![63040](https://img.shields.io/github/stars/opendoor-labs/redix_pool)](https://github.com/opendoor-labs/redix_pool)
+|10|[redix_pool](https://hex.pm/packages/redix_pool)|0.1.0|2017-05-31|Simple Redis pooling built on redix and poolboy|31xxxx|[![63040](https://img.shields.io/github/stars/opendoor-labs/redix_pool)](https://github.com/opendoor-labs/redix_pool)
 |11|[redlock](https://hex.pm/packages/redlock)|1.0.21|2024-03-12|Redlock (Redis Distributed Lock) implementation|24xxxx|[![63047](https://img.shields.io/github/stars/lyokato/redlock)](https://github.com/lyokato/redlock)
 |12|[cache_money](https://hex.pm/packages/cache_money)|0.6.2|2022-02-07|ETS or Redis based caching for Elixir|20xxxx|[![32021](https://img.shields.io/github/stars/sgtpepper43/cache_money)](https://github.com/sgtpepper43/cache_money)
 |13|[off_broadway_redis_stream](https://hex.pm/packages/off_broadway_redis_stream)|0.10.0|2026-01-27|A Redis Stream consumer for Broadway|16xxxx|[![43931](https://img.shields.io/github/stars/akash-akya/off_broadway_redis_stream)](https://github.com/akash-akya/off_broadway_redis_stream)
@@ -77,8 +77,8 @@
 |58|[molasses](https://hex.pm/packages/molasses)|0.3.1|2017-01-21|A feature toggle library using redis. It allows to roll out to users based on a percentage of users or alternatively to a set of users or user ids|2xxx|[![42865](https://img.shields.io/github/stars/securingsincity/molasses)](https://github.com/securingsincity/molasses)
 |59|[fakeredis](https://hex.pm/packages/fakeredis)|0.2.1|2020-04-26|FakeRedis recreates the Redis API using only native Erlang/Elixir features,especially ETS.|2xxx|[![37243](https://img.shields.io/github/stars/roryqueue/fakeredis)](https://github.com/roryqueue/fakeredis)
 |60|[rdtype](https://hex.pm/packages/rdtype)|0.5.1|2017-04-20|Calling Redis Data Types in easily way|2xxx|[![46261](https://img.shields.io/github/stars/ikeikeikeike/rdtype)](https://github.com/ikeikeikeike/rdtype)
-|61|[redis_unique_queue](https://hex.pm/packages/redis_unique_queue)|0.1.5|2018-09-08|A unique FIFO queue with atomic operations built on top of Redis.|1xxx|[![63033](https://img.shields.io/github/stars/mvalitov/elixir-redis-unique-queue)](https://github.com/mvalitov/elixir-redis-unique-queue)
-|62|[trifle_stats](https://hex.pm/packages/trifle_stats)|2.7.0|2026-07-30|Time-series metrics for Elixir. Track custom business metrics using your existing Postgres, MongoDB, Redis, MySQL, or SQLite.|1xxx|[![66168](https://img.shields.io/github/stars/trifle-io/trifle_stats)](https://github.com/trifle-io/trifle_stats)
+|61|[trifle_stats](https://hex.pm/packages/trifle_stats)|2.7.0|2026-07-30|Time-series metrics for Elixir. Track custom business metrics using your existing Postgres, MongoDB, Redis, MySQL, or SQLite.|1xxx|[![66168](https://img.shields.io/github/stars/trifle-io/trifle_stats)](https://github.com/trifle-io/trifle_stats)
+|62|[redis_unique_queue](https://hex.pm/packages/redis_unique_queue)|0.1.5|2018-09-08|A unique FIFO queue with atomic operations built on top of Redis.|1xxx|[![63033](https://img.shields.io/github/stars/mvalitov/elixir-redis-unique-queue)](https://github.com/mvalitov/elixir-redis-unique-queue)
 |63|[exredis_key_auth](https://hex.pm/packages/exredis_key_auth)|0.4.1|2019-01-10|Library for authenticating keys matching on Redis instance.|1xxx|[![36727](https://img.shields.io/github/stars/stilihristov/exredis_key_auth)](https://github.com/stilihristov/exredis_key_auth)
 |64|[exred_node_redis_daemon](https://hex.pm/packages/exred_node_redis_daemon)|0.2.2|2019-01-27|Provides connection pool to a Redis database|1xxx|[![36742](https://img.shields.io/github/stars/exredorg/exred_node_redis_daemon)](https://github.com/exredorg/exred_node_redis_daemon)
 |65|[yggdrasil_redis](https://hex.pm/packages/yggdrasil_redis)|4.1.4|2019-01-22|Redis adapter for Yggdrasil (pub/sub)|1xxx|[![67531](https://img.shields.io/github/stars/gmtprime/yggdrasil_redis)](https://github.com/gmtprime/yggdrasil_redis)

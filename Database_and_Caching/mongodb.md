@@ -26,8 +26,8 @@
 |17|[ex_sift](https://hex.pm/packages/ex_sift)|0.2.0|2026-04-15|MongoDB-style query filtering for Elixir collections|3xx|[![36845](https://img.shields.io/github/stars/sahilpohare/ex_sift)](https://github.com/sahilpohare/ex_sift)
 |18|[raven_integration_mongo_d b ](https://hex.pm/packages/raven_integration_mongo_db)|0.3.3|2026-07-24|MongoDB server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.MongoDb.Display, #299) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |19|[mjolnir_mongo_datasource](https://hex.pm/packages/mjolnir_mongo_datasource)|0.1.0|2021-08-18|Provides connectivity to MongoDB for the Mjolnir MUD Engine|2xx|
-|20|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|21|[rheo](https://hex.pm/packages/rheo)|0.4.1|2026-09-16|Durable consumer-group semantics over searchable databases (MongoDB + ETS).|4x|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|20|[rheo](https://hex.pm/packages/rheo)|0.7.0|2026-09-16|Durable consumer-group semantics over searchable databases (MongoDB, PostgreSQL/SQLite via Ecto, ETS). Partitions, contiguous ACK frontier, lag, and replay.|1xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|21|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 # Gleam MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
