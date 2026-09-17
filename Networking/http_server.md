@@ -65,6 +65,7 @@
 |48|[passby](https://hex.pm/packages/passby)|0.2.0|2026-08-31|A 100% Elixir, 0-dependency HTTP mock server for testing HTTP clients. A lightweight drop-in replacement for Bypass.|1xx|[![7213354](https://img.shields.io/github/stars/altenwald/passby)](https://github.com/altenwald/passby)
 |49|[elixir_server_core](https://hex.pm/packages/elixir_server_core)|0.1.1|2026-06-05|A minimal, forkable Elixir server with HTTP routing, background job queueing, and pluggable persistence.|1xx|[![3786207](https://img.shields.io/github/stars/DarynOngera/ElixirServerCore)](https://github.com/DarynOngera/ElixirServerCore)
 |50|[mcp42](https://hex.pm/packages/mcp42)|0.1.2|2026-09-07|Transport-agnostic MCP (Model Context Protocol) server library with a Streamable HTTP Plug integration.|9x|[![7828467](https://img.shields.io/github/stars/mikalv/mcp42)](https://github.com/mikalv/mcp42)
+|51|[frostlake](https://hex.pm/packages/frostlake)|0.1.0|2026-09-17|Zero-dependency Elixir driver for the Frostlake SQL engine, speaking its HTTP protocol against a running DatabaseHttpServer.|0|[![8288762](https://img.shields.io/github/stars/Frostlake-DB/frostlake-elixir)](https://github.com/Frostlake-DB/frostlake-elixir)
 # Gleam HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

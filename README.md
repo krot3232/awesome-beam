@@ -87,7 +87,7 @@
 |3|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-09-07|A simple, no frills mDNS implementation in Elixir|40xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)|elixir
 |4|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.18|2026-08-26|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)|erlang
 |5|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)|erlang
-|6|[erldns](https://hex.pm/packages/erldns)|11.2.4|2026-09-15|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)|erlang
+|6|[erldns](https://hex.pm/packages/erldns)|11.3.0|2026-09-17|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)|erlang
 |7|[nessie_cluster](https://hex.pm/packages/nessie_cluster)|0.3.0|2025-01-27|A small DNS clustering library for Gleam applications.|8xx|[![43439](https://img.shields.io/github/stars/ckreiling/nessie_cluster)](https://github.com/ckreiling/nessie_cluster)|gleam
 |8|[nessie](https://hex.pm/packages/nessie)|0.1.0|2024-04-07|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|4xx|[![43437](https://img.shields.io/github/stars/ckreiling/nessie)](https://github.com/ckreiling/nessie)|gleam
 |9|[esdee](https://hex.pm/packages/esdee)|1.0.1|2025-12-25|Gleam DNS-SD discovery on Erlang|3xx|[![35348](https://img.shields.io/github/stars/sbergen/esdee)](https://github.com/sbergen/esdee)|gleam
@@ -130,7 +130,7 @@
 ## Redis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.9.1|2026-09-10|Fast, pipelined, resilient Redis driver for Elixir.|4539xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
+|1|[redix](https://hex.pm/packages/redix)|1.9.2|2026-09-17|Fast, pipelined, resilient Redis driver for Elixir.|4539xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2323xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)|elixir
 |3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1559xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|343xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
@@ -403,7 +403,7 @@
 |1|[observer_cli](https://hex.pm/packages/observer_cli)|2.0.0|2026-07-14|Production-ready BEAM diagnostics for operators, automation, and AI agents.|2709xxxx|[![43867](https://img.shields.io/github/stars/zhongwencool/observer_cli)](https://github.com/zhongwencool/observer_cli)|erlang
 |2|[langchain](https://hex.pm/packages/langchain)|0.14.1|2026-09-17|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|89xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
 |3|[openai](https://hex.pm/packages/openai)|0.6.2|2024-07-18|community-maintained OpenAI API Wrapper written in Elixir.|74xxxx|[![44041](https://img.shields.io/github/stars/mgallo/openai.ex)](https://github.com/mgallo/openai.ex)|elixir
-|4|[llm_db](https://hex.pm/packages/llm_db)|2026.9.2|2026-09-15|LLM model metadata catalog with fast, capability-aware lookups.|55xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
+|4|[llm_db](https://hex.pm/packages/llm_db)|2026.9.3|2026-09-17|LLM model metadata catalog with fast, capability-aware lookups.|55xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
 |5|[nakai](https://hex.pm/packages/nakai)|1.1.2|2025-06-22|HTML generation for Gleam, on the server or anywhere else|1xxxx|[![43167](https://img.shields.io/github/stars/aslilac/nakai)](https://github.com/aslilac/nakai)|gleam
 |6|[assemblyai](https://hex.pm/packages/assemblyai)|1.0.0|2026-02-25|API client for assembly.ai API.|3xxx|[![7663](https://img.shields.io/github/stars/iindyverse/assemblyai)](https://github.com/iindyverse/assemblyai)|gleam
 |7|[overlay_llm](https://hex.pm/packages/overlay_llm)|0.2.0|2026-07-31|An API for LLM completion that unifies across different providers.|1xxx|[![5715297](https://img.shields.io/github/stars/crowdhailer/overlay)](https://github.com/crowdhailer/overlay)|gleam
