@@ -8,9 +8,10 @@
 |5|[jiffy](https://hex.pm/packages/jiffy)|2.0.2|2026-07-01|JSON Decoder/Encoder.|567xxxx|[![40442](https://img.shields.io/github/stars/davisp/jiffy)](https://github.com/davisp/jiffy)
 |6|[jesse](https://hex.pm/packages/jesse)|1.8.2|2025-09-28|jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.|206xxxx|[![40414](https://img.shields.io/github/stars/for-GET/jesse)](https://github.com/for-GET/jesse)
 |7|[ojson](https://hex.pm/packages/ojson)|1.0.0|2017-05-17|Ordered JSON (OJSON) - deterministic or stable serialization|8xxxx|[![43955](https://img.shields.io/github/stars/potatosalad/erlang-ojson)](https://github.com/potatosalad/erlang-ojson)
-|8|[bson_erlang](https://hex.pm/packages/bson_erlang)|0.3.1|2021-06-16|BSON are JSON-like objects with a standard binary serialization. See bsonspec.org|6xxxx|[![31868](https://img.shields.io/github/stars/filmor/bson-erlang)](https://github.com/filmor/bson-erlang)
-|9|[euneus](https://hex.pm/packages/euneus)|2.4.0|2024-09-07|An incredibly flexible and performant JSON parser, generator and formatter in pure Erlang|3xxxx|[![35463](https://img.shields.io/github/stars/williamthome/euneus)](https://github.com/williamthome/euneus)
-|10|[shiguredo_jsone](https://hex.pm/packages/shiguredo_jsone)|2025.1.0|2025-09-24|Erlang JSON library|2xxxx|[![64074](https://img.shields.io/github/stars/shiguredo/jsone)](https://github.com/shiguredo/jsone)
+|8|[jsxrecord](https://hex.pm/packages/jsxrecord)|2.3.0|2026-09-18|JSON encoder wrapper to handle records and &#039;undefined&#039;|8xxxx|[![40595](https://img.shields.io/github/stars/zotonic/jsxrecord)](https://github.com/zotonic/jsxrecord)
+|9|[bson_erlang](https://hex.pm/packages/bson_erlang)|0.3.1|2021-06-16|BSON are JSON-like objects with a standard binary serialization. See bsonspec.org|6xxxx|[![31868](https://img.shields.io/github/stars/filmor/bson-erlang)](https://github.com/filmor/bson-erlang)
+|10|[euneus](https://hex.pm/packages/euneus)|2.4.0|2024-09-07|An incredibly flexible and performant JSON parser, generator and formatter in pure Erlang|3xxxx|[![35463](https://img.shields.io/github/stars/williamthome/euneus)](https://github.com/williamthome/euneus)
+|11|[shiguredo_jsone](https://hex.pm/packages/shiguredo_jsone)|2025.1.0|2025-09-24|Erlang JSON library|2xxxx|[![64074](https://img.shields.io/github/stars/shiguredo/jsone)](https://github.com/shiguredo/jsone)
 # Elixir JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

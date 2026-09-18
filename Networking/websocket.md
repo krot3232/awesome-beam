@@ -107,7 +107,7 @@
 |88|[ccxt](https://hex.pm/packages/ccxt)|0.1.0-binance-pro-preview|2026-06-11|Binance-first Elixir target generated from CCXT TypeScript sources, including CCXT Pro websocket support.|1xx|
 |89|[phoenix_htmx_ws](https://hex.pm/packages/phoenix_htmx_ws)|0.1.0|2026-08-29|Phoenix WebSocket transport for the htmx 4 hx-ws extension|7x|[![7457966](https://img.shields.io/github/stars/on-my-machine-works/phoenix_htmx_ws)](https://github.com/on-my-machine-works/phoenix_htmx_ws)
 |90|[lightstreamer](https://hex.pm/packages/lightstreamer)|0.1.0|2026-09-08|Lightstreamer TLCP client (WebSocket) for Elixir|4x|[![7915915](https://img.shields.io/github/stars/ktec/lightstreamer)](https://github.com/ktec/lightstreamer)
-|91|[cauldron_2d_net](https://hex.pm/packages/cauldron_2d_net)|0.1.2|2026-09-18|A Cauldron2D world over the network: served to browsers, desktops and terminals over a WebSocket or from node to node, and the links a client joins it by.|2x|[![8282991](https://img.shields.io/github/stars/jaman/cauldron)](https://github.com/jaman/cauldron)
+|91|[cauldron_2d_net](https://hex.pm/packages/cauldron_2d_net)|0.1.3|2026-09-18|A Cauldron2D world over the network: served to browsers, desktops and terminals over a WebSocket or from node to node, and the links a client joins it by.|2x|[![8282991](https://img.shields.io/github/stars/jaman/cauldron)](https://github.com/jaman/cauldron)
 # Gleam WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
