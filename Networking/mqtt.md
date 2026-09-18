@@ -11,7 +11,7 @@
 |8|[zotonic_mod_mqtt](https://hex.pm/packages/zotonic_mod_mqtt)|1.0.0-rc.17|2026-03-30|MQTT messaging, connecting server and browser.|5xxx|[![67720](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |9|[zotonic_mod_fileuploader](https://hex.pm/packages/zotonic_mod_fileuploader)|1.0.0-rc.17|2026-03-30|Upload files via MQTT|5xxx|[![67708](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |10|[zotonic_listen_mqtt](https://hex.pm/packages/zotonic_listen_mqtt)|1.0.0-rc.17|2026-03-30|Zotonic MQTT Listener|5xxx|[![67670](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
-|11|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|2xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
+|11|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|3xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |12|[mqtt_client](https://hex.pm/packages/mqtt_client)|1.0.5|2020-06-29|The MQTT client is written in Erlang and allows to connect to MQTT server and send/receive messages according to MQTT messaging protocol version 3.1.1|3xx|[![43001](https://img.shields.io/github/stars/alekras/mqtt_client)](https://github.com/alekras/mqtt_client)
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@
 |17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|5xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
 |18|[conduit_mqtt](https://hex.pm/packages/conduit_mqtt)|0.1.0|2018-10-29|MQTT adapter for Conduit.|4xx|[![32889](https://img.shields.io/github/stars/conduitframework/conduit_mqtt)](https://github.com/conduitframework/conduit_mqtt)
 |19|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|3xx|
-|20|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|2xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)
+|20|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|3xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)
 |21|[simple_mqtt](https://hex.pm/packages/simple_mqtt)|0.1.0|2021-01-02|A basic, single node pub-sub implementation where publishers and subscribers use topics and topics filters compatible with MQTT.|2xx|[![64246](https://img.shields.io/github/stars/kmiecikt/simple_mqtt)](https://github.com/kmiecikt/simple_mqtt)
 |22|[nipper](https://hex.pm/packages/nipper)|0.1.0|2025-08-13|Lightweight, embeddable MQTT broker for BEAM-based edge applications|1xx|
 # Gleam MQTT
