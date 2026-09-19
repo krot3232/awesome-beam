@@ -38,10 +38,11 @@
 |26|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|3xx|
 |27|[mnesia_ex](https://hex.pm/packages/mnesia_ex)|0.2.0|2025-10-21|A functional, monadic wrapper for Mnesia built with category theory principles.Features: auto-increment counters, TTL with automatic cleanup, backup/restore,real-time events, and a clean CRUD API. Pure functional programming throughout.|3xx|[![42787](https://img.shields.io/github/stars/AR3ON/mnesia_ex)](https://github.com/AR3ON/mnesia_ex)
 |28|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|2xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
-|29|[mnesiaex](https://hex.pm/packages/mnesiaex)|0.1.0|2021-07-23|Elixir ecto 3 adapter for mnesia.|2xx|[![42786](https://img.shields.io/github/stars/beardedeagle/mnesiaex)](https://github.com/beardedeagle/mnesiaex)
-|30|[otplabs](https://hex.pm/packages/otplabs)|0.1.0|2022-08-19|Otplabs-lib provides Horde and Mnesia Supervisor, Horde Registry and NodeObserver that loads nodes dynamicallywhen they start. Those recives notitication when a node up and down and update Horde and mnesia cluster.|2xx|[![44301](https://img.shields.io/github/stars/pahagon/otp-labs)](https://github.com/pahagon/otp-labs)
+|29|[rheo](https://hex.pm/packages/rheo)|0.11.0|2026-09-19|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|2xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|30|[mnesiaex](https://hex.pm/packages/mnesiaex)|0.1.0|2021-07-23|Elixir ecto 3 adapter for mnesia.|2xx|[![42786](https://img.shields.io/github/stars/beardedeagle/mnesiaex)](https://github.com/beardedeagle/mnesiaex)
 |31|[nebulex_mnesia_adapter](https://hex.pm/packages/nebulex_mnesia_adapter)|2.6.5|2025-10-03|Nebulex adapter for Mnesia|2xx|[![43256](https://img.shields.io/github/stars/amco/nebulex-mnesia-adapter)](https://github.com/amco/nebulex-mnesia-adapter)
-|32|[recall](https://hex.pm/packages/recall)|0.1.0|2026-06-16|An Ecto 3 adapter for Mnesia — memory, recollected.|1xx|
+|32|[otplabs](https://hex.pm/packages/otplabs)|0.1.0|2022-08-19|Otplabs-lib provides Horde and Mnesia Supervisor, Horde Registry and NodeObserver that loads nodes dynamicallywhen they start. Those recives notitication when a node up and down and update Horde and mnesia cluster.|2xx|[![44301](https://img.shields.io/github/stars/pahagon/otp-labs)](https://github.com/pahagon/otp-labs)
+|33|[recall](https://hex.pm/packages/recall)|0.1.0|2026-06-16|An Ecto 3 adapter for Mnesia — memory, recollected.|1xx|
 # Gleam Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

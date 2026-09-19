@@ -36,7 +36,7 @@
 |:-|-|-|-|:-|-|-
 |1|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13261xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)
 |2|[tesla](https://hex.pm/packages/tesla)|1.21.3|2026-09-01|HTTP client library, with support for middleware and multiple adapters.|7423xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)
-|3|[mint](https://hex.pm/packages/mint)|1.10.0|2026-09-04|Small and composable HTTP client.|6558xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)
+|3|[mint](https://hex.pm/packages/mint)|1.10.1|2026-09-19|Small and composable HTTP client.|6558xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)
 |4|[finch](https://hex.pm/packages/finch)|0.23.0|2026-06-17|An HTTP client focused on performance.|6099xxxx|[![37465](https://img.shields.io/github/stars/sneako/finch)](https://github.com/sneako/finch)
 |5|[prometheus_plugs](https://hex.pm/packages/prometheus_plugs)|1.1.5|2019-08-09|Prometheus monitoring system client Plugs. Http metrics collector and exporter.|5529xxxx|[![45730](https://img.shields.io/github/stars/deadtrickster/prometheus-plugs)](https://github.com/deadtrickster/prometheus-plugs)
 |6|[kadabra](https://hex.pm/packages/kadabra)|0.6.3|2026-07-01|HTTP2 client for Elixir|2693xxxx|[![40656](https://img.shields.io/github/stars/codedge-llc/kadabra)](https://github.com/codedge-llc/kadabra)
@@ -187,8 +187,8 @@
 |151|[jet](https://hex.pm/packages/jet)|0.1.0-init|2018-04-06|Jet is a flexible HTTP client library.|3xx|
 |152|[plug_http_client](https://hex.pm/packages/plug_http_client)|0.0.1|2017-09-05|HTTP Client Support Functions|3xx|
 |153|[jsonrpc2_client](https://hex.pm/packages/jsonrpc2_client)|2.0.2|2026-07-03|HTTP client for JSONRPC 2.0 protocol.|3xx|[![40561](https://img.shields.io/github/stars/undr/jsonrpc2_client)](https://github.com/undr/jsonrpc2_client)
-|154|[ex_scim_client](https://hex.pm/packages/ex_scim_client)|0.2.2|2026-09-13|HTTP client for consuming SCIM 2.0 APIs|3xx|[![36809](https://img.shields.io/github/stars/ExScim/ex_scim)](https://github.com/ExScim/ex_scim)
-|155|[req_photon_geocoding](https://hex.pm/packages/req_photon_geocoding)|0.1.0|2026-03-14|An Elixir client for the photon HTTP geocoding API, built on top of Req.|3xx|[![63212](https://img.shields.io/github/stars/alemoreau/req_photon_geocoding)](https://github.com/alemoreau/req_photon_geocoding)
+|154|[req_photon_geocoding](https://hex.pm/packages/req_photon_geocoding)|0.1.0|2026-03-14|An Elixir client for the photon HTTP geocoding API, built on top of Req.|3xx|[![63212](https://img.shields.io/github/stars/alemoreau/req_photon_geocoding)](https://github.com/alemoreau/req_photon_geocoding)
+|155|[ex_scim_client](https://hex.pm/packages/ex_scim_client)|0.2.2|2026-09-13|HTTP client for consuming SCIM 2.0 APIs|3xx|[![36809](https://img.shields.io/github/stars/ExScim/ex_scim)](https://github.com/ExScim/ex_scim)
 |156|[shelly](https://hex.pm/packages/shelly)|0.3.0|2026-07-31|Shelly smart-device client for Elixir: cloud APIs (legacy auth-key, v2, OAuth account access), real-time websocket events, and component-aware status parsing across Gen1-Gen4 hardware.|3xx|[![6053424](https://img.shields.io/github/stars/mdon/shelly)](https://github.com/mdon/shelly)
 |157|[bony_ws](https://hex.pm/packages/bony_ws)|0.1.0|2020-11-03|A simple websocket client.|3xx|[![31690](https://img.shields.io/github/stars/ljzn/bony_ws)](https://github.com/ljzn/bony_ws)
 |158|[binance_http](https://hex.pm/packages/binance_http)|0.1.2|2023-05-24|Simple HTTP Client for Binance API|2xx|[![31469](https://img.shields.io/github/stars/vlnic/binance_http)](https://github.com/vlnic/binance_http)
@@ -206,8 +206,8 @@
 |170|[hui_httpoison](https://hex.pm/packages/hui_httpoison)|0.1.0|2020-07-06|hui_httpoison is an implementation of Hui HTTP client behaviour  for querying Solr search platform.|2xx|[![39810](https://img.shields.io/github/stars/boonious/hui_httpoison)](https://github.com/boonious/hui_httpoison)
 |171|[opentelemetry_tesla_middl eware ](https://hex.pm/packages/opentelemetry_tesla_middleware)|0.1.0-rc.1|2021-09-08|Tesla middleware handler that creates OpenTelemetry spans from Tesla HTTP client events.|2xx|[![44187](https://img.shields.io/github/stars/ricardoccpaiva/opentelemetry_tesla_middleware)](https://github.com/ricardoccpaiva/opentelemetry_tesla_middleware)
 |172|[pushxer](https://hex.pm/packages/pushxer)|0.0.1|2021-01-25|Pusher HTTP client|2xx|[![45887](https://img.shields.io/github/stars/gabheadz/pushxer)](https://github.com/gabheadz/pushxer)
-|173|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|2xx|
-|174|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
+|173|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
+|174|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|2xx|
 |175|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
 |176|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|2xx|
 |177|[hassock](https://hex.pm/packages/hassock)|0.1.3|2026-04-16|Home Assistant WebSocket client for Elixir.|1xx|[![39401](https://img.shields.io/github/stars/bbangert/hassock)](https://github.com/bbangert/hassock)
