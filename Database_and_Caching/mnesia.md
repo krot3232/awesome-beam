@@ -1,21 +1,21 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|369xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|372xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
-|4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|4xx|
+|4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|5xx|
 |5|[mnkv](https://hex.pm/packages/mnkv)|0.1.0|2024-03-14|A simple, distributed, Mnesia-based key-value store (fork of lbm_kv).|3xx|
 |6|[mnesplit](https://hex.pm/packages/mnesplit)|0.0.1|2021-04-21|Mnesia Post-Partition Recover|2xx|
 # Elixir Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[memento](https://hex.pm/packages/memento)|0.6.0|2026-06-11|Simple &amp; Powerful Elixir wrapper for the Mnesia Database|71xxxx|[![42457](https://img.shields.io/github/stars/sheharyarn/memento)](https://github.com/sheharyarn/memento)
+|1|[memento](https://hex.pm/packages/memento)|0.6.0|2026-06-11|Simple &amp; Powerful Elixir wrapper for the Mnesia Database|72xxxx|[![42457](https://img.shields.io/github/stars/sheharyarn/memento)](https://github.com/sheharyarn/memento)
 |2|[que](https://hex.pm/packages/que)|0.12.0|2026-06-11|Simple Background Job Processing with Mnesia|47xxxx|[![45986](https://img.shields.io/github/stars/sheharyarn/que)](https://github.com/sheharyarn/que)
 |3|[amnesia](https://hex.pm/packages/amnesia)|0.2.8|2019-12-16|mnesia wrapper for Elixir|35xxxx|[![1649](https://img.shields.io/github/stars/meh/amnesia)](https://github.com/meh/amnesia)
 |4|[active_memory](https://hex.pm/packages/active_memory)|0.8.2|2026-08-18|The typed, attribute-queryable in-memory store for ETS and Mnesia, with Ecto changeset support, record expiry (TTL), crash resilience, and atomic take-once reads.|20xxxx|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
-|5|[hammer_backend_mnesia](https://hex.pm/packages/hammer_backend_mnesia)|0.7.1|2025-07-23|Mnesia backend for Hammer rate-limiter|16xxxx|[![39329](https://img.shields.io/github/stars/ExHammer/hammer-backend-mnesia)](https://github.com/ExHammer/hammer-backend-mnesia)
-|6|[mnesiac](https://hex.pm/packages/mnesiac)|0.3.14|2023-05-13|Auto clustering for Mnesia made easy!|14xxxx|[![42785](https://img.shields.io/github/stars/beardedeagle/mnesiac)](https://github.com/beardedeagle/mnesiac)
+|5|[hammer_backend_mnesia](https://hex.pm/packages/hammer_backend_mnesia)|0.7.1|2025-07-23|Mnesia backend for Hammer rate-limiter|17xxxx|[![39329](https://img.shields.io/github/stars/ExHammer/hammer-backend-mnesia)](https://github.com/ExHammer/hammer-backend-mnesia)
+|6|[mnesiac](https://hex.pm/packages/mnesiac)|0.3.14|2023-05-13|Auto clustering for Mnesia made easy!|15xxxx|[![42785](https://img.shields.io/github/stars/beardedeagle/mnesiac)](https://github.com/beardedeagle/mnesiac)
 |7|[plug_session_mnesia](https://hex.pm/packages/plug_session_mnesia)|0.1.3|2019-08-04|An application for storing and managing Plug sessions with Mnesia.|5xxxx|[![45348](https://img.shields.io/github/stars/ejpcmac/plug_session_mnesia)](https://github.com/ejpcmac/plug_session_mnesia)
 |8|[telemetry_metrics_mnesia](https://hex.pm/packages/telemetry_metrics_mnesia)|1.6.0|2025-10-02|Telemetry.Metrics reporter and metrics backend based on Mnesia DB.|4xxxx|[![65563](https://img.shields.io/github/stars/T0ha/telemetry_metrics_mnesia)](https://github.com/T0ha/telemetry_metrics_mnesia)
 |9|[agentex](https://hex.pm/packages/agentex)|0.2.0|2017-11-09|Distributed Agent implementation, providing multi-node agents on top of Mnesia.|3xxxx|[![1435](https://img.shields.io/github/stars/am-kantox/agentex)](https://github.com/am-kantox/agentex)
@@ -33,18 +33,18 @@
 |21|[minirate](https://hex.pm/packages/minirate)|0.1.13|2025-08-30|A dead simple distributed rate limiter using Mnesia|1xxx|[![42645](https://img.shields.io/github/stars/4xposed/minirate)](https://github.com/4xposed/minirate)
 |22|[mnesia_helper](https://hex.pm/packages/mnesia_helper)|1.1.5|2022-06-06|A short and easy to use library to help out with erlang&#039;s :mnesia.|1xxx|[![42788](https://img.shields.io/github/stars/DDoubleDee/mnesia_helper)](https://github.com/DDoubleDee/mnesia_helper)
 |23|[sync_m](https://hex.pm/packages/sync_m)|0.1.1|2018-03-14|SyncM helps by setting up an interface to dynamically sync mnesia across nodes. Mnesia nodes are added to         the schema dynamically when started and copy over existing tables from another node member.|8xx|[![65327](https://img.shields.io/github/stars/jpiepkow/syncm)](https://github.com/jpiepkow/syncm)
-|24|[ex_mnable](https://hex.pm/packages/ex_mnable)|0.1.0|2017-06-15|Mnesia helpers|4xx|
-|25|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|3xx|
-|26|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|3xx|
-|27|[mnesia_ex](https://hex.pm/packages/mnesia_ex)|0.2.0|2025-10-21|A functional, monadic wrapper for Mnesia built with category theory principles.Features: auto-increment counters, TTL with automatic cleanup, backup/restore,real-time events, and a clean CRUD API. Pure functional programming throughout.|3xx|[![42787](https://img.shields.io/github/stars/AR3ON/mnesia_ex)](https://github.com/AR3ON/mnesia_ex)
-|28|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|2xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
-|29|[rheo](https://hex.pm/packages/rheo)|0.11.0|2026-09-19|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|2xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|24|[rheo](https://hex.pm/packages/rheo)|1.0.0|2026-09-21|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|4xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|25|[ex_mnable](https://hex.pm/packages/ex_mnable)|0.1.0|2017-06-15|Mnesia helpers|4xx|
+|26|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|4xx|
+|27|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|4xx|
+|28|[mnesia_ex](https://hex.pm/packages/mnesia_ex)|0.2.0|2025-10-21|A functional, monadic wrapper for Mnesia built with category theory principles.Features: auto-increment counters, TTL with automatic cleanup, backup/restore,real-time events, and a clean CRUD API. Pure functional programming throughout.|3xx|[![42787](https://img.shields.io/github/stars/AR3ON/mnesia_ex)](https://github.com/AR3ON/mnesia_ex)
+|29|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|2xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
 |30|[mnesiaex](https://hex.pm/packages/mnesiaex)|0.1.0|2021-07-23|Elixir ecto 3 adapter for mnesia.|2xx|[![42786](https://img.shields.io/github/stars/beardedeagle/mnesiaex)](https://github.com/beardedeagle/mnesiaex)
-|31|[nebulex_mnesia_adapter](https://hex.pm/packages/nebulex_mnesia_adapter)|2.6.5|2025-10-03|Nebulex adapter for Mnesia|2xx|[![43256](https://img.shields.io/github/stars/amco/nebulex-mnesia-adapter)](https://github.com/amco/nebulex-mnesia-adapter)
-|32|[otplabs](https://hex.pm/packages/otplabs)|0.1.0|2022-08-19|Otplabs-lib provides Horde and Mnesia Supervisor, Horde Registry and NodeObserver that loads nodes dynamicallywhen they start. Those recives notitication when a node up and down and update Horde and mnesia cluster.|2xx|[![44301](https://img.shields.io/github/stars/pahagon/otp-labs)](https://github.com/pahagon/otp-labs)
+|31|[otplabs](https://hex.pm/packages/otplabs)|0.1.0|2022-08-19|Otplabs-lib provides Horde and Mnesia Supervisor, Horde Registry and NodeObserver that loads nodes dynamicallywhen they start. Those recives notitication when a node up and down and update Horde and mnesia cluster.|2xx|[![44301](https://img.shields.io/github/stars/pahagon/otp-labs)](https://github.com/pahagon/otp-labs)
+|32|[nebulex_mnesia_adapter](https://hex.pm/packages/nebulex_mnesia_adapter)|2.6.5|2025-10-03|Nebulex adapter for Mnesia|2xx|[![43256](https://img.shields.io/github/stars/amco/nebulex-mnesia-adapter)](https://github.com/amco/nebulex-mnesia-adapter)
 |33|[recall](https://hex.pm/packages/recall)|0.1.0|2026-06-16|An Ecto 3 adapter for Mnesia — memory, recollected.|1xx|
 # Gleam Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[amnesiac](https://hex.pm/packages/amnesiac)|1.1.0|2024-06-15|Gleam bindings to mnesia|3xxxx|[![1650](https://img.shields.io/github/stars/VioletBuse/amnesiac)](https://github.com/VioletBuse/amnesiac)
-|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|3xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)
+|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|4xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)

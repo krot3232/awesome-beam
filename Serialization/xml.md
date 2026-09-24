@@ -1,18 +1,18 @@
 # Erlang XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[erlsom](https://hex.pm/packages/erlsom)|1.5.2|2025-01-27|XML parser. Supports SAX style parsing as well as XML Schema based data mapping: create records from XML (and vice versa)|7808xxxx|[![35288](https://img.shields.io/github/stars/willemdj/erlsom)](https://github.com/willemdj/erlsom)
-|2|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1124xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)
+|1|[erlsom](https://hex.pm/packages/erlsom)|1.5.2|2025-01-27|XML parser. Supports SAX style parsing as well as XML Schema based data mapping: create records from XML (and vice versa)|7809xxxx|[![35288](https://img.shields.io/github/stars/willemdj/erlsom)](https://github.com/willemdj/erlsom)
+|2|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1126xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)
 |3|[fast_xml](https://hex.pm/packages/fast_xml)|1.1.60|2026-04-13|Fast Expat-based Erlang / Elixir XML parsing library|59xxxx|[![37300](https://img.shields.io/github/stars/processone/fast_xml)](https://github.com/processone/fast_xml)
 |4|[feeder](https://hex.pm/packages/feeder)|2.3.2|2019-06-14|Stream parse RSS and Atom formatted XML feeds.|10xxxx|[![37341](https://img.shields.io/github/stars/michaelnisi/feeder)](https://github.com/michaelnisi/feeder)
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7484xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7487xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
 |2|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7233xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
-|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7180xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
-|4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2903xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
-|5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|930xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
+|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7193xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
+|4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2905xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
+|5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|935xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
 |6|[xmlrpc](https://hex.pm/packages/xmlrpc)|1.5.0|2026-07-10|XML-RPC encoder/decder for Elixir. Supports all valid datatypes. Input (ie untrusted) is parsed with erlsom against an xml-schema for security.|45xxxx|[![67410](https://img.shields.io/github/stars/ewildgoose/elixir-xml_rpc)](https://github.com/ewildgoose/elixir-xml_rpc)
 |7|[meeseeks](https://hex.pm/packages/meeseeks)|0.18.0|2025-06-01|Meeseeks is a library for parsing and extracting data from HTML and XMLwith CSS or XPath selectors.|33xxxx|[![42269](https://img.shields.io/github/stars/mischov/meeseeks)](https://github.com/mischov/meeseeks)
 |8|[quinn](https://hex.pm/packages/quinn)|1.1.3|2019-01-25|Quinn is a simple XML parser mainly used to parse rss/atom feeds.|25xxxx|[![46036](https://img.shields.io/github/stars/nhu313/Quinn)](https://github.com/nhu313/Quinn)
@@ -25,7 +25,7 @@
 |15|[exsom](https://hex.pm/packages/exsom)|0.2.1|2019-07-23|XML parser for Elixir (based on Erlsom)|3xxxx|[![36865](https://img.shields.io/github/stars/metalabdesign/exsom)](https://github.com/metalabdesign/exsom)
 |16|[xml_builder_ex](https://hex.pm/packages/xml_builder_ex)|3.1.4159|2024-06-26|XML builder for Elixir|2xxxx|
 |17|[friendly](https://hex.pm/packages/friendly)|1.1.0|2018-12-11|HTML and XML parser with the most friendly API in Elixir land. CSS selector in, list of elements out.|7xxx|[![37805](https://img.shields.io/github/stars/qertoip/friendly)](https://github.com/qertoip/friendly)
-|18|[statifier](https://hex.pm/packages/statifier)|2.5.0|2026-09-02|A W3C SCXML-conformant statecharts engine for Elixir|2xxx|[![64936](https://img.shields.io/github/stars/riddler/statifier-ex)](https://github.com/riddler/statifier-ex)
+|18|[statifier](https://hex.pm/packages/statifier)|2.8.1|2026-09-24|A W3C SCXML-conformant statecharts engine for Elixir|3xxx|[![64936](https://img.shields.io/github/stars/riddler/statifier-ex)](https://github.com/riddler/statifier-ex)
 |19|[sign_core](https://hex.pm/packages/sign_core)|0.1.4|2026-05-11|Signer-agnostic PDF (PAdES B-B/B-T) and XML (XAdES B-B/B-T) signing primitives. Wire in your own signature source (PKCS#11 hardware via pkcs11ex, PKCS#12 / PKCS#8 software keys via soft_signer, cloud KMS, etc.) by implementing the SignCore.Signer protocol.|1xxx|[![64178](https://img.shields.io/github/stars/utaladriz/pkcs11ex)](https://github.com/utaladriz/pkcs11ex)
 |20|[elixir_faker](https://hex.pm/packages/elixir_faker)|0.2.0|2023-09-19|Faker is a Elixir package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.|5xx|[![34815](https://img.shields.io/github/stars/kamaroly/elixir_faker)](https://github.com/kamaroly/elixir_faker)
 # Gleam XML
@@ -33,4 +33,4 @@
 |:-|-|-|-|:-|-|-
 |1|[xmb](https://hex.pm/packages/xmb)|1.4.1|2025-04-06|A tiny XML builder for Gleam|1xxxx|[![67387](https://img.shields.io/github/stars/lpil/xmb)](https://github.com/lpil/xmb)
 |2|[xmlm](https://hex.pm/packages/xmlm)|1.0.1|2026-01-04|An pull-based XML parser for the Gleam programming language|1xxxx|[![67403](https://img.shields.io/github/stars/mooreryan/gleam_xmlm)](https://github.com/mooreryan/gleam_xmlm)
-|3|[vxml](https://hex.pm/packages/vxml)|2.0.0|2026-09-04|A simplified XML-like tree datatype for document processing.|5xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)
+|3|[vxml](https://hex.pm/packages/vxml)|2.0.1|2026-09-22|A simplified XML-like tree datatype for document processing.|6xx|[![6460310](https://img.shields.io/github/stars/vistuleB/vxml)](https://github.com/vistuleB/vxml)

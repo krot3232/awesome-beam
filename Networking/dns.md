@@ -1,9 +1,9 @@
 # Erlang DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.18|2026-08-26|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
+|1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.0.19|2026-09-23|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
 |2|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)
-|3|[erldns](https://hex.pm/packages/erldns)|11.3.0|2026-09-17|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
+|3|[erldns](https://hex.pm/packages/erldns)|11.4.0|2026-09-23|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
 |4|[mdns_client](https://hex.pm/packages/mdns_client)|0.1.10|2017-10-25|mDNS service discovery client|6xxx|[![42242](https://img.shields.io/github/stars/Licenser/erlang-mdns-client)](https://github.com/Licenser/erlang-mdns-client)
 |5|[macula_mdns](https://hex.pm/packages/macula_mdns)|0.1.1|2026-09-05|Multicast DNS (mDNS/Zeroconf/Bonjour) for Erlang/OTP|5xxx|[![41876](https://img.shields.io/github/stars/macula-io/macula-mdns)](https://github.com/macula-io/macula-mdns)
 |6|[mdns_server](https://hex.pm/packages/mdns_server)|0.2.0|2015-07-26|mDNS service discovery server|2xxx|[![42245](https://img.shields.io/github/stars/Licenser/erlang-mdns-server)](https://github.com/Licenser/erlang-mdns-server)
@@ -12,13 +12,13 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|811xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|822xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|144xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-09-07|A simple, no frills mDNS implementation in Elixir|40xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
-|5|[mdns](https://hex.pm/packages/mdns)|1.0.13|2022-09-19|A simple mDNS (zeroconf, bonjour) server and client for device discovery on your local network.|5xxxx|[![42241](https://img.shields.io/github/stars/NationalAssociationOfRealtors/mdns)](https://github.com/NationalAssociationOfRealtors/mdns)
-|6|[nerves_discovery](https://hex.pm/packages/nerves_discovery)|0.1.5|2026-09-07|Discover Nerves devices using mDNS|5xxxx|[![43291](https://img.shields.io/github/stars/nerves-networking/nerves_discovery)](https://github.com/nerves-networking/nerves_discovery)
-|7|[dnsimple](https://hex.pm/packages/dnsimple)|10.1.0|2026-09-17|Elixir client for the DNSimple API v2.|2xxxx|[![33954](https://img.shields.io/github/stars/dnsimple/dnsimple-elixir)](https://github.com/dnsimple/dnsimple-elixir)
+|5|[nerves_discovery](https://hex.pm/packages/nerves_discovery)|0.1.5|2026-09-07|Discover Nerves devices using mDNS|6xxxx|[![43291](https://img.shields.io/github/stars/nerves-networking/nerves_discovery)](https://github.com/nerves-networking/nerves_discovery)
+|6|[mdns](https://hex.pm/packages/mdns)|1.0.13|2022-09-19|A simple mDNS (zeroconf, bonjour) server and client for device discovery on your local network.|5xxxx|[![42241](https://img.shields.io/github/stars/NationalAssociationOfRealtors/mdns)](https://github.com/NationalAssociationOfRealtors/mdns)
+|7|[dnsimple](https://hex.pm/packages/dnsimple)|10.2.0|2026-09-22|Elixir client for the DNSimple API v2.|2xxxx|[![33954](https://img.shields.io/github/stars/dnsimple/dnsimple-elixir)](https://github.com/dnsimple/dnsimple-elixir)
 |8|[public_suffix_list](https://hex.pm/packages/public_suffix_list)|0.7.1|2026-06-16|Parse DNS domains using public suffix list.|1xxxx|[![45832](https://img.shields.io/github/stars/cogini/public_suffix_list)](https://github.com/cogini/public_suffix_list)
 |9|[google_api_dns](https://hex.pm/packages/google_api_dns)|0.32.0|2025-04-15|Cloud DNS API client library.|1xxxx|[![38796](https://img.shields.io/github/stars/googleapis/elixir-google-api)](https://github.com/googleapis/elixir-google-api)
 |10|[ex_dns_client](https://hex.pm/packages/ex_dns_client)|0.1.1|2016-12-20|A rudimentary DNS client. Thin wrapper around erlang&#039;s inet_res library|3xxx|[![35978](https://img.shields.io/github/stars/kagux/ex_dns_client)](https://github.com/kagux/ex_dns_client)
@@ -43,6 +43,7 @@
 |29|[palisade](https://hex.pm/packages/palisade)|0.1.0|2026-05-12|Shared trust-boundary primitives for CarverAutomation services(currently CRM + ServiceRadar). Outbound URL / network addresspolicy (SSRF defense), HTTP fetch with resolved-IP binding todefeat DNS rebinding, and — in later versions — OIDC + SAMLprimitives needed to make federated identity safe.|2xx|
 |30|[defdo_ddns](https://hex.pm/packages/defdo_ddns)|0.5.1|2026-08-07|Cloudflare DDNS updater for A/AAAA/CNAME records with proxy-aware synchronization.|1xx|[![5949451](https://img.shields.io/github/stars/defdo-dev/defdo_ddns)](https://github.com/defdo-dev/defdo_ddns)
 |31|[dnsrobot](https://hex.pm/packages/dnsrobot)|0.1.0|2026-03-13|Official Elixir client for DNS Robot (dnsrobot.net) — DNS lookups, WHOIS, SSL checks, SPF/DKIM/DMARC validation, and more.|1xx|[![33955](https://img.shields.io/github/stars/dnsrobot/dnsrobot-elixir)](https://github.com/dnsrobot/dnsrobot-elixir)
+|32|[adns](https://hex.pm/packages/adns)|0.1.0|2026-09-19|Elixir DNS codec, concurrent UDP client/server, and pluggable resolvers (RFC 1035).|5x|[![8391985](https://img.shields.io/github/stars/pau-bur/adns)](https://github.com/pau-bur/adns)
 # Gleam DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

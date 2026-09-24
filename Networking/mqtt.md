@@ -42,7 +42,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[spoke_packet](https://hex.pm/packages/spoke_packet)|1.0.1|2025-08-03|Encode and decode MQTT 3.1.1 packets to/from binary data.|8xx|[![64765](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
-|2|[spoke_core](https://hex.pm/packages/spoke_core)|1.0.1|2026-01-04|Purely functional core logic for an MQTT 3.1.1 client, using drift.|6xx|[![64761](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
+|2|[spoke_core](https://hex.pm/packages/spoke_core)|1.0.1|2026-01-04|Purely functional core logic for an MQTT 3.1.1 client, using drift.|7xx|[![64761](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[spoke_mqtt](https://hex.pm/packages/spoke_mqtt)|1.0.0|2025-07-20|Types and functions for MQTT 3.1.1 clients.|6xx|[![64762](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |4|[spoke_mqtt_actor](https://hex.pm/packages/spoke_mqtt_actor)|1.1.1|2025-08-03|A Gleam MQTT 3.1.1 client for the Erlang runtime.|6xx|[![64763](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |5|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
