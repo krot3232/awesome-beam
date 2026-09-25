@@ -14,7 +14,7 @@
 ## HTTP client
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.8.0|2026-09-24|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17273xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
+|1|[hackney](https://hex.pm/packages/hackney)|4.8.1|2026-09-25|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17273xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
 |2|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13275xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
 |3|[tesla](https://hex.pm/packages/tesla)|1.21.3|2026-09-01|HTTP client library, with support for middleware and multiple adapters.|7437xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
 |4|[mint](https://hex.pm/packages/mint)|1.10.1|2026-09-19|Small and composable HTTP client.|6606xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
@@ -244,7 +244,7 @@
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.14|2026-09-14|Peace of mind from prototype to production|15601xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15601xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|319xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)|elixir
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)|elixir
 |4|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|30xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)|gleam
@@ -283,7 +283,7 @@
 |1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3727xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3242xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1105xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
-|4|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1087xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
+|4|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1087xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
 |5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.6.1|2026-09-01|A Kafka connector for Broadway|292xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
 |6|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|29xxxx||erlang
 |7|[franz](https://hex.pm/packages/franz)|3.0.0|2025-08-23|A Gleam library for interacting with Kafka|1xxx|[![37777](https://img.shields.io/github/stars/renatillas/franz)](https://github.com/renatillas/franz)|gleam
@@ -404,7 +404,7 @@
 |1|[observer_cli](https://hex.pm/packages/observer_cli)|2.0.0|2026-07-14|Production-ready BEAM diagnostics for operators, automation, and AI agents.|2725xxxx|[![43867](https://img.shields.io/github/stars/zhongwencool/observer_cli)](https://github.com/zhongwencool/observer_cli)|erlang
 |2|[langchain](https://hex.pm/packages/langchain)|0.14.3|2026-09-24|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|91xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
 |3|[openai](https://hex.pm/packages/openai)|0.6.2|2024-07-18|community-maintained OpenAI API Wrapper written in Elixir.|74xxxx|[![44041](https://img.shields.io/github/stars/mgallo/openai.ex)](https://github.com/mgallo/openai.ex)|elixir
-|4|[llm_db](https://hex.pm/packages/llm_db)|2026.9.5|2026-09-22|LLM model metadata catalog with fast, capability-aware lookups.|60xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
+|4|[llm_db](https://hex.pm/packages/llm_db)|2026.9.7|2026-09-25|LLM model metadata catalog with fast, capability-aware lookups.|60xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
 |5|[nakai](https://hex.pm/packages/nakai)|1.1.2|2025-06-22|HTML generation for Gleam, on the server or anywhere else|1xxxx|[![43167](https://img.shields.io/github/stars/aslilac/nakai)](https://github.com/aslilac/nakai)|gleam
 |6|[assemblyai](https://hex.pm/packages/assemblyai)|1.0.0|2026-02-25|API client for assembly.ai API.|4xxx|[![7663](https://img.shields.io/github/stars/iindyverse/assemblyai)](https://github.com/iindyverse/assemblyai)|gleam
 |7|[overlay_llm](https://hex.pm/packages/overlay_llm)|0.2.0|2026-07-31|An API for LLM completion that unifies across different providers.|1xxx|[![5715297](https://img.shields.io/github/stars/crowdhailer/overlay)](https://github.com/crowdhailer/overlay)|gleam
