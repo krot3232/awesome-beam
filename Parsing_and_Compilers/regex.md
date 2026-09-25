@@ -33,7 +33,7 @@
 |23|[regex_spec](https://hex.pm/packages/regex_spec)|0.21.38|2021-02-07|Generated type specifications for regualar expressions at compile time|2xx|[![63087](https://img.shields.io/github/stars/devstopfix/regex_spec)](https://github.com/devstopfix/regex_spec)
 |24|[excavator](https://hex.pm/packages/excavator)|0.1.0|2026-04-06|Excavate JavaScript variable values from HTML script tags using AST parsing. Supports var/let/const declarations, window.* assignments, JSON.parse() calls, and nested objects/arrays — no regex needed.|1xx|[![35762](https://img.shields.io/github/stars/onnimonni/excavator)](https://github.com/onnimonni/excavator)
 |25|[superjson](https://hex.pm/packages/superjson)|0.1.0|2026-07-26|A SuperJSON decoder and encoder for Elixir, enabling seamless rehydration of complex JS/TS types(Dates, MapSets, Maps, BigInts, Regexps, and referential equalities) from SuperJSON payloads.|8x|[![5965225](https://img.shields.io/github/stars/boxxxie/superjson)](https://github.com/boxxxie/superjson)
-|26|[lumis_wasm_regex](https://hex.pm/packages/lumis_wasm_regex)|0.26.2|2026-09-23|Tree-sitter parser and queries for regex, compiled to WASM for Lumis|2x|[![8582819](https://img.shields.io/github/stars/leandrocp/lumis)](https://github.com/leandrocp/lumis)
+|26|[lumis_wasm_regex](https://hex.pm/packages/lumis_wasm_regex)|0.26.2|2026-09-23|Tree-sitter parser and queries for regex, compiled to WASM for Lumis|4x|[![8582819](https://img.shields.io/github/stars/leandrocp/lumis)](https://github.com/leandrocp/lumis)
 # Gleam Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

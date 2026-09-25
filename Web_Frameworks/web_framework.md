@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.14|2026-09-14|Peace of mind from prototype to production|15593xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.14|2026-09-14|Peace of mind from prototype to production|15601xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|319xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -47,13 +47,13 @@
 |28|[phoenix_microsoftbot](https://hex.pm/packages/phoenix_microsoftbot)|1.0.0|2016-12-22|This library allows for easy creation of the web API that the Microsoft bot framework can connect to.|1xxx|[![44883](https://img.shields.io/github/stars/zabirauf/phoenix_microsoftbot)](https://github.com/zabirauf/phoenix_microsoftbot)
 |29|[sunta](https://hex.pm/packages/sunta)|1.0.0-alpha.1|2016-12-20|Web API Framework|1xxx|
 |30|[scraper](https://hex.pm/packages/scraper)|0.1.1|2018-03-16|Web scraper framework attempt|1xxx|[![63792](https://img.shields.io/github/stars/princemaple/scraper)](https://github.com/princemaple/scraper)
-|31|[tokumei_router](https://hex.pm/packages/tokumei_router)|0.3.0|2017-02-12|Tiny but might Elixir web framework|1xxx|[![65984](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
-|32|[gamend_web](https://hex.pm/packages/gamend_web)|1.0.1263|2026-09-24|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|1xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|31|[gamend_web](https://hex.pm/packages/gamend_web)|1.0.1265|2026-09-25|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|1xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|32|[tokumei_router](https://hex.pm/packages/tokumei_router)|0.3.0|2017-02-12|Tiny but might Elixir web framework|1xxx|[![65984](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |33|[gold_needle](https://hex.pm/packages/gold_needle)|0.0.3|2018-06-12|Various web page generator in Phoenix(Elixir Web Framework)|9xx|[![38651](https://img.shields.io/github/stars/piacere-ex/gold_needle)](https://github.com/piacere-ex/gold_needle)
 |34|[spirit](https://hex.pm/packages/spirit)|0.0.1|2015-07-30|Elixir microframework for web development.|7xx|[![64750](https://img.shields.io/github/stars/emancu/spirit)](https://github.com/emancu/spirit)
 |35|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|6xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
 |36|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
-|37|[ash_hooks](https://hex.pm/packages/ash_hooks)|1.2.0|2026-09-24|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|5xx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
+|37|[ash_hooks](https://hex.pm/packages/ash_hooks)|1.2.1|2026-09-24|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|5xx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
 |38|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|5xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
 |39|[game_server_web](https://hex.pm/packages/game_server_web)|1.0.943|2026-04-24|Web interface for Gamend GameServer, built with Phoenix Framework. Provides APIs, authentication, and real-time features.|4xx|[![37913](https://img.shields.io/github/stars/appsinacup/game_server)](https://github.com/appsinacup/game_server)
 |40|[dialup](https://hex.pm/packages/dialup)|0.2.0|2026-07-03|WebSocket-first Elixir framework with auto-generated HTTP MCP APIs|4xx|[![33775](https://img.shields.io/github/stars/SouichiroTsujimoto/Dialup)](https://github.com/SouichiroTsujimoto/Dialup)
@@ -70,11 +70,11 @@
 |51|[illuminate](https://hex.pm/packages/illuminate)|0.0.1|2025-08-17|An Elixir Framework for Building Web Applications.|1xx|
 |52|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|1xx|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |53|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|1xx|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
-|54|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
-|55|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|55|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
 |56|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|1xx|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |57|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|1xx|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|58|[ankusa](https://hex.pm/packages/ankusa)|0.1.0|2026-09-23|A loosely coupled, high-throughput webhook ingestion framework: durable WAL, pluggable verification/dedup/storage/delivery, multi-tenant catch-URL routing.|2x|[![8570917](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|58|[ankusa](https://hex.pm/packages/ankusa)|0.1.0|2026-09-23|A loosely coupled, high-throughput webhook ingestion framework: durable WAL, pluggable verification/dedup/storage/delivery, multi-tenant catch-URL routing.|3x|[![8570917](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

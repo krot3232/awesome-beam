@@ -10,5 +10,5 @@
 # Elixir Code Analysis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[exprof](https://hex.pm/packages/exprof)|0.2.4|2020-12-17|A simple code profiler for Elixir using eprof.|236xxxx|[![36665](https://img.shields.io/github/stars/parroty/exprof)](https://github.com/parroty/exprof)
+|1|[exprof](https://hex.pm/packages/exprof)|0.2.4|2020-12-17|A simple code profiler for Elixir using eprof.|237xxxx|[![36665](https://img.shields.io/github/stars/parroty/exprof)](https://github.com/parroty/exprof)
 |2|[eflame](https://hex.pm/packages/eflame)|1.0.1|2017-02-06|Flame Graph profiler for Erlang and Elixir.|74xxxx|[![34641](https://img.shields.io/github/stars/proger/eflame)](https://github.com/proger/eflame)

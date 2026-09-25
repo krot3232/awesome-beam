@@ -1,9 +1,9 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1104xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1086xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
-|3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|28xxxx|
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1105xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.6.3|2026-08-28|Apache Kafka Erlang client library|1087xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|29xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.2|2026-09-15|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
 |6|[claws_kafka](https://hex.pm/packages/claws_kafka)|0.4.1|2018-08-08|Kafka Client for Snatch|2xxx|[![32512](https://img.shields.io/github/stars/snatch-xmpp/claws_kafka)](https://github.com/snatch-xmpp/claws_kafka)
@@ -50,7 +50,7 @@
 |36|[kafka_event_serializer](https://hex.pm/packages/kafka_event_serializer)|1.0.0|2018-11-04|Encode and decode events from Kafka|3xx|[![40666](https://img.shields.io/github/stars/quiqupltd/event_serializer)](https://github.com/quiqupltd/event_serializer)
 |37|[raven_integration_kafka](https://hex.pm/packages/raven_integration_kafka)|0.3.3|2026-07-24|Apache Kafka broker monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Kafka.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|2xx|
 |38|[pulsarix](https://hex.pm/packages/pulsarix)|1.0.0|2025-10-30|A lightweight Kafka wrapper built on top of Brod,providing simple producer abstractions for Elixirapplications.|2xx|[![45853](https://img.shields.io/github/stars/GBMayombe/pulsarix)](https://github.com/GBMayombe/pulsarix)
-|39|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.1.0|2026-09-23|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|1x|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|39|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.1.0|2026-09-23|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|2x|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
 # Gleam Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

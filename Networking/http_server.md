@@ -1,7 +1,7 @@
 # Erlang HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.19.0|2026-09-08|Small, fast, modern HTTP server.|14909xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.19.0|2026-09-08|Small, fast, modern HTTP server.|14915xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)
 |2|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|44xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
@@ -15,8 +15,8 @@
 # Elixir HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1483xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
-|2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1308xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
+|1|[bandit](https://hex.pm/packages/bandit)|1.12.5|2026-08-20|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1489xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)
+|2|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1309xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)
 |3|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)
 |4|[plug_signature](https://hex.pm/packages/plug_signature)|0.11.0|2023-03-07|Server side implementation of IETF HTTP signature draft as a reusable Plug|69xxxx|[![45356](https://img.shields.io/github/stars/voltone/plug_signature)](https://github.com/voltone/plug_signature)
 |5|[fake_server](https://hex.pm/packages/fake_server)|2.1.0|2019-11-08|With FakeServer you can create individual HTTP servers for each test case, allowing external requests to be tested without the need for mocks.|40xxxx|[![37247](https://img.shields.io/github/stars/bernardolins/fake_server)](https://github.com/bernardolins/fake_server)
@@ -40,8 +40,8 @@
 |23|[coinbase_pro_http_mock_se rver ](https://hex.pm/packages/coinbase_pro_http_mock_server)|0.1.4|2021-06-09|HTTP Request &amp; Response Server. An incomplete clone of https://api-public.sandbox.pro.coinbase.com for mocking (testing) purposes|1xxx|[![32732](https://img.shields.io/github/stars/kiote/coinbasepro-http-mock-server)](https://github.com/kiote/coinbasepro-http-mock-server)
 |24|[attesto_mcp_server](https://hex.pm/packages/attesto_mcp_server)|2.2.0|2026-09-13|Authenticated Attesto-native MCP server with HTTP and stdio transports|1xxx|[![7332643](https://img.shields.io/github/stars/XukuLLC/attesto_mcp_server)](https://github.com/XukuLLC/attesto_mcp_server)
 |25|[caddy_server](https://hex.pm/packages/caddy_server)|0.3.0|2024-10-22|Start a Caddy HTTP Server|8xx|
-|26|[flux](https://hex.pm/packages/flux)|0.1.1|2018-09-05|A lightweight and functional http server designed from the ground up to work with plug.|7xx|[![37642](https://img.shields.io/github/stars/cjfreeze/flux)](https://github.com/cjfreeze/flux)
-|27|[beam_mcp](https://hex.pm/packages/beam_mcp)|0.10.0|2026-09-23|Model Context Protocol server core for the BEAM: protocol handling, stdio and stateless Streamable HTTP transports, and JSON Schema validation, with the tool catalog and dispatch injected by the host.|7xx|[![7817312](https://img.shields.io/github/stars/ScriptKittyOS/beam_mcp)](https://github.com/ScriptKittyOS/beam_mcp)
+|26|[beam_mcp](https://hex.pm/packages/beam_mcp)|0.10.0|2026-09-23|Model Context Protocol server core for the BEAM: protocol handling, stdio and stateless Streamable HTTP transports, and JSON Schema validation, with the tool catalog and dispatch injected by the host.|8xx|[![7817312](https://img.shields.io/github/stars/ScriptKittyOS/beam_mcp)](https://github.com/ScriptKittyOS/beam_mcp)
+|27|[flux](https://hex.pm/packages/flux)|0.1.1|2018-09-05|A lightweight and functional http server designed from the ground up to work with plug.|7xx|[![37642](https://img.shields.io/github/stars/cjfreeze/flux)](https://github.com/cjfreeze/flux)
 |28|[websocket_mock](https://hex.pm/packages/websocket_mock)|0.3.0|2025-12-15|A lightweight WebSocket mock server for testing|7xx|[![67131](https://img.shields.io/github/stars/pascal736/websocket_mock)](https://github.com/pascal736/websocket_mock)
 |29|[cowgirl](https://hex.pm/packages/cowgirl)|0.0.1|2015-12-12|Small, fast, modular HTTP server written in Elixir.|7xx|[![33113](https://img.shields.io/github/stars/larrylv/cowgirl)](https://github.com/larrylv/cowgirl)
 |30|[exws](https://hex.pm/packages/exws)|0.0.3|2022-11-09|Elixir Websocket Server - Kitchen Sink Not Included|6xx|

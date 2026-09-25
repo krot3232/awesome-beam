@@ -12,8 +12,8 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|822xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
-|2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|144xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.0|2026-08-25|Simple DNS clustering for distributed Elixir nodes|825xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|145xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.2|2026-09-07|A simple, no frills mDNS implementation in Elixir|40xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
 |5|[nerves_discovery](https://hex.pm/packages/nerves_discovery)|0.1.5|2026-09-07|Discover Nerves devices using mDNS|6xxxx|[![43291](https://img.shields.io/github/stars/nerves-networking/nerves_discovery)](https://github.com/nerves-networking/nerves_discovery)
