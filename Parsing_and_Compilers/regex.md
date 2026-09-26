@@ -4,7 +4,7 @@
 |1|[re2](https://hex.pm/packages/re2)|1.9.8|2022-06-25|Erlang NIF bindings for RE2 regex library|52xxxx|[![46263](https://img.shields.io/github/stars/dukesoferl/re2)](https://github.com/dukesoferl/re2)
 |2|[re_tuner](https://hex.pm/packages/re_tuner)|0.1.21|2021-09-06|Erlang Regular Expressions simplifyer. Functions for simplifying working with Regular Expressions.|3xxx|[![63295](https://img.shields.io/github/stars/rustkas/re_tuner)](https://github.com/rustkas/re_tuner)
 |3|[xs_regex](https://hex.pm/packages/xs_regex)|0.1.0|2022-01-05|XML Schema regex translation library|1xxx|[![67446](https://img.shields.io/github/stars/zadean/xs_regex)](https://github.com/zadean/xs_regex)
-|4|[barrel_ngram](https://hex.pm/packages/barrel_ngram)|0.10.0|2026-09-14|Trigram substring and regex index over barrel_docdb documents|1xx|[![6552536](https://img.shields.io/github/stars/barrel-db/barrel)](https://github.com/barrel-db/barrel)
+|4|[barrel_ngram](https://hex.pm/packages/barrel_ngram)|0.11.1|2026-09-26|Trigram substring and regex index over barrel_docdb documents|1xx|[![6552536](https://img.shields.io/github/stars/barrel-db/barrel)](https://github.com/barrel-db/barrel)
 # Elixir Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -24,8 +24,8 @@
 |14|[re](https://hex.pm/packages/re)|1.0.1|2022-05-19|Write readable regular expressions in functional style.|9xx|[![46262](https://img.shields.io/github/stars/orsinium-labs/re)](https://github.com/orsinium-labs/re)
 |15|[regex_to_strings](https://hex.pm/packages/regex_to_strings)|0.5.0|2021-05-10|Get the strings a regex will match|8xx|[![63088](https://img.shields.io/github/stars/mathieuprog/regex_to_strings)](https://github.com/mathieuprog/regex_to_strings)
 |16|[verbalex](https://hex.pm/packages/verbalex)|0.3.0|2019-07-20|A library for creating complex, composable regular expressions with the reader &amp; writer in mind.|6xx|
-|17|[regex_solver](https://hex.pm/packages/regex_solver)|0.1.3|2026-06-14|Regex set operations|5xx|[![4112736](https://img.shields.io/github/stars/IgnacioGoldchluk/regex_solver)](https://github.com/IgnacioGoldchluk/regex_solver)
-|18|[inflect](https://hex.pm/packages/inflect)|0.0.11|2016-05-11|case sensitive regular expression for splitting strings|5xx|[![40081](https://img.shields.io/github/stars/nathanfaucett/ex-inflect)](https://github.com/nathanfaucett/ex-inflect)
+|17|[inflect](https://hex.pm/packages/inflect)|0.0.11|2016-05-11|case sensitive regular expression for splitting strings|5xx|[![40081](https://img.shields.io/github/stars/nathanfaucett/ex-inflect)](https://github.com/nathanfaucett/ex-inflect)
+|18|[regex_solver](https://hex.pm/packages/regex_solver)|0.1.3|2026-06-14|Regex set operations|5xx|[![4112736](https://img.shields.io/github/stars/IgnacioGoldchluk/regex_solver)](https://github.com/IgnacioGoldchluk/regex_solver)
 |19|[doggie](https://hex.pm/packages/doggie)|0.1.0|2017-03-07|Doggie is a tiny library that provides the most commonly used     regular expression patterns for Elixir.|5xx|
 |20|[uap_elixir](https://hex.pm/packages/uap_elixir)|0.1.0|2017-04-09|Elixir package to parse User Agent strings using BrowserScope&#039;s collection of regexes|4xx|[![66369](https://img.shields.io/github/stars/KingNoosh/uap-elixir)](https://github.com/KingNoosh/uap-elixir)
 |21|[grokex](https://hex.pm/packages/grokex)|0.2.0|2020-08-25|A library for parsing grok patterns into regular expressions|4xx|[![39161](https://img.shields.io/github/stars/Dreae/grokex)](https://github.com/Dreae/grokex)

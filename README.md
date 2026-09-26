@@ -14,7 +14,7 @@
 ## HTTP client
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.8.1|2026-09-25|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17278xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
+|1|[hackney](https://hex.pm/packages/hackney)|4.8.2|2026-09-26|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17278xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
 |2|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13278xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
 |3|[tesla](https://hex.pm/packages/tesla)|1.21.3|2026-09-01|HTTP client library, with support for middleware and multiple adapters.|7440xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
 |4|[mint](https://hex.pm/packages/mint)|1.10.1|2026-09-19|Small and composable HTTP client.|6617xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
@@ -188,7 +188,7 @@
 |1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|721xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)|elixir
 |2|[tomerl](https://hex.pm/packages/tomerl)|0.5.0|2021-06-15|Erlang TOML Parser|41xxxx|[![65989](https://img.shields.io/github/stars/filmor/tomerl)](https://github.com/filmor/tomerl)|erlang
 |3|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|25xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)|gleam
-|4|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.1.0|2026-02-15|Modern TOML parser and encoder for Elixir with protocol-based struct support|3xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)|elixir
+|4|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.2.0|2026-09-26|Modern TOML parser and encoder for Elixir with protocol-based struct support|3xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)|elixir
 |5|[llm_core](https://hex.pm/packages/llm_core)|0.6.3|2026-09-23|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|1xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)|elixir
 ## XML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
