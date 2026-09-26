@@ -11,7 +11,7 @@
 |8|[zotonic_mod_mqtt](https://hex.pm/packages/zotonic_mod_mqtt)|1.0.0-rc.17|2026-03-30|MQTT messaging, connecting server and browser.|5xxx|[![67720](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |9|[zotonic_mod_fileuploader](https://hex.pm/packages/zotonic_mod_fileuploader)|1.0.0-rc.17|2026-03-30|Upload files via MQTT|5xxx|[![67708](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |10|[zotonic_listen_mqtt](https://hex.pm/packages/zotonic_listen_mqtt)|1.0.0-rc.17|2026-03-30|Zotonic MQTT Listener|5xxx|[![67670](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
-|11|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|3xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
+|11|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|4xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |12|[mqtt_client](https://hex.pm/packages/mqtt_client)|1.0.5|2020-06-29|The MQTT client is written in Erlang and allows to connect to MQTT server and send/receive messages according to MQTT messaging protocol version 3.1.1|3xx|[![43001](https://img.shields.io/github/stars/alekras/mqtt_client)](https://github.com/alekras/mqtt_client)
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@
 |14|[mqttc](https://hex.pm/packages/mqttc)|0.2.1|2025-09-23|MQTT v5 Client for Elixir.|1xxx|[![43000](https://img.shields.io/github/stars/narslan/mqttc)](https://github.com/narslan/mqttc)
 |15|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|8xx|
 |16|[control_packet](https://hex.pm/packages/control_packet)|1.1.1|2024-07-29|MQTT 5 packet decoder and encoder|8xx|[![33004](https://img.shields.io/github/stars/TimisRobert/control_packet)](https://github.com/TimisRobert/control_packet)
-|17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|5xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
+|17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|6xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
 |18|[conduit_mqtt](https://hex.pm/packages/conduit_mqtt)|0.1.0|2018-10-29|MQTT adapter for Conduit.|4xx|[![32889](https://img.shields.io/github/stars/conduitframework/conduit_mqtt)](https://github.com/conduitframework/conduit_mqtt)
 |19|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|3xx|
 |20|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|3xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)

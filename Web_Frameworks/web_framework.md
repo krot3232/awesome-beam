@@ -3,8 +3,8 @@
 |:-|-|-|-|:-|-|-
 |1|[nova](https://hex.pm/packages/nova)|0.16.1|2026-09-06|Nova is a web application framework|7xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
-|3|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
-|4|[livery](https://hex.pm/packages/livery)|0.10.2|2026-09-20|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|5xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
+|3|[livery](https://hex.pm/packages/livery)|0.10.2|2026-09-20|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|6xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
+|4|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
 |5|[nitrogen_core](https://hex.pm/packages/nitrogen_core)|3.0.0-alpha.15|2026-07-27|Nitrogen Web Framework Core Library|4xxx|[![43588](https://img.shields.io/github/stars/nitrogen/nitrogen_core)](https://github.com/nitrogen/nitrogen_core)
 |6|[lfe_http](https://hex.pm/packages/lfe_http)|1.0.0|2025-10-29|General purpose data, functions, and utilities for use by LFE/Erlang HTTP clients, servers, URL-parsers, web frameworks, etc.|3xxx|[![41254](https://img.shields.io/github/stars/lfe-http/http)](https://github.com/lfe-http/http)
 |7|[nova_resilience](https://hex.pm/packages/nova_resilience)|1.0.3|2026-03-31|Production-grade resilience patterns for Nova web framework|2xxx|[![43728](https://img.shields.io/github/stars/novaframework/nova_resilience)](https://github.com/novaframework/nova_resilience)
@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15601xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15608xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|319xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -70,15 +70,15 @@
 |51|[illuminate](https://hex.pm/packages/illuminate)|0.0.1|2025-08-17|An Elixir Framework for Building Web Applications.|1xx|
 |52|[hibana](https://hex.pm/packages/hibana)|0.1.0|2026-03-24|A lightweight Elixir web framework built on Plug and Cowboy. Direct routing like Sinatra, powerful plugins like Phoenix, full OTP power.|1xx|[![39557](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |53|[ex_netfs](https://hex.pm/packages/ex_netfs)|0.1.0|2026-02-26|Elixir bindings to macOS NetFS.framework. Mount and unmount SMB, NFS, AFP, and WebDAV network shares with Kerberos and DFS support.|1xx|[![36449](https://img.shields.io/github/stars/HeroesLament/ex_netfs)](https://github.com/HeroesLament/ex_netfs)
-|54|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
-|55|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|54|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|55|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
 |56|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|1xx|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |57|[hibana_generator](https://hex.pm/packages/hibana_generator)|0.1.0|2026-03-24|Mix tasks and project generator for the Hibana web framework.|1xx|[![39559](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |58|[ankusa](https://hex.pm/packages/ankusa)|0.1.0|2026-09-23|A loosely coupled, high-throughput webhook ingestion framework: durable WAL, pluggable verification/dedup/storage/delivery, multi-tenant catch-URL routing.|3x|[![8570917](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|30xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
+|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|31xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
 |2|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|3xxxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)
 |3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|6xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
 |4|[glimr](https://hex.pm/packages/glimr)|1.4.0|2026-05-12|A batteries-included web framework for Gleam|4xxx|[![38513](https://img.shields.io/github/stars/glimr-org/framework)](https://github.com/glimr-org/framework)

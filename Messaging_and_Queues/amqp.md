@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2177xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2178xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|208xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -10,13 +10,13 @@
 |7|[conduit_amqp_client](https://hex.pm/packages/conduit_amqp_client)|3.6.2|2016-12-12|RabbitMQ AMQP Client|2xxx|
 |8|[lake](https://hex.pm/packages/lake)|0.2.6|2025-12-02|Erlang RabbitMQ Streams Client|2xxx|
 |9|[kanin](https://hex.pm/packages/kanin)|0.6.0|2017-02-05|An LFE Wrapper for the Erlang RabbitMQ (AMQP) Client|1xxx|[![40696](https://img.shields.io/github/stars/lfex/kanin)](https://github.com/lfex/kanin)
-|10|[conduit_rabbit_common](https://hex.pm/packages/conduit_rabbit_common)|2.7.1|2016-12-12|RabbitMQ Common Libraries|5xx|
+|10|[conduit_rabbit_common](https://hex.pm/packages/conduit_rabbit_common)|2.7.1|2016-12-12|RabbitMQ Common Libraries|6xx|
 |11|[claws_rabbitmq](https://hex.pm/packages/claws_rabbitmq)|0.1.0|2017-12-10|AMQP Client for Snatch|5xx|[![32513](https://img.shields.io/github/stars/snatch-xmpp/claws_rabbitmq)](https://github.com/snatch-xmpp/claws_rabbitmq)
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp](https://hex.pm/packages/amqp)|4.2.1|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1731xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
-|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|352xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
+|1|[amqp](https://hex.pm/packages/amqp)|4.2.1|2026-08-30|Idiomatic Elixir client for RabbitMQ.|1732xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
+|2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|353xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
 |3|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|104xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)
 |4|[gen_rmq](https://hex.pm/packages/gen_rmq)|4.0.0|2022-03-16|Set of behaviours meant to be used to create RabbitMQ consumers and publishers.|55xxxx|[![38104](https://img.shields.io/github/stars/meltwater/gen_rmq)](https://github.com/meltwater/gen_rmq)
 |5|[rabbit](https://hex.pm/packages/rabbit)|0.21.0|2024-12-13|A set of tools for building robust applications with RabbitMQ.|31xxxx|[![46052](https://img.shields.io/github/stars/nsweeting/rabbit)](https://github.com/nsweeting/rabbit)
