@@ -397,7 +397,7 @@
 |7|[xs_regex](https://hex.pm/packages/xs_regex)|0.1.0|2022-01-05|XML Schema regex translation library|1xxx|[![67446](https://img.shields.io/github/stars/zadean/xs_regex)](https://github.com/zadean/xs_regex)|erlang
 |8|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|1xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)|gleam
 |9|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|4xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)|gleam
-# [AI and NLP](./AI_and_NLP)
+# [AI](./AI)
 ## AI
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
