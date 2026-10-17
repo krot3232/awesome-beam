@@ -95,4 +95,5 @@
 |15|[bliss](https://hex.pm/packages/bliss)|0.1.1|2022-05-11|A micro web framework for Gleam|6xx|[![31597](https://img.shields.io/github/stars/sporto/bliss)](https://github.com/sporto/bliss)
 |16|[meadow](https://hex.pm/packages/meadow)|1.0.1|2024-05-12|A server side for glare, the web framework based on SolidJS, adding server signals and more.|4xx|[![42248](https://img.shields.io/github/stars/JoelVerm/meadow)](https://github.com/JoelVerm/meadow)
 |17|[glimr_auth](https://hex.pm/packages/glimr_auth)|1.0.1|2026-04-21|Auth layer for the Glimr web framework|3xx|[![38515](https://img.shields.io/github/stars/glimr-org/auth)](https://github.com/glimr-org/auth)
-|18|[refrakt](https://hex.pm/packages/refrakt)|0.2.0|2026-03-09|A convention-first web framework for Gleam|2xx|[![63082](https://img.shields.io/github/stars/raskell-io/refrakt)](https://github.com/raskell-io/refrakt)
+|18|[refrakt](https://hex.pm/packages/refrakt)|0.5.0|2026-10-17|Runtime helpers for Refrakt, a convention-first web framework for Gleam|2xx|[![63082](https://img.shields.io/github/stars/raskell-io/refrakt)](https://github.com/raskell-io/refrakt)
+|19|[refrakt_cli](https://hex.pm/packages/refrakt_cli)|0.5.0|2026-10-17|Code generator for Refrakt, a convention-first web framework for Gleam|0|[![9289828](https://img.shields.io/github/stars/raskell-io/refrakt)](https://github.com/raskell-io/refrakt)

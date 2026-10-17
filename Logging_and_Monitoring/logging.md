@@ -241,8 +241,8 @@
 |200|[logzio](https://hex.pm/packages/logzio)|0.1.0|2022-08-03|Elixir logging backend that sends your logs to Logz.io using the https bulk API|2xx|[![41725](https://img.shields.io/github/stars/sreecodeslayer/logzio-elixir-backend)](https://github.com/sreecodeslayer/logzio-elixir-backend)
 |201|[clickhouse_ex_logger](https://hex.pm/packages/clickhouse_ex_logger)|0.4.0|2026-10-14|Ship Elixir Logger events into ClickHouse through Ash and AshClickhouse.|2xx|[![8910716](https://img.shields.io/github/stars/ohhi-vn/clickhouse_logger)](https://github.com/ohhi-vn/clickhouse_logger)
 |202|[logstash_logger_backend](https://hex.pm/packages/logstash_logger_backend)|0.1.0|2021-01-25|Collect and send log to Logstash over HTTP.|2xx|[![41719](https://img.shields.io/github/stars/ThanhDev2703/logstash_logger_backend)](https://github.com/ThanhDev2703/logstash_logger_backend)
-|203|[audit_trail](https://hex.pm/packages/audit_trail)|0.1.2|2026-07-31|Reusable structured audit logging, DB change tracking, and crash reporting for Elixir/Phoenix apps|2xx|
-|204|[kmsg](https://hex.pm/packages/kmsg)|0.1.0|2020-09-30|Elixir logger backend for the printk buffer|2xx|
+|203|[kmsg](https://hex.pm/packages/kmsg)|0.1.0|2020-09-30|Elixir logger backend for the printk buffer|2xx|
+|204|[audit_trail](https://hex.pm/packages/audit_trail)|0.1.2|2026-07-31|Reusable structured audit logging, DB change tracking, and crash reporting for Elixir/Phoenix apps|2xx|
 |205|[into_log](https://hex.pm/packages/into_log)|1.0.0|2022-07-24|Collectable for Logger|2xx|[![40182](https://img.shields.io/github/stars/grantwest/intolog)](https://github.com/grantwest/intolog)
 |206|[logs](https://hex.pm/packages/logs)|0.0.1|2022-12-04|Basic logging to simplify our lives.|2xx|[![41713](https://img.shields.io/github/stars/dwyl/fields)](https://github.com/dwyl/fields)
 |207|[conion](https://hex.pm/packages/conion)|0.1.0|2025-01-17|An Elixir application package providing general purpose modules as Configuration, Key/Value store, a common GenServer, CentralLogger, and more to come...|2xx|[![32936](https://img.shields.io/github/stars/iboard/conion)](https://github.com/iboard/conion)
