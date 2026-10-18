@@ -49,8 +49,8 @@
 |35|[kolt](https://hex.pm/packages/kolt)|0.1.0|2019-06-13|Kolt: A Kafka Offset Lag Tracker|3xx|[![40948](https://img.shields.io/github/stars/moskyb/kolt)](https://github.com/moskyb/kolt)
 |36|[kafka_event_serializer](https://hex.pm/packages/kafka_event_serializer)|1.0.0|2018-11-04|Encode and decode events from Kafka|3xx|[![40666](https://img.shields.io/github/stars/quiqupltd/event_serializer)](https://github.com/quiqupltd/event_serializer)
 |37|[raven_integration_kafka](https://hex.pm/packages/raven_integration_kafka)|0.3.3|2026-07-24|Apache Kafka broker monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Kafka.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|3xx|
-|38|[pulsarix](https://hex.pm/packages/pulsarix)|1.0.0|2025-10-30|A lightweight Kafka wrapper built on top of Brod,providing simple producer abstractions for Elixirapplications.|2xx|[![45853](https://img.shields.io/github/stars/GBMayombe/pulsarix)](https://github.com/GBMayombe/pulsarix)
-|39|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.6.0|2026-10-16|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|2xx|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|38|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.6.0|2026-10-16|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|2xx|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|39|[pulsarix](https://hex.pm/packages/pulsarix)|1.0.0|2025-10-30|A lightweight Kafka wrapper built on top of Brod,providing simple producer abstractions for Elixirapplications.|2xx|[![45853](https://img.shields.io/github/stars/GBMayombe/pulsarix)](https://github.com/GBMayombe/pulsarix)
 # Gleam Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|998xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
-|2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|56xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
+|2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
 |5|[xprof_gui](https://hex.pm/packages/xprof_gui)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler GUI|1xxxx|[![67432](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -15,8 +15,8 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|232xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
-|2|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|81xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)
-|3|[mix_unused](https://hex.pm/packages/mix_unused)|0.4.1|2023-06-29|Mix compiler tracer for detecting unused public functions|50xxxx|[![42748](https://img.shields.io/github/stars/hauleth/mix_unused)](https://github.com/hauleth/mix_unused)
+|2|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|82xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)
+|3|[mix_unused](https://hex.pm/packages/mix_unused)|0.4.1|2023-06-29|Mix compiler tracer for detecting unused public functions|51xxxx|[![42748](https://img.shields.io/github/stars/hauleth/mix_unused)](https://github.com/hauleth/mix_unused)
 |4|[chrome_remote_interface](https://hex.pm/packages/chrome_remote_interface)|0.4.1|2019-08-05|Chrome Debugging Protocol client for Elixir|27xxxx|[![32412](https://img.shields.io/github/stars/andrewvy/chrome-remote-interface)](https://github.com/andrewvy/chrome-remote-interface)
 |5|[sibyl](https://hex.pm/packages/sibyl)|0.1.11|2025-03-18|Sibyl is a library which augments the BEAM&#039;s default tracing capabilities by hookinginto :telemetry, :dbg (the BEAM&#039;s built in tracing and debugging functionality),and OpenTelemetry.|8xxxx|[![64140](https://img.shields.io/github/stars/vetspire/sibyl)](https://github.com/vetspire/sibyl)
 |6|[nerves_runtime_shell](https://hex.pm/packages/nerves_runtime_shell)|0.1.0|2017-11-07|A custom shell for debugging and running commands on Nerves devices in a bash-like environment.|2xxxx|[![43330](https://img.shields.io/github/stars/nerves-project/nerves_runtime_shell)](https://github.com/nerves-project/nerves_runtime_shell)

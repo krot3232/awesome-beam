@@ -1,10 +1,10 @@
 # Rabar3 plugin
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.3.0|2026-09-22|Hex.pm plugin for rebar3|5328xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
-|2|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|838xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
+|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.3.0|2026-09-22|Hex.pm plugin for rebar3|5329xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
+|2|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|839xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
 |3|[rebar3_lint](https://hex.pm/packages/rebar3_lint)|6.0.0|2026-08-21|Erlang linter - rebar3 plugin|766xxxx|[![46386](https://img.shields.io/github/stars/project-fifo/rebar3_lint)](https://github.com/project-fifo/rebar3_lint)
-|4|[erlfmt](https://hex.pm/packages/erlfmt)|1.8.0|2026-02-23|erlfmt is an opinionated Erlang code formatter|647xxxx|[![35254](https://img.shields.io/github/stars/WhatsApp/erlfmt)](https://github.com/WhatsApp/erlfmt)
+|4|[erlfmt](https://hex.pm/packages/erlfmt)|1.8.0|2026-02-23|erlfmt is an opinionated Erlang code formatter|648xxxx|[![35254](https://img.shields.io/github/stars/WhatsApp/erlfmt)](https://github.com/WhatsApp/erlfmt)
 |5|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|405xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
 |6|[grpcbox_plugin](https://hex.pm/packages/grpcbox_plugin)|0.10.0|2026-06-29|Rebar3 plugin to generate behaviours for grpc services|276xxxx|[![39183](https://img.shields.io/github/stars/tsloughter/grpcbox_plugin)](https://github.com/tsloughter/grpcbox_plugin)
 |7|[rebar3_hank](https://hex.pm/packages/rebar3_hank)|2.0.0|2026-08-19|A rebar plugin for dead code cleaning|99xxxx|[![46375](https://img.shields.io/github/stars/AdRoll/rebar3_hank)](https://github.com/AdRoll/rebar3_hank)
@@ -94,7 +94,7 @@
 |91|[rebar3_cobertura](https://hex.pm/packages/rebar3_cobertura)|0.3.1|2020-08-04|A rebar plugin for generating a cobertura coverage report|9xx|[![46330](https://img.shields.io/github/stars/evilbluebeaver/rebar3_cobertura)](https://github.com/evilbluebeaver/rebar3_cobertura)
 |92|[rebar3_local_deps](https://hex.pm/packages/rebar3_local_deps)|0.1.2|2020-10-21|A rebar3 plugin to download deps from local git|4xx|[![46388](https://img.shields.io/github/stars/yidayoung/rebar3_local_deps)](https://github.com/yidayoung/rebar3_local_deps)
 |93|[rebar3_bitbake](https://hex.pm/packages/rebar3_bitbake)|0.1.0|2020-11-11|Generate BitBake recipes utilizing the classes from meta-erlang|3xx|[![46323](https://img.shields.io/github/stars/meta-erlang/rebar3_bitbake)](https://github.com/meta-erlang/rebar3_bitbake)
-|94|[rebar3_archive_plugin](https://hex.pm/packages/rebar3_archive_plugin)|0.0.2|2019-02-20|Create Erlang Code archives with rebar3.|1936xxxx|[![46315](https://img.shields.io/github/stars/deadtrickster/rebar3_archive_plugin)](https://github.com/deadtrickster/rebar3_archive_plugin)
+|94|[rebar3_archive_plugin](https://hex.pm/packages/rebar3_archive_plugin)|0.0.2|2019-02-20|Create Erlang Code archives with rebar3.|1937xxxx|[![46315](https://img.shields.io/github/stars/deadtrickster/rebar3_archive_plugin)](https://github.com/deadtrickster/rebar3_archive_plugin)
 |95|[rebar3_elixir](https://hex.pm/packages/rebar3_elixir)|0.2.4|2019-02-12|A rebar plugin to generate mix.exs and Elixir bindings|201xxxx|[![46352](https://img.shields.io/github/stars/G-Corp/rebar3_elixir)](https://github.com/G-Corp/rebar3_elixir)
 |96|[rebar3_path_deps](https://hex.pm/packages/rebar3_path_deps)|0.4.0|2019-05-29|A rebar plugin to specify path dependencies. |157xxxx|[![46394](https://img.shields.io/github/stars/benoitc/rebar3_path_deps)](https://github.com/benoitc/rebar3_path_deps)
 |97|[rebar_erl_vsn](https://hex.pm/packages/rebar_erl_vsn)|0.2.2|2019-12-13|defines for erlang versions|93xxxx|

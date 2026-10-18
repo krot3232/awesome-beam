@@ -1,7 +1,7 @@
 # Erlang DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.1.0|2026-10-09|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|2xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
+|1|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.1.0|2026-10-09|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|3xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)
 |2|[acme_client](https://hex.pm/packages/acme_client)|2.0.5|2026-05-11|ACME client, supports HTTP-01 and DNS-01 challenges|1xxxx|[![1326](https://img.shields.io/github/stars/emqx/acme-erlang-client)](https://github.com/emqx/acme-erlang-client)
 |3|[erldns](https://hex.pm/packages/erldns)|12.0.1|2026-10-16|Erlang Authoritative DNS Server|1xxxx|[![35235](https://img.shields.io/github/stars/dnsimple/erldns)](https://github.com/dnsimple/erldns)
 |4|[mdns_client](https://hex.pm/packages/mdns_client)|0.1.10|2017-10-25|mDNS service discovery client|6xxx|[![42242](https://img.shields.io/github/stars/Licenser/erlang-mdns-client)](https://github.com/Licenser/erlang-mdns-client)
@@ -12,7 +12,7 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|888xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|890xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|146xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.3|2026-10-16|A simple, no frills mDNS implementation in Elixir|41xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
@@ -45,7 +45,7 @@
 |31|[dnsrobot](https://hex.pm/packages/dnsrobot)|0.1.0|2026-03-13|Official Elixir client for DNS Robot (dnsrobot.net) — DNS lookups, WHOIS, SSL checks, SPF/DKIM/DMARC validation, and more.|1xx|[![33955](https://img.shields.io/github/stars/dnsrobot/dnsrobot-elixir)](https://github.com/dnsrobot/dnsrobot-elixir)
 |32|[bonjex](https://hex.pm/packages/bonjex)|0.1.1|2026-10-09|DNS-SD (Bonjour) for Elixir through the system mDNS responder|1xx|[![8955022](https://img.shields.io/github/stars/one-raven/bonjex)](https://github.com/one-raven/bonjex)
 |33|[dnsmasqex](https://hex.pm/packages/dnsmasqex)|0.1.2|2026-09-29|dnsmasq DHCP and DNS servers for VintageNet|1xx|[![8776942](https://img.shields.io/github/stars/haruno-haru/dnsmasqex)](https://github.com/haruno-haru/dnsmasqex)
-|34|[adns](https://hex.pm/packages/adns)|0.1.0|2026-09-19|Elixir DNS codec, concurrent UDP client/server, and pluggable resolvers (RFC 1035).|7x|[![8391985](https://img.shields.io/github/stars/pau-bur/adns)](https://github.com/pau-bur/adns)
+|34|[adns](https://hex.pm/packages/adns)|0.1.0|2026-09-19|Elixir DNS codec, concurrent UDP client/server, and pluggable resolvers (RFC 1035).|8x|[![8391985](https://img.shields.io/github/stars/pau-bur/adns)](https://github.com/pau-bur/adns)
 # Gleam DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

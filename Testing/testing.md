@@ -1,7 +1,7 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6937xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6938xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
 |2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|684xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|87xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|78xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
@@ -17,8 +17,8 @@
 |14|[emqx_ct_helpers](https://hex.pm/packages/emqx_ct_helpers)|1.1.4|2019-06-22|EMQ X Common Test Helpers|3xxx|[![35026](https://img.shields.io/github/stars/emqx/emqx-ct-helpers)](https://github.com/emqx/emqx-ct-helpers)
 |15|[hoax](https://hex.pm/packages/hoax)|0.11.2|2016-05-11|Yet another mocking library for Erlang|1xxx|[![39619](https://img.shields.io/github/stars/xenolinguist/hoax)](https://github.com/xenolinguist/hoax)
 |16|[doppler](https://hex.pm/packages/doppler)|0.1.0|2017-02-14|Yet another mocking library|1xxx|[![34038](https://img.shields.io/github/stars/funbox/doppler)](https://github.com/funbox/doppler)
-|17|[rebar3_efene_ct](https://hex.pm/packages/rebar3_efene_ct)|0.1.2|2018-05-20|efene rebar3 common test plugin|1xxx|[![46348](https://img.shields.io/github/stars/efene/rebar3_efene_compile)](https://github.com/efene/rebar3_efene_compile)
-|18|[macula_testkit](https://hex.pm/packages/macula_testkit)|0.3.0|2026-10-17|In-memory test support for macula consumers: a drop-in loopback pool (mem_macula) for hermetic pub/sub tests, and a Common Test hook that fails unallowed skips|1xxx|[![8582938](https://img.shields.io/github/stars/macula-io/macula-testkit)](https://github.com/macula-io/macula-testkit)
+|17|[macula_testkit](https://hex.pm/packages/macula_testkit)|0.3.0|2026-10-17|In-memory test support for macula consumers: a drop-in loopback pool (mem_macula) for hermetic pub/sub tests, and a Common Test hook that fails unallowed skips|1xxx|[![8582938](https://img.shields.io/github/stars/macula-io/macula-testkit)](https://github.com/macula-io/macula-testkit)
+|18|[rebar3_efene_ct](https://hex.pm/packages/rebar3_efene_ct)|0.1.2|2018-05-20|efene rebar3 common test plugin|1xxx|[![46348](https://img.shields.io/github/stars/efene/rebar3_efene_compile)](https://github.com/efene/rebar3_efene_compile)
 |19|[eunit_sugar](https://hex.pm/packages/eunit_sugar)|0.1.0|2016-04-22|Helpers and sugars for eunit tests|7xx|[![35469](https://img.shields.io/github/stars/xenolinguist/eunit_sugar)](https://github.com/xenolinguist/eunit_sugar)
 |20|[rcl_test](https://hex.pm/packages/rcl_test)|0.2.0|2020-09-26|Common Test utilities for Riak Core Lite applications|4xx|[![46255](https://img.shields.io/github/stars/riak-core-lite/rcl_test)](https://github.com/riak-core-lite/rcl_test)
 # Elixir Testing
