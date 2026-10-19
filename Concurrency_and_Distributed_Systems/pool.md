@@ -33,7 +33,7 @@
 |30|[gruff](https://hex.pm/packages/gruff)|0.1.0|2017-08-18|A basic worker pool manager for Erlang to showcase gen_pnet.|5xx|[![39202](https://img.shields.io/github/stars/joergen7/gruff)](https://github.com/joergen7/gruff)
 |31|[workforce](https://hex.pm/packages/workforce)|0.1.0|2019-08-08|Workforce - A pool manager to get you on the management track|3xx|[![67278](https://img.shields.io/github/stars/mnussbaumer/workforce)](https://github.com/mnussbaumer/workforce)
 |32|[epg_connector](https://hex.pm/packages/epg_connector)|1.0.2|2026-09-15|Postgres connection pooling and logical replication support|2xx|[![35126](https://img.shields.io/github/stars/ttt161/epg_connector)](https://github.com/ttt161/epg_connector)
-|33|[edb_ng](https://hex.pm/packages/edb_ng)|0.1.0|2026-10-08|Erlang Database Pool|7x|
+|33|[edb_ng](https://hex.pm/packages/edb_ng)|0.1.1|2026-10-19|Erlang Database Pool|7x|
 |34|[espool](https://hex.pm/packages/espool)|0.1.0|2026-10-08|An Tiny Spool Library|7x|
 # Elixir pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,7 +80,7 @@
 |40|[rediscl](https://hex.pm/packages/rediscl)|1.0.0|2022-06-14|A minimal redis client with connection pooling|6xxx|[![63014](https://img.shields.io/github/stars/akdilsiz/elixir-rediscl)](https://github.com/akdilsiz/elixir-rediscl)
 |41|[redis_pool](https://hex.pm/packages/redis_pool)|0.2.6|2018-05-08|Redis pool for Elixir. Build on top of eredis and poolboy.|4xxx|[![63026](https://img.shields.io/github/stars/le0pard/redis_pool)](https://github.com/le0pard/redis_pool)
 |42|[data_pool](https://hex.pm/packages/data_pool)|1.0.2|2016-06-24|Utility to buffer items into a queue that follow a simple blockpattern on calls to push and pop when the queue at a max size orempty.|3xxx|[![33500](https://img.shields.io/github/stars/benfalk/data_pool)](https://github.com/benfalk/data_pool)
-|43|[http_runtime](https://hex.pm/packages/http_runtime)|0.21.13|2026-10-16|Shared pooled HTTP/2 runtime for HTTP stream clients|2xxx|[![8895653](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
+|43|[http_runtime](https://hex.pm/packages/http_runtime)|0.21.14|2026-10-19|Shared pooled HTTP/2 runtime for HTTP stream clients|2xxx|[![8895653](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
 |44|[jobspool](https://hex.pm/packages/jobspool)|0.1.1|2016-07-05|Simple Elixir jobs pool|2xxx|[![40463](https://img.shields.io/github/stars/flupke/exjobspool)](https://github.com/flupke/exjobspool)
 |45|[grpc_client_pool](https://hex.pm/packages/grpc_client_pool)|0.0.2-beta|2020-06-09|Elixir GRPC client pooling library|2xxx|[![39186](https://img.shields.io/github/stars/alex88/grpc_client_pool)](https://github.com/alex88/grpc_client_pool)
 |46|[odd_job](https://hex.pm/packages/odd_job)|0.5.1|2022-04-03|Simple job pools for Elixir OTP applications.|2xxx|[![43899](https://img.shields.io/github/stars/msimonborg/odd_job)](https://github.com/msimonborg/odd_job)

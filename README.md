@@ -136,7 +136,7 @@
 |3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1577xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|352xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
 |5|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|149xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)|erlang
-|6|[mc_eredis](https://hex.pm/packages/mc_eredis)|2.6.2|2022-04-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)|erlang
+|6|[mc_eredis](https://hex.pm/packages/mc_eredis)|3.0.1|2026-10-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)|erlang
 |7|[radish](https://hex.pm/packages/radish)|0.16.0|2025-01-25|A Gleam client for Valkey, KeyDB, Redis and other tools with compatible APIs|6xxx|[![46075](https://img.shields.io/github/stars/massivefermion/radish)](https://github.com/massivefermion/radish)|gleam
 |8|[valkyrie](https://hex.pm/packages/valkyrie)|4.2.0|2026-05-16|A Gleam client for Valkey, KeyDB, Redis, Dragonfly and other Redis-compatible databases.|4xxx|[![66744](https://img.shields.io/github/stars/Pevensie/valkyrie)](https://github.com/Pevensie/valkyrie)|gleam
 |9|[glimr_redis](https://hex.pm/packages/glimr_redis)|1.0.4|2026-04-29|Redis cache driver for the Glimr web framework|7xx|[![38517](https://img.shields.io/github/stars/glimr-org/redis)](https://github.com/glimr-org/redis)|gleam
@@ -359,7 +359,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[dialyxir](https://hex.pm/packages/dialyxir)|1.4.8|2026-09-05|Mix tasks to simplify use of Dialyzer in Elixir projects.|9232xxxx|[![33777](https://img.shields.io/github/stars/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir)|*
-|2|[esbuild](https://hex.pm/packages/esbuild)|0.10.0|2025-05-27|Mix tasks for installing and invoking esbuild|2064xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)|*
+|2|[esbuild](https://hex.pm/packages/esbuild)|0.10.1|2026-10-19|Mix tasks for installing and invoking esbuild|2064xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)|*
 |3|[mix_test_watch](https://hex.pm/packages/mix_test_watch)|1.4.0|2025-10-21|Automatically run tests when files change|1593xxxx|[![42744](https://img.shields.io/github/stars/lpil/mix-test.watch)](https://github.com/lpil/mix-test.watch)|*
 ## Gleam plugin
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
@@ -420,7 +420,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[petal_components](https://hex.pm/packages/petal_components)|4.17.1|2026-10-09|Shadcn-style Phoenix LiveView components that AI assistants can actually use. Pair with the MCP server so AI coding tools can inspect the real component API.|148xxxx|[![44681](https://img.shields.io/github/stars/petalframework/petal_components)](https://github.com/petalframework/petal_components)|elixir
-|2|[anubis_mcp](https://hex.pm/packages/anubis_mcp)|2.1.0|2026-10-06|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|48xxxx|[![7338](https://img.shields.io/github/stars/zoedsoupe/anubis-mcp)](https://github.com/zoedsoupe/anubis-mcp)|elixir
+|2|[anubis_mcp](https://hex.pm/packages/anubis_mcp)|2.2.0|2026-10-19|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|48xxxx|[![7338](https://img.shields.io/github/stars/zoedsoupe/anubis-mcp)](https://github.com/zoedsoupe/anubis-mcp)|elixir
 |3|[hermes_mcp](https://hex.pm/packages/hermes_mcp)|0.14.1|2025-08-14|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|22xxxx|[![39515](https://img.shields.io/github/stars/cloudwalk/hermes-mcp)](https://github.com/cloudwalk/hermes-mcp)|elixir
 |4|[aide](https://hex.pm/packages/aide)|0.7.1|2026-02-23|Build Model Context Protocol (MCP) Servers (clients coming soon).|20xxxx|[![1468](https://img.shields.io/github/stars/crowdhailer/aide)](https://github.com/crowdhailer/aide)|gleam
 |5|[aide_generator](https://hex.pm/packages/aide_generator)|0.4.1|2026-02-23|Generate encoders and decoders for MCP tools |11xxxx|[![1469](https://img.shields.io/github/stars/crowdhailer/aide_generator)](https://github.com/crowdhailer/aide_generator)|gleam
