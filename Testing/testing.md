@@ -1,7 +1,7 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6938xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6939xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
 |2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|684xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|87xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|78xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
@@ -62,7 +62,7 @@
 |36|[exmock](https://hex.pm/packages/exmock)|0.4.1|2026-06-05|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2xxx|[![3787764](https://img.shields.io/github/stars/eisnstein/exmock)](https://github.com/eisnstein/exmock)
 |37|[stitch](https://hex.pm/packages/stitch)|1.1.2|2025-07-13|Easy mocking for easy testing|2xxx|
 |38|[http_ex](https://hex.pm/packages/http_ex)|0.2.8|2026-06-22|Abstract HTTP library with unique mocking capabilities|2xxx|[![39765](https://img.shields.io/github/stars/wuunder/http_ex)](https://github.com/wuunder/http_ex)
-|39|[mutare](https://hex.pm/packages/mutare)|0.5.1|2026-10-04|A compile-once mutation testing tool for Elixir.|1xxx|[![7829411](https://img.shields.io/github/stars/foxbenjaminfox/mutare)](https://github.com/foxbenjaminfox/mutare)
+|39|[mutare](https://hex.pm/packages/mutare)|0.5.1|2026-10-04|A compile-once mutation testing tool for Elixir.|2xxx|[![7829411](https://img.shields.io/github/stars/foxbenjaminfox/mutare)](https://github.com/foxbenjaminfox/mutare)
 |40|[emeck](https://hex.pm/packages/emeck)|1.1.0|2019-12-05|A Mocking library for Elixir language. It&#039;s implemented based on meck.|1xxx|[![34992](https://img.shields.io/github/stars/bencode/emeck)](https://github.com/bencode/emeck)
 |41|[replay](https://hex.pm/packages/replay)|0.1.0|2023-01-18|Testing library for mocking Circuits libraries through a sequence of steps.|1xxx|[![63171](https://img.shields.io/github/stars/pkinney/circuits_replay)](https://github.com/pkinney/circuits_replay)
 |42|[coinbase_pro_http_mock_se rver ](https://hex.pm/packages/coinbase_pro_http_mock_server)|0.1.4|2021-06-09|HTTP Request &amp; Response Server. An incomplete clone of https://api-public.sandbox.pro.coinbase.com for mocking (testing) purposes|1xxx|[![32732](https://img.shields.io/github/stars/kiote/coinbasepro-http-mock-server)](https://github.com/kiote/coinbasepro-http-mock-server)

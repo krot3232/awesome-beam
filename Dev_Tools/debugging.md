@@ -63,7 +63,7 @@
 |47|[phoenix_debug_bar](https://hex.pm/packages/phoenix_debug_bar)|0.1.0|2022-01-19|A debugging toolbar for Phoenix|2xx|
 |48|[opis](https://hex.pm/packages/opis)|0.2.0|2025-10-10|A tool for debugging through recording the parameters and return values in the call tree of a function.|1xx|
 |49|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|1xx|
-|50|[fathom](https://hex.pm/packages/fathom)|0.1.0|2026-10-01|A program database for Elixir codebases. Compiles your project with a tracer and dumps symbols, call graphs and framework facts into SQLite for agents to query.|5x|[![8915650](https://img.shields.io/github/stars/thomaspmurphy/fathom)](https://github.com/thomaspmurphy/fathom)
+|50|[fathom](https://hex.pm/packages/fathom)|0.1.0|2026-10-01|A program database for Elixir codebases. Compiles your project with a tracer and dumps symbols, call graphs and framework facts into SQLite for agents to query.|6x|[![8915650](https://img.shields.io/github/stars/thomaspmurphy/fathom)](https://github.com/thomaspmurphy/fathom)
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

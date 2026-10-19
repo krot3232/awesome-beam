@@ -2,14 +2,14 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[erlsom](https://hex.pm/packages/erlsom)|1.5.2|2025-01-27|XML parser. Supports SAX style parsing as well as XML Schema based data mapping: create records from XML (and vice versa)|7819xxxx|[![35288](https://img.shields.io/github/stars/willemdj/erlsom)](https://github.com/willemdj/erlsom)
-|2|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1137xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)
+|2|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1138xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)
 |3|[fast_xml](https://hex.pm/packages/fast_xml)|1.1.61|2026-09-28|Fast Expat-based Erlang / Elixir XML parsing library|60xxxx|[![37300](https://img.shields.io/github/stars/processone/fast_xml)](https://github.com/processone/fast_xml)
 |4|[feeder](https://hex.pm/packages/feeder)|2.3.2|2019-06-14|Stream parse RSS and Atom formatted XML feeds.|10xxxx|[![37341](https://img.shields.io/github/stars/michaelnisi/feeder)](https://github.com/michaelnisi/feeder)
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7503xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
-|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7267xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7504xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7269xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
 |3|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7235xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
 |4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2917xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
 |5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|960xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
