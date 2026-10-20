@@ -8,7 +8,7 @@
 # Elixir Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[email_checker](https://hex.pm/packages/email_checker)|0.2.4|2022-01-18|Simple library checking the validity of an email. Checks are performed in the following order:- REGEX: validate the emails has a good looking format- MX: validate the domain sever contains MX records- SMTP: validate the SMTP behind the MX records knows this email address (no email sent)|176xxxx|[![34974](https://img.shields.io/github/stars/jshmrtn/email_checker)](https://github.com/jshmrtn/email_checker)
+|1|[email_checker](https://hex.pm/packages/email_checker)|0.2.4|2022-01-18|Simple library checking the validity of an email. Checks are performed in the following order:- REGEX: validate the emails has a good looking format- MX: validate the domain sever contains MX records- SMTP: validate the SMTP behind the MX records knows this email address (no email sent)|177xxxx|[![34974](https://img.shields.io/github/stars/jshmrtn/email_checker)](https://github.com/jshmrtn/email_checker)
 |2|[randex](https://hex.pm/packages/randex)|0.4.0|2019-05-03|A library to generate random strings that match the given Regex|79xxxx|[![46124](https://img.shields.io/github/stars/ananthakumaran/randex)](https://github.com/ananthakumaran/randex)
 |3|[unicode_set](https://hex.pm/packages/unicode_set)|1.9.0|2026-09-20|Implementation of Unicode Sets and Regexes for Elixir that can be used infunction guards, compiled patterns, nimble_parsec combinatorsand regexes.|63xxxx|[![66564](https://img.shields.io/github/stars/elixir-unicode/unicode_set)](https://github.com/elixir-unicode/unicode_set)
 |4|[about](https://hex.pm/packages/about)|0.0.11|2022-03-01|Adds about documentation to iex.For example:iex&gt; h About.regex|45xxxx|[![47](https://img.shields.io/github/stars/chriseyre2000/about)](https://github.com/chriseyre2000/about)
@@ -36,7 +36,7 @@
 # Gleam Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|47xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)
+|1|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|48xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)
 |2|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|2xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|5xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
 |4|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.2.3|2026-09-03|Regular expressions for Gleam on Erlang and Geam|4xx|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)

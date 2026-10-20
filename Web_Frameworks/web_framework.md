@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15783xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15793xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|322xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -43,8 +43,8 @@
 |24|[plug_and_play](https://hex.pm/packages/plug_and_play)|0.7.0|2017-03-02|Set up a Plug application with less boilerplate.PlugAndPlay is not a web framework – it&#039;s a small scaffold. You use Plug as you would normally, only *sooner*.Later, if you need more control, you can easily replace PlugAndPlay piece by piece or wholesale.|1xxx|[![45229](https://img.shields.io/github/stars/henrik/plug_and_play)](https://github.com/henrik/plug_and_play)
 |25|[euros](https://hex.pm/packages/euros)|0.3.0|2018-01-07|Euros web-spider framework|1xxx|[![35474](https://img.shields.io/github/stars/kytiken/euros)](https://github.com/kytiken/euros)
 |26|[tamnoon](https://hex.pm/packages/tamnoon)|1.0.0-rc.4|2025-09-02|A simplicity-first web framework for Elixir, designed to make building web applications easy and enjoyable.|1xxx|[![65436](https://img.shields.io/github/stars/omer-sm/tamnoon)](https://github.com/omer-sm/tamnoon)
-|27|[phoenix_generator](https://hex.pm/packages/phoenix_generator)|0.2.1|2015-02-20|A collection of boilerplate generators for the Phoenix web framework.|1xxx|[![44808](https://img.shields.io/github/stars/etufe/phoenix_generator)](https://github.com/etufe/phoenix_generator)
-|28|[ash_hooks](https://hex.pm/packages/ash_hooks)|2.0.4|2026-10-09|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|1xxx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
+|27|[ash_hooks](https://hex.pm/packages/ash_hooks)|2.0.4|2026-10-09|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|1xxx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
+|28|[phoenix_generator](https://hex.pm/packages/phoenix_generator)|0.2.1|2015-02-20|A collection of boilerplate generators for the Phoenix web framework.|1xxx|[![44808](https://img.shields.io/github/stars/etufe/phoenix_generator)](https://github.com/etufe/phoenix_generator)
 |29|[requiem](https://hex.pm/packages/requiem)|0.4.0|2022-04-20|A WebTransport server framework.|1xxx|[![63229](https://img.shields.io/github/stars/xflagstudio/requiem)](https://github.com/xflagstudio/requiem)
 |30|[phoenix_microsoftbot](https://hex.pm/packages/phoenix_microsoftbot)|1.0.0|2016-12-22|This library allows for easy creation of the web API that the Microsoft bot framework can connect to.|1xxx|[![44883](https://img.shields.io/github/stars/zabirauf/phoenix_microsoftbot)](https://github.com/zabirauf/phoenix_microsoftbot)
 |31|[scraper](https://hex.pm/packages/scraper)|0.1.1|2018-03-16|Web scraper framework attempt|1xxx|[![63792](https://img.shields.io/github/stars/princemaple/scraper)](https://github.com/princemaple/scraper)
@@ -78,7 +78,7 @@
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|32xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
+|1|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|33xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)
 |2|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|3xxxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)
 |3|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|7xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)
 |4|[glimr](https://hex.pm/packages/glimr)|1.4.0|2026-05-12|A batteries-included web framework for Gleam|4xxx|[![38513](https://img.shields.io/github/stars/glimr-org/framework)](https://github.com/glimr-org/framework)
