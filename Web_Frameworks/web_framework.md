@@ -17,7 +17,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.15|2026-09-25|Peace of mind from prototype to production|15793xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15793xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|322xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -37,7 +37,7 @@
 |18|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |19|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
 |20|[infuse](https://hex.pm/packages/infuse)|0.3.5|2017-11-05|A simple web framework that serves from the filesystem using Simplates!|3xxx|[![40100](https://img.shields.io/github/stars/LawfulGood/infuse)](https://github.com/LawfulGood/infuse)
-|21|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1338|2026-10-19|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|3xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|21|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1339|2026-10-20|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|3xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
 |22|[nex_core](https://hex.pm/packages/nex_core)|0.4.3|2026-06-06|A minimalist Elixir web framework powered by HTMX|2xxx|[![43505](https://img.shields.io/github/stars/gofenix/nex)](https://github.com/gofenix/nex)
 |23|[combo](https://hex.pm/packages/combo)|0.11.0|2026-08-08|A web framework, that combines the good parts of modern web development.|2xxx|
 |24|[plug_and_play](https://hex.pm/packages/plug_and_play)|0.7.0|2017-03-02|Set up a Plug application with less boilerplate.PlugAndPlay is not a web framework – it&#039;s a small scaffold. You use Plug as you would normally, only *sooner*.Later, if you need more control, you can easily replace PlugAndPlay piece by piece or wholesale.|1xxx|[![45229](https://img.shields.io/github/stars/henrik/plug_and_play)](https://github.com/henrik/plug_and_play)
