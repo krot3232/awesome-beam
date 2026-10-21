@@ -1,11 +1,11 @@
 # Erlang pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8837xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
-|2|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16411xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8841xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
+|2|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16421xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |3|[worker_pool](https://hex.pm/packages/worker_pool)|7.0.0|2026-09-01|Erlang Worker Pool|153xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)
 |4|[pgo](https://hex.pm/packages/pgo)|0.20.0|2025-12-12|Postgres client with connection pool|24xxxx|[![44713](https://img.shields.io/github/stars/erleans/pgo)](https://github.com/erleans/pgo)
-|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3031xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
+|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3036xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
 |6|[sbroker](https://hex.pm/packages/sbroker)|1.0.0|2019-04-30|Low level pooling library|60xxxx|[![63711](https://img.shields.io/github/stars/fishcakez/sbroker)](https://github.com/fishcakez/sbroker)
 |7|[sidejob](https://hex.pm/packages/sidejob)|2.3.1|2026-09-20|sidejob is an Erlang library that implements a parallel, capacity-limited request pool. In sidejob, these pools are called resources. A resource is managed by multiple gen_server like processes which can be sent calls and casts using sidejob:call or sidejob:cast respectively.|24xxxx|[![64144](https://img.shields.io/github/stars/erlangpack/sidejob)](https://github.com/erlangpack/sidejob)
 |8|[pooler](https://hex.pm/packages/pooler)|1.7.0|2026-05-15|An OTP Process Pool Application|88xxxx|[![45500](https://img.shields.io/github/stars/epgsql/pooler)](https://github.com/epgsql/pooler)
@@ -38,9 +38,9 @@
 # Elixir pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15186xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
-|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6085xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
-|3|[portals](https://hex.pm/packages/portals)|0.1.0|2026-10-19|Call Python, Ruby, JavaScript (Node.js, Bun, Deno, QuickJS), PHP, Java and Go from Elixir through supervised, pooled worker processes. The spiritual successor to ErlPort.|3x|[![9357087](https://img.shields.io/github/stars/Ziinc/portals)](https://github.com/Ziinc/portals)
+|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15196xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
+|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6093xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
+|3|[portals](https://hex.pm/packages/portals)|0.1.0|2026-10-19|Call Python, Ruby, JavaScript (Node.js, Bun, Deno, QuickJS), PHP, Java and Go from Elixir through supervised, pooled worker processes. The spiritual successor to ErlPort.|4x|[![9357087](https://img.shields.io/github/stars/Ziinc/portals)](https://github.com/Ziinc/portals)
 |4|[browse](https://hex.pm/packages/browse)|0.5.0|2026-03-27|Shared browser automation contract and pool implementation for Elixir browser backends|4xxxx|[![31851](https://img.shields.io/github/stars/pepicrft/browse)](https://github.com/pepicrft/browse)
 |5|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)
 |6|[grpc_connection_pool](https://hex.pm/packages/grpc_connection_pool)|0.5.3|2026-10-06|A flexible and robust gRPC connection pooling library for Elixir.Features environment-agnostic configuration, connection warming, health monitoring,and automatic retry logic with exponential backoff and jitter.|5xxx|[![39187](https://img.shields.io/github/stars/nyo16/grpc_connection_pool)](https://github.com/nyo16/grpc_connection_pool)
@@ -79,8 +79,8 @@
 |39|[ex_orient](https://hex.pm/packages/ex_orient)|1.5.1|2016-09-27|OrientDB query builder that provides nice syntax and connection pooling.Uses MarcoPolo under the hood to run commands.|8xxx|
 |40|[rediscl](https://hex.pm/packages/rediscl)|1.0.0|2022-06-14|A minimal redis client with connection pooling|6xxx|[![63014](https://img.shields.io/github/stars/akdilsiz/elixir-rediscl)](https://github.com/akdilsiz/elixir-rediscl)
 |41|[redis_pool](https://hex.pm/packages/redis_pool)|0.2.6|2018-05-08|Redis pool for Elixir. Build on top of eredis and poolboy.|4xxx|[![63026](https://img.shields.io/github/stars/le0pard/redis_pool)](https://github.com/le0pard/redis_pool)
-|42|[data_pool](https://hex.pm/packages/data_pool)|1.0.2|2016-06-24|Utility to buffer items into a queue that follow a simple blockpattern on calls to push and pop when the queue at a max size orempty.|3xxx|[![33500](https://img.shields.io/github/stars/benfalk/data_pool)](https://github.com/benfalk/data_pool)
-|43|[http_runtime](https://hex.pm/packages/http_runtime)|0.21.14|2026-10-19|Shared pooled HTTP/2 runtime for HTTP stream clients|3xxx|[![8895653](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
+|42|[http_runtime](https://hex.pm/packages/http_runtime)|0.21.14|2026-10-19|Shared pooled HTTP/2 runtime for HTTP stream clients|3xxx|[![8895653](https://img.shields.io/github/stars/gsmlg-dev/http_fetch)](https://github.com/gsmlg-dev/http_fetch)
+|43|[data_pool](https://hex.pm/packages/data_pool)|1.0.2|2016-06-24|Utility to buffer items into a queue that follow a simple blockpattern on calls to push and pop when the queue at a max size orempty.|3xxx|[![33500](https://img.shields.io/github/stars/benfalk/data_pool)](https://github.com/benfalk/data_pool)
 |44|[jobspool](https://hex.pm/packages/jobspool)|0.1.1|2016-07-05|Simple Elixir jobs pool|2xxx|[![40463](https://img.shields.io/github/stars/flupke/exjobspool)](https://github.com/flupke/exjobspool)
 |45|[grpc_client_pool](https://hex.pm/packages/grpc_client_pool)|0.0.2-beta|2020-06-09|Elixir GRPC client pooling library|2xxx|[![39186](https://img.shields.io/github/stars/alex88/grpc_client_pool)](https://github.com/alex88/grpc_client_pool)
 |46|[odd_job](https://hex.pm/packages/odd_job)|0.5.1|2022-04-03|Simple job pools for Elixir OTP applications.|2xxx|[![43899](https://img.shields.io/github/stars/msimonborg/odd_job)](https://github.com/msimonborg/odd_job)
@@ -127,7 +127,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[bath](https://hex.pm/packages/bath)|6.0.0|2026-02-20|A resource pool for Gleam!|5xxx|[![31276](https://img.shields.io/github/stars/Pevensie/bath)](https://github.com/Pevensie/bath)
-|2|[lifeguard](https://hex.pm/packages/lifeguard)|4.0.0|2025-06-25|A simple actor pool for Gleam!|4xxx|[![41361](https://img.shields.io/github/stars/Pevensie/lifeguard)](https://github.com/Pevensie/lifeguard)
+|2|[lifeguard](https://hex.pm/packages/lifeguard)|4.0.0|2025-06-25|A simple actor pool for Gleam!|5xxx|[![41361](https://img.shields.io/github/stars/Pevensie/lifeguard)](https://github.com/Pevensie/lifeguard)
 |3|[puddle](https://hex.pm/packages/puddle)|2.0.0|2026-09-24|A resource pool manager for gleam|2xxx|[![45845](https://img.shields.io/github/stars/massivefermion/puddle)](https://github.com/massivefermion/puddle)
 |4|[gmysql](https://hex.pm/packages/gmysql)|1.4.0|2024-07-31|Gleam mysql client and connection pooler.|2xxx|[![38630](https://img.shields.io/github/stars/VioletBuse/gmysql)](https://github.com/VioletBuse/gmysql)
 |5|[db_pool](https://hex.pm/packages/db_pool)|3.0.0|2026-08-17|A database connection pool|1xxx|[![33564](https://img.shields.io/github/stars/stndrs/db_pool)](https://github.com/stndrs/db_pool)
