@@ -13,7 +13,7 @@
 |10|[mc_lhttpc](https://hex.pm/packages/mc_lhttpc)|4.3.2|2024-03-12|Lightweight HTTP Client|6xxxx|[![42204](https://img.shields.io/github/stars/miniclip/lhttpc)](https://github.com/miniclip/lhttpc)
 |11|[remedy_cowlib](https://hex.pm/packages/remedy_cowlib)|2.11.1|2021-10-03|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63127](https://img.shields.io/github/stars/bdanklin/cowlib)](https://github.com/bdanklin/cowlib)
 |12|[remedy_gun](https://hex.pm/packages/remedy_gun)|2.0.1|2021-10-05|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63129](https://img.shields.io/github/stars/bdanklin/gun)](https://github.com/bdanklin/gun)
-|13|[katipo](https://hex.pm/packages/katipo)|2.0.1|2026-10-18|HTTP client based on libcurl|1xxxx|[![40717](https://img.shields.io/github/stars/puzza007/katipo)](https://github.com/puzza007/katipo)
+|13|[katipo](https://hex.pm/packages/katipo)|2.1.0|2026-10-21|HTTP client based on libcurl|1xxxx|[![40717](https://img.shields.io/github/stars/puzza007/katipo)](https://github.com/puzza007/katipo)
 |14|[cloudi_service_http_clien t ](https://hex.pm/packages/cloudi_service_http_client)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework HTTP client Service|7xxx|[![32620](https://img.shields.io/github/stars/CloudI/cloudi_service_http_client)](https://github.com/CloudI/cloudi_service_http_client)
 |15|[buoy](https://hex.pm/packages/buoy)|0.3.1|2026-08-23|High Performance Erlang HTTP 1.1 Client|5xxx|[![31963](https://img.shields.io/github/stars/lpgauth/buoy)](https://github.com/lpgauth/buoy)
 |16|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.4|2026-09-21|gRPC for Erlang on the livery HTTP/2 stack: server and client|4xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
@@ -26,12 +26,13 @@
 |23|[banana_websocket_client](https://hex.pm/packages/banana_websocket_client)|0.0.3|2024-12-19|Erlang websocket client|9xx|[![31172](https://img.shields.io/github/stars/caike/banana_websocket_client)](https://github.com/caike/banana_websocket_client)
 |24|[gun_update](https://hex.pm/packages/gun_update)|2.1.0|2022-06-22|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|4xx|
 |25|[macula_sdk](https://hex.pm/packages/macula_sdk)|0.3.0|2025-11-09|Macula HTTP/3 Mesh SDK - Client library for building distributed applications|3xx|[![41886](https://img.shields.io/github/stars/macula-io/macula)](https://github.com/macula-io/macula)
-|26|[egrpc](https://hex.pm/packages/egrpc)|0.1.2|2026-10-13|A gRPC client library for Erlang built on top of gun.|3xx|[![34660](https://img.shields.io/github/stars/belltoy/egrpc)](https://github.com/belltoy/egrpc)
-|27|[livery_stripe](https://hex.pm/packages/livery_stripe)|0.2.1|2026-06-16|Stripe API client built on the livery HTTP client|3xx|
+|26|[livery_stripe](https://hex.pm/packages/livery_stripe)|0.2.1|2026-06-16|Stripe API client built on the livery HTTP client|3xx|
+|27|[egrpc](https://hex.pm/packages/egrpc)|0.1.2|2026-10-13|A gRPC client library for Erlang built on top of gun.|3xx|[![34660](https://img.shields.io/github/stars/belltoy/egrpc)](https://github.com/belltoy/egrpc)
 |28|[lhc](https://hex.pm/packages/lhc)|0.4.0|2023-08-02|LFE Little HTTP Client|2xx|[![41259](https://img.shields.io/github/stars/lfe-http/lhc)](https://github.com/lfe-http/lhc)
 |29|[openriak_erl](https://hex.pm/packages/openriak_erl)|0.1.5|2026-10-17|OpenRiak HTTP client|2xx|[![8968188](https://img.shields.io/github/stars/f34nk/riak_clients)](https://github.com/f34nk/riak_clients)
 |30|[rebar3_egrpc_plugin](https://hex.pm/packages/rebar3_egrpc_plugin)|0.1.0|2025-12-10|Rebar3 plugin to generate grpc client codes for egrpc|1xx|[![46351](https://img.shields.io/github/stars/belltoy/rebar3_egrpc_plugin)](https://github.com/belltoy/rebar3_egrpc_plugin)
 |31|[etcdgun](https://hex.pm/packages/etcdgun)|0.1.0|2026-01-17|An etcd client built on top of gun and egrpc.|1xx|[![35401](https://img.shields.io/github/stars/belltoy/etcdgun)](https://github.com/belltoy/etcdgun)
+|32|[nhttpc](https://hex.pm/packages/nhttpc)|1.0.0|2026-10-21|High-performance HTTP/1.1, HTTP/2, HTTP/3 and WebSocket client for Erlang/OTP 27+|0|[![9469127](https://img.shields.io/github/stars/nomasystems/nhttpc)](https://github.com/nomasystems/nhttpc)
 # Elixir HTTP client
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -200,8 +201,8 @@
 |163|[parley](https://hex.pm/packages/parley)|0.3.0|2026-04-06|A WebSocket client built on gen_statem and Mint.|3xx|[![44475](https://img.shields.io/github/stars/joaop21/parley)](https://github.com/joaop21/parley)
 |164|[websockex_nova](https://hex.pm/packages/websockex_nova)|0.1.1|2025-05-21|A robust WebSocket client library based on Websockex, extended with Gun transport, behavior-based architecture, automatic reconnection, and enterprise-grade features.|3xx|[![67134](https://img.shields.io/github/stars/ZenHive/websockex_nova)](https://github.com/ZenHive/websockex_nova)
 |165|[arbor_mcp](https://hex.pm/packages/arbor_mcp)|2.0.0-rc.4|2026-10-19|Elixir MCP clients and servers with tools, resources and prompts over stdio, HTTP and BEAM, with supervised per-server runtimes.|3xx|[![8953845](https://img.shields.io/github/stars/trust-arbor/arbor_mcp)](https://github.com/trust-arbor/arbor_mcp)
-|166|[huginn](https://hex.pm/packages/huginn)|0.5.0|2026-08-30|ClickHouse client for Elixir using gRPC with connection pooling.|3xx|[![39807](https://img.shields.io/github/stars/nyo16/huginn)](https://github.com/nyo16/huginn)
-|167|[binance_http](https://hex.pm/packages/binance_http)|0.1.2|2023-05-24|Simple HTTP Client for Binance API|3xx|[![31469](https://img.shields.io/github/stars/vlnic/binance_http)](https://github.com/vlnic/binance_http)
+|166|[binance_http](https://hex.pm/packages/binance_http)|0.1.2|2023-05-24|Simple HTTP Client for Binance API|3xx|[![31469](https://img.shields.io/github/stars/vlnic/binance_http)](https://github.com/vlnic/binance_http)
+|167|[huginn](https://hex.pm/packages/huginn)|0.5.0|2026-08-30|ClickHouse client for Elixir using gRPC with connection pooling.|3xx|[![39807](https://img.shields.io/github/stars/nyo16/huginn)](https://github.com/nyo16/huginn)
 |168|[etcdv3](https://hex.pm/packages/etcdv3)|3.4.12-beta|2020-08-24|etcd v3 grpc client generated from etcd proto files|3xx|[![35402](https://img.shields.io/github/stars/jeffutter/etcdv3)](https://github.com/jeffutter/etcdv3)
 |169|[scratcher_hackney](https://hex.pm/packages/scratcher_hackney)|0.1.0|2020-09-13|Module for using Hackany as Scratcher&#039;s HTTP Client|3xx|[![63799](https://img.shields.io/github/stars/ritou/elixir-scratcher-hackney)](https://github.com/ritou/elixir-scratcher-hackney)
 |170|[log_snag](https://hex.pm/packages/log_snag)|1.0.0|2022-10-29|An HTTP client for the LogSnag API.|3xx|

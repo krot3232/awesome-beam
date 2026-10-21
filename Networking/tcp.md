@@ -13,7 +13,7 @@
 # Elixir TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[extreme](https://hex.pm/packages/extreme)|1.2.0|2026-10-13|Elixir TCP client for EventStore.|13xxxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)
+|1|[extreme](https://hex.pm/packages/extreme)|1.2.1|2026-10-21|Elixir TCP client for EventStore.|13xxxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)
 |2|[modbus](https://hex.pm/packages/modbus)|0.4.0|2022-02-23|Modbus library with TCP Master &amp; Slave implementation.|13xxxx|[![42830](https://img.shields.io/github/stars/samuelventura/modbus)](https://github.com/samuelventura/modbus)
 |3|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|9xxxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)
 |4|[modbux](https://hex.pm/packages/modbux)|0.3.14|2025-03-15|Modbus for network and serial communication, this library implements TCP (Client &amp; Server) and RTU (Master &amp; Slave) protocols.|8xxxx|[![42832](https://img.shields.io/github/stars/valiot/modbux)](https://github.com/valiot/modbux)

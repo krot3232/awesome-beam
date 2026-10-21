@@ -20,7 +20,7 @@
 |17|[rsrc_pool](https://hex.pm/packages/rsrc_pool)|1.0.3|2020-06-24|The goal of resource pool (rsrc_pool) Erlang library is reduce the overhead of creating new resources by reusing of the same resources among multiple processes.|6xx|[![63514](https://img.shields.io/github/stars/alekras/rsrc_pool)](https://github.com/alekras/rsrc_pool)
 |18|[cpool](https://hex.pm/packages/cpool)|0.1.1|2018-03-09|A connection-focused worker pool.|41xxxx|[![33140](https://img.shields.io/github/stars/kzemek/cpool)](https://github.com/kzemek/cpool)
 |19|[mc_sbroker](https://hex.pm/packages/mc_sbroker)|1.1.2|2024-01-31|Low level pooling library|6xxxx|[![42225](https://img.shields.io/github/stars/miniclip/sbroker)](https://github.com/miniclip/sbroker)
-|20|[mc_poolgirl](https://hex.pm/packages/mc_poolgirl)|2.2.1|2022-04-19|A sexy Erlang worker pool factory|6xxxx|[![42216](https://img.shields.io/github/stars/miniclip/poolgirl)](https://github.com/miniclip/poolgirl)
+|20|[mc_poolgirl](https://hex.pm/packages/mc_poolgirl)|3.0.0|2026-10-21|A sexy Erlang worker pool factory|6xxxx|[![42216](https://img.shields.io/github/stars/miniclip/poolgirl)](https://github.com/miniclip/poolgirl)
 |21|[taskforce](https://hex.pm/packages/taskforce)|1.3.0|2026-06-06|On-demand worker pools for parallelizable tasks|5xxxx|[![65469](https://img.shields.io/github/stars/g-andrade/taskforce)](https://github.com/g-andrade/taskforce)
 |22|[episcina](https://hex.pm/packages/episcina)|1.1.0|2015-08-25|Erlang Connection Pool|1xxxx|
 |23|[pgpool](https://hex.pm/packages/pgpool)|2.1.0|2019-12-05|A PosgreSQL client that automatically uses connection pools and reconnects in case of errors.|1xxxx|[![44715](https://img.shields.io/github/stars/ostinelli/pgpool)](https://github.com/ostinelli/pgpool)
