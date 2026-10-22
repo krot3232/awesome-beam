@@ -3,7 +3,7 @@
 |:-|-|-|-|:-|-|-
 |1|[emqtt](https://hex.pm/packages/emqtt)|1.16.1|2026-09-10|Erlang MQTT v5.0 Client|73xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)
 |2|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|19xxxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)
-|3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.3.1|2026-07-10|MQTT v5 packet encoder and decoder|7xxxx|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
+|3|[mqtt_packet_map](https://hex.pm/packages/mqtt_packet_map)|1.3.1|2026-07-10|MQTT v5 packet encoder and decoder|8xxxx|[![43003](https://img.shields.io/github/stars/zotonic/mqtt_packet_map)](https://github.com/zotonic/mqtt_packet_map)
 |4|[mqtt_sessions](https://hex.pm/packages/mqtt_sessions)|2.8.0|2026-07-10|MQTT v5 Sessions Manager|7xxxx|[![43004](https://img.shields.io/github/stars/zotonic/mqtt_sessions)](https://github.com/zotonic/mqtt_sessions)
 |5|[vmq_commons](https://hex.pm/packages/vmq_commons)|1.0.0|2016-06-24|Common Functionality for the VerneMQ MQTT broker|5xxxx|[![66933](https://img.shields.io/github/stars/erlio/vmq_commons)](https://github.com/erlio/vmq_commons)
 |6|[ejabberd](https://hex.pm/packages/ejabberd)|26.9.0|2026-10-05|Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)|4xxxx|[![34690](https://img.shields.io/github/stars/processone/ejabberd)](https://github.com/processone/ejabberd)
@@ -45,6 +45,6 @@
 |2|[spoke_core](https://hex.pm/packages/spoke_core)|1.0.1|2026-01-04|Purely functional core logic for an MQTT 3.1.1 client, using drift.|7xx|[![64761](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[spoke_mqtt_actor](https://hex.pm/packages/spoke_mqtt_actor)|1.1.1|2025-08-03|A Gleam MQTT 3.1.1 client for the Erlang runtime.|7xx|[![64763](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |4|[spoke_mqtt](https://hex.pm/packages/spoke_mqtt)|1.0.0|2025-07-20|Types and functions for MQTT 3.1.1 clients.|7xx|[![64762](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
-|5|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
+|5|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|6xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |6|[spoke](https://hex.pm/packages/spoke)|1.0.2|2025-12-07|A Gleam MQTT 3.1.1 client for the Erlang runtime.|5xx|[![64760](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |7|[spoke_mqtt_js](https://hex.pm/packages/spoke_mqtt_js)|1.0.1|2025-08-03|A Gleam MQTT 3.1.1 client for the JavaScript runtime.|3xx|[![64764](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)

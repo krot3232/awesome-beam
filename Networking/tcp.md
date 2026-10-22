@@ -1,14 +1,14 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16421xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16430xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
 |5|[sockerl](https://hex.pm/packages/sockerl)|17.9.10|2017-09-10|Advanced Erlang socket library for TCP protocols and provides fast, useful and simple API for implementing server, client and connection pool.|1xxx|[![64553](https://img.shields.io/github/stars/Pouriya-Jahanbakhsh/sockerl)](https://github.com/Pouriya-Jahanbakhsh/sockerl)
 |6|[gen_listener_tcp](https://hex.pm/packages/gen_listener_tcp)|0.3.2|2015-09-04|Generic TCP Server|1xxx|[![38072](https://img.shields.io/github/stars/travelping/gen_listener_tcp)](https://github.com/travelping/gen_listener_tcp)
 |7|[tcp_client](https://hex.pm/packages/tcp_client)|0.3.0|2021-06-27|A simple LFE TCP client connection manager|7xx|[![65491](https://img.shields.io/github/stars/lfex/tcp-client)](https://github.com/lfex/tcp-client)
-|8|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|5xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
+|8|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|6xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
 |9|[etcp](https://hex.pm/packages/etcp)|17.9.10|2017-12-23|Advanced Erlang socket library for TCP protocols which provides fast, efficient and simple API for implementing servers, clients and connection pools.|5xx|[![35405](https://img.shields.io/github/stars/Pouriya-Jahanbakhsh/etcp)](https://github.com/Pouriya-Jahanbakhsh/etcp)
 # Elixir TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,14 +35,14 @@
 |20|[transport](https://hex.pm/packages/transport)|0.1.0|2020-05-08|an abstraction api and helpers for TCP and TLS|5xx|[![66131](https://img.shields.io/github/stars/ityonemo/transport)](https://github.com/ityonemo/transport)
 |21|[nexus](https://hex.pm/packages/nexus)|0.1.0|2018-09-05|A lightweight and functional TCP socket pool acceptor for use with flux.|3xx|[![43523](https://img.shields.io/github/stars/cjfreeze/nexus)](https://github.com/cjfreeze/nexus)
 |22|[ex_vertx](https://hex.pm/packages/ex_vertx)|1.0.0|2019-03-18|Elixir to Vert.x TCP bridge connector.|3xx|[![37117](https://img.shields.io/github/stars/PharosProduction/ExVertx)](https://github.com/PharosProduction/ExVertx)
-|23|[autoport](https://hex.pm/packages/autoport)|1.0.0|2026-08-20|Automatically finds an available local TCP port, so multiple Phoenix apps can run at once.|3xx|[![7066065](https://img.shields.io/github/stars/chrisgreg/autoport)](https://github.com/chrisgreg/autoport)
-|24|[gen_tailscale](https://hex.pm/packages/gen_tailscale)|0.1.1|2025-09-23|Functionality to serve TCP servers directly on your Tailscale network usinglibtailscale.|3xx|[![38124](https://img.shields.io/github/stars/Munksgaard/gen_tailscale)](https://github.com/Munksgaard/gen_tailscale)
+|23|[gen_tailscale](https://hex.pm/packages/gen_tailscale)|0.1.1|2025-09-23|Functionality to serve TCP servers directly on your Tailscale network usinglibtailscale.|3xx|[![38124](https://img.shields.io/github/stars/Munksgaard/gen_tailscale)](https://github.com/Munksgaard/gen_tailscale)
+|24|[autoport](https://hex.pm/packages/autoport)|1.0.0|2026-08-20|Automatically finds an available local TCP port, so multiple Phoenix apps can run at once.|3xx|[![7066065](https://img.shields.io/github/stars/chrisgreg/autoport)](https://github.com/chrisgreg/autoport)
 |25|[vowpal_client](https://hex.pm/packages/vowpal_client)|0.1.0|2018-11-16|Vowpal Wabbit (awesome machine learning tool - https://github.com/JohnLangford/vowpal_wabbit/) TCP client to query for training and predicting|3xx|[![66956](https://img.shields.io/github/stars/jackdoe/elixir-vowpal-client)](https://github.com/jackdoe/elixir-vowpal-client)
 |26|[yamodbus](https://hex.pm/packages/yamodbus)|0.1.0|2026-10-05|Modbus in pure Elixir: TCP, TLS (Modbus/TCP Security), RTU and ASCII clients and servers, with many requests at once on one TCP connection, for talking to PLCs, drives and meters.|1xx|[![8975464](https://img.shields.io/github/stars/tallakt/yamodbus)](https://github.com/tallakt/yamodbus)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|5xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
-|2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|5xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
+|2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|6xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|5xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
 |4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx|

@@ -1,10 +1,10 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6944xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
-|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|685xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6946xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|686xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|87xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
-|4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|78xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
+|4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|79xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
 |5|[unite](https://hex.pm/packages/unite)|0.4.3|2023-09-27|Pretty EUnit test formatters|22xxxx|[![66591](https://img.shields.io/github/stars/eproxus/unite)](https://github.com/eproxus/unite)
 |6|[triq](https://hex.pm/packages/triq)|1.3.0|2018-09-19|Triq (Term Reductive Invariant Questant) QuickCheck|9xxxx|
 |7|[eunit_addons](https://hex.pm/packages/eunit_addons)|1.2.0|2021-08-11|Addons for eunit|5xxxx|[![35466](https://img.shields.io/github/stars/klajo/eunit_addons)](https://github.com/klajo/eunit_addons)
@@ -15,18 +15,18 @@
 |12|[katt](https://hex.pm/packages/katt)|1.6.10|2024-07-26|KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.|4xxx|[![40721](https://img.shields.io/github/stars/for-GET/katt)](https://github.com/for-GET/katt)
 |13|[clje_test_check](https://hex.pm/packages/clje_test_check)|1.1.1|2021-09-15|A QuickCheck inspired property-based testing library.|4xxx|[![32569](https://img.shields.io/github/stars/clojerl/test.check)](https://github.com/clojerl/test.check)
 |14|[emqx_ct_helpers](https://hex.pm/packages/emqx_ct_helpers)|1.1.4|2019-06-22|EMQ X Common Test Helpers|3xxx|[![35026](https://img.shields.io/github/stars/emqx/emqx-ct-helpers)](https://github.com/emqx/emqx-ct-helpers)
-|15|[doppler](https://hex.pm/packages/doppler)|0.1.0|2017-02-14|Yet another mocking library|1xxx|[![34038](https://img.shields.io/github/stars/funbox/doppler)](https://github.com/funbox/doppler)
+|15|[macula_testkit](https://hex.pm/packages/macula_testkit)|0.3.0|2026-10-17|In-memory test support for macula consumers: a drop-in loopback pool (mem_macula) for hermetic pub/sub tests, and a Common Test hook that fails unallowed skips|1xxx|[![8582938](https://img.shields.io/github/stars/macula-io/macula-testkit)](https://github.com/macula-io/macula-testkit)
 |16|[hoax](https://hex.pm/packages/hoax)|0.11.2|2016-05-11|Yet another mocking library for Erlang|1xxx|[![39619](https://img.shields.io/github/stars/xenolinguist/hoax)](https://github.com/xenolinguist/hoax)
-|17|[macula_testkit](https://hex.pm/packages/macula_testkit)|0.3.0|2026-10-17|In-memory test support for macula consumers: a drop-in loopback pool (mem_macula) for hermetic pub/sub tests, and a Common Test hook that fails unallowed skips|1xxx|[![8582938](https://img.shields.io/github/stars/macula-io/macula-testkit)](https://github.com/macula-io/macula-testkit)
+|17|[doppler](https://hex.pm/packages/doppler)|0.1.0|2017-02-14|Yet another mocking library|1xxx|[![34038](https://img.shields.io/github/stars/funbox/doppler)](https://github.com/funbox/doppler)
 |18|[rebar3_efene_ct](https://hex.pm/packages/rebar3_efene_ct)|0.1.2|2018-05-20|efene rebar3 common test plugin|1xxx|[![46348](https://img.shields.io/github/stars/efene/rebar3_efene_compile)](https://github.com/efene/rebar3_efene_compile)
 |19|[eunit_sugar](https://hex.pm/packages/eunit_sugar)|0.1.0|2016-04-22|Helpers and sugars for eunit tests|7xx|[![35469](https://img.shields.io/github/stars/xenolinguist/eunit_sugar)](https://github.com/xenolinguist/eunit_sugar)
 |20|[rcl_test](https://hex.pm/packages/rcl_test)|0.2.0|2020-09-26|Common Test utilities for Riak Core Lite applications|4xx|[![46255](https://img.shields.io/github/stars/riak-core-lite/rcl_test)](https://github.com/riak-core-lite/rcl_test)
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2147xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
-|2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|486xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
-|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|262xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2148xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|2|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|487xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
+|3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|263xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.17.1|2026-10-21|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|212xxxx|
 |5|[propcheck](https://hex.pm/packages/propcheck)|1.5.0|2025-04-21|PropCheck provides property based testing and is an Elixir layer aroundPropEr. It is also inspired by Quviq&#039;s QuickCheck Elixir library.|166xxxx|[![45752](https://img.shields.io/github/stars/alfert/propcheck)](https://github.com/alfert/propcheck)
 |6|[ex_meck](https://hex.pm/packages/ex_meck)|0.3.0|2019-12-01|A mocking library particularly suitable for stateful property based testing.|86xxxx|[![36386](https://img.shields.io/github/stars/MaartenFaddegon/ex_meck)](https://github.com/MaartenFaddegon/ex_meck)
@@ -76,8 +76,8 @@
 # Gleam Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|141xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
-|2|[qcheck](https://hex.pm/packages/qcheck)|1.0.5|2026-08-19|QuickCheck-inspired property testing with integrated shrinking|7xxxx|[![45903](https://img.shields.io/github/stars/mooreryan/gleam_qcheck)](https://github.com/mooreryan/gleam_qcheck)
+|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|142xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
+|2|[qcheck](https://hex.pm/packages/qcheck)|1.0.5|2026-08-19|QuickCheck-inspired property testing with integrated shrinking|8xxxx|[![45903](https://img.shields.io/github/stars/mooreryan/gleam_qcheck)](https://github.com/mooreryan/gleam_qcheck)
 |3|[glacier_gleeunit](https://hex.pm/packages/glacier_gleeunit)|1.3.1003|2025-12-25|This is a fork of gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI.|1xxxx|[![38311](https://img.shields.io/github/stars/inoas/gleeunit)](https://github.com/inoas/gleeunit)
 |4|[glacier](https://hex.pm/packages/glacier)|1.3.3|2025-12-25|Glacier brings incremental interactive unit testing to Gleam. It is meant as a drop-in replacement for Gleeunit and depends on and wraps a fork of it.|9xxx|[![38310](https://img.shields.io/github/stars/inoas/glacier)](https://github.com/inoas/glacier)
 |5|[glistix_gleeunit](https://hex.pm/packages/glistix_gleeunit)|1.1.0|2024-04-23|A fork of gleeunit for Glistix&#039;s Nix target|5xxx|[![38531](https://img.shields.io/github/stars/glistix/gleeunit)](https://github.com/glistix/gleeunit)

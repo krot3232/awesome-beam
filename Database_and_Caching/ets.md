@@ -1,7 +1,7 @@
 # Erlang ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|459xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)
+|1|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|460xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)
 |2|[erlpool](https://hex.pm/packages/erlpool)|1.4.5|2025-03-04|Erlang round-robin load balancer for Erlang processes based on ETS|5xxx|[![35277](https://img.shields.io/github/stars/silviucpp/erlpool)](https://github.com/silviucpp/erlpool)
 |3|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|5xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |4|[ecache](https://hex.pm/packages/ecache)|2.14.4|2026-04-17|ecache - Erlang ETS Based Cache|4xxx|[![34286](https://img.shields.io/github/stars/Ledest/ecache)](https://github.com/Ledest/ecache)
@@ -11,23 +11,23 @@
 |8|[ets_cas](https://hex.pm/packages/ets_cas)|0.1.1|2017-10-12|handle CAS semantic to ETS on different OTP version|8xx|
 |9|[keep](https://hex.pm/packages/keep)|0.1.0|2024-12-07|An easy KV wrapper for ETS|3xx|
 |10|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|1xx|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
-|11|[gnomon](https://hex.pm/packages/gnomon)|1.0.0|2026-10-20|HTTP Date header value served from a persistent term instead of an ETS table|2x|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
+|11|[gnomon](https://hex.pm/packages/gnomon)|1.0.0|2026-10-20|HTTP Date header value served from a persistent term instead of an ETS table|4x|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
 # Elixir ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2466xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2057xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2059xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
 |3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|513xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
-|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|217xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
+|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|218xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
 |5|[event_bus](https://hex.pm/packages/event_bus)|1.7.0|2022-01-02|Traceable, extendable and minimalist event bus implementation for Elixirwith built-in event store and event watcher based on ETS|64xxxx|[![35486](https://img.shields.io/github/stars/otobus/event_bus)](https://github.com/otobus/event_bus)
 |6|[ets_owner](https://hex.pm/packages/ets_owner)|1.0.0|2019-05-25|A simple GenServer that owns your ETS tables and won&#039;t die, even if you do.|49xxxx|[![35453](https://img.shields.io/github/stars/meyercm/ets_owner)](https://github.com/meyercm/ets_owner)
 |7|[cbuf](https://hex.pm/packages/cbuf)|0.7.1|2018-09-01|A circular buffer backed by a queue, map, or ETS|27xxxx|[![32222](https://img.shields.io/github/stars/ckampfe/cbuf)](https://github.com/ckampfe/cbuf)
-|8|[etso](https://hex.pm/packages/etso)|1.1.0|2022-06-29|An ETS adapter for Ecto|23xxxx|[![35452](https://img.shields.io/github/stars/evadne/etso)](https://github.com/evadne/etso)
-|9|[partitioned_buffer](https://hex.pm/packages/partitioned_buffer)|0.4.4|2026-10-02|ETS-based partitioned buffer for high-throughput data processing|23xxxx|[![44502](https://img.shields.io/github/stars/appcues/partitioned_buffer)](https://github.com/appcues/partitioned_buffer)
+|8|[partitioned_buffer](https://hex.pm/packages/partitioned_buffer)|0.4.4|2026-10-02|ETS-based partitioned buffer for high-throughput data processing|23xxxx|[![44502](https://img.shields.io/github/stars/appcues/partitioned_buffer)](https://github.com/appcues/partitioned_buffer)
+|9|[etso](https://hex.pm/packages/etso)|1.1.0|2022-06-29|An ETS adapter for Ecto|23xxxx|[![35452](https://img.shields.io/github/stars/evadne/etso)](https://github.com/evadne/etso)
 |10|[active_memory](https://hex.pm/packages/active_memory)|0.8.2|2026-08-18|The typed, attribute-queryable in-memory store for ETS and Mnesia, with Ecto changeset support, record expiry (TTL), crash resilience, and atomic take-once reads.|21xxxx|[![1342](https://img.shields.io/github/stars/SullysMustyRuby/active_memory)](https://github.com/SullysMustyRuby/active_memory)
 |11|[cache_money](https://hex.pm/packages/cache_money)|0.6.2|2022-02-07|ETS or Redis based caching for Elixir|20xxxx|[![32021](https://img.shields.io/github/stars/sgtpepper43/cache_money)](https://github.com/sgtpepper43/cache_money)
 |12|[quantum_storage_persisten t_ets ](https://hex.pm/packages/quantum_storage_persistent_ets)|1.0.0|2020-06-11|Quantum Storage Adapter based on Persistent ETS|14xxxx|[![45974](https://img.shields.io/github/stars/quantum-elixir/quantum-storage-persistent-ets)](https://github.com/quantum-elixir/quantum-storage-persistent-ets)
-|13|[logflare_etso](https://hex.pm/packages/logflare_etso)|1.1.2|2023-08-01|A forked ETS adapter for Ecto|12xxxx|[![41622](https://img.shields.io/github/stars/evadne/etso)](https://github.com/evadne/etso)
+|13|[logflare_etso](https://hex.pm/packages/logflare_etso)|1.1.2|2023-08-01|A forked ETS adapter for Ecto|13xxxx|[![41622](https://img.shields.io/github/stars/evadne/etso)](https://github.com/evadne/etso)
 |14|[lru_cache](https://hex.pm/packages/lru_cache)|0.1.3|2018-02-21|ETS-based LRU Cache|11xxxx|[![41759](https://img.shields.io/github/stars/arago/lru_cache)](https://github.com/arago/lru_cache)
 |15|[stash](https://hex.pm/packages/stash)|2.0.0|2026-01-04|Simple ETS backed key/value store for Elixir|5xxxx|[![64916](https://img.shields.io/github/stars/whitfin/stash)](https://github.com/whitfin/stash)
 |16|[foretoken](https://hex.pm/packages/foretoken)|0.4.0|2026-07-18|An ETS-based implementation of the token bucket algorithm|3xxxx|
@@ -82,7 +82,7 @@
 |65|[pokelixir](https://hex.pm/packages/pokelixir)|0.1.0|2022-11-25|A bare bones interface for the Pokemon API.    It can get selected information for a pokemon by name, as well as the complete list of pokemons.    This is a student project to learn about caching, ETS, GenServers, supervisors, mix, APIs, hex, git, documentation, testing, and patience.|3xx|[![45434](https://img.shields.io/github/stars/BigSpaces/pokelixir)](https://github.com/BigSpaces/pokelixir)
 |66|[spacetimedb_ex](https://hex.pm/packages/spacetimedb_ex)|0.2.0|2026-03-07|Elixir client for SpacetimeDB — BSATN binary protocol, WebSocket subscriptions, reducer calls, live ETS table mirrors|2xx|[![64644](https://img.shields.io/github/stars/maco144/spacetime-ex)](https://github.com/maco144/spacetime-ex)
 |67|[loom_ex](https://hex.pm/packages/loom_ex)|0.1.4|2026-04-08|An Elixir framework for building AI agents from OTP primitives. Weaves conversations, tool calls, and reasoning into coherent agents using GenServer, Task.Supervisor, and ETS.|2xx|[![41739](https://img.shields.io/github/stars/lulucatdev/loom_ex)](https://github.com/lulucatdev/loom_ex)
-|68|[innkeeper](https://hex.pm/packages/innkeeper)|0.1.0|2025-03-09|Innkeeper creates and owns your ETS tables|1xx|
+|68|[innkeeper](https://hex.pm/packages/innkeeper)|0.1.0|2025-03-09|Innkeeper creates and owns your ETS tables|2xx|
 |69|[file_config](https://hex.pm/packages/file_config)|0.7.1|2026-06-16|Dynamically load config files into ETS tables.|1xx|[![4190476](https://img.shields.io/github/stars/cogini/file_config)](https://github.com/cogini/file_config)
 |70|[ecs_comb](https://hex.pm/packages/ecs_comb)|0.1.0|2026-04-20|A BEAM/ETS Entity-Component-System framework with fixed ticks and parallel system scheduling|1xx|[![34322](https://img.shields.io/github/stars/Moeblack/ECSComb)](https://github.com/Moeblack/ECSComb)
 |71|[slither](https://hex.pm/packages/slither)|0.1.0|2026-02-23|Low-level BEAM↔Python concurrency substrate. ETS-backed shared state withPython views, batched fan-out with real backpressure, and stage compositionover BEAM + Python steps. Built on SnakeBridge/Snakepit.|1xx|[![64410](https://img.shields.io/github/stars/nshkrdotcom/slither)](https://github.com/nshkrdotcom/slither)

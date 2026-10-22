@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1000xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1001xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -14,7 +14,7 @@
 # Elixir Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|232xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
+|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|233xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
 |2|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|83xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)
 |3|[mix_unused](https://hex.pm/packages/mix_unused)|0.4.1|2023-06-29|Mix compiler tracer for detecting unused public functions|51xxxx|[![42748](https://img.shields.io/github/stars/hauleth/mix_unused)](https://github.com/hauleth/mix_unused)
 |4|[chrome_remote_interface](https://hex.pm/packages/chrome_remote_interface)|0.4.1|2019-08-05|Chrome Debugging Protocol client for Elixir|27xxxx|[![32412](https://img.shields.io/github/stars/andrewvy/chrome-remote-interface)](https://github.com/andrewvy/chrome-remote-interface)
@@ -34,8 +34,8 @@
 |18|[examine](https://hex.pm/packages/examine)|0.3.0|2020-10-02|Enhanced inspect debugging.|3xxx|[![35595](https://img.shields.io/github/stars/mbgardner/examine)](https://github.com/mbgardner/examine)
 |19|[raxol](https://hex.pm/packages/raxol)|2.7.0|2026-09-10|Multi-surface application runtime for Elixir. One TEA module renders toterminal, browser (LiveView), SSH, and MCP (agents). 30+ widgets, flexbox +CSS grid, AI agent runtime, distributed swarm with CRDTs, time-traveldebugging, session recording, sandboxed REPL, and agentic commerce.|2xxx|[![46208](https://img.shields.io/github/stars/DROOdotFOO/raxol)](https://github.com/DROOdotFOO/raxol)
 |20|[jido_otel](https://hex.pm/packages/jido_otel)|1.0.0|2026-05-23|OpenTelemetry tracer bridge for Jido.Observe|2xxx|[![3209728](https://img.shields.io/github/stars/agentjido/jido_otel)](https://github.com/agentjido/jido_otel)
-|21|[mimicron](https://hex.pm/packages/mimicron)|0.1.1|2019-07-27|callstack tracer|2xxx|[![42619](https://img.shields.io/github/stars/jcoder39/mimicron)](https://github.com/jcoder39/mimicron)
-|22|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.11.0|2026-10-11|UI components for authoring, observing, and debugging statifier statecharts|2xxx|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|21|[statifier_ui](https://hex.pm/packages/statifier_ui)|0.11.0|2026-10-11|UI components for authoring, observing, and debugging statifier statecharts|2xxx|[![7195229](https://img.shields.io/github/stars/riddler/statifier-ui)](https://github.com/riddler/statifier-ui)
+|22|[mimicron](https://hex.pm/packages/mimicron)|0.1.1|2019-07-27|callstack tracer|2xxx|[![42619](https://img.shields.io/github/stars/jcoder39/mimicron)](https://github.com/jcoder39/mimicron)
 |23|[clouseau](https://hex.pm/packages/clouseau)|0.5.0|2019-09-22|Debugging tool. A wrapper around IO.inspect that provides some enhancements|2xxx|[![32647](https://img.shields.io/github/stars/voger/clouseau)](https://github.com/voger/clouseau)
 |24|[ex_debug](https://hex.pm/packages/ex_debug)|1.0.0|2024-04-18|Library with debugging functions for making life easier.|1xxx|[![35947](https://img.shields.io/github/stars/JosePamplona/ExDebug)](https://github.com/JosePamplona/ExDebug)
 |25|[ex_debugger](https://hex.pm/packages/ex_debugger)|0.1.5|2021-11-10|Facilitate debugging by auto-annotating your code-base|1xxx|[![35948](https://img.shields.io/github/stars/Ajwah/ex_debugger)](https://github.com/Ajwah/ex_debugger)
