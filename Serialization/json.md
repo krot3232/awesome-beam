@@ -73,5 +73,5 @@
 |4|[jscheam](https://hex.pm/packages/jscheam)|2.0.0|2025-07-30|A Simple JSON Schema library for Gleam|1xxx|[![40497](https://img.shields.io/github/stars/Neofox/jscheam)](https://github.com/Neofox/jscheam)
 |5|[json_value](https://hex.pm/packages/json_value)|1.2.0|2026-08-22|Decode JSON to a generic value that can be manipulated|9xx|[![40584](https://img.shields.io/github/stars/kwando/json_value)](https://github.com/kwando/json_value)
 |6|[convert_json](https://hex.pm/packages/convert_json)|2.0.0|2025-06-16|Encode and decode JSON from and to Gleam types|8xx|[![33013](https://img.shields.io/github/stars/Billuc/convert_json)](https://github.com/Billuc/convert_json)
-|7|[atproto_lexicon](https://hex.pm/packages/atproto_lexicon)|0.3.0|2026-08-03|A faithful, bidirectional lexicon AST for atproto: decode/encode lexicon JSON with round-trip fidelity.|7xx|
+|7|[atproto_lexicon](https://hex.pm/packages/atproto_lexicon)|0.3.1|2026-10-22|A faithful, bidirectional lexicon AST for atproto: decode/encode lexicon JSON with round-trip fidelity.|7xx|
 |8|[glon](https://hex.pm/packages/glon)|1.0.0|2026-02-05|JSON Schema generation and decoding for Gleam|2xx|
