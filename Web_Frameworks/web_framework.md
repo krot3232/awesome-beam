@@ -36,7 +36,7 @@
 |17|[trot](https://hex.pm/packages/trot)|0.7.0|2019-06-05|A web micro-framework based on Plug and Cowboy.|4xxx|[![66194](https://img.shields.io/github/stars/hexedpackets/trot)](https://github.com/hexedpackets/trot)
 |18|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |19|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
-|20|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1346|2026-10-23|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|4xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|20|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1348|2026-10-23|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|4xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
 |21|[infuse](https://hex.pm/packages/infuse)|0.3.5|2017-11-05|A simple web framework that serves from the filesystem using Simplates!|3xxx|[![40100](https://img.shields.io/github/stars/LawfulGood/infuse)](https://github.com/LawfulGood/infuse)
 |22|[nex_core](https://hex.pm/packages/nex_core)|0.4.3|2026-06-06|A minimalist Elixir web framework powered by HTMX|2xxx|[![43505](https://img.shields.io/github/stars/gofenix/nex)](https://github.com/gofenix/nex)
 |23|[combo](https://hex.pm/packages/combo)|0.11.0|2026-08-08|A web framework, that combines the good parts of modern web development.|2xxx|
@@ -75,6 +75,7 @@
 |56|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |57|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
 |58|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|1xx|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
+|59|[duskmoon_hologram](https://hex.pm/packages/duskmoon_hologram)|10.0.3|2026-10-23|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|0|[![9550640](https://img.shields.io/github/stars/duskmoon-dev/duskmoon-bundler)](https://github.com/duskmoon-dev/duskmoon-bundler)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
