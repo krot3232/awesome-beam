@@ -2,8 +2,8 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|460xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)
-|2|[erlpool](https://hex.pm/packages/erlpool)|1.4.5|2025-03-04|Erlang round-robin load balancer for Erlang processes based on ETS|5xxx|[![35277](https://img.shields.io/github/stars/silviucpp/erlpool)](https://github.com/silviucpp/erlpool)
-|3|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|5xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
+|2|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|5xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
+|3|[erlpool](https://hex.pm/packages/erlpool)|1.4.5|2025-03-04|Erlang round-robin load balancer for Erlang processes based on ETS|5xxx|[![35277](https://img.shields.io/github/stars/silviucpp/erlpool)](https://github.com/silviucpp/erlpool)
 |4|[ecache](https://hex.pm/packages/ecache)|2.14.4|2026-04-17|ecache - Erlang ETS Based Cache|4xxx|[![34286](https://img.shields.io/github/stars/Ledest/ecache)](https://github.com/Ledest/ecache)
 |5|[http_cache_store_memory](https://hex.pm/packages/http_cache_store_memory)|1.0.1|2026-05-17|A store for http_cache that uses ETS for in-memory caching|4xxx|[![39751](https://img.shields.io/github/stars/tanguilp/http_cache_store_memory)](https://github.com/tanguilp/http_cache_store_memory)
 |6|[etsmgr](https://hex.pm/packages/etsmgr)|0.4.0|2025-11-22|ETS Table Manager|2xxx|[![35451](https://img.shields.io/github/stars/fredyouhanaie/etsmgr)](https://github.com/fredyouhanaie/etsmgr)
@@ -11,14 +11,14 @@
 |8|[ets_cas](https://hex.pm/packages/ets_cas)|0.1.1|2017-10-12|handle CAS semantic to ETS on different OTP version|8xx|
 |9|[keep](https://hex.pm/packages/keep)|0.1.0|2024-12-07|An easy KV wrapper for ETS|3xx|
 |10|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|1xx|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
-|11|[gnomon](https://hex.pm/packages/gnomon)|1.0.0|2026-10-20|HTTP Date header value served from a persistent term instead of an ETS table|4x|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
+|11|[gnomon](https://hex.pm/packages/gnomon)|1.0.0|2026-10-20|HTTP Date header value served from a persistent term instead of an ETS table|5x|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
 # Elixir ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2466xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2059xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
-|3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|513xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
-|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|218xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2061xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
+|3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|514xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
+|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|219xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
 |5|[event_bus](https://hex.pm/packages/event_bus)|1.7.0|2022-01-02|Traceable, extendable and minimalist event bus implementation for Elixirwith built-in event store and event watcher based on ETS|64xxxx|[![35486](https://img.shields.io/github/stars/otobus/event_bus)](https://github.com/otobus/event_bus)
 |6|[ets_owner](https://hex.pm/packages/ets_owner)|1.0.0|2019-05-25|A simple GenServer that owns your ETS tables and won&#039;t die, even if you do.|49xxxx|[![35453](https://img.shields.io/github/stars/meyercm/ets_owner)](https://github.com/meyercm/ets_owner)
 |7|[cbuf](https://hex.pm/packages/cbuf)|0.7.1|2018-09-01|A circular buffer backed by a queue, map, or ETS|27xxxx|[![32222](https://img.shields.io/github/stars/ckampfe/cbuf)](https://github.com/ckampfe/cbuf)
@@ -36,8 +36,8 @@
 |19|[indexed](https://hex.pm/packages/indexed)|0.3.4|2023-03-09|Manage and Paginate records in ETS.|1xxxx|[![40051](https://img.shields.io/github/stars/djthread/indexed)](https://github.com/djthread/indexed)
 |20|[vettore](https://hex.pm/packages/vettore)|0.3.6|2026-10-18|Adaptive vector search for Elixir with ETS storage and native acceleration|1xxxx|[![66859](https://img.shields.io/github/stars/elchemista/vettore)](https://github.com/elchemista/vettore)
 |21|[blanket](https://hex.pm/packages/blanket)|1.0.0|2017-05-15|Don&#039;t loose your ETS tables with Elixir.|1xxxx|[![31577](https://img.shields.io/github/stars/niahoo/blanket)](https://github.com/niahoo/blanket)
-|22|[leaky](https://hex.pm/packages/leaky)|0.1.1|2024-05-07|Implements a token-based rate limiter using the leaky bucket algorithm, ideal for controlling access rates to resources in Elixir applications. This implementation leverages ETS for optimized performance, making it suitable for high-load environments.|3xxx|[![41174](https://img.shields.io/github/stars/ihorkatkov/leaky)](https://github.com/ihorkatkov/leaky)
-|23|[tidefall](https://hex.pm/packages/tidefall)|1.0.0|2026-08-07|ETS-based buffer for high-throughput writes and batch processing|3xxx|[![4093798](https://img.shields.io/github/stars/cabol/tidefall)](https://github.com/cabol/tidefall)
+|22|[tidefall](https://hex.pm/packages/tidefall)|1.0.0|2026-08-07|ETS-based buffer for high-throughput writes and batch processing|3xxx|[![4093798](https://img.shields.io/github/stars/cabol/tidefall)](https://github.com/cabol/tidefall)
+|23|[leaky](https://hex.pm/packages/leaky)|0.1.1|2024-05-07|Implements a token-based rate limiter using the leaky bucket algorithm, ideal for controlling access rates to resources in Elixir applications. This implementation leverages ETS for optimized performance, making it suitable for high-load environments.|3xxx|[![41174](https://img.shields.io/github/stars/ihorkatkov/leaky)](https://github.com/ihorkatkov/leaky)
 |24|[ets_helper](https://hex.pm/packages/ets_helper)|0.1.0|2017-09-18|ETS Wrapper to help in your Elixir projects.|3xxx|[![35446](https://img.shields.io/github/stars/mendrugory/ets_helper)](https://github.com/mendrugory/ets_helper)
 |25|[cached_paginator](https://hex.pm/packages/cached_paginator)|0.1.7|2026-03-27|ETS-backed pagination cache with cursor support.Cache expensive query results once, paginate efficiently with stable cursors.|2xxx|[![32018](https://img.shields.io/github/stars/LKlemens/cached_paginator)](https://github.com/LKlemens/cached_paginator)
 |26|[fakeredis](https://hex.pm/packages/fakeredis)|0.2.1|2020-04-26|FakeRedis recreates the Redis API using only native Erlang/Elixir features,especially ETS.|2xxx|[![37243](https://img.shields.io/github/stars/roryqueue/fakeredis)](https://github.com/roryqueue/fakeredis)
@@ -67,8 +67,8 @@
 |50|[cachetastic](https://hex.pm/packages/cachetastic)|1.0.0|2026-04-01|A unified caching library for Elixir with support for ETS and Redis backends.|7xx|[![32025](https://img.shields.io/github/stars/gskolber/cachetastic)](https://github.com/gskolber/cachetastic)
 |51|[redi](https://hex.pm/packages/redi)|0.8.2|2024-06-16|An erlang ETS cache with TTL.|6xx|[![46491](https://img.shields.io/github/stars/bougueil/erlang-redi)](https://github.com/bougueil/erlang-redi)
 |52|[spaghetti_pool](https://hex.pm/packages/spaghetti_pool)|0.1.0|2016-05-25|A worker pool for concurrently read and written ETS table.|5xx|[![64651](https://img.shields.io/github/stars/theemuts/spaghetti_pool)](https://github.com/theemuts/spaghetti_pool)
-|53|[gen_ets](https://hex.pm/packages/gen_ets)|0.1.1|2025-05-05|GenETS - small wrapper around ETS.|5xx|
-|54|[rkv](https://hex.pm/packages/rkv)|0.1.1|2026-09-03|A simple ETS-based key-value store with the ability to watch changes.|5xx|[![63391](https://img.shields.io/github/stars/nmbrone/rkv)](https://github.com/nmbrone/rkv)
+|53|[rkv](https://hex.pm/packages/rkv)|0.1.1|2026-09-03|A simple ETS-based key-value store with the ability to watch changes.|5xx|[![63391](https://img.shields.io/github/stars/nmbrone/rkv)](https://github.com/nmbrone/rkv)
+|54|[gen_ets](https://hex.pm/packages/gen_ets)|0.1.1|2025-05-05|GenETS - small wrapper around ETS.|5xx|
 |55|[pixie_ets](https://hex.pm/packages/pixie_ets)|1.0.0|2016-07-30|ETS storage backend for Pixie, Elixir&#039;s Bayeux server.|5xx|[![45143](https://img.shields.io/github/stars/messagerocket/pixie_ets)](https://github.com/messagerocket/pixie_ets)
 |56|[gen_pets](https://hex.pm/packages/gen_pets)|0.1.1|2025-06-27|GenPETS - small wrapper around ETS with data persistence.|5xx|
 |57|[pg_registry](https://hex.pm/packages/pg_registry)|0.4.1|2026-04-13|A distributed, metadata-aware process registry for Elixir. Cluster-aware like :pg, Registry-shaped API, per-process values, listener notifications, and native ETS match-spec queries.|5xx|[![44720](https://img.shields.io/github/stars/twinn/pg_registry)](https://github.com/twinn/pg_registry)

@@ -2,9 +2,9 @@
 ## HTTP server
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[cowboy](https://hex.pm/packages/cowboy)|2.20.0|2026-10-08|Small, fast, modern HTTP server.|15064xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)|erlang
-|2|[bandit](https://hex.pm/packages/bandit)|1.13.1|2026-10-15|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1649xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)|elixir
-|3|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1327xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)|elixir
+|1|[cowboy](https://hex.pm/packages/cowboy)|2.20.0|2026-10-08|Small, fast, modern HTTP server.|15074xxxx|[![33105](https://img.shields.io/github/stars/ninenines/cowboy)](https://github.com/ninenines/cowboy)|erlang
+|2|[bandit](https://hex.pm/packages/bandit)|1.13.1|2026-10-15|A pure-Elixir HTTP server built for Plug &amp; WebSock apps|1658xxxx|[![31175](https://img.shields.io/github/stars/mtrudel/bandit)](https://github.com/mtrudel/bandit)|elixir
+|3|[bypass](https://hex.pm/packages/bypass)|2.1.0|2020-11-13|Bypass provides a quick way to create a custom plug that can be put in place instead of anactual HTTP server to return prebaked responses to client requests. This is helpful when youwant to create a mock HTTP server and test how your HTTP client handles different types ofserver responses.|1328xxxx|[![31998](https://img.shields.io/github/stars/PSPDFKit-labs/bypass)](https://github.com/PSPDFKit-labs/bypass)|elixir
 |4|[ace](https://hex.pm/packages/ace)|0.19.0|2020-11-21|HTTP web server and client, supports http1 and http2|214xxxx|[![1317](https://img.shields.io/github/stars/crowdhailer/ace)](https://github.com/crowdhailer/ace)|elixir
 |5|[gleam_http](https://hex.pm/packages/gleam_http)|4.5.0|2026-10-09|Types and functions for Gleam HTTP clients and servers|67xxxx|[![38377](https://img.shields.io/github/stars/gleam-lang/http)](https://github.com/gleam-lang/http)|gleam
 |6|[elli](https://hex.pm/packages/elli)|3.3.0|2020-07-07|Erlang web server for HTTP APIs|45xxxx|[![34924](https://img.shields.io/github/stars/elli-lib/elli)](https://github.com/elli-lib/elli)|erlang
@@ -14,10 +14,10 @@
 ## HTTP client
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.8.5|2026-10-03|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17393xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
-|2|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13340xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
-|3|[tesla](https://hex.pm/packages/tesla)|1.22.0|2026-10-11|HTTP client library, with support for middleware and multiple adapters.|7512xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
-|4|[mint](https://hex.pm/packages/mint)|1.11.0|2026-09-29|Small and composable HTTP client.|6842xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
+|1|[hackney](https://hex.pm/packages/hackney)|4.8.5|2026-10-03|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17399xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
+|2|[httpoison](https://hex.pm/packages/httpoison)|3.0.0|2026-06-14|Yet Another HTTP client for Elixir powered by hackney|13343xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
+|3|[tesla](https://hex.pm/packages/tesla)|1.22.0|2026-10-11|HTTP client library, with support for middleware and multiple adapters.|7516xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
+|4|[mint](https://hex.pm/packages/mint)|1.11.0|2026-09-29|Small and composable HTTP client.|6854xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
 |5|[ibrowse](https://hex.pm/packages/ibrowse)|4.5.0|2026-05-01|Erlang HTTP client application|5622xxxx|[![39902](https://img.shields.io/github/stars/cmullaparthi/ibrowse)](https://github.com/cmullaparthi/ibrowse)|erlang
 |6|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5577xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)|erlang
 |7|[gleam_httpc](https://hex.pm/packages/gleam_httpc)|5.0.0|2025-07-15|Gleam bindings to Erlang&#039;s built in HTTP client, httpc|31xxxx|[![38378](https://img.shields.io/github/stars/gleam-lang/httpc)](https://github.com/gleam-lang/httpc)|gleam
@@ -26,7 +26,7 @@
 ## MQTT
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.1|2026-09-10|Erlang MQTT v5.0 Client|73xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
+|1|[emqtt](https://hex.pm/packages/emqtt)|1.16.1|2026-09-10|Erlang MQTT v5.0 Client|74xxxx|[![35024](https://img.shields.io/github/stars/emqx/emqtt)](https://github.com/emqx/emqtt)|erlang
 |2|[tortoise](https://hex.pm/packages/tortoise)|0.10.0|2021-09-08|A MQTT client for Elixir.|49xxxx|[![66029](https://img.shields.io/github/stars/gausby/tortoise)](https://github.com/gausby/tortoise)|elixir
 |3|[tortoise311](https://hex.pm/packages/tortoise311)|0.12.3|2026-09-10|An MQTT 3.1.1 client for Elixir|22xxxx|[![66030](https://img.shields.io/github/stars/smartrent/tortoise311)](https://github.com/smartrent/tortoise311)|elixir
 |4|[mqtree](https://hex.pm/packages/mqtree)|1.0.20|2026-03-25|Index tree for MQTT topic filters|19xxxx|[![42997](https://img.shields.io/github/stars/processone/mqtree)](https://github.com/processone/mqtree)|erlang
@@ -38,15 +38,15 @@
 ## TCP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16430xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)|erlang
+|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16442xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)|erlang
 |2|[extreme](https://hex.pm/packages/extreme)|1.2.1|2026-10-21|Elixir TCP client for EventStore.|13xxxx|[![37014](https://img.shields.io/github/stars/exponentially/extreme)](https://github.com/exponentially/extreme)|elixir
 |3|[modbus](https://hex.pm/packages/modbus)|0.4.0|2022-02-23|Modbus library with TCP Master &amp; Slave implementation.|13xxxx|[![42830](https://img.shields.io/github/stars/samuelventura/modbus)](https://github.com/samuelventura/modbus)|elixir
 |4|[socket_tcp_bridge](https://hex.pm/packages/socket_tcp_bridge)|0.1.0|2017-03-18|Bridge between unix socket and tcp port. You can redirect UNIX socket (e.g. Docker API) to TCP port.|9xxxx|[![64562](https://img.shields.io/github/stars/mizalewski/elixir-unixbridge)](https://github.com/mizalewski/elixir-unixbridge)|elixir
 |5|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|5xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)|gleam
 |6|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)|erlang
 |7|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)|erlang
-|8|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|5xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)|gleam
-|9|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx||gleam
+|8|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|6xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)|gleam
+|9|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|4xx||gleam
 ## UDP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -55,16 +55,16 @@
 |3|[abyss](https://hex.pm/packages/abyss)|0.9.0|2026-10-21|Abyss is a pure Elixir UDP server|15xxxx|[![95](https://img.shields.io/github/stars/gsmlg-dev/abyss)](https://github.com/gsmlg-dev/abyss)|elixir
 |4|[influx_udp](https://hex.pm/packages/influx_udp)|1.1.2|2021-10-30|InfluxDB UDP writer|4xxxx|[![40097](https://img.shields.io/github/stars/palkan/influx_udp)](https://github.com/palkan/influx_udp)|erlang
 |5|[esockd](https://hex.pm/packages/esockd)|5.8.2|2021-07-17|General Non-blocking TCP/SSL and UDP/DTLS Server|3xxxx|[![35359](https://img.shields.io/github/stars/emqx/esockd)](https://github.com/emqx/esockd)|erlang
-|6|[reckon_db](https://hex.pm/packages/reckon_db)|5.11.13|2026-10-21|BEAM-native Event Store built on Khepri/Ra with Raft consensus. Event sourcing, persistent subscriptions, snapshots, and automatic cluster formation via UDP multicast discovery. Ships embedded Rust NIFs for 3-15x acceleration of crypto, hashing, compression, aggregation, filter matching, and graph algorithms — with pure-Erlang fallbacks when the toolchain isn&#039;t available.|2xxxx|[![46446](https://img.shields.io/github/stars/reckon-db-org/reckon-db)](https://github.com/reckon-db-org/reckon-db)|erlang
+|6|[reckon_db](https://hex.pm/packages/reckon_db)|5.11.14|2026-10-23|BEAM-native Event Store built on Khepri/Ra with Raft consensus. Event sourcing, persistent subscriptions, snapshots, and automatic cluster formation via UDP multicast discovery. Ships embedded Rust NIFs for 3-15x acceleration of crypto, hashing, compression, aggregation, filter matching, and graph algorithms — with pure-Erlang fallbacks when the toolchain isn&#039;t available.|2xxxx|[![46446](https://img.shields.io/github/stars/reckon-db-org/reckon-db)](https://github.com/reckon-db-org/reckon-db)|erlang
 |7|[neon](https://hex.pm/packages/neon)|3.0.0|2026-06-21|A Gleam networking library for TCP, UDP, and SSL/TLS sockets|1xxx|[![43277](https://img.shields.io/github/stars/stndrs/neon)](https://github.com/stndrs/neon)|gleam
 |8|[grammy](https://hex.pm/packages/grammy)|0.3.2|2025-05-17|A basic Gleam UDP server|1xxx|[![39071](https://img.shields.io/github/stars/rawhat/grammy)](https://github.com/rawhat/grammy)|gleam
-|9|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|8xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)|gleam
+|9|[toss](https://hex.pm/packages/toss)|1.0.0|2025-12-07|A UDP client for Gleam|9xx|[![66032](https://img.shields.io/github/stars/sbergen/toss)](https://github.com/sbergen/toss)|gleam
 ## WebSocket
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3788xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)|elixir
-|2|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|247xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)|elixir
-|3|[absinthe_graphql_ws](https://hex.pm/packages/absinthe_graphql_ws)|0.3.6|2022-07-29|Add graphql-ws websocket transport for Absinthe|173xxxx|[![64](https://img.shields.io/github/stars/geometerio/absinthe_graphql_ws)](https://github.com/geometerio/absinthe_graphql_ws)|elixir
+|1|[websock](https://hex.pm/packages/websock)|0.5.3|2023-08-15|A specification for WebSocket connections|3799xxxx|[![67126](https://img.shields.io/github/stars/phoenixframework/websock)](https://github.com/phoenixframework/websock)|elixir
+|2|[mint_web_socket](https://hex.pm/packages/mint_web_socket)|1.0.6|2026-08-12|HTTP/1 and HTTP/2 WebSocket support for Mint|248xxxx|[![42651](https://img.shields.io/github/stars/elixir-mint/mint_web_socket)](https://github.com/elixir-mint/mint_web_socket)|elixir
+|3|[absinthe_graphql_ws](https://hex.pm/packages/absinthe_graphql_ws)|0.3.6|2022-07-29|Add graphql-ws websocket transport for Absinthe|174xxxx|[![64](https://img.shields.io/github/stars/geometerio/absinthe_graphql_ws)](https://github.com/geometerio/absinthe_graphql_ws)|elixir
 |4|[gramps](https://hex.pm/packages/gramps)|6.0.1|2026-04-18|A Gleam HTTP and WebSocket helper library|37xxxx|[![39073](https://img.shields.io/github/stars/rawhat/gramps)](https://github.com/rawhat/gramps)|gleam
 |5|[elli_websocket](https://hex.pm/packages/elli_websocket)|0.1.1|2018-10-24|Elli WebSocket Handler.|1xxxx|[![34937](https://img.shields.io/github/stars/elli-lib/elli_websocket)](https://github.com/elli-lib/elli_websocket)|erlang
 |6|[elli_ws_undertone](https://hex.pm/packages/elli_ws_undertone)|0.1.2|2021-07-10|Elli WebSocket Handler.|9xxx|[![34938](https://img.shields.io/github/stars/ut-proj/elli_websocket)](https://github.com/ut-proj/elli_websocket)|erlang
@@ -79,11 +79,11 @@
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)|elixir
 |4|[conn_grpc](https://hex.pm/packages/conn_grpc)|0.4.3|2026-03-17|Persistent channels, and channel pools for gRPC Elixir|25xxxx|[![32948](https://img.shields.io/github/stars/TheRealReal/conn_grpc)](https://github.com/TheRealReal/conn_grpc)|elixir
 |5|[grpc_update](https://hex.pm/packages/grpc_update)|2.0.0|2022-06-22|The Elixir implementation of gRPC|6xx||erlang
-|6|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|7x|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)|erlang
+|6|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|8x|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)|erlang
 ## DNS
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|903xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)|elixir
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|907xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)|elixir
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|146xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)|elixir
 |3|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.3|2026-10-16|A simple, no frills mDNS implementation in Elixir|41xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)|elixir
 |4|[dns_erlang](https://hex.pm/packages/dns_erlang)|5.1.1|2026-10-22|An Erlang DNS message library that supports most common record types, TSIG authenticated messages, EDNS0 and DNSSEC.|3xxxx|[![33953](https://img.shields.io/github/stars/dnsimple/dns_erlang)](https://github.com/dnsimple/dns_erlang)|erlang
@@ -96,9 +96,9 @@
 ## SQL
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[postgrex](https://hex.pm/packages/postgrex)|1.0.0-rc.1|2026-08-07|PostgreSQL driver for Elixir|14241xxxx|[![45561](https://img.shields.io/github/stars/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)|elixir
-|2|[ecto_sql](https://hex.pm/packages/ecto_sql)|3.14.0|2026-05-19|SQL-based adapters for Ecto and database migrations|13083xxxx|[![34535](https://img.shields.io/github/stars/elixir-ecto/ecto_sql)](https://github.com/elixir-ecto/ecto_sql)|elixir
-|3|[oban](https://hex.pm/packages/oban)|2.24.2|2026-10-14|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2848xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
+|1|[postgrex](https://hex.pm/packages/postgrex)|1.0.0-rc.1|2026-08-07|PostgreSQL driver for Elixir|14250xxxx|[![45561](https://img.shields.io/github/stars/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)|elixir
+|2|[ecto_sql](https://hex.pm/packages/ecto_sql)|3.14.0|2026-05-19|SQL-based adapters for Ecto and database migrations|13093xxxx|[![34535](https://img.shields.io/github/stars/elixir-ecto/ecto_sql)](https://github.com/elixir-ecto/ecto_sql)|elixir
+|3|[oban](https://hex.pm/packages/oban)|2.24.2|2026-10-14|Robust job processing, backed by modern PostgreSQL, SQLite3, and MySQL.|2854xxxx|[![43842](https://img.shields.io/github/stars/oban-bg/oban)](https://github.com/oban-bg/oban)|elixir
 |4|[epgsql](https://hex.pm/packages/epgsql)|4.8.0|2025-06-06|PostgreSQL Client|275xxxx|[![35129](https://img.shields.io/github/stars/epgsql/epgsql)](https://github.com/epgsql/epgsql)|erlang
 |5|[eql](https://hex.pm/packages/eql)|0.2.0|2018-12-06|Erlang with SQL|77xxxx|[![35157](https://img.shields.io/github/stars/artemeff/eql)](https://github.com/artemeff/eql)|erlang
 |6|[mysql](https://hex.pm/packages/mysql)|1.9.0|2025-03-16|MySQL/OTP - Erlang MySQL client driver|61xxxx|[![43154](https://img.shields.io/github/stars/mysql-otp/mysql-otp)](https://github.com/mysql-otp/mysql-otp)|erlang
@@ -109,8 +109,8 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2466xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)|elixir
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2059xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)|elixir
-|3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|513xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)|elixir
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2061xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)|elixir
+|3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|514xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)|elixir
 |4|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|460xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)|erlang
 |5|[booklet](https://hex.pm/packages/booklet)|1.1.0|2025-11-06|A simple in-memory cache using ETS tables or mutable references.|5xxxx||gleam
 |6|[carpenter](https://hex.pm/packages/carpenter)|0.3.1|2024-04-08|Bindings for Erlang&#039;s ETS tables. Forked and updated from gts.|1xxxx|[![32158](https://img.shields.io/github/stars/grottohub/carpenter)](https://github.com/grottohub/carpenter)|gleam
@@ -120,7 +120,7 @@
 ## Mnesia
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|386xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)|erlang
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|387xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)|erlang
 |2|[memento](https://hex.pm/packages/memento)|0.6.0|2026-06-11|Simple &amp; Powerful Elixir wrapper for the Mnesia Database|75xxxx|[![42457](https://img.shields.io/github/stars/sheharyarn/memento)](https://github.com/sheharyarn/memento)|elixir
 |3|[que](https://hex.pm/packages/que)|0.12.0|2026-06-11|Simple Background Job Processing with Mnesia|48xxxx|[![45986](https://img.shields.io/github/stars/sheharyarn/que)](https://github.com/sheharyarn/que)|elixir
 |4|[amnesia](https://hex.pm/packages/amnesia)|0.2.8|2019-12-16|mnesia wrapper for Elixir|35xxxx|[![1649](https://img.shields.io/github/stars/meh/amnesia)](https://github.com/meh/amnesia)|elixir
@@ -131,9 +131,9 @@
 ## Redis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4598xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
+|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4601xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)|elixir
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2334xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)|elixir
-|3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1580xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
+|3|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1582xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)|erlang
 |4|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|353xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)|elixir
 |5|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|151xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)|erlang
 |6|[mc_eredis](https://hex.pm/packages/mc_eredis)|3.0.1|2026-10-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)|erlang
@@ -163,20 +163,20 @@
 ## JSON
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[jason](https://hex.pm/packages/jason)|1.5.0-alpha.2|2026-05-05|A blazing fast JSON parser and generator in pure Elixir.|21444xxxx|[![40375](https://img.shields.io/github/stars/michalmuskala/jason)](https://github.com/michalmuskala/jason)|elixir
-|2|[poison](https://hex.pm/packages/poison)|6.0.0|2024-06-09|An incredibly fast, pure Elixir JSON library|12235xxxx|[![45430](https://img.shields.io/github/stars/devinus/poison)](https://github.com/devinus/poison)|elixir
-|3|[jose](https://hex.pm/packages/jose)|1.11.12|2025-11-20|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11408xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)|erlang
-|4|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5877xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)|elixir
-|5|[yamerl](https://hex.pm/packages/yamerl)|0.10.0|2022-01-28|YAML 1.2 and JSON parser in pure Erlang|3601xxxx|[![67476](https://img.shields.io/github/stars/yakaz/yamerl)](https://github.com/yakaz/yamerl)|erlang
-|6|[thoas](https://hex.pm/packages/thoas)|1.2.1|2024-05-13|A blazing fast JSON parser and generator in pure Erlang.|1220xxxx|[![65802](https://img.shields.io/github/stars/lpil/thoas)](https://github.com/lpil/thoas)|erlang
+|1|[jason](https://hex.pm/packages/jason)|1.5.0-alpha.2|2026-05-05|A blazing fast JSON parser and generator in pure Elixir.|21462xxxx|[![40375](https://img.shields.io/github/stars/michalmuskala/jason)](https://github.com/michalmuskala/jason)|elixir
+|2|[poison](https://hex.pm/packages/poison)|6.0.0|2024-06-09|An incredibly fast, pure Elixir JSON library|12236xxxx|[![45430](https://img.shields.io/github/stars/devinus/poison)](https://github.com/devinus/poison)|elixir
+|3|[jose](https://hex.pm/packages/jose)|1.11.12|2025-11-20|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11415xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)|erlang
+|4|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5881xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)|elixir
+|5|[yamerl](https://hex.pm/packages/yamerl)|0.10.0|2022-01-28|YAML 1.2 and JSON parser in pure Erlang|3607xxxx|[![67476](https://img.shields.io/github/stars/yakaz/yamerl)](https://github.com/yakaz/yamerl)|erlang
+|6|[thoas](https://hex.pm/packages/thoas)|1.2.1|2024-05-13|A blazing fast JSON parser and generator in pure Erlang.|1222xxxx|[![65802](https://img.shields.io/github/stars/lpil/thoas)](https://github.com/lpil/thoas)|erlang
 |7|[gleam_json](https://hex.pm/packages/gleam_json)|3.1.0|2025-11-08|Work with JSON in Gleam|82xxxx|[![38381](https://img.shields.io/github/stars/gleam-lang/json)](https://github.com/gleam-lang/json)|gleam
 |8|[oas_generator_utils](https://hex.pm/packages/oas_generator_utils)|1.1.0|2025-12-17|Resuable utilities for projects generated with oas_generator for Open API Spec, JSON schema and MCP client or server.|2xxxx|[![43814](https://img.shields.io/github/stars/crowdhailer/oas_generator)](https://github.com/crowdhailer/oas_generator)|gleam
 |9|[castor](https://hex.pm/packages/castor)|2.1.0|2026-03-24|Work with JSON Schema in Gleam. Supports building schemas as well as encoding decoding from json schema file.|1xxxx|[![32199](https://img.shields.io/github/stars/crowdhailer/castor)](https://github.com/crowdhailer/castor)|gleam
 ## YAML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[yaml_elixir](https://hex.pm/packages/yaml_elixir)|2.12.2|2026-05-30|YAML parser for Elixir based on native Erlang implementation.|2907xxxx|[![67482](https://img.shields.io/github/stars/KamilLelonek/yaml-elixir)](https://github.com/KamilLelonek/yaml-elixir)|elixir
-|2|[ymlr](https://hex.pm/packages/ymlr)|5.1.6|2026-07-31|A YAML encoder for Elixir|362xxxx|[![67538](https://img.shields.io/github/stars/ufirstgroup/ymlr)](https://github.com/ufirstgroup/ymlr)|elixir
+|1|[yaml_elixir](https://hex.pm/packages/yaml_elixir)|2.12.2|2026-05-30|YAML parser for Elixir based on native Erlang implementation.|2912xxxx|[![67482](https://img.shields.io/github/stars/KamilLelonek/yaml-elixir)](https://github.com/KamilLelonek/yaml-elixir)|elixir
+|2|[ymlr](https://hex.pm/packages/ymlr)|5.1.6|2026-07-31|A YAML encoder for Elixir|363xxxx|[![67538](https://img.shields.io/github/stars/ufirstgroup/ymlr)](https://github.com/ufirstgroup/ymlr)|elixir
 |3|[fast_yaml](https://hex.pm/packages/fast_yaml)|1.0.40|2026-03-25|Fast YAML native library for Erlang / Elixir|40xxxx|[![37302](https://img.shields.io/github/stars/processone/fast_yaml)](https://github.com/processone/fast_yaml)|erlang
 |4|[yconf](https://hex.pm/packages/yconf)|1.0.23|2026-03-25|YAML configuration processor|18xxxx|[![67507](https://img.shields.io/github/stars/processone/yconf)](https://github.com/processone/yconf)|erlang
 |5|[yaml_front_matter](https://hex.pm/packages/yaml_front_matter)|1.0.0|2019-07-09|A YAML front matter parser for Elixir.|4xxxx|[![67486](https://img.shields.io/github/stars/sebastiandedeyne/yaml_front_matter)](https://github.com/sebastiandedeyne/yaml_front_matter)|elixir
@@ -185,7 +185,7 @@
 ## TOML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|752xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)|elixir
+|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|753xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)|elixir
 |2|[tomerl](https://hex.pm/packages/tomerl)|0.5.0|2021-06-15|Erlang TOML Parser|42xxxx|[![65989](https://img.shields.io/github/stars/filmor/tomerl)](https://github.com/filmor/tomerl)|erlang
 |3|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|28xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)|gleam
 |4|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.2.1|2026-10-07|Modern TOML parser and encoder for Elixir with protocol-based struct support|4xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)|elixir
@@ -194,10 +194,10 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[erlsom](https://hex.pm/packages/erlsom)|1.5.2|2025-01-27|XML parser. Supports SAX style parsing as well as XML Schema based data mapping: create records from XML (and vice versa)|7821xxxx|[![35288](https://img.shields.io/github/stars/willemdj/erlsom)](https://github.com/willemdj/erlsom)|erlang
-|2|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7506xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)|elixir
-|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7280xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)|elixir
+|2|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7507xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)|elixir
+|3|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7285xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)|elixir
 |4|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7235xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)|elixir
-|5|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1139xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)|erlang
+|5|[covertool](https://hex.pm/packages/covertool)|2.0.7|2024-09-02|Build tool &amp; plugin for generating Cobertura XML reports|1140xxxx|[![33101](https://img.shields.io/github/stars/covertool/covertool)](https://github.com/covertool/covertool)|erlang
 |6|[fast_xml](https://hex.pm/packages/fast_xml)|1.1.61|2026-09-28|Fast Expat-based Erlang / Elixir XML parsing library|60xxxx|[![37300](https://img.shields.io/github/stars/processone/fast_xml)](https://github.com/processone/fast_xml)|erlang
 |7|[xmb](https://hex.pm/packages/xmb)|1.4.1|2025-04-06|A tiny XML builder for Gleam|1xxxx|[![67387](https://img.shields.io/github/stars/lpil/xmb)](https://github.com/lpil/xmb)|gleam
 |8|[xmlm](https://hex.pm/packages/xmlm)|1.0.1|2026-01-04|An pull-based XML parser for the Gleam programming language|1xxxx|[![67403](https://img.shields.io/github/stars/mooreryan/gleam_xmlm)](https://github.com/mooreryan/gleam_xmlm)|gleam
@@ -205,8 +205,8 @@
 ## CSV
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[csv](https://hex.pm/packages/csv)|3.2.2|2025-01-02|CSV Decoding and Encoding for Elixir|5862xxxx|[![33314](https://img.shields.io/github/stars/beatrichartz/csv)](https://github.com/beatrichartz/csv)|elixir
-|2|[nimble_csv](https://hex.pm/packages/nimble_csv)|1.3.0|2026-09-19|A simple and fast CSV parsing and dumping library|1945xxxx|[![43552](https://img.shields.io/github/stars/dashbitco/nimble_csv)](https://github.com/dashbitco/nimble_csv)|elixir
+|1|[csv](https://hex.pm/packages/csv)|3.2.2|2025-01-02|CSV Decoding and Encoding for Elixir|5865xxxx|[![33314](https://img.shields.io/github/stars/beatrichartz/csv)](https://github.com/beatrichartz/csv)|elixir
+|2|[nimble_csv](https://hex.pm/packages/nimble_csv)|1.3.0|2026-09-19|A simple and fast CSV parsing and dumping library|1947xxxx|[![43552](https://img.shields.io/github/stars/dashbitco/nimble_csv)](https://github.com/dashbitco/nimble_csv)|elixir
 |3|[csvlixir](https://hex.pm/packages/csvlixir)|2.0.4|2019-07-10|CSVLixir is a CSV reader/writer for Elixir.Reading from files returns a stream of lists. Reading from strings returns alist of lists.The writer transforms a (possibly lazy) list of lists into a stream of CSVstrings. It can also take a single list and return a single CSV string.|54xxxx|[![33321](https://img.shields.io/github/stars/jimm/csvlixir)](https://github.com/jimm/csvlixir)|elixir
 ## Protocol Buffers
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
@@ -236,7 +236,7 @@
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
 |1|[oauther](https://hex.pm/packages/oauther)|1.3.0|2021-10-02|A library to authenticate using the OAuth 1.0 protocol.|2640xxxx|[![43839](https://img.shields.io/github/stars/lexmag/oauther)](https://github.com/lexmag/oauther)|elixir
-|2|[oauth2](https://hex.pm/packages/oauth2)|2.1.1|2026-06-03|An Elixir OAuth 2.0 Client Library|1497xxxx|[![43823](https://img.shields.io/github/stars/scrogson/oauth2)](https://github.com/scrogson/oauth2)|elixir
+|2|[oauth2](https://hex.pm/packages/oauth2)|2.1.1|2026-06-03|An Elixir OAuth 2.0 Client Library|1498xxxx|[![43823](https://img.shields.io/github/stars/scrogson/oauth2)](https://github.com/scrogson/oauth2)|elixir
 |3|[elixir_auth_google](https://hex.pm/packages/elixir_auth_google)|1.6.11|2026-03-12|Minimalist Google OAuth Authentication for Elixir Apps|39xxxx|[![34783](https://img.shields.io/github/stars/dwyl/elixir-auth-google)](https://github.com/dwyl/elixir-auth-google)|elixir
 |4|[oauth](https://hex.pm/packages/oauth)|2.1.0|2021-09-01|An Erlang OAuth 1.0 implementation|6xxxx|[![43822](https://img.shields.io/github/stars/erlangpack/erlang-oauth)](https://github.com/erlangpack/erlang-oauth)|erlang
 |5|[oauth2_erlang](https://hex.pm/packages/oauth2_erlang)|0.6.1|2016-02-17|Erlang OAuth 2.0 implementation|3xxx|[![43827](https://img.shields.io/github/stars/kivra/oauth2)](https://github.com/kivra/oauth2)|erlang
@@ -244,7 +244,7 @@
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15813xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15824xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|322xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)|elixir
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)|elixir
 |4|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|33xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)|gleam
@@ -257,10 +257,10 @@
 ## pool
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15206xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
-|2|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8844xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)|erlang
-|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6102xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
-|4|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3040xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)|erlang
+|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15216xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
+|2|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8849xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)|erlang
+|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6112xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
+|4|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3045xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)|erlang
 |5|[worker_pool](https://hex.pm/packages/worker_pool)|7.0.0|2026-09-01|Erlang Worker Pool|154xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)|erlang
 |6|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)|elixir
 |7|[bath](https://hex.pm/packages/bath)|6.0.0|2026-02-20|A resource pool for Gleam!|5xxx|[![31276](https://img.shields.io/github/stars/Pevensie/bath)](https://github.com/Pevensie/bath)|gleam
@@ -270,9 +270,9 @@
 ## AMQP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2202xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)|erlang
-|2|[amqp](https://hex.pm/packages/amqp)|4.3.0|2026-10-06|Idiomatic Elixir client for RabbitMQ.|1751xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)|elixir
-|3|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|360xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)|elixir
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2203xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)|erlang
+|2|[amqp](https://hex.pm/packages/amqp)|4.3.0|2026-10-06|Idiomatic Elixir client for RabbitMQ.|1752xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)|elixir
+|3|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|361xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)|elixir
 |4|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.4|2026-07-28|AMQP 1.0 client|209xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)|erlang
 |5|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|105xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)|elixir
 |6|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)|erlang
@@ -280,10 +280,10 @@
 ## Kafka
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3729xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
-|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3244xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
-|3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1125xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
-|4|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1109xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
+|1|[kayrock](https://hex.pm/packages/kayrock)|1.0.1|2026-09-04|Elixir interface to the Kafka protocol|3730xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
+|2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.1.2|2026-09-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3245xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
+|3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1127xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
+|4|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1111xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
 |5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.7.1|2026-10-15|A Kafka connector for Broadway|298xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
 |6|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|30xxxx||erlang
 |7|[franz](https://hex.pm/packages/franz)|3.0.0|2025-08-23|A Gleam library for interacting with Kafka|1xxx|[![37777](https://img.shields.io/github/stars/renatillas/franz)](https://github.com/renatillas/franz)|gleam
@@ -301,8 +301,8 @@
 ## S3
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[ex_aws](https://hex.pm/packages/ex_aws)|2.7.0|2026-05-06|AWS client for Elixir. Currently supports Dynamo, DynamoStreams, EC2,Firehose, Kinesis, KMS, Lambda, RRDS, Route53, S3, SES, SNS, SQS, STS and others.|7210xxxx|[![35627](https://img.shields.io/github/stars/ex-aws/ex_aws)](https://github.com/ex-aws/ex_aws)|elixir
-|2|[ex_aws_s3](https://hex.pm/packages/ex_aws_s3)|2.5.9|2025-12-09|ExAws.S3 service package|6029xxxx|[![35675](https://img.shields.io/github/stars/ex-aws/ex_aws_s3)](https://github.com/ex-aws/ex_aws_s3)|elixir
+|1|[ex_aws](https://hex.pm/packages/ex_aws)|2.7.0|2026-05-06|AWS client for Elixir. Currently supports Dynamo, DynamoStreams, EC2,Firehose, Kinesis, KMS, Lambda, RRDS, Route53, S3, SES, SNS, SQS, STS and others.|7214xxxx|[![35627](https://img.shields.io/github/stars/ex-aws/ex_aws)](https://github.com/ex-aws/ex_aws)|elixir
+|2|[ex_aws_s3](https://hex.pm/packages/ex_aws_s3)|2.5.9|2025-12-09|ExAws.S3 service package|6032xxxx|[![35675](https://img.shields.io/github/stars/ex-aws/ex_aws_s3)](https://github.com/ex-aws/ex_aws_s3)|elixir
 |3|[req_s3](https://hex.pm/packages/req_s3)|0.2.5|2026-07-31|Req plugin for S3.|17xxxx|[![63214](https://img.shields.io/github/stars/wojtekmach/req_s3)](https://github.com/wojtekmach/req_s3)|elixir
 |4|[s3filez](https://hex.pm/packages/s3filez)|2.0.0|2025-04-15|Stream and file interface for S3 storage|8xxxx|[![63593](https://img.shields.io/github/stars/mworrell/s3filez)](https://github.com/mworrell/s3filez)|erlang
 |5|[aws4_request](https://hex.pm/packages/aws4_request)|1.2.3|2026-06-17|An AWS Signature Version 4 client implementation, used for S3 auth, etc|3xxxx|[![31034](https://img.shields.io/github/stars/lpil/aws4_request)](https://github.com/lpil/aws4_request)|gleam
@@ -326,12 +326,12 @@
 ## metrics
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[telemetry](https://hex.pm/packages/telemetry)|1.4.2|2026-09-30|Dynamic dispatching library for metrics and instrumentations|16591xxxx|[![65545](https://img.shields.io/github/stars/beam-telemetry/telemetry)](https://github.com/beam-telemetry/telemetry)|erlang
-|2|[metrics](https://hex.pm/packages/metrics)|2.5.0|2019-05-21|A generic interface to different metrics systems in Erlang.|16526xxxx|[![42555](https://img.shields.io/github/stars/benoitc/erlang-metrics)](https://github.com/benoitc/erlang-metrics)|erlang
-|3|[prometheus](https://hex.pm/packages/prometheus)|6.1.3|2026-06-28|Prometheus.io client in Erlang|8757xxxx|[![45718](https://img.shields.io/github/stars/prometheus-erl/prometheus.erl)](https://github.com/prometheus-erl/prometheus.erl)|erlang
+|1|[telemetry](https://hex.pm/packages/telemetry)|1.4.2|2026-09-30|Dynamic dispatching library for metrics and instrumentations|16608xxxx|[![65545](https://img.shields.io/github/stars/beam-telemetry/telemetry)](https://github.com/beam-telemetry/telemetry)|erlang
+|2|[metrics](https://hex.pm/packages/metrics)|2.5.0|2019-05-21|A generic interface to different metrics systems in Erlang.|16531xxxx|[![42555](https://img.shields.io/github/stars/benoitc/erlang-metrics)](https://github.com/benoitc/erlang-metrics)|erlang
+|3|[prometheus](https://hex.pm/packages/prometheus)|6.1.3|2026-06-28|Prometheus.io client in Erlang|8758xxxx|[![45718](https://img.shields.io/github/stars/prometheus-erl/prometheus.erl)](https://github.com/prometheus-erl/prometheus.erl)|erlang
 |4|[statix](https://hex.pm/packages/statix)|1.4.0|2020-03-08|Fast and reliable Elixir client for StatsD-compatible servers.|7281xxxx|[![64941](https://img.shields.io/github/stars/lexmag/statix)](https://github.com/lexmag/statix)|elixir
 |5|[prometheus_ex](https://hex.pm/packages/prometheus_ex)|5.1.0|2026-02-10|Elixir-friendly Prometheus monitoring system client.|6712xxxx|[![45724](https://img.shields.io/github/stars/prometheus-erl/prometheus.ex)](https://github.com/prometheus-erl/prometheus.ex)|elixir
-|6|[prometheus_phoenix](https://hex.pm/packages/prometheus_phoenix)|1.3.0|2019-07-18|Prometheus monitoring system client Phoenix instrumenter.|5794xxxx|[![45729](https://img.shields.io/github/stars/deadtrickster/prometheus-phoenix)](https://github.com/deadtrickster/prometheus-phoenix)|elixir
+|6|[prometheus_phoenix](https://hex.pm/packages/prometheus_phoenix)|1.3.0|2019-07-18|Prometheus monitoring system client Phoenix instrumenter.|5795xxxx|[![45729](https://img.shields.io/github/stars/deadtrickster/prometheus-phoenix)](https://github.com/deadtrickster/prometheus-phoenix)|elixir
 |7|[textmetrics](https://hex.pm/packages/textmetrics)|0.8.0|2026-09-10|Edit distances, similarity scores, LCS, and diff for Gleam.|4xxx|[![87623](https://img.shields.io/github/stars/nao1215/textmetrics)](https://github.com/nao1215/textmetrics)|gleam
 |8|[themis](https://hex.pm/packages/themis)|4.1.1|2025-12-07|Prometheus client in pure Gleam!|2xxx|[![65785](https://img.shields.io/github/stars/guillheu/Themis)](https://github.com/guillheu/Themis)|gleam
 |9|[glotel](https://hex.pm/packages/glotel)|1.0.1|2025-12-21|Gleam OpenTelemetry library|2xxx|[![38592](https://img.shields.io/github/stars/skinkade/glotel)](https://github.com/skinkade/glotel)|gleam
@@ -339,12 +339,12 @@
 ## Testing
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6946xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)|erlang
-|2|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2148xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)|elixir
-|3|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|686xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)|erlang
-|4|[patch](https://hex.pm/packages/patch)|0.16.0|2025-06-03|Ergonomic Mocking for Elixir Unit Testing|487xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)|elixir
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|6950xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)|erlang
+|2|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2149xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)|elixir
+|3|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|687xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)|erlang
+|4|[patch](https://hex.pm/packages/patch)|0.16.1|2026-10-22|Ergonomic Mocking for Elixir Unit Testing|489xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)|elixir
 |5|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|263xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)|elixir
-|6|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|142xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)|gleam
+|6|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|143xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)|gleam
 |7|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|87xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)|erlang
 |8|[qcheck](https://hex.pm/packages/qcheck)|1.0.5|2026-08-19|QuickCheck-inspired property testing with integrated shrinking|8xxxx|[![45903](https://img.shields.io/github/stars/mooreryan/gleam_qcheck)](https://github.com/mooreryan/gleam_qcheck)|gleam
 |9|[glacier_gleeunit](https://hex.pm/packages/glacier_gleeunit)|1.3.1003|2025-12-25|This is a fork of gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI.|1xxxx|[![38311](https://img.shields.io/github/stars/inoas/gleeunit)](https://github.com/inoas/gleeunit)|gleam
@@ -352,15 +352,15 @@
 ## Rabar3 plugin
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.3.0|2026-09-22|Hex.pm plugin for rebar3|5338xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)|*
-|2|[rebar3_archive_plugin](https://hex.pm/packages/rebar3_archive_plugin)|0.0.2|2019-02-20|Create Erlang Code archives with rebar3.|1937xxxx|[![46315](https://img.shields.io/github/stars/deadtrickster/rebar3_archive_plugin)](https://github.com/deadtrickster/rebar3_archive_plugin)|*
-|3|[rebar3_proper](https://hex.pm/packages/rebar3_proper)|0.12.1|2020-12-18|Run PropEr test suites|1187xxxx|[![46396](https://img.shields.io/github/stars/ferd/rebar3_proper)](https://github.com/ferd/rebar3_proper)|*
+|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.3.0|2026-09-22|Hex.pm plugin for rebar3|5340xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)|*
+|2|[rebar3_archive_plugin](https://hex.pm/packages/rebar3_archive_plugin)|0.0.2|2019-02-20|Create Erlang Code archives with rebar3.|1938xxxx|[![46315](https://img.shields.io/github/stars/deadtrickster/rebar3_archive_plugin)](https://github.com/deadtrickster/rebar3_archive_plugin)|*
+|3|[rebar3_proper](https://hex.pm/packages/rebar3_proper)|0.12.1|2020-12-18|Run PropEr test suites|1188xxxx|[![46396](https://img.shields.io/github/stars/ferd/rebar3_proper)](https://github.com/ferd/rebar3_proper)|*
 ## Mix task
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[dialyxir](https://hex.pm/packages/dialyxir)|1.4.8|2026-09-05|Mix tasks to simplify use of Dialyzer in Elixir projects.|9246xxxx|[![33777](https://img.shields.io/github/stars/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir)|*
-|2|[esbuild](https://hex.pm/packages/esbuild)|0.10.1|2026-10-19|Mix tasks for installing and invoking esbuild|2076xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)|*
-|3|[mix_test_watch](https://hex.pm/packages/mix_test_watch)|1.4.0|2025-10-21|Automatically run tests when files change|1596xxxx|[![42744](https://img.shields.io/github/stars/lpil/mix-test.watch)](https://github.com/lpil/mix-test.watch)|*
+|1|[dialyxir](https://hex.pm/packages/dialyxir)|1.4.8|2026-09-05|Mix tasks to simplify use of Dialyzer in Elixir projects.|9251xxxx|[![33777](https://img.shields.io/github/stars/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir)|*
+|2|[esbuild](https://hex.pm/packages/esbuild)|0.10.1|2026-10-19|Mix tasks for installing and invoking esbuild|2082xxxx|[![35341](https://img.shields.io/github/stars/phoenixframework/esbuild)](https://github.com/phoenixframework/esbuild)|*
+|3|[mix_test_watch](https://hex.pm/packages/mix_test_watch)|1.4.0|2025-10-21|Automatically run tests when files change|1597xxxx|[![42744](https://img.shields.io/github/stars/lpil/mix-test.watch)](https://github.com/lpil/mix-test.watch)|*
 ## Gleam plugin
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -369,7 +369,7 @@
 ## Code Analysis
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[elvis_core](https://hex.pm/packages/elvis_core)|6.0.0|2026-08-21|Core library for the Erlang style reviewer|892xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)|erlang
+|1|[elvis_core](https://hex.pm/packages/elvis_core)|6.0.0|2026-08-21|Core library for the Erlang style reviewer|893xxxx|[![34966](https://img.shields.io/github/stars/inaka/elvis_core)](https://github.com/inaka/elvis_core)|erlang
 |2|[exprof](https://hex.pm/packages/exprof)|0.2.4|2020-12-17|A simple code profiler for Elixir using eprof.|239xxxx|[![36665](https://img.shields.io/github/stars/parroty/exprof)](https://github.com/parroty/exprof)|elixir
 |3|[eflame](https://hex.pm/packages/eflame)|1.0.1|2017-02-06|Flame Graph profiler for Erlang and Elixir.|75xxxx|[![34641](https://img.shields.io/github/stars/proger/eflame)](https://github.com/proger/eflame)|elixir
 |4|[geas](https://hex.pm/packages/geas)|2.11.2|2026-10-11|Guess Erlang Application Scattering|23xxxx|[![37979](https://img.shields.io/github/stars/crownedgrouse/geas)](https://github.com/crownedgrouse/geas)|erlang
@@ -377,7 +377,7 @@
 ## Debugging
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1001xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)|erlang
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1003xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)|erlang
 |2|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|233xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)|elixir
 |3|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|83xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)|elixir
 |4|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)|erlang
@@ -392,7 +392,7 @@
 |2|[randex](https://hex.pm/packages/randex)|0.4.0|2019-05-03|A library to generate random strings that match the given Regex|79xxxx|[![46124](https://img.shields.io/github/stars/ananthakumaran/randex)](https://github.com/ananthakumaran/randex)|elixir
 |3|[unicode_set](https://hex.pm/packages/unicode_set)|1.9.0|2026-09-20|Implementation of Unicode Sets and Regexes for Elixir that can be used infunction guards, compiled patterns, nimble_parsec combinatorsand regexes.|64xxxx|[![66564](https://img.shields.io/github/stars/elixir-unicode/unicode_set)](https://github.com/elixir-unicode/unicode_set)|elixir
 |4|[re2](https://hex.pm/packages/re2)|1.9.8|2022-06-25|Erlang NIF bindings for RE2 regex library|52xxxx|[![46263](https://img.shields.io/github/stars/dukesoferl/re2)](https://github.com/dukesoferl/re2)|erlang
-|5|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|48xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)|gleam
+|5|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|49xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)|gleam
 |6|[re_tuner](https://hex.pm/packages/re_tuner)|0.1.21|2021-09-06|Erlang Regular Expressions simplifyer. Functions for simplifying working with Regular Expressions.|3xxx|[![63295](https://img.shields.io/github/stars/rustkas/re_tuner)](https://github.com/rustkas/re_tuner)|erlang
 |7|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|2xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)|gleam
 |8|[xs_regex](https://hex.pm/packages/xs_regex)|0.1.0|2022-01-05|XML Schema regex translation library|1xxx|[![67446](https://img.shields.io/github/stars/zadean/xs_regex)](https://github.com/zadean/xs_regex)|erlang
@@ -401,10 +401,10 @@
 ## AI
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[observer_cli](https://hex.pm/packages/observer_cli)|2.0.0|2026-07-14|Production-ready BEAM diagnostics for operators, automation, and AI agents.|2775xxxx|[![43867](https://img.shields.io/github/stars/zhongwencool/observer_cli)](https://github.com/zhongwencool/observer_cli)|erlang
-|2|[langchain](https://hex.pm/packages/langchain)|0.15.4|2026-10-22|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|98xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
-|3|[llm_db](https://hex.pm/packages/llm_db)|2026.10.6|2026-10-22|LLM model metadata catalog with fast, capability-aware lookups.|78xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
-|4|[openai](https://hex.pm/packages/openai)|0.6.2|2024-07-18|community-maintained OpenAI API Wrapper written in Elixir.|75xxxx|[![44041](https://img.shields.io/github/stars/mgallo/openai.ex)](https://github.com/mgallo/openai.ex)|elixir
+|1|[observer_cli](https://hex.pm/packages/observer_cli)|2.0.0|2026-07-14|Production-ready BEAM diagnostics for operators, automation, and AI agents.|2779xxxx|[![43867](https://img.shields.io/github/stars/zhongwencool/observer_cli)](https://github.com/zhongwencool/observer_cli)|erlang
+|2|[langchain](https://hex.pm/packages/langchain)|0.15.5|2026-10-23|Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.|98xxxx|[![41090](https://img.shields.io/github/stars/brainlid/langchain)](https://github.com/brainlid/langchain)|elixir
+|3|[llm_db](https://hex.pm/packages/llm_db)|2026.10.6|2026-10-22|LLM model metadata catalog with fast, capability-aware lookups.|79xxxx|[![41555](https://img.shields.io/github/stars/agentjido/llmdb)](https://github.com/agentjido/llmdb)|elixir
+|4|[req_llm](https://hex.pm/packages/req_llm)|1.29.0|2026-10-22|Composable Elixir library for LLM interactions built on Req &amp; Finch|75xxxx|[![63208](https://img.shields.io/github/stars/agentjido/req_llm)](https://github.com/agentjido/req_llm)|elixir
 |5|[nakai](https://hex.pm/packages/nakai)|1.1.2|2025-06-22|HTML generation for Gleam, on the server or anywhere else|1xxxx|[![43167](https://img.shields.io/github/stars/aslilac/nakai)](https://github.com/aslilac/nakai)|gleam
 |6|[assemblyai](https://hex.pm/packages/assemblyai)|1.0.0|2026-02-25|API client for assembly.ai API.|4xxx|[![7663](https://img.shields.io/github/stars/iindyverse/assemblyai)](https://github.com/iindyverse/assemblyai)|gleam
 |7|[erlangchain](https://hex.pm/packages/erlangchain)|4.2.4|2026-10-03|Minimal LLM and image-generation client with datasource support|1xxx|[![3700011](https://img.shields.io/github/stars/abhavk/erlangchain)](https://github.com/abhavk/erlangchain)|erlang
@@ -415,7 +415,7 @@
 |-|-|-|-|:-|-|-|-
 |1|[corenlp](https://hex.pm/packages/corenlp)|0.1.2|2019-02-15|This package provides a client interface to a Stanford CoreNLP Server for natural language processing (NLP) of textual content.|6xxxx|[![33037](https://img.shields.io/github/stars/arpieb/corenlp)](https://github.com/arpieb/corenlp)|elixir
 |2|[penelope](https://hex.pm/packages/penelope)|0.5.0|2020-05-20|Natural Language Processing (NLP) and Machine Learning (ML) library forElixir.|6xxx|[![44624](https://img.shields.io/github/stars/pylon/penelope)](https://github.com/pylon/penelope)|elixir
-|3|[verbnet](https://hex.pm/packages/verbnet)|0.3.1|2019-02-15|This module provides a lookup interface into the VerbNet semantic mapping dataset for natural language processing (NLP) solutions.|1xxx|[![66828](https://img.shields.io/github/stars/arpieb/verbnet)](https://github.com/arpieb/verbnet)|elixir
+|3|[verbnet](https://hex.pm/packages/verbnet)|0.3.1|2019-02-15|This module provides a lookup interface into the VerbNet semantic mapping dataset for natural language processing (NLP) solutions.|2xxx|[![66828](https://img.shields.io/github/stars/arpieb/verbnet)](https://github.com/arpieb/verbnet)|elixir
 ## MCP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -424,7 +424,7 @@
 |3|[hermes_mcp](https://hex.pm/packages/hermes_mcp)|0.14.1|2025-08-14|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|22xxxx|[![39515](https://img.shields.io/github/stars/cloudwalk/hermes-mcp)](https://github.com/cloudwalk/hermes-mcp)|elixir
 |4|[aide](https://hex.pm/packages/aide)|0.7.1|2026-02-23|Build Model Context Protocol (MCP) Servers (clients coming soon).|20xxxx|[![1468](https://img.shields.io/github/stars/crowdhailer/aide)](https://github.com/crowdhailer/aide)|gleam
 |5|[aide_generator](https://hex.pm/packages/aide_generator)|0.4.1|2026-02-23|Generate encoders and decoders for MCP tools |11xxxx|[![1469](https://img.shields.io/github/stars/crowdhailer/aide_generator)](https://github.com/crowdhailer/aide_generator)|gleam
-|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.3.0|2026-10-02|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
+|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.4.0|2026-10-22|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
 |7|[mcp_client](https://hex.pm/packages/mcp_client)|0.1.0|2026-04-23|MCP (Model Context Protocol) client for Gleam — connect to any MCP server via JSON-RPC 2.0 over STDIO|3xxx|[![42210](https://img.shields.io/github/stars/manelsen/mcp_client)](https://github.com/manelsen/mcp_client)|gleam
 |8|[erlmcp](https://hex.pm/packages/erlmcp)|0.5.1|2026-05-21|Erlang Model Context Protocol (MCP) SDK|6xx||erlang
 # [Configuration](./Configuration)
@@ -443,20 +443,20 @@
 ## NIF
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[rustler_precompiled](https://hex.pm/packages/rustler_precompiled)|0.10.0|2026-09-29|Make the usage of precompiled NIFs easier for projects using Rustler|925xxxx|[![63576](https://img.shields.io/github/stars/philss/rustler_precompiled)](https://github.com/philss/rustler_precompiled)|elixir
-|2|[cc_precompiler](https://hex.pm/packages/cc_precompiler)|0.1.11|2025-08-02|NIF library Precompiler that uses C/C++ (cross-)compiler.|700xxxx|[![32226](https://img.shields.io/github/stars/cocoa-xu/cc_precompiler)](https://github.com/cocoa-xu/cc_precompiler)|elixir
-|3|[fine](https://hex.pm/packages/fine)|0.1.6|2026-04-09|C++ library enabling more ergonomic NIFs, tailored to Elixir|409xxxx|[![37470](https://img.shields.io/github/stars/elixir-nx/fine)](https://github.com/elixir-nx/fine)|elixir
+|1|[rustler_precompiled](https://hex.pm/packages/rustler_precompiled)|0.10.0|2026-09-29|Make the usage of precompiled NIFs easier for projects using Rustler|929xxxx|[![63576](https://img.shields.io/github/stars/philss/rustler_precompiled)](https://github.com/philss/rustler_precompiled)|elixir
+|2|[cc_precompiler](https://hex.pm/packages/cc_precompiler)|0.1.11|2025-08-02|NIF library Precompiler that uses C/C++ (cross-)compiler.|705xxxx|[![32226](https://img.shields.io/github/stars/cocoa-xu/cc_precompiler)](https://github.com/cocoa-xu/cc_precompiler)|elixir
+|3|[fine](https://hex.pm/packages/fine)|0.1.6|2026-04-09|C++ library enabling more ergonomic NIFs, tailored to Elixir|413xxxx|[![37470](https://img.shields.io/github/stars/elixir-nx/fine)](https://github.com/elixir-nx/fine)|elixir
 |4|[eiconv](https://hex.pm/packages/eiconv)|1.0.0|2019-07-09|Iconv NIF interface|72xxxx|[![34669](https://img.shields.io/github/stars/zotonic/z_stdlib)](https://github.com/zotonic/z_stdlib)|erlang
 |5|[jchash](https://hex.pm/packages/jchash)|0.1.4|2023-07-16|Jump Consistent Hash NIF library for Erlang/Elixir.|67xxxx|[![40394](https://img.shields.io/github/stars/cabol/jchash)](https://github.com/cabol/jchash)|erlang
 |6|[bcrypt](https://hex.pm/packages/bcrypt)|1.2.2|2024-04-23|An Erlang wrapper (NIF or port program) for the OpenBSD password scheme, bcrypt.|57xxxx|[![31318](https://img.shields.io/github/stars/erlangpack/bcrypt)](https://github.com/erlangpack/bcrypt)|erlang
 |7|[pinkdf2](https://hex.pm/packages/pinkdf2)|2.0.0|2025-02-21|Gleam bindings to fast_pbkdf2 NIF of PBKDF2 (Password-Based Key Derivation Function 2) for Erlang.|5xx|[![45097](https://img.shields.io/github/stars/yazatamorph/pinkdf2)](https://github.com/yazatamorph/pinkdf2)|gleam
-|8|[pturso](https://hex.pm/packages/pturso)|1.1.0|2026-01-16|Turso for Gleam. Similar to the sqlight library, but uses a Port instead of a NIF (so it works fine even for statically linked BEAM builds).|3xx|[![45824](https://img.shields.io/github/stars/Resonious/pturso)](https://github.com/Resonious/pturso)|gleam
-|9|[omq_gleam](https://hex.pm/packages/omq_gleam)|0.2.8|2026-10-22|Gleam wrapper for OMQ.beam, backed by the Erlang OMQ NIF package.|3xx|[![7588295](https://img.shields.io/github/stars/paddor/omq.rs)](https://github.com/paddor/omq.rs)|gleam
+|8|[omq_gleam](https://hex.pm/packages/omq_gleam)|0.2.8|2026-10-22|Gleam wrapper for OMQ.beam, backed by the Erlang OMQ NIF package.|3xx|[![7588295](https://img.shields.io/github/stars/paddor/omq.rs)](https://github.com/paddor/omq.rs)|gleam
+|9|[pturso](https://hex.pm/packages/pturso)|1.1.0|2026-01-16|Turso for Gleam. Similar to the sqlight library, but uses a Port instead of a NIF (so it works fine even for statically linked BEAM builds).|3xx|[![45824](https://img.shields.io/github/stars/Resonious/pturso)](https://github.com/Resonious/pturso)|gleam
 # [Metaprogramming](./Metaprogramming)
 ## Parse transform
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[parse_trans](https://hex.pm/packages/parse_trans)|3.4.2|2023-10-08|Parse transform library|17411xxxx|[![44490](https://img.shields.io/github/stars/uwiger/parse_trans)](https://github.com/uwiger/parse_trans)|erlang
+|1|[parse_trans](https://hex.pm/packages/parse_trans)|3.4.2|2023-10-08|Parse transform library|17417xxxx|[![44490](https://img.shields.io/github/stars/uwiger/parse_trans)](https://github.com/uwiger/parse_trans)|erlang
 |2|[decorator_pt](https://hex.pm/packages/decorator_pt)|1.0.3-alertlogic|2019-06-17|Chain of decorators allowed in parse transforms|56xxxx|[![33618](https://img.shields.io/github/stars/alertlogic/erl-decorator-pt)](https://github.com/alertlogic/erl-decorator-pt)|erlang
 |3|[kivra_merlin](https://hex.pm/packages/kivra_merlin)|3.0.1|2023-10-24|Parse transform library for Erlang|4xxxx|[![40910](https://img.shields.io/github/stars/kivra/merlin)](https://github.com/kivra/merlin)|erlang
 |4|[rebind](https://hex.pm/packages/rebind)|0.1.3|2015-05-20|rebind parse transform for erlang|8xxx|[![46434](https://img.shields.io/github/stars/camshaft/rebind)](https://github.com/camshaft/rebind)|elixir

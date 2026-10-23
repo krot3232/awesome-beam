@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16430xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16442xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -44,5 +44,5 @@
 |:-|-|-|-|:-|-|-
 |1|[mug](https://hex.pm/packages/mug)|3.1.0|2025-09-09|A TCP client for Gleam!|5xxxx|[![43054](https://img.shields.io/github/stars/lpil/mug)](https://github.com/lpil/mug)
 |2|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|6xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
-|3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|5xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
-|4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|3xx|
+|3|[node_socket_client](https://hex.pm/packages/node_socket_client)|1.1.0|2026-03-15|Bindings to Node&#039;s TCP socket client|6xx|[![43639](https://img.shields.io/github/stars/lpil/node-socket-client)](https://github.com/lpil/node-socket-client)
+|4|[tcpea](https://hex.pm/packages/tcpea)|0.1.1|2024-07-03|A TCP library for Gleam.|4xx|
