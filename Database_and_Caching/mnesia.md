@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|387xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|388xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|5xx|
@@ -33,7 +33,7 @@
 |21|[minirate](https://hex.pm/packages/minirate)|0.1.13|2025-08-30|A dead simple distributed rate limiter using Mnesia|1xxx|[![42645](https://img.shields.io/github/stars/4xposed/minirate)](https://github.com/4xposed/minirate)
 |22|[mnesia_helper](https://hex.pm/packages/mnesia_helper)|1.1.5|2022-06-06|A short and easy to use library to help out with erlang&#039;s :mnesia.|1xxx|[![42788](https://img.shields.io/github/stars/DDoubleDee/mnesia_helper)](https://github.com/DDoubleDee/mnesia_helper)
 |23|[sync_m](https://hex.pm/packages/sync_m)|0.1.1|2018-03-14|SyncM helps by setting up an interface to dynamically sync mnesia across nodes. Mnesia nodes are added to         the schema dynamically when started and copy over existing tables from another node member.|8xx|[![65327](https://img.shields.io/github/stars/jpiepkow/syncm)](https://github.com/jpiepkow/syncm)
-|24|[rheo](https://hex.pm/packages/rheo)|1.0.0|2026-09-21|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|7xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
+|24|[rheo](https://hex.pm/packages/rheo)|1.0.0|2026-09-21|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|8xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
 |25|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|4xx|
 |26|[ex_mnable](https://hex.pm/packages/ex_mnable)|0.1.0|2017-06-15|Mnesia helpers|4xx|
 |27|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|4xx|

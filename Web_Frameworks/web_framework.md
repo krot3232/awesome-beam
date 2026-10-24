@@ -10,14 +10,14 @@
 |7|[nova_resilience](https://hex.pm/packages/nova_resilience)|1.0.3|2026-03-31|Production-grade resilience patterns for Nova web framework|2xxx|[![43728](https://img.shields.io/github/stars/novaframework/nova_resilience)](https://github.com/novaframework/nova_resilience)
 |8|[opentelemetry_nova](https://hex.pm/packages/opentelemetry_nova)|0.2.2|2026-02-12|OpenTelemetry instrumentation for the Nova web framework|5xx|[![44169](https://img.shields.io/github/stars/novaframework/opentelemetry_nova)](https://github.com/novaframework/opentelemetry_nova)
 |9|[webpage](https://hex.pm/packages/webpage)|1.0.0|2016-09-02|Yet another web framework for Erlang|5xx|[![67116](https://img.shields.io/github/stars/cthulhuology/webpage)](https://github.com/cthulhuology/webpage)
-|10|[arizona](https://hex.pm/packages/arizona)|0.3.0|2026-10-22|Real-time web framework for Erlang|3xx|[![7497](https://img.shields.io/github/stars/arizona-framework/arizona)](https://github.com/arizona-framework/arizona)
+|10|[arizona](https://hex.pm/packages/arizona)|0.3.0|2026-10-22|Real-time web framework for Erlang|4xx|[![7497](https://img.shields.io/github/stars/arizona-framework/arizona)](https://github.com/arizona-framework/arizona)
 |11|[lfe_dragon](https://hex.pm/packages/lfe_dragon)|0.0.0|2024-02-10|The LFE Dragon Web Framework|3xx|[![41253](https://img.shields.io/github/stars/lfe-dragon/dragon)](https://github.com/lfe-dragon/dragon)
 |12|[nova_test](https://hex.pm/packages/nova_test)|0.2.0|2026-02-12|Testing helpers for the Nova web framework|2xx|[![43729](https://img.shields.io/github/stars/novaframework/nova_test)](https://github.com/novaframework/nova_test)
 |13|[dragon_pubsub](https://hex.pm/packages/dragon_pubsub)|0.0.0|2024-02-10|A pubsub definition for the LFE Dragon web framework|2xx|[![34098](https://img.shields.io/github/stars/lfe-dragon/dragon-pubsub)](https://github.com/lfe-dragon/dragon-pubsub)
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15824xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15834xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|322xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|82xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -52,7 +52,7 @@
 |33|[tokumei_router](https://hex.pm/packages/tokumei_router)|0.3.0|2017-02-12|Tiny but might Elixir web framework|1xxx|[![65984](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |34|[gold_needle](https://hex.pm/packages/gold_needle)|0.0.3|2018-06-12|Various web page generator in Phoenix(Elixir Web Framework)|9xx|[![38651](https://img.shields.io/github/stars/piacere-ex/gold_needle)](https://github.com/piacere-ex/gold_needle)
 |35|[spirit](https://hex.pm/packages/spirit)|0.0.1|2015-07-30|Elixir microframework for web development.|7xx|[![64750](https://img.shields.io/github/stars/emancu/spirit)](https://github.com/emancu/spirit)
-|36|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|6xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
+|36|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|7xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
 |37|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
 |38|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|5xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
 |39|[game_server_web](https://hex.pm/packages/game_server_web)|1.0.943|2026-04-24|Web interface for Gamend GameServer, built with Phoenix Framework. Provides APIs, authentication, and real-time features.|5xx|[![37913](https://img.shields.io/github/stars/appsinacup/game_server)](https://github.com/appsinacup/game_server)
@@ -75,7 +75,7 @@
 |56|[hibana_ecto](https://hex.pm/packages/hibana_ecto)|0.1.0|2026-03-24|Ecto database integration for the Hibana web framework (MySQL, PostgreSQL, MongoDB).|1xx|[![39558](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
 |57|[mflask](https://hex.pm/packages/mflask)|0.1.0|2026-03-28|A Flask-inspired web framework for Elixir.|1xx|
 |58|[hibana_plugins](https://hex.pm/packages/hibana_plugins)|0.1.0|2026-03-24|35 built-in plugins for the Hibana web framework: JWT, OAuth, CORS, rate limiting, GraphQL, admin dashboard, i18n, and more.|1xx|[![39560](https://img.shields.io/github/stars/greentornado/hibana)](https://github.com/greentornado/hibana)
-|59|[duskmoon_hologram](https://hex.pm/packages/duskmoon_hologram)|10.0.3|2026-10-23|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|0|[![9550640](https://img.shields.io/github/stars/duskmoon-dev/duskmoon-bundler)](https://github.com/duskmoon-dev/duskmoon-bundler)
+|59|[duskmoon_hologram](https://hex.pm/packages/duskmoon_hologram)|10.0.4|2026-10-24|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|6x|[![9550640](https://img.shields.io/github/stars/duskmoon-dev/duskmoon-bundler)](https://github.com/duskmoon-dev/duskmoon-bundler)
 # Gleam Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

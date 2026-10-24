@@ -27,8 +27,8 @@
 |17|[inflect](https://hex.pm/packages/inflect)|0.0.11|2016-05-11|case sensitive regular expression for splitting strings|5xx|[![40081](https://img.shields.io/github/stars/nathanfaucett/ex-inflect)](https://github.com/nathanfaucett/ex-inflect)
 |18|[regex_solver](https://hex.pm/packages/regex_solver)|0.1.3|2026-06-14|Regex set operations|5xx|[![4112736](https://img.shields.io/github/stars/IgnacioGoldchluk/regex_solver)](https://github.com/IgnacioGoldchluk/regex_solver)
 |19|[doggie](https://hex.pm/packages/doggie)|0.1.0|2017-03-07|Doggie is a tiny library that provides the most commonly used     regular expression patterns for Elixir.|5xx|
-|20|[grokex](https://hex.pm/packages/grokex)|0.2.0|2020-08-25|A library for parsing grok patterns into regular expressions|5xx|[![39161](https://img.shields.io/github/stars/Dreae/grokex)](https://github.com/Dreae/grokex)
-|21|[uap_elixir](https://hex.pm/packages/uap_elixir)|0.1.0|2017-04-09|Elixir package to parse User Agent strings using BrowserScope&#039;s collection of regexes|5xx|[![66369](https://img.shields.io/github/stars/KingNoosh/uap-elixir)](https://github.com/KingNoosh/uap-elixir)
+|20|[uap_elixir](https://hex.pm/packages/uap_elixir)|0.1.0|2017-04-09|Elixir package to parse User Agent strings using BrowserScope&#039;s collection of regexes|5xx|[![66369](https://img.shields.io/github/stars/KingNoosh/uap-elixir)](https://github.com/KingNoosh/uap-elixir)
+|21|[grokex](https://hex.pm/packages/grokex)|0.2.0|2020-08-25|A library for parsing grok patterns into regular expressions|5xx|[![39161](https://img.shields.io/github/stars/Dreae/grokex)](https://github.com/Dreae/grokex)
 |22|[xeger](https://hex.pm/packages/xeger)|0.1.1|2026-08-03|Xeger - generate strings that match a regex-like pattern (regex → strings).|3xx|[![6146408](https://img.shields.io/github/stars/joetjen/xeger)](https://github.com/joetjen/xeger)
 |23|[regex_spec](https://hex.pm/packages/regex_spec)|0.21.38|2021-02-07|Generated type specifications for regualar expressions at compile time|3xx|[![63087](https://img.shields.io/github/stars/devstopfix/regex_spec)](https://github.com/devstopfix/regex_spec)
 |24|[excavator](https://hex.pm/packages/excavator)|0.1.0|2026-04-06|Excavate JavaScript variable values from HTML script tags using AST parsing. Supports var/let/const declarations, window.* assignments, JSON.parse() calls, and nested objects/arrays — no regex needed.|1xx|[![35762](https://img.shields.io/github/stars/onnimonni/excavator)](https://github.com/onnimonni/excavator)
@@ -36,7 +36,7 @@
 # Gleam Regex
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|49xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)
+|1|[gleam_regexp](https://hex.pm/packages/gleam_regexp)|1.1.1|2025-04-06|Regular expressions in Gleam!|50xxxx|[![38395](https://img.shields.io/github/stars/gleam-lang/regexp)](https://github.com/gleam-lang/regexp)
 |2|[smalto](https://hex.pm/packages/smalto)|3.0.0|2026-03-17|A general-purpose syntax highlighting library for Gleam, with regex-based grammars for 30 languages.|2xxx|[![64435](https://img.shields.io/github/stars/veeso/smalto)](https://github.com/veeso/smalto)
 |3|[rexen](https://hex.pm/packages/rexen)|1.2.1|2026-03-24|Compile and evaluate regular expressions using Non-deterministic Finite Automata (NFAs).|5xx|[![63317](https://img.shields.io/github/stars/tonievictor/rexen)](https://github.com/tonievictor/rexen)
 |4|[example_text_pattern](https://hex.pm/packages/example_text_pattern)|0.2.3|2026-09-03|Regular expressions for Gleam on Erlang and Geam|4xx|[![7359787](https://img.shields.io/github/stars/panarch/geam)](https://github.com/panarch/geam)
