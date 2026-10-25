@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|388xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|389xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|5xx|
@@ -35,8 +35,8 @@
 |23|[sync_m](https://hex.pm/packages/sync_m)|0.1.1|2018-03-14|SyncM helps by setting up an interface to dynamically sync mnesia across nodes. Mnesia nodes are added to         the schema dynamically when started and copy over existing tables from another node member.|8xx|[![65327](https://img.shields.io/github/stars/jpiepkow/syncm)](https://github.com/jpiepkow/syncm)
 |24|[rheo](https://hex.pm/packages/rheo)|1.0.0|2026-09-21|Durable, searchable, replayable consumer-group semantics over storage systems (MongoDB, Redis Streams, PostgreSQL/SQLite via Ecto, Mnesia, ETS): leases, fencing, partitions, frontier, lag, replay, ops inspect, and a GenStage/Broadway producer.|8xx|[![8209330](https://img.shields.io/github/stars/thanos/rheo)](https://github.com/thanos/rheo)
 |25|[gsmlg_mnesia](https://hex.pm/packages/gsmlg_mnesia)|0.1.1|2023-04-25|:mnesia database wrapper|4xx|
-|26|[ex_mnable](https://hex.pm/packages/ex_mnable)|0.1.0|2017-06-15|Mnesia helpers|4xx|
-|27|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|4xx|
+|26|[cs_queue](https://hex.pm/packages/cs_queue)|0.1.0|2018-12-02|Simple queue client. Use mnesia for storing messages|4xx|
+|27|[ex_mnable](https://hex.pm/packages/ex_mnable)|0.1.0|2017-06-15|Mnesia helpers|4xx|
 |28|[mnesia_ex](https://hex.pm/packages/mnesia_ex)|0.2.0|2025-10-21|A functional, monadic wrapper for Mnesia built with category theory principles.Features: auto-increment counters, TTL with automatic cleanup, backup/restore,real-time events, and a clean CRUD API. Pure functional programming throughout.|3xx|[![42787](https://img.shields.io/github/stars/AR3ON/mnesia_ex)](https://github.com/AR3ON/mnesia_ex)
 |29|[nuamnesia](https://hex.pm/packages/nuamnesia)|0.3.1|2026-03-13|mnesia wrapper for Elixir|3xx|[![43757](https://img.shields.io/github/stars/noizu-labs/amnesia)](https://github.com/noizu-labs/amnesia)
 |30|[nebulex_mnesia_adapter](https://hex.pm/packages/nebulex_mnesia_adapter)|2.6.5|2025-10-03|Nebulex adapter for Mnesia|2xx|[![43256](https://img.shields.io/github/stars/amco/nebulex-mnesia-adapter)](https://github.com/amco/nebulex-mnesia-adapter)

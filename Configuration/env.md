@@ -1,7 +1,7 @@
 # Erlang env
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[stillir](https://hex.pm/packages/stillir)|1.1.0|2019-01-12|Read Unix env vars into application config|35xxxx|[![65001](https://img.shields.io/github/stars/heroku/stillir)](https://github.com/heroku/stillir)
+|1|[stillir](https://hex.pm/packages/stillir)|1.1.0|2019-01-12|Read Unix env vars into application config|36xxxx|[![65001](https://img.shields.io/github/stars/heroku/stillir)](https://github.com/heroku/stillir)
 |2|[macula_envy](https://hex.pm/packages/macula_envy)|0.1.1|2025-12-24|Environment variable wrapper prefixing with application name|5xxx|[![41874](https://img.shields.io/github/stars/macula-io/macula-envy)](https://github.com/macula-io/macula-envy)
 # Elixir env
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;

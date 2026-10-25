@@ -1,7 +1,7 @@
 # Erlang Logging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[lager](https://hex.pm/packages/lager)|3.9.2|2021-05-14|Erlang logging framework|1511xxxx|[![41055](https://img.shields.io/github/stars/erlang-lager/lager)](https://github.com/erlang-lager/lager)
+|1|[lager](https://hex.pm/packages/lager)|3.9.2|2021-05-14|Erlang logging framework|1512xxxx|[![41055](https://img.shields.io/github/stars/erlang-lager/lager)](https://github.com/erlang-lager/lager)
 |2|[hut](https://hex.pm/packages/hut)|1.4.0|2022-07-21|helper library for making Erlang libraries logging framework agnostic|498xxxx|[![39843](https://img.shields.io/github/stars/tolbrino/hut)](https://github.com/tolbrino/hut)
 |3|[syslog](https://hex.pm/packages/syslog)|1.1.0|2020-04-29|Syslog for erlang|85xxxx|[![65339](https://img.shields.io/github/stars/Vagabond/erlang-syslog)](https://github.com/Vagabond/erlang-syslog)
 |4|[flatlog](https://hex.pm/packages/flatlog)|0.1.2|2021-12-18|A custom formatter for the logger application that turns maps into single line text logs|37xxxx|[![37570](https://img.shields.io/github/stars/ferd/flatlog)](https://github.com/ferd/flatlog)
@@ -40,7 +40,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[ink](https://hex.pm/packages/ink)|1.2.1|2022-03-31|A backend for the Elixir Logger that logs JSON and can filter sensitive data.|6436xxxx|[![40113](https://img.shields.io/github/stars/ivx/ink)](https://github.com/ivx/ink)
-|2|[logger_json](https://hex.pm/packages/logger_json)|7.0.4|2025-07-14|This package includes a set of :logger formatters designed to output logs in JSON format.It is compatible with a variety of log management systems that support JSON,including Google Cloud Logging and Error Reporting, Datadog, ElasticSearch, LogStash, FileBeat, and Kibana.|1383xxxx|[![41657](https://img.shields.io/github/stars/Nebo15/logger_json)](https://github.com/Nebo15/logger_json)
+|2|[logger_json](https://hex.pm/packages/logger_json)|7.0.4|2025-07-14|This package includes a set of :logger formatters designed to output logs in JSON format.It is compatible with a variety of log management systems that support JSON,including Google Cloud Logging and Error Reporting, Datadog, ElasticSearch, LogStash, FileBeat, and Kibana.|1385xxxx|[![41657](https://img.shields.io/github/stars/Nebo15/logger_json)](https://github.com/Nebo15/logger_json)
 |3|[logger_file_backend](https://hex.pm/packages/logger_file_backend)|0.1.1|2026-09-14|Simple logger backend that writes to a file|719xxxx|[![41646](https://img.shields.io/github/stars/onkel-dirtus/logger_file_backend)](https://github.com/onkel-dirtus/logger_file_backend)
 |4|[rollbax](https://hex.pm/packages/rollbax)|0.11.0|2019-08-01|Exception tracking and logging from Elixir to Rollbar|262xxxx|[![63436](https://img.shields.io/github/stars/elixir-addicts/rollbax)](https://github.com/elixir-addicts/rollbax)
 |5|[honeybadger](https://hex.pm/packages/honeybadger)|0.30.2|2026-10-12|Elixir client, Plug and error_logger for integrating with theHoneybadger.io exception tracker&quot;|232xxxx|[![39652](https://img.shields.io/github/stars/honeybadger-io/honeybadger-elixir)](https://github.com/honeybadger-io/honeybadger-elixir)
@@ -143,8 +143,8 @@
 |102|[membrane_loggers](https://hex.pm/packages/membrane_loggers)|0.3.0|2019-11-22|Membrane Multimedia Framework (Loggers)|4xxx|
 |103|[bunyan_shared](https://hex.pm/packages/bunyan_shared)|0.5.3|2018-07-18|Shared functionality of the Bunyan distributed and pluggable logging system|4xxx|[![31957](https://img.shields.io/github/stars/pragdave/bunyan_shared)](https://github.com/pragdave/bunyan_shared)
 |104|[bunyan_formatter](https://hex.pm/packages/bunyan_formatter)|0.5.3|2018-07-18|Log message formatter for the Bunyan distributed and pluggable logging system|4xxx|[![31956](https://img.shields.io/github/stars/pragdave/bunyan_formatter)](https://github.com/pragdave/bunyan_formatter)
-|105|[bunyan_writer_remote](https://hex.pm/packages/bunyan_writer_remote)|0.5.3|2018-07-18|The component that lets a nde forward log messages to another node in the Bunyan distributed and pluggable logging system|4xxx|
-|106|[bunyan_source_remote_read er ](https://hex.pm/packages/bunyan_source_remote_reader)|0.5.3|2018-07-18|Let this node act as the target for a remote logger in the Bunyan distributed and pluggable logging system|4xxx|
+|105|[bunyan_source_remote_read er ](https://hex.pm/packages/bunyan_source_remote_reader)|0.5.3|2018-07-18|Let this node act as the target for a remote logger in the Bunyan distributed and pluggable logging system|4xxx|
+|106|[bunyan_writer_remote](https://hex.pm/packages/bunyan_writer_remote)|0.5.3|2018-07-18|The component that lets a nde forward log messages to another node in the Bunyan distributed and pluggable logging system|4xxx|
 |107|[bunyan_writer_device](https://hex.pm/packages/bunyan_writer_device)|0.5.3|2018-07-18|The component that lets the  Bunyan distributed and pluggable logging system write to the console and to files|4xxx|[![31961](https://img.shields.io/github/stars/pragdave/bunyan_writer_device)](https://github.com/pragdave/bunyan_writer_device)
 |108|[bunyan_source_erlang_erro r_logger ](https://hex.pm/packages/bunyan_source_erlang_error_logger)|0.5.3|2018-07-18|Inject errors and reports from the Erlang error logger into the Bunyan distributed and pluggable logging system|4xxx|
 |109|[google_api_blogger](https://hex.pm/packages/google_api_blogger)|0.15.0|2024-03-15|Blogger API client library. The Blogger API provides access to posts, comments and pages of a Blogger blog.|4xxx|[![38722](https://img.shields.io/github/stars/googleapis/elixir-google-api)](https://github.com/googleapis/elixir-google-api)
@@ -241,8 +241,8 @@
 |200|[where](https://hex.pm/packages/where)|0.1.0|2022-02-19|Logging and inspecting with location information.|3xx|[![67181](https://img.shields.io/github/stars/bonfire-networks/where)](https://github.com/bonfire-networks/where)
 |201|[logzio](https://hex.pm/packages/logzio)|0.1.0|2022-08-03|Elixir logging backend that sends your logs to Logz.io using the https bulk API|3xx|[![41725](https://img.shields.io/github/stars/sreecodeslayer/logzio-elixir-backend)](https://github.com/sreecodeslayer/logzio-elixir-backend)
 |202|[audit_trail](https://hex.pm/packages/audit_trail)|0.1.2|2026-07-31|Reusable structured audit logging, DB change tracking, and crash reporting for Elixir/Phoenix apps|2xx|
-|203|[logstash_logger_backend](https://hex.pm/packages/logstash_logger_backend)|0.1.0|2021-01-25|Collect and send log to Logstash over HTTP.|2xx|[![41719](https://img.shields.io/github/stars/ThanhDev2703/logstash_logger_backend)](https://github.com/ThanhDev2703/logstash_logger_backend)
-|204|[kmsg](https://hex.pm/packages/kmsg)|0.1.0|2020-09-30|Elixir logger backend for the printk buffer|2xx|
+|203|[kmsg](https://hex.pm/packages/kmsg)|0.1.0|2020-09-30|Elixir logger backend for the printk buffer|2xx|
+|204|[logstash_logger_backend](https://hex.pm/packages/logstash_logger_backend)|0.1.0|2021-01-25|Collect and send log to Logstash over HTTP.|2xx|[![41719](https://img.shields.io/github/stars/ThanhDev2703/logstash_logger_backend)](https://github.com/ThanhDev2703/logstash_logger_backend)
 |205|[into_log](https://hex.pm/packages/into_log)|1.0.0|2022-07-24|Collectable for Logger|2xx|[![40182](https://img.shields.io/github/stars/grantwest/intolog)](https://github.com/grantwest/intolog)
 |206|[conion](https://hex.pm/packages/conion)|0.1.0|2025-01-17|An Elixir application package providing general purpose modules as Configuration, Key/Value store, a common GenServer, CentralLogger, and more to come...|2xx|[![32936](https://img.shields.io/github/stars/iboard/conion)](https://github.com/iboard/conion)
 |207|[logs](https://hex.pm/packages/logs)|0.0.1|2022-12-04|Basic logging to simplify our lives.|2xx|[![41713](https://img.shields.io/github/stars/dwyl/fields)](https://github.com/dwyl/fields)
@@ -252,8 +252,8 @@
 |211|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|1xx|
 |212|[loki_logger_modern](https://hex.pm/packages/loki_logger_modern)|1.0.0|2026-09-27|Elixir :logger handler for Grafana Loki|8x|[![8762525](https://img.shields.io/github/stars/pavels/loki_logger_modern)](https://github.com/pavels/loki_logger_modern)
 |213|[otelot](https://hex.pm/packages/otelot)|0.5.0|2026-09-28|Export Telemetry.Metrics and Logger events to any OpenTelemetry (OTLP) backend|8x|[![8787844](https://img.shields.io/github/stars/alco/otelot)](https://github.com/alco/otelot)
-|214|[credo_logging](https://hex.pm/packages/credo_logging)|1.0.0|2026-09-29|Set of Credo checks that improve your logging|6x|
-|215|[audit_trail_ex](https://hex.pm/packages/audit_trail_ex)|0.1.0|2026-10-05|AuditTrailEx provides reusable, transaction-safe audit logging, field-level diffing,actor tracking, and change-history capabilities for Elixir applications using Ecto.|5x|[![8954226](https://img.shields.io/github/stars/HataluliRandima/audit)](https://github.com/HataluliRandima/audit)
+|214|[credo_logging](https://hex.pm/packages/credo_logging)|1.0.0|2026-09-29|Set of Credo checks that improve your logging|7x|
+|215|[audit_trail_ex](https://hex.pm/packages/audit_trail_ex)|0.2.0|2026-10-25|AuditTrailEx provides reusable, transaction-safe audit logging, field-level diffing,actor tracking, and change-history capabilities for Elixir applications using Ecto.|5x|[![8954226](https://img.shields.io/github/stars/HataluliRandima/audit)](https://github.com/HataluliRandima/audit)
 # Gleam Logging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -273,5 +273,5 @@
 |14|[glimpse_log](https://hex.pm/packages/glimpse_log)|0.2.0|2024-09-28|A minimal logger for gleam on Erlang or Javascript.|4xx|
 |15|[the_stars](https://hex.pm/packages/the_stars)|2.0.0|2026-03-08|A terminal styling and logging framework based off the Golang Charm Lipgloss framework.|3xx|[![65794](https://img.shields.io/github/stars/Genekkion/the_stars)](https://github.com/Genekkion/the_stars)
 |16|[wolf](https://hex.pm/packages/wolf)|1.0.0|2024-06-25|An user friendly logger|3xx|
-|17|[gbr_disk_log](https://hex.pm/packages/gbr_disk_log)|1.1.1|2026-03-12|Type-safe Gleam wrapper for Erlang&#039;s robust disk_log. Telecom-grade ring buffers, high-performance edge persistence, and telemetry.|2xx|[![37944](https://img.shields.io/github/stars/gleam-br/gbr_disk_log)](https://github.com/gleam-br/gbr_disk_log)
+|17|[gbr_disk_log](https://hex.pm/packages/gbr_disk_log)|1.1.1|2026-03-12|Type-safe Gleam wrapper for Erlang&#039;s robust disk_log. Telecom-grade ring buffers, high-performance edge persistence, and telemetry.|3xx|[![37944](https://img.shields.io/github/stars/gleam-br/gbr_disk_log)](https://github.com/gleam-br/gbr_disk_log)
 |18|[gclog](https://hex.pm/packages/gclog)|0.0.1|2024-12-05|A simple Google Cloud Platform compliant logging library for Gleam!|2xx|[![37955](https://img.shields.io/github/stars/sam-kenney/gclog)](https://github.com/sam-kenney/gclog)

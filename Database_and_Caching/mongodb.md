@@ -3,7 +3,7 @@
 |:-|-|-|-|:-|-|-
 |1|[mongodb_erlang](https://hex.pm/packages/mongodb_erlang)|3.4.0|2021-06-16|Client interface to MongoDB, also known as the driver. See www.mongodb.org|5xxxx|[![42905](https://img.shields.io/github/stars/filmor/mongodb-erlang)](https://github.com/filmor/mongodb-erlang)
 |2|[mongodb_client](https://hex.pm/packages/mongodb_client)|3.2.0|2018-03-08|Client interface to MongoDB, also known as the driver. See www.mongodb.org|5xxx|[![42902](https://img.shields.io/github/stars/filmor/mongodb-erlang)](https://github.com/filmor/mongodb-erlang)
-|3|[mongodriver](https://hex.pm/packages/mongodriver)|1.0.0|2023-09-23|Client interface to MongoDB, also known as the driver. See www.mongodb.org|2xx|
+|3|[mongodriver](https://hex.pm/packages/mongodriver)|1.0.0|2023-09-23|Client interface to MongoDB, also known as the driver. See www.mongodb.org|3xx|
 # Elixir MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
