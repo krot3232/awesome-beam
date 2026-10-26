@@ -1,7 +1,7 @@
 # Erlang JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[jose](https://hex.pm/packages/jose)|1.11.12|2025-11-20|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11426xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)
+|1|[jose](https://hex.pm/packages/jose)|1.11.13|2026-10-26|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11426xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)
 |2|[yamerl](https://hex.pm/packages/yamerl)|0.10.0|2022-01-28|YAML 1.2 and JSON parser in pure Erlang|3617xxxx|[![67476](https://img.shields.io/github/stars/yakaz/yamerl)](https://github.com/yakaz/yamerl)
 |3|[thoas](https://hex.pm/packages/thoas)|1.2.1|2024-05-13|A blazing fast JSON parser and generator in pure Erlang.|1224xxxx|[![65802](https://img.shields.io/github/stars/lpil/thoas)](https://github.com/lpil/thoas)
 |4|[jsone](https://hex.pm/packages/jsone)|1.9.0|2024-09-16|Erlang JSON Library|673xxxx|[![40524](https://img.shields.io/github/stars/sile/jsone)](https://github.com/sile/jsone)
@@ -64,7 +64,7 @@
 |47|[artefact](https://hex.pm/packages/artefact)|0.3.0|2026-05-13|Arrows JSON ↔ Cypher — knowledge graph fragments made in relationship|9xx|[![7521](https://img.shields.io/github/stars/diffo-dev/artefactory)](https://github.com/diffo-dev/artefactory)
 |48|[jsonrpc2_spec](https://hex.pm/packages/jsonrpc2_spec)|0.2.0|2026-09-25|This is implementation of transport agnostic JSONRPC 2.0 protocol. There is no transport level. It consists only of specification entities|8xx|[![40564](https://img.shields.io/github/stars/undr/jsonrpc2_spec)](https://github.com/undr/jsonrpc2_spec)
 |49|[raxol_mcp](https://hex.pm/packages/raxol_mcp)|2.7.0|2026-09-10|MCP (Model Context Protocol) server and client for Raxol. Provides JSON-RPC 2.0protocol handling, tool/resource registry, stdio and SSE transports.Auto-derives agent tools from your widget tree.|6xx|[![46212](https://img.shields.io/github/stars/DROOdotFOO/raxol)](https://github.com/DROOdotFOO/raxol)
-|50|[arbor_rpc](https://hex.pm/packages/arbor_rpc)|2.0.0-rc.1|2026-10-23|ArborRPC: shared JSON-RPC, framing and environment mechanics.|4xx|[![8953846](https://img.shields.io/github/stars/trust-arbor/arbor_rpc)](https://github.com/trust-arbor/arbor_rpc)
+|50|[arbor_rpc](https://hex.pm/packages/arbor_rpc)|2.0.0-rc.1|2026-10-26|ArborRPC: shared JSON-RPC, framing and environment mechanics.|4xx|[![8953846](https://img.shields.io/github/stars/trust-arbor/arbor_rpc)](https://github.com/trust-arbor/arbor_rpc)
 # Gleam JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
