@@ -5,7 +5,7 @@
 |2|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.4|2026-09-21|gRPC for Erlang on the livery HTTP/2 stack: server and client|5xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |3|[grpc_update](https://hex.pm/packages/grpc_update)|2.0.0|2022-06-22|The Elixir implementation of gRPC|6xx|
 |4|[egrpc](https://hex.pm/packages/egrpc)|0.1.2|2026-10-13|A gRPC client library for Erlang built on top of gun.|3xx|[![34660](https://img.shields.io/github/stars/belltoy/egrpc)](https://github.com/belltoy/egrpc)
-|5|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|8x|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)
+|5|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|9x|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

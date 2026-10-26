@@ -1,8 +1,8 @@
 # Erlang JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[jose](https://hex.pm/packages/jose)|1.11.12|2025-11-20|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11424xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)
-|2|[yamerl](https://hex.pm/packages/yamerl)|0.10.0|2022-01-28|YAML 1.2 and JSON parser in pure Erlang|3615xxxx|[![67476](https://img.shields.io/github/stars/yakaz/yamerl)](https://github.com/yakaz/yamerl)
+|1|[jose](https://hex.pm/packages/jose)|1.11.12|2025-11-20|JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.|11426xxxx|[![40480](https://img.shields.io/github/stars/potatosalad/erlang-jose)](https://github.com/potatosalad/erlang-jose)
+|2|[yamerl](https://hex.pm/packages/yamerl)|0.10.0|2022-01-28|YAML 1.2 and JSON parser in pure Erlang|3617xxxx|[![67476](https://img.shields.io/github/stars/yakaz/yamerl)](https://github.com/yakaz/yamerl)
 |3|[thoas](https://hex.pm/packages/thoas)|1.2.1|2024-05-13|A blazing fast JSON parser and generator in pure Erlang.|1224xxxx|[![65802](https://img.shields.io/github/stars/lpil/thoas)](https://github.com/lpil/thoas)
 |4|[jsone](https://hex.pm/packages/jsone)|1.9.0|2024-09-16|Erlang JSON Library|673xxxx|[![40524](https://img.shields.io/github/stars/sile/jsone)](https://github.com/sile/jsone)
 |5|[jiffy](https://hex.pm/packages/jiffy)|2.0.2|2026-07-01|JSON Decoder/Encoder.|576xxxx|[![40442](https://img.shields.io/github/stars/davisp/jiffy)](https://github.com/davisp/jiffy)
@@ -15,11 +15,11 @@
 # Elixir JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[jason](https://hex.pm/packages/jason)|1.5.0-alpha.2|2026-05-05|A blazing fast JSON parser and generator in pure Elixir.|21484xxxx|[![40375](https://img.shields.io/github/stars/michalmuskala/jason)](https://github.com/michalmuskala/jason)
+|1|[jason](https://hex.pm/packages/jason)|1.5.0-alpha.2|2026-05-05|A blazing fast JSON parser and generator in pure Elixir.|21491xxxx|[![40375](https://img.shields.io/github/stars/michalmuskala/jason)](https://github.com/michalmuskala/jason)
 |2|[poison](https://hex.pm/packages/poison)|6.0.0|2024-06-09|An incredibly fast, pure Elixir JSON library|12239xxxx|[![45430](https://img.shields.io/github/stars/devinus/poison)](https://github.com/devinus/poison)
-|3|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5887xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|3|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5888xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |4|[ex_json_schema](https://hex.pm/packages/ex_json_schema)|0.11.5|2026-07-09|A JSON Schema validator with full support for the draft 4 specification  and zero dependencies.|3548xxxx|[![36268](https://img.shields.io/github/stars/jonasschmidt/ex_json_schema)](https://github.com/jonasschmidt/ex_json_schema)
-|5|[logger_json](https://hex.pm/packages/logger_json)|7.0.4|2025-07-14|This package includes a set of :logger formatters designed to output logs in JSON format.It is compatible with a variety of log management systems that support JSON,including Google Cloud Logging and Error Reporting, Datadog, ElasticSearch, LogStash, FileBeat, and Kibana.|1385xxxx|[![41657](https://img.shields.io/github/stars/Nebo15/logger_json)](https://github.com/Nebo15/logger_json)
+|5|[logger_json](https://hex.pm/packages/logger_json)|7.0.4|2025-07-14|This package includes a set of :logger formatters designed to output logs in JSON format.It is compatible with a variety of log management systems that support JSON,including Google Cloud Logging and Error Reporting, Datadog, ElasticSearch, LogStash, FileBeat, and Kibana.|1386xxxx|[![41657](https://img.shields.io/github/stars/Nebo15/logger_json)](https://github.com/Nebo15/logger_json)
 |6|[geo](https://hex.pm/packages/geo)|4.1.0|2025-09-12|Encodes and decodes WKB, WKT, and GeoJSON formats.|642xxxx|[![38151](https://img.shields.io/github/stars/felt/geo)](https://github.com/felt/geo)
 |7|[json](https://hex.pm/packages/json)|2.1.0-SNAPSHOT|2020-12-30|The First Native Elixir library for JSON encoding and decoding|626xxxx|[![40502](https://img.shields.io/github/stars/cblage/elixir-json)](https://github.com/cblage/elixir-json)
 |8|[joken_jwks](https://hex.pm/packages/joken_jwks)|1.8.0|2026-08-28|JWKS (JSON Web Keys Set) support for Joken2|441xxxx|[![40471](https://img.shields.io/github/stars/joken-elixir/joken_jwks)](https://github.com/joken-elixir/joken_jwks)
@@ -30,7 +30,7 @@
 |13|[json_xema](https://hex.pm/packages/json_xema)|0.6.5|2025-05-30|A JSON Schema validator for draft-04, -06, and -07.|132xxxx|[![40587](https://img.shields.io/github/stars/hrzndhrn/json_xema)](https://github.com/hrzndhrn/json_xema)
 |14|[jaxon](https://hex.pm/packages/jaxon)|2.0.8|2021-06-30|Jaxon is an efficient and simple event-based JSON parser for Elixir, it&#039;s main goal is to be able to parse huge JSON files with minimal memory footprint.|130xxxx|[![40386](https://img.shields.io/github/stars/boudra/jaxon)](https://github.com/boudra/jaxon)
 |15|[jsv](https://hex.pm/packages/jsv)|0.26.1|2026-10-14|A JSON Schema Validator with complete support for the latest specifications.|96xxxx|[![40591](https://img.shields.io/github/stars/lud/jsv)](https://github.com/lud/jsv)
-|16|[ash_json_api](https://hex.pm/packages/ash_json_api)|1.8.0|2026-10-25|The JSON:API extension for the Ash Framework.|76xxxx|[![7591](https://img.shields.io/github/stars/ash-project/ash_json_api)](https://github.com/ash-project/ash_json_api)
+|16|[ash_json_api](https://hex.pm/packages/ash_json_api)|1.8.0|2026-10-25|The JSON:API extension for the Ash Framework.|77xxxx|[![7591](https://img.shields.io/github/stars/ash-project/ash_json_api)](https://github.com/ash-project/ash_json_api)
 |17|[odgn_json_pointer](https://hex.pm/packages/odgn_json_pointer)|3.1.0|2024-09-11|This is an implementation of JSON Pointer (RFC 6901) for Elixir.|51xxxx|[![43902](https://img.shields.io/github/stars/odogono/elixir-jsonpointer)](https://github.com/odogono/elixir-jsonpointer)
 |18|[ethereumex](https://hex.pm/packages/ethereumex)|0.15.0|2026-10-01|Elixir JSON-RPC client for the Ethereum blockchain|46xxxx|[![35417](https://img.shields.io/github/stars/exthereum/ethereumex)](https://github.com/exthereum/ethereumex)
 |19|[alembic](https://hex.pm/packages/alembic)|4.0.0|2019-01-03|A JSONAPI 1.0 library fully-tested against all jsonapi.org examples.  The library generates JSONAPI errors documentswhenever it encounters a malformed JSONAPI document, so that servers don&#039;t need to worry about JSONAPI formaterrors.|29xxxx|
@@ -64,7 +64,7 @@
 |47|[artefact](https://hex.pm/packages/artefact)|0.3.0|2026-05-13|Arrows JSON ↔ Cypher — knowledge graph fragments made in relationship|9xx|[![7521](https://img.shields.io/github/stars/diffo-dev/artefactory)](https://github.com/diffo-dev/artefactory)
 |48|[jsonrpc2_spec](https://hex.pm/packages/jsonrpc2_spec)|0.2.0|2026-09-25|This is implementation of transport agnostic JSONRPC 2.0 protocol. There is no transport level. It consists only of specification entities|8xx|[![40564](https://img.shields.io/github/stars/undr/jsonrpc2_spec)](https://github.com/undr/jsonrpc2_spec)
 |49|[raxol_mcp](https://hex.pm/packages/raxol_mcp)|2.7.0|2026-09-10|MCP (Model Context Protocol) server and client for Raxol. Provides JSON-RPC 2.0protocol handling, tool/resource registry, stdio and SSE transports.Auto-derives agent tools from your widget tree.|6xx|[![46212](https://img.shields.io/github/stars/DROOdotFOO/raxol)](https://github.com/DROOdotFOO/raxol)
-|50|[arbor_rpc](https://hex.pm/packages/arbor_rpc)|2.0.0-rc.1|2026-10-23|ArborRPC: shared JSON-RPC, framing and environment mechanics.|3xx|[![8953846](https://img.shields.io/github/stars/trust-arbor/arbor_rpc)](https://github.com/trust-arbor/arbor_rpc)
+|50|[arbor_rpc](https://hex.pm/packages/arbor_rpc)|2.0.0-rc.1|2026-10-23|ArborRPC: shared JSON-RPC, framing and environment mechanics.|4xx|[![8953846](https://img.shields.io/github/stars/trust-arbor/arbor_rpc)](https://github.com/trust-arbor/arbor_rpc)
 # Gleam JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -75,4 +75,4 @@
 |5|[json_value](https://hex.pm/packages/json_value)|1.2.0|2026-08-22|Decode JSON to a generic value that can be manipulated|1xxx|[![40584](https://img.shields.io/github/stars/kwando/json_value)](https://github.com/kwando/json_value)
 |6|[convert_json](https://hex.pm/packages/convert_json)|2.0.0|2025-06-16|Encode and decode JSON from and to Gleam types|8xx|[![33013](https://img.shields.io/github/stars/Billuc/convert_json)](https://github.com/Billuc/convert_json)
 |7|[atproto_lexicon](https://hex.pm/packages/atproto_lexicon)|0.3.1|2026-10-22|A faithful, bidirectional lexicon AST for atproto: decode/encode lexicon JSON with round-trip fidelity.|8xx|
-|8|[glon](https://hex.pm/packages/glon)|1.0.0|2026-02-05|JSON Schema generation and decoding for Gleam|2xx|
+|8|[glon](https://hex.pm/packages/glon)|1.0.0|2026-02-05|JSON Schema generation and decoding for Gleam|3xx|

@@ -12,7 +12,7 @@
 |9|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|5xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |10|[zotonic_mod_fileuploader](https://hex.pm/packages/zotonic_mod_fileuploader)|1.0.0-rc.17|2026-03-30|Upload files via MQTT|5xxx|[![67708](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
 |11|[zotonic_listen_mqtt](https://hex.pm/packages/zotonic_listen_mqtt)|1.0.0-rc.17|2026-03-30|Zotonic MQTT Listener|5xxx|[![67670](https://img.shields.io/github/stars/zotonic/zotonic)](https://github.com/zotonic/zotonic)
-|12|[mqtt_client](https://hex.pm/packages/mqtt_client)|1.0.5|2020-06-29|The MQTT client is written in Erlang and allows to connect to MQTT server and send/receive messages according to MQTT messaging protocol version 3.1.1|3xx|[![43001](https://img.shields.io/github/stars/alekras/mqtt_client)](https://github.com/alekras/mqtt_client)
+|12|[mqtt_client](https://hex.pm/packages/mqtt_client)|1.0.5|2020-06-29|The MQTT client is written in Erlang and allows to connect to MQTT server and send/receive messages according to MQTT messaging protocol version 3.1.1|4xx|[![43001](https://img.shields.io/github/stars/alekras/mqtt_client)](https://github.com/alekras/mqtt_client)
 # Elixir MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
