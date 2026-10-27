@@ -8,7 +8,7 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5888xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5892xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|160xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|38xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
@@ -33,7 +33,7 @@
 |23|[clerk_phoenix](https://hex.pm/packages/clerk_phoenix)|0.2.1|2026-03-13|ClerkPhoenix provides seamless integration between Clerk authentication and Phoenix applications.Features include JWT validation, session management, authentication plugs, and security hardening.|5xx|[![32533](https://img.shields.io/github/stars/jhlee111/clerk_phoenix)](https://github.com/jhlee111/clerk_phoenix)
 |24|[plug_shopify_jwt](https://hex.pm/packages/plug_shopify_jwt)|0.1.1|2021-07-23|A Plug to validate Shopify JWT|4xx|[![45353](https://img.shields.io/github/stars/byjpr/plug_shopify_jwt)](https://github.com/byjpr/plug_shopify_jwt)
 |25|[reckon_jwt](https://hex.pm/packages/reckon_jwt)|0.2.1|2025-07-26|JWT authentication library for Reckon microservices ecosystem|4xx|[![46449](https://img.shields.io/github/stars/reckon-db-org/reckon_jwt)](https://github.com/reckon-db-org/reckon_jwt)
-|26|[rephi](https://hex.pm/packages/rephi)|0.1.0|2025-06-23|Phoenix framework with JWT auth, RBAC authorization, WebSocket support, and multiple React frontends architecture|3xx|[![63170](https://img.shields.io/github/stars/thotenn/rephi)](https://github.com/thotenn/rephi)
+|26|[rephi](https://hex.pm/packages/rephi)|0.1.0|2025-06-23|Phoenix framework with JWT auth, RBAC authorization, WebSocket support, and multiple React frontends architecture|4xx|[![63170](https://img.shields.io/github/stars/thotenn/rephi)](https://github.com/thotenn/rephi)
 |27|[joken_plug](https://hex.pm/packages/joken_plug)|0.1.0|2018-07-17|An Extensible JWT plug, Built on top of Joken|3xx|[![40472](https://img.shields.io/github/stars/HoffsMH/joken-plug)](https://github.com/HoffsMH/joken-plug)
 |28|[silver_vine_token](https://hex.pm/packages/silver_vine_token)|0.1.0|2021-10-18|SilverVine.Token provides functions for implementing various OAuth 2.0 / OpenID Connect tokens using JWT.|2xx|[![64195](https://img.shields.io/github/stars/ritou/elixir-silver-vine-token)](https://github.com/ritou/elixir-silver-vine-token)
 |29|[mobile_id_token](https://hex.pm/packages/mobile_id_token)|0.1.1|2026-05-31|Verify Apple and Google mobile OAuth id_token JWTs with JWKS caching and claim checks|2xx|[![3319578](https://img.shields.io/github/stars/metacircu1ar/mobile_id_token)](https://github.com/metacircu1ar/mobile_id_token)
