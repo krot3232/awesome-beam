@@ -51,3 +51,4 @@
 |3|[gose](https://hex.pm/packages/gose)|2.2.0|2026-09-21|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|6xxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)
 |4|[ywt_erlang](https://hex.pm/packages/ywt_erlang)|2.0.0|2026-05-29|The ywt package for JWT targeting erlang.|3xxx|
 |5|[gjwt](https://hex.pm/packages/gjwt)|2.0.1|2026-04-27|A gleam abstraction to interact with erlang_jose for JWT&#039;s|1xxx|[![38307](https://img.shields.io/github/stars/BradBot1/gleam_gjwt)](https://github.com/BradBot1/gleam_gjwt)
+|6|[hellhound](https://hex.pm/packages/hellhound)|0.2.0|2026-10-27|Typed OIDC / OAuth 2.0, standalone JWT signing and bounded HTTPS credential exchange for Gleam on Erlang/OTP.|0|[![9716560](https://img.shields.io/github/stars/gleam-dream/hellhound)](https://github.com/gleam-dream/hellhound)

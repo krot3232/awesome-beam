@@ -6,7 +6,7 @@
 |3|[cowboy_otel](https://hex.pm/packages/cowboy_otel)|0.2.0|2024-10-11|Cowboy stream and middleware for opentelemetry http server spans|1xxxx|[![33108](https://img.shields.io/github/stars/kivra/cowboy-otel)](https://github.com/kivra/cowboy-otel)
 |4|[brunhilde](https://hex.pm/packages/brunhilde)|2.0.1|2022-10-25|Brunhilde is a minimal HTTP server.|7xxx|
 |5|[simple_bridge](https://hex.pm/packages/simple_bridge)|2.3.2|2026-07-27|Common Interface to Erlang HTTP Servers|5xxx|[![64214](https://img.shields.io/github/stars/nitrogen/simple_bridge)](https://github.com/nitrogen/simple_bridge)
-|6|[roadrunner](https://hex.pm/packages/roadrunner)|0.11.1|2026-10-26|Pure-Erlang HTTP/1.1, HTTP/2, HTTP/3, and WebSocket server. Beep beep.|5xxx|[![3002014](https://img.shields.io/github/stars/arizona-framework/roadrunner)](https://github.com/arizona-framework/roadrunner)
+|6|[roadrunner](https://hex.pm/packages/roadrunner)|0.12.1|2026-10-27|Pure-Erlang HTTP/1.1, HTTP/2, HTTP/3, and WebSocket server. Beep beep.|5xxx|[![3002014](https://img.shields.io/github/stars/arizona-framework/roadrunner)](https://github.com/arizona-framework/roadrunner)
 |7|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.4|2026-09-21|gRPC for Erlang on the livery HTTP/2 stack: server and client|5xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |8|[nhttp](https://hex.pm/packages/nhttp)|1.3.0|2026-10-19|HTTP/1.1, HTTP/2, and HTTP/3 server for Erlang/OTP 27+|4xxx|[![5094709](https://img.shields.io/github/stars/nomasystems/nhttp)](https://github.com/nomasystems/nhttp)
 |9|[lmug](https://hex.pm/packages/lmug)|0.2.8|2024-02-18|LFE HTTP Server Abstraction and Web Application Middleware Infrastructure|2xxx|[![41566](https://img.shields.io/github/stars/lfe-mug/lmug)](https://github.com/lfe-mug/lmug)
@@ -70,6 +70,7 @@
 |53|[pusher_server](https://hex.pm/packages/pusher_server)|0.1.2|2026-10-13|A self-hosted, Pusher-protocol-compatible WebSocket server (drop-in for Laravel Reverb) built on Cowboy.|1xx|[![9061466](https://img.shields.io/github/stars/femz12/pusher_server)](https://github.com/femz12/pusher_server)
 |54|[frostlake](https://hex.pm/packages/frostlake)|0.2.0|2026-10-01|Zero-dependency Elixir driver for the Frostlake SQL engine, speaking its HTTP protocol against a running DatabaseHttpServer.|1xx|[![8288762](https://img.shields.io/github/stars/Frostlake-DB/frostlake-elixir)](https://github.com/Frostlake-DB/frostlake-elixir)
 |55|[relay](https://hex.pm/packages/relay)|0.1.0|2026-10-26|A Gleam MCP server and client for the frozen 2026-07-28 revision, with stdio and Streamable HTTP transports.|3x|
+|56|[ex_kamailio](https://hex.pm/packages/ex_kamailio)|0.1.0|2026-10-27|Elixir integration for the Kamailio SIP server via the rtpengine WebSocket control protocol.|0|[![9736178](https://img.shields.io/github/stars/membraneframework/ex_kamailio)](https://github.com/membraneframework/ex_kamailio)
 # Gleam HTTP server
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -87,3 +88,4 @@
 |12|[plume](https://hex.pm/packages/plume)|1.0.1|2026-05-24|Sensible HTTP security headers for Gleam web servers, inspired by helmet.|2xx|[![3257691](https://img.shields.io/github/stars/scott-ray-wilson/plume)](https://github.com/scott-ray-wilson/plume)
 |13|[http_server_mock_js](https://hex.pm/packages/http_server_mock_js)|2.0.0|2026-08-22|JavaScript/Node.js runtime for http_server_mock, Worker thread HTTP server|2xx|[![3016249](https://img.shields.io/github/stars/atomfinger/http_server_mock)](https://github.com/atomfinger/http_server_mock)
 |14|[gleam_httpd](https://hex.pm/packages/gleam_httpd)|1.0.0|2026-09-07|Gleam bindings to Erlang&#039;s built in HTTP server, httpd|1xx|[![7846601](https://img.shields.io/github/stars/gleam-lang/httpd)](https://github.com/gleam-lang/httpd)
+|15|[beap](https://hex.pm/packages/beap)|1.0.0|2026-10-27|A simple HTTP fileserver with upload support.|0|[![9731004](https://img.shields.io/github/stars/the-bea-project/beap)](https://github.com/the-bea-project/beap)
