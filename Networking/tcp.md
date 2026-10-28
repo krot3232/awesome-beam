@@ -39,6 +39,7 @@
 |24|[ex_vertx](https://hex.pm/packages/ex_vertx)|1.0.0|2019-03-18|Elixir to Vert.x TCP bridge connector.|3xx|[![37117](https://img.shields.io/github/stars/PharosProduction/ExVertx)](https://github.com/PharosProduction/ExVertx)
 |25|[vowpal_client](https://hex.pm/packages/vowpal_client)|0.1.0|2018-11-16|Vowpal Wabbit (awesome machine learning tool - https://github.com/JohnLangford/vowpal_wabbit/) TCP client to query for training and predicting|3xx|[![66956](https://img.shields.io/github/stars/jackdoe/elixir-vowpal-client)](https://github.com/jackdoe/elixir-vowpal-client)
 |26|[yamodbus](https://hex.pm/packages/yamodbus)|0.1.0|2026-10-05|Modbus in pure Elixir: TCP, TLS (Modbus/TCP Security), RTU and ASCII clients and servers, with many requests at once on one TCP connection, for talking to PLCs, drives and meters.|1xx|[![8975464](https://img.shields.io/github/stars/tallakt/yamodbus)](https://github.com/tallakt/yamodbus)
+|27|[avmodbus](https://hex.pm/packages/avmodbus)|0.1.0|2026-10-28|Modbus RTU, ASCII, and TCP library designed for AtomVM|0|[![9776579](https://img.shields.io/github/stars/piyopiyoex/avmodbus)](https://github.com/piyopiyoex/avmodbus)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
