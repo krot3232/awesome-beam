@@ -9,11 +9,11 @@
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|743xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
+|1|[grpc](https://hex.pm/packages/grpc)|1.0.5|2026-08-31|gRPC client implementation for Elixir|746xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|83xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)
 |4|[conn_grpc](https://hex.pm/packages/conn_grpc)|0.4.3|2026-03-17|Persistent channels, and channel pools for gRPC Elixir|25xxxx|[![32948](https://img.shields.io/github/stars/TheRealReal/conn_grpc)](https://github.com/TheRealReal/conn_grpc)
-|5|[grpc_core](https://hex.pm/packages/grpc_core)|1.0.5|2026-08-31|Core gRPC types, codecs, and utilities for Elixir|22xxxx|
+|5|[grpc_core](https://hex.pm/packages/grpc_core)|1.0.5|2026-08-31|Core gRPC types, codecs, and utilities for Elixir|23xxxx|
 |6|[grpc_reflection](https://hex.pm/packages/grpc_reflection)|0.5.0|2026-06-22|gRPC reflection server for Elixir|18xxxx|[![39196](https://img.shields.io/github/stars/elixir-grpc/grpc-reflection)](https://github.com/elixir-grpc/grpc-reflection)
 |7|[grpc_server](https://hex.pm/packages/grpc_server)|1.0.5|2026-08-31|gRPC server implementation for Elixir|11xxxx|
 |8|[mock_grpc](https://hex.pm/packages/mock_grpc)|1.0.0|2026-06-29|Concurrent mocks for gRPC Elixir|7xxxx|[![42821](https://img.shields.io/github/stars/TheRealReal/mock_grpc)](https://github.com/TheRealReal/mock_grpc)
@@ -40,7 +40,7 @@
 |29|[ex_esdb_grpc](https://hex.pm/packages/ex_esdb_grpc)|0.5.0|2025-08-21|EventStore-compatible gRPC API server for ExESDB event store clusters. Provides complete stream operations, real-time subscriptions, transaction support, and comprehensive monitoring capabilities with high performance and production-ready reliability.|6xx|[![36055](https://img.shields.io/github/stars/beam-campus/ex-esdb-grpc)](https://github.com/beam-campus/ex-esdb-grpc)
 |30|[betty_grpc](https://hex.pm/packages/betty_grpc)|0.6.0|2023-03-22|The Elixir implementation of gRPC|3xx|[![31431](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |31|[huginn](https://hex.pm/packages/huginn)|0.5.0|2026-08-30|ClickHouse client for Elixir using gRPC with connection pooling.|3xx|[![39807](https://img.shields.io/github/stars/nyo16/huginn)](https://github.com/nyo16/huginn)
-|32|[vox_rtc_server](https://hex.pm/packages/vox_rtc_server)|0.2.5|2026-08-01|Elixir gRPC SDK for Vox-hosted WebRTC conversations|3xx|[![5521849](https://img.shields.io/github/stars/eleven-am/vox-sdks)](https://github.com/eleven-am/vox-sdks)
-|33|[typedb_grpc](https://hex.pm/packages/typedb_grpc)|0.5.0|2026-10-26|A driver for TypeDB 3.12+ in Elixir, built on the TypeDB gRPC API. Streaming answers with no count limit, and transactions that pipeline.|2xx|[![6797351](https://img.shields.io/github/stars/NoeticEcho/TypedbEx)](https://github.com/NoeticEcho/TypedbEx)
+|32|[typedb_grpc](https://hex.pm/packages/typedb_grpc)|0.5.0|2026-10-26|A driver for TypeDB 3.12+ in Elixir, built on the TypeDB gRPC API. Streaming answers with no count limit, and transactions that pipeline.|3xx|[![6797351](https://img.shields.io/github/stars/NoeticEcho/TypedbEx)](https://github.com/NoeticEcho/TypedbEx)
+|33|[vox_rtc_server](https://hex.pm/packages/vox_rtc_server)|0.2.5|2026-08-01|Elixir gRPC SDK for Vox-hosted WebRTC conversations|3xx|[![5521849](https://img.shields.io/github/stars/eleven-am/vox-sdks)](https://github.com/eleven-am/vox-sdks)
 |34|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|2xx|
 |35|[ada_sdk](https://hex.pm/packages/ada_sdk)|0.0.1|2026-07-24|Strictly typed Ada gRPC SDK for Elixir|1xx|

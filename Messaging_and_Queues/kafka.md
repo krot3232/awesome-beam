@@ -1,8 +1,8 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1129xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1113xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.7|2026-09-11|Kafka protocol library for Erlang/Elixir|1130xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1114xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.1|2026-07-24|Kafka&#039;s publisher|30xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.2|2026-09-15|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -25,7 +25,7 @@
 |11|[elsa_fi](https://hex.pm/packages/elsa_fi)|5.0.0|2026-10-15|Elsa is a full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod. (Simpli.fi fork)|8xxx|[![34961](https://img.shields.io/github/stars/simplifi/elsa_fi)](https://github.com/simplifi/elsa_fi)
 |12|[taskafka](https://hex.pm/packages/taskafka)|0.1.1|2019-03-14|TasKafka is a background processing application written in Elixir and uses Kafka as a messaging backend.|8xxx|[![65460](https://img.shields.io/github/stars/edenlabllc/taskafka)](https://github.com/edenlabllc/taskafka)
 |13|[ex_kafka_logger](https://hex.pm/packages/ex_kafka_logger)|3.1.0|2018-02-01|Elixir logger that serializes to JSON and publish it to Apache Kafka|8xxx|[![36272](https://img.shields.io/github/stars/jeffhsta/ExKafkaLogger)](https://github.com/jeffhsta/ExKafkaLogger)
-|14|[klife_protocol](https://hex.pm/packages/klife_protocol)|1.0.1|2026-07-12|An Elixir implementation of the Kafka protocol. It enables communication with Kafka brokers using standard Elixir data structures without the need for manual serialization.|7xxx|[![40917](https://img.shields.io/github/stars/oliveigah/klife_protocol)](https://github.com/oliveigah/klife_protocol)
+|14|[klife_protocol](https://hex.pm/packages/klife_protocol)|1.2.0|2026-10-28|An Elixir implementation of the Kafka protocol. It enables communication with Kafka brokers using standard Elixir data structures without the need for manual serialization.|7xxx|[![40917](https://img.shields.io/github/stars/oliveigah/klife_protocol)](https://github.com/oliveigah/klife_protocol)
 |15|[csh2fjhyll_kvasir](https://hex.pm/packages/csh2fjhyll_kvasir)|0.0.18|2022-11-25|Opinionated Kafka library.|6xxx|[![33292](https://img.shields.io/github/stars/IanLuites/kvasir)](https://github.com/IanLuites/kvasir)
 |16|[kafka_impl](https://hex.pm/packages/kafka_impl)|0.5.0|2017-10-16|A wrapper around KafkaEx so you can mock it in test.|6xxx|[![40673](https://img.shields.io/github/stars/avvo/kafka_impl)](https://github.com/avvo/kafka_impl)
 |17|[ghost](https://hex.pm/packages/ghost)|0.1.0|2019-05-16|A wrapper for Kafka clients that provies a testing sandbox implmentation for easier kafka tests.|5xxx|[![38235](https://img.shields.io/github/stars/IBM/ghost)](https://github.com/IBM/ghost)

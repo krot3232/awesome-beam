@@ -1,11 +1,11 @@
 # Erlang pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8859xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
-|2|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16470xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8863xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)
+|2|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16480xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |3|[worker_pool](https://hex.pm/packages/worker_pool)|7.0.0|2026-09-01|Erlang Worker Pool|154xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)
 |4|[pgo](https://hex.pm/packages/pgo)|0.20.0|2025-12-12|Postgres client with connection pool|24xxxx|[![44713](https://img.shields.io/github/stars/erleans/pgo)](https://github.com/erleans/pgo)
-|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3056xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
+|5|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3060xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)
 |6|[sbroker](https://hex.pm/packages/sbroker)|1.0.0|2019-04-30|Low level pooling library|60xxxx|[![63711](https://img.shields.io/github/stars/fishcakez/sbroker)](https://github.com/fishcakez/sbroker)
 |7|[sidejob](https://hex.pm/packages/sidejob)|2.3.1|2026-09-20|sidejob is an Erlang library that implements a parallel, capacity-limited request pool. In sidejob, these pools are called resources. A resource is managed by multiple gen_server like processes which can be sent calls and casts using sidejob:call or sidejob:cast respectively.|24xxxx|[![64144](https://img.shields.io/github/stars/erlangpack/sidejob)](https://github.com/erlangpack/sidejob)
 |8|[pooler](https://hex.pm/packages/pooler)|1.7.0|2026-05-15|An OTP Process Pool Application|88xxxx|[![45500](https://img.shields.io/github/stars/epgsql/pooler)](https://github.com/epgsql/pooler)
@@ -38,8 +38,8 @@
 # Elixir pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15244xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
-|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6138xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
+|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15253xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)
+|2|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6147xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)
 |3|[portals](https://hex.pm/packages/portals)|0.1.0|2026-10-19|Call Python, Ruby, JavaScript (Node.js, Bun, Deno, QuickJS), PHP, Java and Go from Elixir through supervised, pooled worker processes. The spiritual successor to ErlPort.|5x|[![9357087](https://img.shields.io/github/stars/Ziinc/portals)](https://github.com/Ziinc/portals)
 |4|[browse](https://hex.pm/packages/browse)|0.5.0|2026-03-27|Shared browser automation contract and pool implementation for Elixir browser backends|5xxxx|[![31851](https://img.shields.io/github/stars/pepicrft/browse)](https://github.com/pepicrft/browse)
 |5|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)
@@ -110,8 +110,8 @@
 |70|[lib_redis](https://hex.pm/packages/lib_redis)|0.1.3|2023-11-08|A simple wrap of redix, support pool and cluster|7xx|
 |71|[nebula_graph_ex](https://hex.pm/packages/nebula_graph_ex)|0.1.10|2026-04-10|NebulaGraph client for Elixir — connection pooling, session management, and rich result decoding.|6xx|
 |72|[onchain_aave](https://hex.pm/packages/onchain_aave)|0.7.0|2026-10-02|Aave V3 and V4 protocol wrappers for Elixir — pool reads/writes, Hub-and-Spoke reads, Position Manager writes, oracle, math, and type structs. Built on onchain.|6xx|[![43999](https://img.shields.io/github/stars/ZenHive/onchain-stack)](https://github.com/ZenHive/onchain-stack)
-|73|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|6xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
-|74|[spaghetti_pool](https://hex.pm/packages/spaghetti_pool)|0.1.0|2016-05-25|A worker pool for concurrently read and written ETS table.|6xx|[![64651](https://img.shields.io/github/stars/theemuts/spaghetti_pool)](https://github.com/theemuts/spaghetti_pool)
+|73|[spaghetti_pool](https://hex.pm/packages/spaghetti_pool)|0.1.0|2016-05-25|A worker pool for concurrently read and written ETS table.|6xx|[![64651](https://img.shields.io/github/stars/theemuts/spaghetti_pool)](https://github.com/theemuts/spaghetti_pool)
+|74|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|6xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
 |75|[swampman](https://hex.pm/packages/swampman)|0.0.4|2025-10-23|A library for pooling and managing resources|6xx|[![65281](https://img.shields.io/github/stars/zen-en-tonal/swampman)](https://github.com/zen-en-tonal/swampman)
 |76|[tyrex](https://hex.pm/packages/tyrex)|0.4.0|2026-08-16|Embedded Deno JS/TS runtime for Elixir via Rustler NIFs. Bidirectional Elixir&lt;-&gt;JS calls and a pooled runtime.|5xx|[![66349](https://img.shields.io/github/stars/nyo16/tyrex)](https://github.com/nyo16/tyrex)
 |77|[conn_pool](https://hex.pm/packages/conn_pool)|0.2.1|2018-04-18|Connection pool helps storing, sharing and using connections. It also make its possible to use the   same connection concurrently.|5xx|
@@ -133,4 +133,4 @@
 |5|[db_pool](https://hex.pm/packages/db_pool)|3.0.0|2026-08-17|A database connection pool|1xxx|[![33564](https://img.shields.io/github/stars/stndrs/db_pool)](https://github.com/stndrs/db_pool)
 |6|[beehive](https://hex.pm/packages/beehive)|1.2.1|2026-07-13|A library to create a pool of actors.|4xx|[![5280708](https://img.shields.io/github/stars/Remy2701/hive)](https://github.com/Remy2701/hive)
 |7|[crew](https://hex.pm/packages/crew)|2.0.0|2025-12-09|An asynchronous task pool with limited concurrency|9xx|
-|8|[tup](https://hex.pm/packages/tup)|1.0.0|2026-09-23|acceptor pool using relay supervisor|7xx|[![8345679](https://img.shields.io/github/stars/vshakitskiy/tup)](https://github.com/vshakitskiy/tup)
+|8|[tup](https://hex.pm/packages/tup)|1.0.0|2026-09-23|acceptor pool using relay supervisor|8xx|[![8345679](https://img.shields.io/github/stars/vshakitskiy/tup)](https://github.com/vshakitskiy/tup)
