@@ -234,6 +234,7 @@
 |196|[relay](https://hex.pm/packages/relay)|0.1.0|2026-10-26|A Gleam MCP server and client for the frozen 2026-07-28 revision, with stdio and Streamable HTTP transports.|7x|
 |197|[drink_me_alice](https://hex.pm/packages/drink_me_alice)|0.1.0|2026-10-26|A bounded SurrealDB client for Elixir (qualified against SurrealDB 3.0.5): supervised WebSocket connection, honest transaction outcomes, migrations, graph edges and an Ash data layer.|4x|[![9710957](https://img.shields.io/github/stars/theKINelectric/drink_me_alice)](https://github.com/theKINelectric/drink_me_alice)
 |198|[aisstream](https://hex.pm/packages/aisstream)|0.1.0|2026-10-26|Unofficial client for the AISStream WebSocket API, with compression and automatic reconnection.|4x|[![9683851](https://img.shields.io/github/stars/GiuseppeSaluto/aisstream_elixir)](https://github.com/GiuseppeSaluto/aisstream_elixir)
+|199|[req_tor](https://hex.pm/packages/req_tor)|0.1.0|2026-10-29|HTTP client for routing requests through Tor, with a Req-compatible API|0|
 # Gleam HTTP client
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
