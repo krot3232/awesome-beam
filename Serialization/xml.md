@@ -8,11 +8,11 @@
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7511xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
-|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7300xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7512xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7304xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
 |3|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7236xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
-|4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2921xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
-|5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|971xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
+|4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2922xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
+|5|[saxy](https://hex.pm/packages/saxy)|1.6.1|2026-07-10|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|972xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)
 |6|[sitemapper](https://hex.pm/packages/sitemapper)|0.10.0|2025-07-28|Stream based XML Sitemap generator|95xxxx|[![64316](https://img.shields.io/github/stars/breakroom/sitemapper)](https://github.com/breakroom/sitemapper)
 |7|[xmlrpc](https://hex.pm/packages/xmlrpc)|1.5.0|2026-07-10|XML-RPC encoder/decder for Elixir. Supports all valid datatypes. Input (ie untrusted) is parsed with erlsom against an xml-schema for security.|46xxxx|[![67410](https://img.shields.io/github/stars/ewildgoose/elixir-xml_rpc)](https://github.com/ewildgoose/elixir-xml_rpc)
 |8|[meeseeks](https://hex.pm/packages/meeseeks)|0.18.0|2025-06-01|Meeseeks is a library for parsing and extracting data from HTML and XMLwith CSS or XPath selectors.|34xxxx|[![42269](https://img.shields.io/github/stars/mischov/meeseeks)](https://github.com/mischov/meeseeks)
@@ -21,7 +21,7 @@
 |11|[xml_json](https://hex.pm/packages/xml_json)|0.5.0|2025-02-10|Convention based conversion to/from XML/JSON|21xxxx|[![67402](https://img.shields.io/github/stars/bennyhat/xml_json)](https://github.com/bennyhat/xml_json)
 |12|[sax_map](https://hex.pm/packages/sax_map)|1.4.3|2026-08-10|A fast and efficient tool for converting XML to Elixir Map|18xxxx|[![63698](https://img.shields.io/github/stars/xinz/sax_map)](https://github.com/xinz/sax_map)
 |13|[xml_stream](https://hex.pm/packages/xml_stream)|0.4.0|2025-03-26|Streaming XML builder|8xxxx|[![67412](https://img.shields.io/github/stars/activesphere/xml_stream)](https://github.com/activesphere/xml_stream)
-|14|[rdf_xml](https://hex.pm/packages/rdf_xml)|1.2.1|2026-03-19|An implementation of RDF-XML for Elixir and RDF.ex.|7xxxx|[![46260](https://img.shields.io/github/stars/rdf-elixir/rdf-xml-ex)](https://github.com/rdf-elixir/rdf-xml-ex)
+|14|[rdf_xml](https://hex.pm/packages/rdf_xml)|1.2.2|2026-10-28|An implementation of RDF-XML for Elixir and RDF.ex.|7xxxx|[![46260](https://img.shields.io/github/stars/rdf-elixir/rdf-xml-ex)](https://github.com/rdf-elixir/rdf-xml-ex)
 |15|[simple_xml](https://hex.pm/packages/simple_xml)|1.3.4|2026-05-14|A simplified Elixir string-based XML processor that avoids the atom exhaustion vulnerabilitypresent with xmerl based parsers.|4xxxx|[![64281](https://img.shields.io/github/stars/MBXSystems/simple_xml)](https://github.com/MBXSystems/simple_xml)
 |16|[exsom](https://hex.pm/packages/exsom)|0.2.1|2019-07-23|XML parser for Elixir (based on Erlsom)|3xxxx|[![36865](https://img.shields.io/github/stars/metalabdesign/exsom)](https://github.com/metalabdesign/exsom)
 |17|[xml_builder_ex](https://hex.pm/packages/xml_builder_ex)|3.1.4159|2024-06-26|XML builder for Elixir|2xxxx|

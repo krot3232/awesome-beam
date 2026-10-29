@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16480xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.3.0|2026-09-08|Socket acceptor pool for TCP protocols.|16492xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -38,8 +38,8 @@
 |23|[autoport](https://hex.pm/packages/autoport)|1.0.0|2026-08-20|Automatically finds an available local TCP port, so multiple Phoenix apps can run at once.|3xx|[![7066065](https://img.shields.io/github/stars/chrisgreg/autoport)](https://github.com/chrisgreg/autoport)
 |24|[ex_vertx](https://hex.pm/packages/ex_vertx)|1.0.0|2019-03-18|Elixir to Vert.x TCP bridge connector.|3xx|[![37117](https://img.shields.io/github/stars/PharosProduction/ExVertx)](https://github.com/PharosProduction/ExVertx)
 |25|[vowpal_client](https://hex.pm/packages/vowpal_client)|0.1.0|2018-11-16|Vowpal Wabbit (awesome machine learning tool - https://github.com/JohnLangford/vowpal_wabbit/) TCP client to query for training and predicting|3xx|[![66956](https://img.shields.io/github/stars/jackdoe/elixir-vowpal-client)](https://github.com/jackdoe/elixir-vowpal-client)
-|26|[yamodbus](https://hex.pm/packages/yamodbus)|0.1.0|2026-10-05|Modbus in pure Elixir: TCP, TLS (Modbus/TCP Security), RTU and ASCII clients and servers, with many requests at once on one TCP connection, for talking to PLCs, drives and meters.|1xx|[![8975464](https://img.shields.io/github/stars/tallakt/yamodbus)](https://github.com/tallakt/yamodbus)
-|27|[avmodbus](https://hex.pm/packages/avmodbus)|0.1.0|2026-10-28|Modbus RTU, ASCII, and TCP library designed for AtomVM|0|[![9776579](https://img.shields.io/github/stars/piyopiyoex/avmodbus)](https://github.com/piyopiyoex/avmodbus)
+|26|[yamodbus](https://hex.pm/packages/yamodbus)|0.1.0|2026-10-05|Modbus in pure Elixir: TCP, TLS (Modbus/TCP Security), RTU and ASCII clients and servers, with many requests at once on one TCP connection, for talking to PLCs, drives and meters.|2xx|[![8975464](https://img.shields.io/github/stars/tallakt/yamodbus)](https://github.com/tallakt/yamodbus)
+|27|[avmodbus](https://hex.pm/packages/avmodbus)|0.1.0|2026-10-28|Modbus RTU, ASCII, and TCP library designed for AtomVM|5x|[![9776579](https://img.shields.io/github/stars/piyopiyoex/avmodbus)](https://github.com/piyopiyoex/avmodbus)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
