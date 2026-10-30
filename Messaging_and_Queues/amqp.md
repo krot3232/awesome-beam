@@ -98,8 +98,8 @@
 |81|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|2xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
 |82|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|2xx|
 |83|[graviton_mq_amqp10](https://hex.pm/packages/graviton_mq_amqp10)|0.2.0|2026-10-30|Bounded, pure AMQP 1.0 types and codecs for GravitonMQ|0|[![9854102](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
-|84|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.2.0|2026-10-30|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|0|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
-|85|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.2.0|2026-10-30|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|0|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|84|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.2.0|2026-10-30|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|0|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|85|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.2.0|2026-10-30|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|0|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 # Gleam AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

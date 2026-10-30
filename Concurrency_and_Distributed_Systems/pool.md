@@ -132,5 +132,5 @@
 |4|[gmysql](https://hex.pm/packages/gmysql)|1.4.0|2024-07-31|Gleam mysql client and connection pooler.|2xxx|[![38630](https://img.shields.io/github/stars/VioletBuse/gmysql)](https://github.com/VioletBuse/gmysql)
 |5|[db_pool](https://hex.pm/packages/db_pool)|3.0.0|2026-08-17|A database connection pool|1xxx|[![33564](https://img.shields.io/github/stars/stndrs/db_pool)](https://github.com/stndrs/db_pool)
 |6|[beehive](https://hex.pm/packages/beehive)|1.2.1|2026-07-13|A library to create a pool of actors.|4xx|[![5280708](https://img.shields.io/github/stars/Remy2701/hive)](https://github.com/Remy2701/hive)
-|7|[crew](https://hex.pm/packages/crew)|2.0.0|2025-12-09|An asynchronous task pool with limited concurrency|9xx|
+|7|[crew](https://hex.pm/packages/crew)|2.0.1|2026-10-30|An asynchronous task pool with limited concurrency|9xx|
 |8|[tup](https://hex.pm/packages/tup)|1.0.0|2026-09-23|acceptor pool using relay supervisor|8xx|[![8345679](https://img.shields.io/github/stars/vshakitskiy/tup)](https://github.com/vshakitskiy/tup)

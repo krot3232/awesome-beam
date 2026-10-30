@@ -78,7 +78,7 @@
 |58|[websocket_mock](https://hex.pm/packages/websocket_mock)|0.3.0|2025-12-15|A lightweight WebSocket mock server for testing|7xx|[![67131](https://img.shields.io/github/stars/pascal736/websocket_mock)](https://github.com/pascal736/websocket_mock)
 |59|[cauldron_2d_net](https://hex.pm/packages/cauldron_2d_net)|0.3.4|2026-10-17|A Cauldron2D world over the network: served to browsers, desktops and terminals over a WebSocket or from node to node, and the links a client joins it by.|7xx|[![8282991](https://img.shields.io/github/stars/jaman/cauldron)](https://github.com/jaman/cauldron)
 |60|[exws](https://hex.pm/packages/exws)|0.0.3|2022-11-09|Elixir Websocket Server - Kitchen Sink Not Included|7xx|
-|61|[gaoxy_proxy](https://hex.pm/packages/gaoxy_proxy)|0.13.1|2026-10-28|HTTP and WebSocket proxy services for Gaoxy|7xx|[![9417366](https://img.shields.io/github/stars/gsmlg-dev/gaoxy)](https://github.com/gsmlg-dev/gaoxy)
+|61|[gaoxy_proxy](https://hex.pm/packages/gaoxy_proxy)|0.14.0|2026-10-30|HTTP and WebSocket proxy services for Gaoxy|7xx|[![9417366](https://img.shields.io/github/stars/gsmlg-dev/gaoxy)](https://github.com/gsmlg-dev/gaoxy)
 |62|[flick](https://hex.pm/packages/flick)|0.2.0|2026-06-19|Binary (Erlang External Term Format) WebSocket transport for Phoenix, paired with erlb.js|5xx|[![4190641](https://img.shields.io/github/stars/saleyn/flick)](https://github.com/saleyn/flick)
 |63|[ws](https://hex.pm/packages/ws)|0.0.1|2016-05-22|An RFC 6455 WebSocket implementation.|5xx|
 |64|[smart_websocket_client](https://hex.pm/packages/smart_websocket_client)|0.1.0|2017-02-01|SmartWebsocketClient is a (not-so) smart websocket client with pool support.|5xx|[![64450](https://img.shields.io/github/stars/HackerExperience/SmartWebsocketClient)](https://github.com/HackerExperience/SmartWebsocketClient)
@@ -118,7 +118,7 @@
 |98|[aisstream](https://hex.pm/packages/aisstream)|0.1.0|2026-10-26|Unofficial client for the AISStream WebSocket API, with compression and automatic reconnection.|4x|[![9683851](https://img.shields.io/github/stars/GiuseppeSaluto/aisstream_elixir)](https://github.com/GiuseppeSaluto/aisstream_elixir)
 |99|[drink_me_alice](https://hex.pm/packages/drink_me_alice)|0.1.0|2026-10-26|A bounded SurrealDB client for Elixir (qualified against SurrealDB 3.0.5): supervised WebSocket connection, honest transaction outcomes, migrations, graph edges and an Ash data layer.|4x|[![9710957](https://img.shields.io/github/stars/theKINelectric/drink_me_alice)](https://github.com/theKINelectric/drink_me_alice)
 |100|[ex_kamailio](https://hex.pm/packages/ex_kamailio)|0.1.0|2026-10-27|Elixir integration for the Kamailio SIP server via the rtpengine WebSocket control protocol.|3x|[![9736178](https://img.shields.io/github/stars/membraneframework/ex_kamailio)](https://github.com/membraneframework/ex_kamailio)
-|101|[samgita_protocol_websocke t ](https://hex.pm/packages/samgita_protocol_websocket)|0.1.1|2026-10-30|Optional WebSocket transport and explicitly started Agent hosts for SamgitaProtocol.|0|[![9862856](https://img.shields.io/github/stars/gsmlg-opt/Samgita)](https://github.com/gsmlg-opt/Samgita)
+|101|[samgita_protocol_websocke t ](https://hex.pm/packages/samgita_protocol_websocket)|0.2.0|2026-10-30|Optional WebSocket transport and explicitly started Agent hosts for SamgitaProtocol.|0|[![9862856](https://img.shields.io/github/stars/gsmlg-opt/Samgita)](https://github.com/gsmlg-opt/Samgita)
 # Gleam WebSocket
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
