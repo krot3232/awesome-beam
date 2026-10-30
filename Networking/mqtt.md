@@ -38,6 +38,9 @@
 |20|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|3xx|
 |21|[simple_mqtt](https://hex.pm/packages/simple_mqtt)|0.1.0|2021-01-02|A basic, single node pub-sub implementation where publishers and subscribers use topics and topics filters compatible with MQTT.|2xx|[![64246](https://img.shields.io/github/stars/kmiecikt/simple_mqtt)](https://github.com/kmiecikt/simple_mqtt)
 |22|[nipper](https://hex.pm/packages/nipper)|0.1.0|2025-08-13|Lightweight, embeddable MQTT broker for BEAM-based edge applications|2xx|
+|23|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.2.0|2026-10-30|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|0|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|24|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.2.0|2026-10-30|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|0|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|25|[graviton_mq_mqtt](https://hex.pm/packages/graviton_mq_mqtt)|0.2.0|2026-10-30|Bounded, pure MQTT 5.0 codecs for GravitonMQ|0|[![9854105](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 # Gleam MQTT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

@@ -1,7 +1,7 @@
 # Erlang Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[nova](https://hex.pm/packages/nova)|0.18.1|2026-10-15|Nova is a web application framework|7xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
+|1|[nova](https://hex.pm/packages/nova)|0.18.1|2026-10-15|Nova is a web application framework|8xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
 |3|[livery](https://hex.pm/packages/livery)|0.10.7|2026-10-26|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|9xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
 |4|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
@@ -18,7 +18,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15878xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15888xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|323xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|83xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -34,15 +34,15 @@
 |14|[tokumei](https://hex.pm/packages/tokumei)|0.9.1|2017-11-07|The Elixir web unframework|8xxx|[![65983](https://img.shields.io/github/stars/CrowdHailer/Tokumei)](https://github.com/CrowdHailer/Tokumei)
 |15|[ashes](https://hex.pm/packages/ashes)|0.0.3|2015-01-23|A code generation tool for the phoenix web framework|7xxx|
 |16|[raxx_kit](https://hex.pm/packages/raxx_kit)|0.12.2|2020-04-07|Micro framework for web applications with Raxx and Ace.|7xxx|[![46225](https://img.shields.io/github/stars/crowdhailer/raxx_kit)](https://github.com/crowdhailer/raxx_kit)
-|17|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1368|2026-10-28|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|5xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
+|17|[gamend_web](https://hex.pm/packages/gamend_web)|1.1.1369|2026-10-30|Web interface for Gamend, built with Phoenix Framework. Provides APIs, authentication, real-time features, and payments.|5xxx|[![7934448](https://img.shields.io/github/stars/appsinacup/gamend)](https://github.com/appsinacup/gamend)
 |18|[trot](https://hex.pm/packages/trot)|0.7.0|2019-06-05|A web micro-framework based on Plug and Cowboy.|4xxx|[![66194](https://img.shields.io/github/stars/hexedpackets/trot)](https://github.com/hexedpackets/trot)
 |19|[hop](https://hex.pm/packages/hop)|0.1.1|2024-08-07|A tiny web crawling framework for Elixir|4xxx|[![39668](https://img.shields.io/github/stars/seanmor5/hop)](https://github.com/seanmor5/hop)
 |20|[membrane_webrtc_server](https://hex.pm/packages/membrane_webrtc_server)|0.1.3|2023-11-10|Membrane Multimedia Framework (WebRTC signaling server)|4xxx|[![42443](https://img.shields.io/github/stars/membraneframework/webrtc-server)](https://github.com/membraneframework/webrtc-server)
-|21|[infuse](https://hex.pm/packages/infuse)|0.3.5|2017-11-05|A simple web framework that serves from the filesystem using Simplates!|3xxx|[![40100](https://img.shields.io/github/stars/LawfulGood/infuse)](https://github.com/LawfulGood/infuse)
+|21|[infuse](https://hex.pm/packages/infuse)|0.3.5|2017-11-05|A simple web framework that serves from the filesystem using Simplates!|4xxx|[![40100](https://img.shields.io/github/stars/LawfulGood/infuse)](https://github.com/LawfulGood/infuse)
 |22|[nex_core](https://hex.pm/packages/nex_core)|0.4.3|2026-06-06|A minimalist Elixir web framework powered by HTMX|2xxx|[![43505](https://img.shields.io/github/stars/gofenix/nex)](https://github.com/gofenix/nex)
 |23|[combo](https://hex.pm/packages/combo)|0.11.0|2026-08-08|A web framework, that combines the good parts of modern web development.|2xxx|
-|24|[plug_and_play](https://hex.pm/packages/plug_and_play)|0.7.0|2017-03-02|Set up a Plug application with less boilerplate.PlugAndPlay is not a web framework – it&#039;s a small scaffold. You use Plug as you would normally, only *sooner*.Later, if you need more control, you can easily replace PlugAndPlay piece by piece or wholesale.|1xxx|[![45229](https://img.shields.io/github/stars/henrik/plug_and_play)](https://github.com/henrik/plug_and_play)
-|25|[ash_hooks](https://hex.pm/packages/ash_hooks)|2.0.4|2026-10-09|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|1xxx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
+|24|[ash_hooks](https://hex.pm/packages/ash_hooks)|2.0.4|2026-10-09|Webhooks for Ash Framework — inbound verification + dedup, outbound signing + delivery|2xxx|[![7132365](https://img.shields.io/github/stars/baselabs/ash_hooks)](https://github.com/baselabs/ash_hooks)
+|25|[plug_and_play](https://hex.pm/packages/plug_and_play)|0.7.0|2017-03-02|Set up a Plug application with less boilerplate.PlugAndPlay is not a web framework – it&#039;s a small scaffold. You use Plug as you would normally, only *sooner*.Later, if you need more control, you can easily replace PlugAndPlay piece by piece or wholesale.|1xxx|[![45229](https://img.shields.io/github/stars/henrik/plug_and_play)](https://github.com/henrik/plug_and_play)
 |26|[euros](https://hex.pm/packages/euros)|0.3.0|2018-01-07|Euros web-spider framework|1xxx|[![35474](https://img.shields.io/github/stars/kytiken/euros)](https://github.com/kytiken/euros)
 |27|[tamnoon](https://hex.pm/packages/tamnoon)|1.0.0-rc.4|2025-09-02|A simplicity-first web framework for Elixir, designed to make building web applications easy and enjoyable.|1xxx|[![65436](https://img.shields.io/github/stars/omer-sm/tamnoon)](https://github.com/omer-sm/tamnoon)
 |28|[phoenix_generator](https://hex.pm/packages/phoenix_generator)|0.2.1|2015-02-20|A collection of boilerplate generators for the Phoenix web framework.|1xxx|[![44808](https://img.shields.io/github/stars/etufe/phoenix_generator)](https://github.com/etufe/phoenix_generator)

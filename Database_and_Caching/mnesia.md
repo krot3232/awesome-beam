@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|392xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|394xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|5xx|
@@ -47,4 +47,4 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[amnesiac](https://hex.pm/packages/amnesiac)|1.1.0|2024-06-15|Gleam bindings to mnesia|3xxxx|[![1650](https://img.shields.io/github/stars/VioletBuse/amnesiac)](https://github.com/VioletBuse/amnesiac)
-|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|4xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)
+|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|5xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)
