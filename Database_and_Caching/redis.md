@@ -1,7 +1,7 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1588xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1589xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
 |2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|154xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|3.0.1|2026-10-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
@@ -17,10 +17,10 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4615xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4617xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2336xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|355xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
-|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.1.0|2026-10-18|Nebulex adapter for Redis|203xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
+|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.1.0|2026-10-18|Nebulex adapter for Redis|204xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
 |5|[exredis](https://hex.pm/packages/exredis)|0.3.0|2019-07-31|Redis client for Elixir|132xxxx|[![36725](https://img.shields.io/github/stars/artemeff/exredis)](https://github.com/artemeff/exredis)
 |6|[verk](https://hex.pm/packages/verk)|1.7.3|2021-09-14|Verk is a job processing system backed by Redis.|90xxxx|[![66839](https://img.shields.io/github/stars/edgurgel/verk)](https://github.com/edgurgel/verk)
 |7|[redis_mutex](https://hex.pm/packages/redis_mutex)|1.1.0|2024-10-01|RedisMutex is a library for creating a Redis lock for a single Redis instance|61xxxx|[![63024](https://img.shields.io/github/stars/podium/redis_mutex)](https://github.com/podium/redis_mutex)
@@ -117,9 +117,9 @@
 |98|[redis_cluster_multilock](https://hex.pm/packages/redis_cluster_multilock)|0.1.0|2019-10-01|A multilock for redis cluster using lua scripts and given key(s) hopefully with shard key(s)|3xx|
 |99|[raven_integration_redis](https://hex.pm/packages/raven_integration_redis)|0.3.3|2026-07-24|Redis server monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Redis.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|3xx|
 |100|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.1.0|2026-08-24|Process-scoped Redis connections for concurrent ExUnit tests|3xx|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
-|101|[quantum_storage_redis](https://hex.pm/packages/quantum_storage_redis)|0.0.1|2023-12-26|A redis storage adapter for quantum|3xx|[![45975](https://img.shields.io/github/stars/senconscious/quantum_storage_redis)](https://github.com/senconscious/quantum_storage_redis)
-|102|[ex_redisgraph](https://hex.pm/packages/ex_redisgraph)|0.1.0|2023-06-14|A RedisGraph client library in Elixir with support for Cypher query building.|2xx|[![36726](https://img.shields.io/github/stars/AlexSandro19/redisgraph-ex-lib)](https://github.com/AlexSandro19/redisgraph-ex-lib)
-|103|[ankusa_redis](https://hex.pm/packages/ankusa_redis)|0.7.0|2026-10-30|Ankusa Redis adapters: route and source stores shared across edge nodes, and a pub/sub sink.|2xx|[![8773270](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|101|[ankusa_redis](https://hex.pm/packages/ankusa_redis)|0.7.0|2026-10-30|Ankusa Redis adapters: route and source stores shared across edge nodes, and a pub/sub sink.|3xx|[![8773270](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|102|[quantum_storage_redis](https://hex.pm/packages/quantum_storage_redis)|0.0.1|2023-12-26|A redis storage adapter for quantum|3xx|[![45975](https://img.shields.io/github/stars/senconscious/quantum_storage_redis)](https://github.com/senconscious/quantum_storage_redis)
+|103|[ex_redisgraph](https://hex.pm/packages/ex_redisgraph)|0.1.0|2023-06-14|A RedisGraph client library in Elixir with support for Cypher query building.|2xx|[![36726](https://img.shields.io/github/stars/AlexSandro19/redisgraph-ex-lib)](https://github.com/AlexSandro19/redisgraph-ex-lib)
 |104|[redlock_ex](https://hex.pm/packages/redlock_ex)|0.1.0|2023-10-31|A module to handle distributed locking using Redis.|2xx|[![63048](https://img.shields.io/github/stars/santosh79/redlock_ex)](https://github.com/santosh79/redlock_ex)
 |105|[kombu](https://hex.pm/packages/kombu)|0.1.3|2026-10-24|Elixir port of the Python Celery Kombu messaging library with byte-for-byte wire-format and Redis transport compatibility.|2xx|
 |106|[celery](https://hex.pm/packages/celery)|0.1.3|2026-10-24|Elixir port of Python&#039;s Celery distributed task queue — wire-compatible withPython Celery (Protocol v1 &amp; v2) and backed by Kombu and Redis for transportand result storage.|2xx|

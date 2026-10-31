@@ -1,7 +1,7 @@
 # Erlang ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|463xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)
+|1|[shards](https://hex.pm/packages/shards)|1.1.1|2024-05-25|Erlang/Elixir library for partitioned or sharded ETS tables.|464xxxx|[![64050](https://img.shields.io/github/stars/cabol/shards)](https://github.com/cabol/shards)
 |2|[match_trie](https://hex.pm/packages/match_trie)|1.0.0|2026-03-13|MQTT-style topic matching trie using ETS|5xxx|[![42120](https://img.shields.io/github/stars/barrel-db/match_trie)](https://github.com/barrel-db/match_trie)
 |3|[erlpool](https://hex.pm/packages/erlpool)|1.4.5|2025-03-04|Erlang round-robin load balancer for Erlang processes based on ETS|5xxx|[![35277](https://img.shields.io/github/stars/silviucpp/erlpool)](https://github.com/silviucpp/erlpool)
 |4|[ecache](https://hex.pm/packages/ecache)|2.14.4|2026-04-17|ecache - Erlang ETS Based Cache|4xxx|[![34286](https://img.shields.io/github/stars/Ledest/ecache)](https://github.com/Ledest/ecache)
@@ -16,9 +16,9 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2467xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2072xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2074xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
 |3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|516xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
-|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|223xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
+|4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|224xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
 |5|[event_bus](https://hex.pm/packages/event_bus)|1.7.0|2022-01-02|Traceable, extendable and minimalist event bus implementation for Elixirwith built-in event store and event watcher based on ETS|64xxxx|[![35486](https://img.shields.io/github/stars/otobus/event_bus)](https://github.com/otobus/event_bus)
 |6|[ets_owner](https://hex.pm/packages/ets_owner)|1.0.0|2019-05-25|A simple GenServer that owns your ETS tables and won&#039;t die, even if you do.|49xxxx|[![35453](https://img.shields.io/github/stars/meyercm/ets_owner)](https://github.com/meyercm/ets_owner)
 |7|[cbuf](https://hex.pm/packages/cbuf)|0.7.1|2018-09-01|A circular buffer backed by a queue, map, or ETS|27xxxx|[![32222](https://img.shields.io/github/stars/ckampfe/cbuf)](https://github.com/ckampfe/cbuf)

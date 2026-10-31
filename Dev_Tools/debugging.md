@@ -1,9 +1,9 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1010xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1011xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
-|3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|12xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
+|3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|13xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
 |5|[xprof_gui](https://hex.pm/packages/xprof_gui)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler GUI|1xxxx|[![67432](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
 |6|[xprof_core](https://hex.pm/packages/xprof_core)|2.0.0-rc.5|2020-11-22|Visual BEAM tracer/profiler tracer core|1xxxx|[![67431](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -14,7 +14,7 @@
 # Elixir Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|233xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
+|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|234xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
 |2|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|86xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)
 |3|[mix_unused](https://hex.pm/packages/mix_unused)|0.4.1|2023-06-29|Mix compiler tracer for detecting unused public functions|51xxxx|[![42748](https://img.shields.io/github/stars/hauleth/mix_unused)](https://github.com/hauleth/mix_unused)
 |4|[chrome_remote_interface](https://hex.pm/packages/chrome_remote_interface)|0.4.1|2019-08-05|Chrome Debugging Protocol client for Elixir|27xxxx|[![32412](https://img.shields.io/github/stars/andrewvy/chrome-remote-interface)](https://github.com/andrewvy/chrome-remote-interface)

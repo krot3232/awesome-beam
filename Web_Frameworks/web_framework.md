@@ -3,7 +3,7 @@
 |:-|-|-|-|:-|-|-
 |1|[nova](https://hex.pm/packages/nova)|0.18.1|2026-10-15|Nova is a web application framework|8xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)
 |2|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)
-|3|[livery](https://hex.pm/packages/livery)|0.10.7|2026-10-26|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|9xxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
+|3|[livery](https://hex.pm/packages/livery)|0.10.7|2026-10-26|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|1xxxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)
 |4|[canister](https://hex.pm/packages/canister)|0.1.3|2025-12-29|An Session Management tool for web frameworks - originally built for Nitrogen|6xxx|[![32100](https://img.shields.io/github/stars/nitrogen/canister)](https://github.com/nitrogen/canister)
 |5|[nitrogen_core](https://hex.pm/packages/nitrogen_core)|3.0.0-alpha.15|2026-07-27|Nitrogen Web Framework Core Library|4xxx|[![43588](https://img.shields.io/github/stars/nitrogen/nitrogen_core)](https://github.com/nitrogen/nitrogen_core)
 |6|[lfe_http](https://hex.pm/packages/lfe_http)|1.0.0|2025-10-29|General purpose data, functions, and utilities for use by LFE/Erlang HTTP clients, servers, URL-parsers, web frameworks, etc.|3xxx|[![41254](https://img.shields.io/github/stars/lfe-http/http)](https://github.com/lfe-http/http)
@@ -18,7 +18,7 @@
 # Elixir Web Framework
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15888xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-10-20|Peace of mind from prototype to production|15899xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|323xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|83xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)
 |4|[espec_phoenix](https://hex.pm/packages/espec_phoenix)|0.9.0|2025-11-25|ESpec for Phoenix web framework.|42xxxx|[![35366](https://img.shields.io/github/stars/antonmi/espec_phoenix)](https://github.com/antonmi/espec_phoenix)
@@ -55,8 +55,8 @@
 |35|[spirit](https://hex.pm/packages/spirit)|0.0.1|2015-07-30|Elixir microframework for web development.|7xx|[![64750](https://img.shields.io/github/stars/emancu/spirit)](https://github.com/emancu/spirit)
 |36|[maverick](https://hex.pm/packages/maverick)|0.3.0|2023-02-23|Web API framework with a need for speed|7xx|[![42151](https://img.shields.io/github/stars/jeffgrunewald/maverick)](https://github.com/jeffgrunewald/maverick)
 |37|[weber](https://hex.pm/packages/weber)|0.1.0|2014-05-02|weber - is Elixir MVC web framework.|6xx|[![67102](https://img.shields.io/github/stars/elixir-web/weber)](https://github.com/elixir-web/weber)
-|38|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|5xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
-|39|[ankusa](https://hex.pm/packages/ankusa)|0.7.0|2026-10-28|A loosely coupled, high-throughput webhook ingestion framework: durable WAL, pluggable verification/storage/delivery, multi-tenant catch-URL routing.|5xx|[![8570917](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|38|[ankusa](https://hex.pm/packages/ankusa)|0.7.0|2026-10-28|A loosely coupled, high-throughput webhook ingestion framework: durable WAL, pluggable verification/storage/delivery, multi-tenant catch-URL routing.|5xx|[![8570917](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|39|[flex_web](https://hex.pm/packages/flex_web)|0.1.2|2024-07-19|Flex is a lightweight, Flask-inspired web framework for Elixir.|5xx|[![37587](https://img.shields.io/github/stars/rubum/flex)](https://github.com/rubum/flex)
 |40|[game_server_web](https://hex.pm/packages/game_server_web)|1.0.943|2026-04-24|Web interface for Gamend GameServer, built with Phoenix Framework. Provides APIs, authentication, and real-time features.|5xx|[![37913](https://img.shields.io/github/stars/appsinacup/game_server)](https://github.com/appsinacup/game_server)
 |41|[dialup](https://hex.pm/packages/dialup)|0.2.0|2026-07-03|WebSocket-first Elixir framework with auto-generated HTTP MCP APIs|5xx|[![33775](https://img.shields.io/github/stars/SouichiroTsujimoto/Dialup)](https://github.com/SouichiroTsujimoto/Dialup)
 |42|[duskmoon_hologram](https://hex.pm/packages/duskmoon_hologram)|10.0.9|2026-10-29|Full stack isomorphic Elixir web framework that can be used on top of Phoenix.|4xx|[![9550640](https://img.shields.io/github/stars/duskmoon-dev/duskmoon-bundler)](https://github.com/duskmoon-dev/duskmoon-bundler)
