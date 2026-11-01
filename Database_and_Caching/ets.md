@@ -10,8 +10,8 @@
 |7|[lpr](https://hex.pm/packages/lpr)|0.1.2|2019-11-14|An ETS-backed process registry with an API that&#039;s a subset of ostinelli/syn|1xxx|[![41755](https://img.shields.io/github/stars/marianoguerra/lpr)](https://github.com/marianoguerra/lpr)
 |8|[ets_cas](https://hex.pm/packages/ets_cas)|0.1.1|2017-10-12|handle CAS semantic to ETS on different OTP version|8xx|
 |9|[keep](https://hex.pm/packages/keep)|0.1.0|2024-12-07|An easy KV wrapper for ETS|3xx|
-|10|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|1xx|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
-|11|[gnomon](https://hex.pm/packages/gnomon)|1.0.1|2026-10-29|HTTP Date header value served from a persistent term instead of an ETS table|1xx|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
+|10|[gnomon](https://hex.pm/packages/gnomon)|1.0.1|2026-10-29|HTTP Date header value served from a persistent term instead of an ETS table|1xx|[![9418111](https://img.shields.io/github/stars/ninefx/gnomon)](https://github.com/ninefx/gnomon)
+|11|[kura_ets](https://hex.pm/packages/kura_ets)|0.0.1|2026-07-17|ETS backend for kura|1xx|[![5556378](https://img.shields.io/github/stars/longlene/kura_ets)](https://github.com/longlene/kura_ets)
 # Elixir ETS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
