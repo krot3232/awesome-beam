@@ -10,8 +10,8 @@
 |7|[conduit_amqp_client](https://hex.pm/packages/conduit_amqp_client)|3.6.2|2016-12-12|RabbitMQ AMQP Client|2xxx|
 |8|[lake](https://hex.pm/packages/lake)|0.2.6|2025-12-02|Erlang RabbitMQ Streams Client|2xxx|
 |9|[kanin](https://hex.pm/packages/kanin)|0.6.0|2017-02-05|An LFE Wrapper for the Erlang RabbitMQ (AMQP) Client|1xxx|[![40696](https://img.shields.io/github/stars/lfex/kanin)](https://github.com/lfex/kanin)
-|10|[claws_rabbitmq](https://hex.pm/packages/claws_rabbitmq)|0.1.0|2017-12-10|AMQP Client for Snatch|6xx|[![32513](https://img.shields.io/github/stars/snatch-xmpp/claws_rabbitmq)](https://github.com/snatch-xmpp/claws_rabbitmq)
-|11|[conduit_rabbit_common](https://hex.pm/packages/conduit_rabbit_common)|2.7.1|2016-12-12|RabbitMQ Common Libraries|6xx|
+|10|[conduit_rabbit_common](https://hex.pm/packages/conduit_rabbit_common)|2.7.1|2016-12-12|RabbitMQ Common Libraries|6xx|
+|11|[claws_rabbitmq](https://hex.pm/packages/claws_rabbitmq)|0.1.0|2017-12-10|AMQP Client for Snatch|6xx|[![32513](https://img.shields.io/github/stars/snatch-xmpp/claws_rabbitmq)](https://github.com/snatch-xmpp/claws_rabbitmq)
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -94,12 +94,12 @@
 |77|[raft_ex](https://hex.pm/packages/raft_ex)|0.1.0|2026-07-27|Elixir port of RabbitMQ RA Raft consensus. Implements leader election, log replication, snapshots, and cluster management. APIs are unstable and under active development.|3xx|[![46085](https://img.shields.io/github/stars/manhvu/raft_ex)](https://github.com/manhvu/raft_ex)
 |78|[herald_amqp](https://hex.pm/packages/herald_amqp)|0.1.0|2019-12-13|Plugin to use Herald with AMQP|3xx|
 |79|[gramnad_rpc](https://hex.pm/packages/gramnad_rpc)|0.1.0|2023-06-19|GramnadRPC is a library providing gen_server and tools to command CouchDB via the RabbitMQ RPC connection.|2xx|
-|80|[nldoc_stream](https://hex.pm/packages/nldoc_stream)|1.0.0|2025-01-27|Logic for consuming and producing on RabbitMQ Streams|2xx|
-|81|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|2xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
+|80|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|2xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
+|81|[nldoc_stream](https://hex.pm/packages/nldoc_stream)|1.0.0|2025-01-27|Logic for consuming and producing on RabbitMQ Streams|2xx|
 |82|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|2xx|
-|83|[graviton_mq_amqp10](https://hex.pm/packages/graviton_mq_amqp10)|0.2.0|2026-10-30|Bounded, pure AMQP 1.0 types and codecs for GravitonMQ|4x|[![9854102](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|83|[graviton_mq_amqp10](https://hex.pm/packages/graviton_mq_amqp10)|0.2.0|2026-10-30|Bounded, pure AMQP 1.0 types and codecs for GravitonMQ|5x|[![9854102](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |84|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.2.0|2026-10-30|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|4x|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
-|85|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.2.0|2026-10-30|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|3x|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|85|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.2.0|2026-10-30|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|4x|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 # Gleam AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
