@@ -47,4 +47,4 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[amnesiac](https://hex.pm/packages/amnesiac)|1.1.0|2024-06-15|Gleam bindings to mnesia|3xxxx|[![1650](https://img.shields.io/github/stars/VioletBuse/amnesiac)](https://github.com/VioletBuse/amnesiac)
-|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|5xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)
+|2|[glesia](https://hex.pm/packages/glesia)|1.1.1|2026-05-31|Safe-ish Gleam bindings for Erlang Mnesia|6xx|[![3552217](https://img.shields.io/github/stars/rjpruitt16/glesia)](https://github.com/rjpruitt16/glesia)
