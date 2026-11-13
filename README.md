@@ -14,7 +14,7 @@
 ## HTTP client
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.10.2|2026-11-10|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17498xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
+|1|[hackney](https://hex.pm/packages/hackney)|4.11.1|2026-11-13|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17498xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
 |2|[httpoison](https://hex.pm/packages/httpoison)|3.0.1|2026-11-12|Yet Another HTTP client for Elixir powered by hackney|13396xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
 |3|[tesla](https://hex.pm/packages/tesla)|1.23.0|2026-11-08|HTTP client library, with support for middleware and multiple adapters.|7580xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
 |4|[mint](https://hex.pm/packages/mint)|1.11.0|2026-09-29|Small and composable HTTP client.|7047xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
@@ -77,7 +77,7 @@
 |1|[grpc_cowlib](https://hex.pm/packages/grpc_cowlib)|2.8.1|2019-12-24|gRPC forked cowlib: Support library for manipulating Web protocols.|5115xxxx|[![39189](https://img.shields.io/github/stars/elixir-grpc/cowlib)](https://github.com/elixir-grpc/cowlib)|erlang
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|83xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)|elixir
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)|elixir
-|4|[grpc_core](https://hex.pm/packages/grpc_core)|1.0.6|2026-11-06|Core gRPC types, codecs, and utilities for Elixir|29xxxx||elixir
+|4|[grpc_core](https://hex.pm/packages/grpc_core)|1.1.0|2026-11-13|Core gRPC types, codecs, and utilities for Elixir|29xxxx||elixir
 |5|[grpc_update](https://hex.pm/packages/grpc_update)|2.0.0|2022-06-22|The Elixir implementation of gRPC|6xx||erlang
 |6|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|1xx|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)|erlang
 ## DNS
@@ -190,7 +190,7 @@
 |3|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|32xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)|gleam
 |4|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.3.0|2026-10-26|Modern TOML parser and encoder for Elixir with protocol-based struct support|5xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)|elixir
 |5|[tomlet](https://hex.pm/packages/tomlet)|1.5.0|2026-11-07|A round-tripping TOML parser and writer for Gleam, preserving comments, key order, and formatting.|4xxx|[![3520234](https://img.shields.io/github/stars/tylerbutler/tomlet)](https://github.com/tylerbutler/tomlet)|gleam
-|6|[llm_core](https://hex.pm/packages/llm_core)|0.9.5|2026-11-12|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|2xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)|elixir
+|6|[llm_core](https://hex.pm/packages/llm_core)|0.9.6|2026-11-13|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|2xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)|elixir
 ## XML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
