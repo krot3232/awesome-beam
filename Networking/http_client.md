@@ -15,7 +15,7 @@
 |12|[remedy_gun](https://hex.pm/packages/remedy_gun)|2.0.1|2021-10-05|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|3xxxx|[![63129](https://img.shields.io/github/stars/bdanklin/gun)](https://github.com/bdanklin/gun)
 |13|[katipo](https://hex.pm/packages/katipo)|2.1.0|2026-10-21|HTTP client based on libcurl|1xxxx|[![40717](https://img.shields.io/github/stars/puzza007/katipo)](https://github.com/puzza007/katipo)
 |14|[cloudi_service_http_clien t ](https://hex.pm/packages/cloudi_service_http_client)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework HTTP client Service|7xxx|[![32620](https://img.shields.io/github/stars/CloudI/cloudi_service_http_client)](https://github.com/CloudI/cloudi_service_http_client)
-|15|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.4|2026-09-21|gRPC for Erlang on the livery HTTP/2 stack: server and client|6xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
+|15|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.5|2026-11-14|gRPC for Erlang on the livery HTTP/2 stack: server and client|6xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |16|[buoy](https://hex.pm/packages/buoy)|0.3.2|2026-11-01|High Performance Erlang HTTP 1.1 Client|5xxx|[![31963](https://img.shields.io/github/stars/lpgauth/buoy)](https://github.com/lpgauth/buoy)
 |17|[barrel_ibrowse](https://hex.pm/packages/barrel_ibrowse)|4.3.1|2016-06-15|Erlang HTTP client application|4xxx|
 |18|[grpc_lib](https://hex.pm/packages/grpc_lib)|0.1.2|2019-02-02|Shared functions for grpc and grpc_client|4xxx|[![39192](https://img.shields.io/github/stars/Bluehouse-Technology/grpc_lib)](https://github.com/Bluehouse-Technology/grpc_lib)
@@ -217,8 +217,8 @@
 |179|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|3xx|
 |180|[relay](https://hex.pm/packages/relay)|0.2.0|2026-11-04|A Gleam MCP server and client for the frozen 2026-07-28 revision, with stdio and Streamable HTTP transports.|2xx|
 |181|[pushxer](https://hex.pm/packages/pushxer)|0.0.1|2021-01-25|Pusher HTTP client|2xx|[![45887](https://img.shields.io/github/stars/gabheadz/pushxer)](https://github.com/gabheadz/pushxer)
-|182|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
-|183|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
+|182|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
+|183|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
 |184|[opentelemetry_tesla_middl eware ](https://hex.pm/packages/opentelemetry_tesla_middleware)|0.1.0-rc.1|2021-09-08|Tesla middleware handler that creates OpenTelemetry spans from Tesla HTTP client events.|2xx|[![44187](https://img.shields.io/github/stars/ricardoccpaiva/opentelemetry_tesla_middleware)](https://github.com/ricardoccpaiva/opentelemetry_tesla_middleware)
 |185|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|2xx|
 |186|[agentsea_mcp](https://hex.pm/packages/agentsea_mcp)|0.1.0|2026-06-26|AgentSea MCP: a Model Context Protocol client with stdio and streamable-HTTP transports.|2xx|[![4619739](https://img.shields.io/github/stars/lovekaizen/agentsea-ex)](https://github.com/lovekaizen/agentsea-ex)
