@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[erldb](https://hex.pm/packages/erldb)|1.0.0|2021-11-02|Erlang ORM|2xxx|
-|2|[emysql_orm](https://hex.pm/packages/emysql_orm)|0.0.1|2021-06-09|emysql ORM|3xx|[![35033](https://img.shields.io/github/stars/aijingsun6/emysql_orm)](https://github.com/aijingsun6/emysql_orm)
+|2|[emysql_orm](https://hex.pm/packages/emysql_orm)|0.0.1|2021-06-09|emysql ORM|4xx|[![35033](https://img.shields.io/github/stars/aijingsun6/emysql_orm)](https://github.com/aijingsun6/emysql_orm)
 # Elixir ORM
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

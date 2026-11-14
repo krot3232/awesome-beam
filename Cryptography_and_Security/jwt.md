@@ -8,7 +8,7 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.7.0|2026-08-28|JWT (JSON Web Token) library for Elixir.|5953xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.8.0|2026-11-13|JWT (JSON Web Token) library for Elixir.|5957xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|160xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|38xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
@@ -36,7 +36,7 @@
 |26|[rephi](https://hex.pm/packages/rephi)|0.1.0|2025-06-23|Phoenix framework with JWT auth, RBAC authorization, WebSocket support, and multiple React frontends architecture|4xx|[![63170](https://img.shields.io/github/stars/thotenn/rephi)](https://github.com/thotenn/rephi)
 |27|[joken_plug](https://hex.pm/packages/joken_plug)|0.1.0|2018-07-17|An Extensible JWT plug, Built on top of Joken|3xx|[![40472](https://img.shields.io/github/stars/HoffsMH/joken-plug)](https://github.com/HoffsMH/joken-plug)
 |28|[mobile_id_token](https://hex.pm/packages/mobile_id_token)|0.1.1|2026-05-31|Verify Apple and Google mobile OAuth id_token JWTs with JWKS caching and claim checks|3xx|[![3319578](https://img.shields.io/github/stars/metacircu1ar/mobile_id_token)](https://github.com/metacircu1ar/mobile_id_token)
-|29|[silver_vine_token](https://hex.pm/packages/silver_vine_token)|0.1.0|2021-10-18|SilverVine.Token provides functions for implementing various OAuth 2.0 / OpenID Connect tokens using JWT.|2xx|[![64195](https://img.shields.io/github/stars/ritou/elixir-silver-vine-token)](https://github.com/ritou/elixir-silver-vine-token)
+|29|[silver_vine_token](https://hex.pm/packages/silver_vine_token)|0.1.0|2021-10-18|SilverVine.Token provides functions for implementing various OAuth 2.0 / OpenID Connect tokens using JWT.|3xx|[![64195](https://img.shields.io/github/stars/ritou/elixir-silver-vine-token)](https://github.com/ritou/elixir-silver-vine-token)
 |30|[identity_jwt](https://hex.pm/packages/identity_jwt)|0.0.1|2020-01-01|Provide JWT for Identity|2xx|[![39939](https://img.shields.io/github/stars/abiwinanda/identity_jwt)](https://github.com/abiwinanda/identity_jwt)
 |31|[agent_push_kit](https://hex.pm/packages/agent_push_kit)|0.1.0|2026-08-18|The complete Agent Push Kit REST API. Application event ingestion uses an organization key beginning with &amp;#x60;apk_&amp;#x60;. Authenticated user operations accept either an Agent Push Kit login JWT or an agent access token beginning with &amp;#x60;apt_&amp;#x60;.|2xx|[![6954382](https://img.shields.io/github/stars/JustinBStrong/agent-push-kit-elixir)](https://github.com/JustinBStrong/agent-push-kit-elixir)
 |32|[noizu_google](https://hex.pm/packages/noizu_google)|0.2.4|2026-10-07|Google REST API client for Elixir. OAuth2 (authorize, token, refresh) plus service-account JWT bearer, Finch + Jason HTTP, and structured errors. Search Console, GA4 Admin/Data, AdSense Management, and Google Ads (GAQL search, mutate, conversion actions).|1xx|[![6768500](https://img.shields.io/github/stars/noizu-labs/elixir-google)](https://github.com/noizu-labs/elixir-google)
@@ -47,8 +47,8 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|1xxxx|
-|2|[gwt](https://hex.pm/packages/gwt)|2.1.2|2025-08-11|A JWT library written in Gleam|9xxx|[![39287](https://img.shields.io/github/stars/brettkolodny/gwt)](https://github.com/brettkolodny/gwt)
-|3|[gose](https://hex.pm/packages/gose)|2.2.0|2026-09-21|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|9xxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)
+|2|[gose](https://hex.pm/packages/gose)|2.2.0|2026-09-21|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|1xxxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)
+|3|[gwt](https://hex.pm/packages/gwt)|2.1.2|2025-08-11|A JWT library written in Gleam|9xxx|[![39287](https://img.shields.io/github/stars/brettkolodny/gwt)](https://github.com/brettkolodny/gwt)
 |4|[ywt_erlang](https://hex.pm/packages/ywt_erlang)|2.0.0|2026-05-29|The ywt package for JWT targeting erlang.|3xxx|
 |5|[gjwt](https://hex.pm/packages/gjwt)|2.0.1|2026-04-27|A gleam abstraction to interact with erlang_jose for JWT&#039;s|1xxx|[![38307](https://img.shields.io/github/stars/BradBot1/gleam_gjwt)](https://github.com/BradBot1/gleam_gjwt)
 |6|[hellhound](https://hex.pm/packages/hellhound)|0.2.1|2026-11-04|Typed OIDC / OAuth 2.0, standalone JWT signing and bounded HTTPS credential exchange for Gleam on Erlang/OTP.|8xx|[![9716560](https://img.shields.io/github/stars/gleam-dream/hellhound)](https://github.com/gleam-dream/hellhound)
