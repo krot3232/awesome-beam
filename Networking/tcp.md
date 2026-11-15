@@ -1,11 +1,11 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16626xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16630xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|8xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
-|5|[sockerl](https://hex.pm/packages/sockerl)|17.9.10|2017-09-10|Advanced Erlang socket library for TCP protocols and provides fast, useful and simple API for implementing server, client and connection pool.|1xxx|[![64553](https://img.shields.io/github/stars/Pouriya-Jahanbakhsh/sockerl)](https://github.com/Pouriya-Jahanbakhsh/sockerl)
+|5|[sockerl](https://hex.pm/packages/sockerl)|17.9.10|2017-09-10|Advanced Erlang socket library for TCP protocols and provides fast, useful and simple API for implementing server, client and connection pool.|2xxx|[![64553](https://img.shields.io/github/stars/Pouriya-Jahanbakhsh/sockerl)](https://github.com/Pouriya-Jahanbakhsh/sockerl)
 |6|[gen_listener_tcp](https://hex.pm/packages/gen_listener_tcp)|0.3.2|2015-09-04|Generic TCP Server|1xxx|[![38072](https://img.shields.io/github/stars/travelping/gen_listener_tcp)](https://github.com/travelping/gen_listener_tcp)
 |7|[tcp_client](https://hex.pm/packages/tcp_client)|0.3.0|2021-06-27|A simple LFE TCP client connection manager|7xx|[![65491](https://img.shields.io/github/stars/lfex/tcp-client)](https://github.com/lfex/tcp-client)
 |8|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|6xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
@@ -42,7 +42,7 @@
 |27|[modbuv](https://hex.pm/packages/modbuv)|0.1.3|2026-11-12|A numeric function code-driven Modbus TCP Client/Server and RTU Master/Slave library for Elixir/OTP.|1xx|
 |28|[yaads](https://hex.pm/packages/yaads)|0.1.2|2026-11-10|Beckhoff ADS in pure Elixir: a client for TwinCAT PLCs that reads, writes and watches variables by name, over TCP or Secure ADS (TLS), and finds PLCs and adds and deletes routes over UDP, without C in the BEAM.|1xx|[![10031630](https://img.shields.io/github/stars/tallakt/yaads)](https://github.com/tallakt/yaads)
 |29|[avmodbus](https://hex.pm/packages/avmodbus)|0.1.0|2026-10-28|Modbus RTU, ASCII, and TCP library designed for AtomVM|8x|[![9776579](https://img.shields.io/github/stars/piyopiyoex/avmodbus)](https://github.com/piyopiyoex/avmodbus)
-|30|[meshcore](https://hex.pm/packages/meshcore)|0.1.0|2026-11-09|Elixir client for MeshCore companion radios over serial, TCP and BLE. A port of the meshcore_py library.|7x|[![10346006](https://img.shields.io/github/stars/nyannus/meshcore_ex)](https://github.com/nyannus/meshcore_ex)
+|30|[meshcore](https://hex.pm/packages/meshcore)|0.1.0|2026-11-09|Elixir client for MeshCore companion radios over serial, TCP and BLE. A port of the meshcore_py library.|8x|[![10346006](https://img.shields.io/github/stars/nyannus/meshcore_ex)](https://github.com/nyannus/meshcore_ex)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

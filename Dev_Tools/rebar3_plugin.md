@@ -1,11 +1,11 @@
 # Rabar3 plugin
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.5.0|2026-11-05|Hex.pm plugin for rebar3|5393xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
-|2|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|928xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
+|1|[rebar3_hex](https://hex.pm/packages/rebar3_hex)|7.5.0|2026-11-05|Hex.pm plugin for rebar3|5394xxxx|[![46376](https://img.shields.io/github/stars/erlef/rebar3_hex)](https://github.com/erlef/rebar3_hex)
+|2|[rebar3_ex_doc](https://hex.pm/packages/rebar3_ex_doc)|0.3.0|2026-05-27|rebar3 plugin for generating docs with ex_doc|930xxxx|[![46363](https://img.shields.io/github/stars/starbelly/rebar3_ex_doc)](https://github.com/starbelly/rebar3_ex_doc)
 |3|[rebar3_lint](https://hex.pm/packages/rebar3_lint)|6.0.0|2026-08-21|Erlang linter - rebar3 plugin|781xxxx|[![46386](https://img.shields.io/github/stars/project-fifo/rebar3_lint)](https://github.com/project-fifo/rebar3_lint)
 |4|[erlfmt](https://hex.pm/packages/erlfmt)|1.8.0|2026-02-23|erlfmt is an opinionated Erlang code formatter|664xxxx|[![35254](https://img.shields.io/github/stars/WhatsApp/erlfmt)](https://github.com/WhatsApp/erlfmt)
-|5|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|411xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
+|5|[rebar3_gpb_plugin](https://hex.pm/packages/rebar3_gpb_plugin)|3.0.1|2026-06-02|A rebar3 gpb plugin for compiling .proto files|412xxxx|[![46371](https://img.shields.io/github/stars/lrascao/rebar3_gpb_plugin)](https://github.com/lrascao/rebar3_gpb_plugin)
 |6|[grpcbox_plugin](https://hex.pm/packages/grpcbox_plugin)|0.10.0|2026-06-29|Rebar3 plugin to generate behaviours for grpc services|277xxxx|[![39183](https://img.shields.io/github/stars/tsloughter/grpcbox_plugin)](https://github.com/tsloughter/grpcbox_plugin)
 |7|[rebar3_format](https://hex.pm/packages/rebar3_format)|1.3.0|2026-10-28|A rebar plugin for code formatting|221xxxx|[![46368](https://img.shields.io/github/stars/AdRoll/rebar3_format)](https://github.com/AdRoll/rebar3_format)
 |8|[rebar3_hank](https://hex.pm/packages/rebar3_hank)|2.0.2|2026-11-02|A rebar plugin for dead code cleaning|104xxxx|[![46375](https://img.shields.io/github/stars/AdRoll/rebar3_hank)](https://github.com/AdRoll/rebar3_hank)
@@ -61,7 +61,7 @@
 |58|[rebar3_strata](https://hex.pm/packages/rebar3_strata)|0.1.0|2024-12-07|A rebar plugin to manage schema migrations|3xx|
 |59|[rebar3_rdl](https://hex.pm/packages/rebar3_rdl)|0.1.0|2024-08-06|A rebar plugin to transform RDL files into Erlang modules.|2xx|[![46401](https://img.shields.io/github/stars/joaohf/rebar3_rdl)](https://github.com/joaohf/rebar3_rdl)
 |60|[rebar3_dragon](https://hex.pm/packages/rebar3_dragon)|0.0.0|2024-02-10|The LFE Dragon rebar3 plugin|1xx|[![46340](https://img.shields.io/github/stars/lfe-dragon/rebar3)](https://github.com/lfe-dragon/rebar3)
-|61|[rebar3_fmt](https://hex.pm/packages/rebar3_fmt)|1.19.0|2023-07-28|rebar3 plugin to format Erlang code a la gofmt|89xxxx|[![46367](https://img.shields.io/github/stars/fenollp/erlang-formatter)](https://github.com/fenollp/erlang-formatter)
+|61|[rebar3_fmt](https://hex.pm/packages/rebar3_fmt)|1.19.0|2023-07-28|rebar3 plugin to format Erlang code a la gofmt|90xxxx|[![46367](https://img.shields.io/github/stars/fenollp/erlang-formatter)](https://github.com/fenollp/erlang-formatter)
 |62|[rebar3_run](https://hex.pm/packages/rebar3_run)|0.5.0|2023-08-02|A rebar plugin|87xxxx|[![46403](https://img.shields.io/github/stars/tsloughter/rebar3_run)](https://github.com/tsloughter/rebar3_run)
 |63|[nextroll_rebar3_gpb_plugi n ](https://hex.pm/packages/nextroll_rebar3_gpb_plugin)|3.0.0|2023-03-15|A rebar3 gpb plugin for compiling .proto files|3xxxx|[![43521](https://img.shields.io/github/stars/AdRoll/rebar3_gpb_plugin)](https://github.com/AdRoll/rebar3_gpb_plugin)
 |64|[rebar3_sheldon](https://hex.pm/packages/rebar3_sheldon)|0.4.3|2023-08-21|A rebar plugin for spellchecking|1xxxx|[![46407](https://img.shields.io/github/stars/vkatsuba/rebar3_sheldon)](https://github.com/vkatsuba/rebar3_sheldon)
@@ -134,8 +134,8 @@
 |131|[rebar3_lfe_version](https://hex.pm/packages/rebar3_lfe_version)|0.5.0-rc2|2016-10-25|The LFE rebar3 version plugin|1xxx|[![46385](https://img.shields.io/github/stars/lfe-rebar3/version)](https://github.com/lfe-rebar3/version)
 |132|[rebar3_lfe_clean](https://hex.pm/packages/rebar3_lfe_clean)|0.4.0-rc2|2016-10-30|The LFE rebar3 clean plugin|8xx|
 |133|[rebar_prv_mlfe](https://hex.pm/packages/rebar_prv_mlfe)|0.3.0|2016-11-10|A rebar plugin|8xx|[![46432](https://img.shields.io/github/stars/tsloughter/rebar_prv_mlfe)](https://github.com/tsloughter/rebar_prv_mlfe)
-|134|[rebar3_shellrpc](https://hex.pm/packages/rebar3_shellrpc)|0.1.0|2016-04-04|A plugin to send commands to a running rebar3 shell|6xx|[![46409](https://img.shields.io/github/stars/ferd/rebar3_shellrpc)](https://github.com/ferd/rebar3_shellrpc)
-|135|[rebar3_jorel](https://hex.pm/packages/rebar3_jorel)|0.0.1|2016-11-09|jorel plugin for rebar3|6xx|[![46379](https://img.shields.io/github/stars/emedia-project/rebar3_jorel)](https://github.com/emedia-project/rebar3_jorel)
+|134|[rebar3_jorel](https://hex.pm/packages/rebar3_jorel)|0.0.1|2016-11-09|jorel plugin for rebar3|6xx|[![46379](https://img.shields.io/github/stars/emedia-project/rebar3_jorel)](https://github.com/emedia-project/rebar3_jorel)
+|135|[rebar3_shellrpc](https://hex.pm/packages/rebar3_shellrpc)|0.1.0|2016-04-04|A plugin to send commands to a running rebar3 shell|6xx|[![46409](https://img.shields.io/github/stars/ferd/rebar3_shellrpc)](https://github.com/ferd/rebar3_shellrpc)
 |136|[rebar3_auto_applications](https://hex.pm/packages/rebar3_auto_applications)|1.0.0|2016-04-08|Provider for automatically solving dependent|6xx|[![46319](https://img.shields.io/github/stars/soranoba/rebar3_auto_applications)](https://github.com/soranoba/rebar3_auto_applications)
 |137|[rebar3_elixirc](https://hex.pm/packages/rebar3_elixirc)|0.1.0|2016-02-07|A rebar plugin|6xx|[![46353](https://img.shields.io/github/stars/tsloughter/rebar3_elixirc)](https://github.com/tsloughter/rebar3_elixirc)
 |138|[rs_compile](https://hex.pm/packages/rs_compile)|0.1.0|2016-12-10|A rebar plugin to &#039;cargo build&#039; rust source|5xx|
