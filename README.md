@@ -14,7 +14,7 @@
 ## HTTP client
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.11.1|2026-11-13|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17504xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
+|1|[hackney](https://hex.pm/packages/hackney)|4.12.1|2026-11-15|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17504xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)|erlang
 |2|[httpoison](https://hex.pm/packages/httpoison)|3.0.1|2026-11-12|Yet Another HTTP client for Elixir powered by hackney|13400xxxx|[![39775](https://img.shields.io/github/stars/edgurgel/httpoison)](https://github.com/edgurgel/httpoison)|elixir
 |3|[tesla](https://hex.pm/packages/tesla)|1.23.0|2026-11-08|HTTP client library, with support for middleware and multiple adapters.|7584xxxx|[![65658](https://img.shields.io/github/stars/elixir-tesla/tesla)](https://github.com/elixir-tesla/tesla)|elixir
 |4|[mint](https://hex.pm/packages/mint)|1.11.0|2026-09-29|Small and composable HTTP client.|7062xxxx|[![42649](https://img.shields.io/github/stars/elixir-mint/mint)](https://github.com/elixir-mint/mint)|elixir
@@ -425,7 +425,7 @@
 |3|[hermes_mcp](https://hex.pm/packages/hermes_mcp)|0.14.1|2025-08-14|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|23xxxx|[![39515](https://img.shields.io/github/stars/cloudwalk/hermes-mcp)](https://github.com/cloudwalk/hermes-mcp)|elixir
 |4|[aide](https://hex.pm/packages/aide)|0.7.1|2026-02-23|Build Model Context Protocol (MCP) Servers (clients coming soon).|20xxxx|[![1468](https://img.shields.io/github/stars/crowdhailer/aide)](https://github.com/crowdhailer/aide)|gleam
 |5|[aide_generator](https://hex.pm/packages/aide_generator)|0.4.1|2026-02-23|Generate encoders and decoders for MCP tools |11xxxx|[![1469](https://img.shields.io/github/stars/crowdhailer/aide_generator)](https://github.com/crowdhailer/aide_generator)|gleam
-|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.5.1|2026-11-13|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
+|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.5.3|2026-11-15|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
 |7|[mcp_client](https://hex.pm/packages/mcp_client)|0.1.0|2026-04-23|MCP (Model Context Protocol) client for Gleam — connect to any MCP server via JSON-RPC 2.0 over STDIO|4xxx|[![42210](https://img.shields.io/github/stars/manelsen/mcp_client)](https://github.com/manelsen/mcp_client)|gleam
 |8|[erlmcp](https://hex.pm/packages/erlmcp)|0.5.1|2026-05-21|Erlang Model Context Protocol (MCP) SDK|7xx||erlang
 # [Configuration](./Configuration)
@@ -450,7 +450,7 @@
 |4|[eiconv](https://hex.pm/packages/eiconv)|1.0.0|2019-07-09|Iconv NIF interface|73xxxx|[![34669](https://img.shields.io/github/stars/zotonic/z_stdlib)](https://github.com/zotonic/z_stdlib)|erlang
 |5|[jchash](https://hex.pm/packages/jchash)|0.1.4|2023-07-16|Jump Consistent Hash NIF library for Erlang/Elixir.|68xxxx|[![40394](https://img.shields.io/github/stars/cabol/jchash)](https://github.com/cabol/jchash)|erlang
 |6|[bcrypt](https://hex.pm/packages/bcrypt)|2.0.0|2026-10-27|An Erlang wrapper (NIF or port program) for the OpenBSD password scheme, bcrypt.|58xxxx|[![31318](https://img.shields.io/github/stars/erlangpack/bcrypt)](https://github.com/erlangpack/bcrypt)|erlang
-|7|[omq_gleam](https://hex.pm/packages/omq_gleam)|0.2.14|2026-11-12|Gleam wrapper for OMQ.beam, backed by the Erlang OMQ NIF package.|7xx|[![7588295](https://img.shields.io/github/stars/paddor/omq.rs)](https://github.com/paddor/omq.rs)|gleam
+|7|[omq_gleam](https://hex.pm/packages/omq_gleam)|0.3.0|2026-11-15|Gleam wrapper for OMQ.beam, backed by the Erlang OMQ NIF package.|7xx|[![7588295](https://img.shields.io/github/stars/paddor/omq.rs)](https://github.com/paddor/omq.rs)|gleam
 |8|[pinkdf2](https://hex.pm/packages/pinkdf2)|2.0.0|2025-02-21|Gleam bindings to fast_pbkdf2 NIF of PBKDF2 (Password-Based Key Derivation Function 2) for Erlang.|6xx|[![45097](https://img.shields.io/github/stars/yazatamorph/pinkdf2)](https://github.com/yazatamorph/pinkdf2)|gleam
 |9|[pturso](https://hex.pm/packages/pturso)|1.1.0|2026-01-16|Turso for Gleam. Similar to the sqlight library, but uses a Port instead of a NIF (so it works fine even for statically linked BEAM builds).|3xx|[![45824](https://img.shields.io/github/stars/Resonious/pturso)](https://github.com/Resonious/pturso)|gleam
 # [Metaprogramming](./Metaprogramming)

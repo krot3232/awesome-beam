@@ -1,7 +1,7 @@
 # Erlang HTTP client
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[hackney](https://hex.pm/packages/hackney)|4.11.1|2026-11-13|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17504xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)
+|1|[hackney](https://hex.pm/packages/hackney)|4.12.1|2026-11-15|Simple HTTP client with HTTP/1.1, HTTP/2, and HTTP/3 support|17504xxxx|[![39303](https://img.shields.io/github/stars/benoitc/hackney)](https://github.com/benoitc/hackney)
 |2|[ibrowse](https://hex.pm/packages/ibrowse)|4.5.0|2026-05-01|Erlang HTTP client application|5623xxxx|[![39902](https://img.shields.io/github/stars/cmullaparthi/ibrowse)](https://github.com/cmullaparthi/ibrowse)
 |3|[grpc_gun](https://hex.pm/packages/grpc_gun)|2.0.1|2022-07-27|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|5579xxxx|[![39191](https://img.shields.io/github/stars/elixir-grpc/gun)](https://github.com/elixir-grpc/gun)
 |4|[gun](https://hex.pm/packages/gun)|2.8.0|2026-11-09|HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.|1632xxxx|[![39263](https://img.shields.io/github/stars/ninenines/gun)](https://github.com/ninenines/gun)
@@ -205,8 +205,8 @@
 |167|[parley](https://hex.pm/packages/parley)|0.3.0|2026-04-06|A WebSocket client built on gen_statem and Mint.|3xx|[![44475](https://img.shields.io/github/stars/joaop21/parley)](https://github.com/joaop21/parley)
 |168|[binance_http](https://hex.pm/packages/binance_http)|0.1.2|2023-05-24|Simple HTTP Client for Binance API|3xx|[![31469](https://img.shields.io/github/stars/vlnic/binance_http)](https://github.com/vlnic/binance_http)
 |169|[log_snag](https://hex.pm/packages/log_snag)|1.0.0|2022-10-29|An HTTP client for the LogSnag API.|3xx|
-|170|[bitrix_ex](https://hex.pm/packages/bitrix_ex)|0.1.0|2024-02-05|HTTP client make using Tesla for integrating with the Bitrix24 API|3xx|
-|171|[etcdv3](https://hex.pm/packages/etcdv3)|3.4.12-beta|2020-08-24|etcd v3 grpc client generated from etcd proto files|3xx|[![35402](https://img.shields.io/github/stars/jeffutter/etcdv3)](https://github.com/jeffutter/etcdv3)
+|170|[etcdv3](https://hex.pm/packages/etcdv3)|3.4.12-beta|2020-08-24|etcd v3 grpc client generated from etcd proto files|3xx|[![35402](https://img.shields.io/github/stars/jeffutter/etcdv3)](https://github.com/jeffutter/etcdv3)
+|171|[bitrix_ex](https://hex.pm/packages/bitrix_ex)|0.1.0|2024-02-05|HTTP client make using Tesla for integrating with the Bitrix24 API|3xx|
 |172|[scratcher_hackney](https://hex.pm/packages/scratcher_hackney)|0.1.0|2020-09-13|Module for using Hackany as Scratcher&#039;s HTTP Client|3xx|[![63799](https://img.shields.io/github/stars/ritou/elixir-scratcher-hackney)](https://github.com/ritou/elixir-scratcher-hackney)
 |173|[tesla_middleware_xmlrpc](https://hex.pm/packages/tesla_middleware_xmlrpc)|0.7.0|2023-03-31|Middleware for Tesla HTTP client library that encodes and decodes XML-RPC|3xx|[![65676](https://img.shields.io/github/stars/cogini/tesla_middleware_xmlrpc)](https://github.com/cogini/tesla_middleware_xmlrpc)
 |174|[nbp_req](https://hex.pm/packages/nbp_req)|0.1.1|2026-10-22|HTTP client for the NBP Web API (Polish National Bank exchange rates and gold prices), built on Req.|3xx|[![4044098](https://img.shields.io/github/stars/inou/nbp_req)](https://github.com/inou/nbp_req)
@@ -216,8 +216,8 @@
 |178|[hui_httpoison](https://hex.pm/packages/hui_httpoison)|0.1.0|2020-07-06|hui_httpoison is an implementation of Hui HTTP client behaviour  for querying Solr search platform.|3xx|[![39810](https://img.shields.io/github/stars/boonious/hui_httpoison)](https://github.com/boonious/hui_httpoison)
 |179|[scratcher_httpoison](https://hex.pm/packages/scratcher_httpoison)|0.1.0|2020-09-19|Module for using HTTPoison as Scratcher&#039;s HTTP Client|3xx|[![63800](https://img.shields.io/github/stars/ritou/elixir-scratcher-httpoison)](https://github.com/ritou/elixir-scratcher-httpoison)
 |180|[boing](https://hex.pm/packages/boing)|0.1.0|2025-03-04|Debouncer with HTTP client support.|3xx|
-|181|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
-|182|[pushxer](https://hex.pm/packages/pushxer)|0.0.1|2021-01-25|Pusher HTTP client|2xx|[![45887](https://img.shields.io/github/stars/gabheadz/pushxer)](https://github.com/gabheadz/pushxer)
+|181|[pushxer](https://hex.pm/packages/pushxer)|0.0.1|2021-01-25|Pusher HTTP client|2xx|[![45887](https://img.shields.io/github/stars/gabheadz/pushxer)](https://github.com/gabheadz/pushxer)
+|182|[supabase_fetcher](https://hex.pm/packages/supabase_fetcher)|0.1.0|2024-01-27|A customized HTTP client for Supabase. Mainly used in Supabase Potion.|2xx|[![65199](https://img.shields.io/github/stars/zoedsoupe/supabase)](https://github.com/zoedsoupe/supabase)
 |183|[simple_http](https://hex.pm/packages/simple_http)|0.1.0|2021-05-26|A Simple HTTP client meant to teach how to write an HTTP client.|2xx|
 |184|[opentelemetry_tesla_middl eware ](https://hex.pm/packages/opentelemetry_tesla_middleware)|0.1.0-rc.1|2021-09-08|Tesla middleware handler that creates OpenTelemetry spans from Tesla HTTP client events.|2xx|[![44187](https://img.shields.io/github/stars/ricardoccpaiva/opentelemetry_tesla_middleware)](https://github.com/ricardoccpaiva/opentelemetry_tesla_middleware)
 |185|[kubemq](https://hex.pm/packages/kubemq)|1.0.1|2026-05-31|KubeMQ Elixir SDK — Kubernetes-native messaging client for events, commands, queries, and queues via gRPC|2xx|
@@ -244,7 +244,7 @@
 |3|[gleam_hackney](https://hex.pm/packages/gleam_hackney)|1.4.0|2026-05-26|Gleam bindings to the Hackney HTTP client|4xxxx|[![38374](https://img.shields.io/github/stars/gleam-lang/hackney)](https://github.com/gleam-lang/hackney)
 |4|[oas_generator](https://hex.pm/packages/oas_generator)|2.3.1|2026-02-22|Generate HTTP clients from Open API specs.|2xxxx|[![43813](https://img.shields.io/github/stars/crowdhailer/oas_generator)](https://github.com/crowdhailer/oas_generator)
 |5|[stratus](https://hex.pm/packages/stratus)|3.0.0|2026-04-18|A Gleam WebSocket client|2xxxx|[![65050](https://img.shields.io/github/stars/rawhat/stratus)](https://github.com/rawhat/stratus)
-|6|[collie](https://hex.pm/packages/collie)|4.0.0|2026-11-04|🐕 Websocket client in Gleam|9xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
+|6|[collie](https://hex.pm/packages/collie)|4.1.0|2026-11-15|🐕 Websocket client in Gleam|9xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
 |7|[httpp](https://hex.pm/packages/httpp)|1.8.0|2025-11-06|an http client for gleam which supports streaming, based on hackney|3xxx|[![39781](https://img.shields.io/github/stars/VioletBuse/httpp)](https://github.com/VioletBuse/httpp)
 |8|[dream_http_client](https://hex.pm/packages/dream_http_client)|5.1.3|2026-03-17|Type-safe HTTP client for Gleam with streaming support|3xxx|[![34108](https://img.shields.io/github/stars/TrustBound/dream)](https://github.com/TrustBound/dream)
 |9|[discord_gleam_stratus](https://hex.pm/packages/discord_gleam_stratus)|1.0.3|2026-04-10|A Gleam WebSocket client|2xxx|[![33872](https://img.shields.io/github/stars/cyteon/discord_gleam)](https://github.com/cyteon/discord_gleam)

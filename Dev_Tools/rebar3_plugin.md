@@ -15,7 +15,7 @@
 |12|[rebar3_efmt](https://hex.pm/packages/rebar3_efmt)|0.21.0|2026-02-12|Erlang Code Formatter|8xxxx|[![46350](https://img.shields.io/github/stars/sile/efmt)](https://github.com/sile/efmt)
 |13|[rebar3_lfe](https://hex.pm/packages/rebar3_lfe)|0.5.8|2026-08-08|A modern rebar3 plugin for LFE projects|7xxxx|[![46381](https://img.shields.io/github/stars/lfe/rebar3)](https://github.com/lfe/rebar3)
 |14|[rebar3_diameter_compiler](https://hex.pm/packages/rebar3_diameter_compiler)|0.9.0|2026-07-15|Compile diameter .dia files|6xxxx|[![46336](https://img.shields.io/github/stars/carlosedp/rebar3_diameter_compiler)](https://github.com/carlosedp/rebar3_diameter_compiler)
-|15|[rebar3_mutate](https://hex.pm/packages/rebar3_mutate)|0.6.1|2026-11-03|Mutation testing plugin for rebar3|3xxxx|[![46389](https://img.shields.io/github/stars/Taure/rebar3_mutate)](https://github.com/Taure/rebar3_mutate)
+|15|[rebar3_mutate](https://hex.pm/packages/rebar3_mutate)|0.6.3|2026-11-15|Mutation testing plugin for rebar3|3xxxx|[![46389](https://img.shields.io/github/stars/Taure/rebar3_mutate)](https://github.com/Taure/rebar3_mutate)
 |16|[rebar3_grisp](https://hex.pm/packages/rebar3_grisp)|2.14.3|2026-10-28|Rebar plugin for GRiSP|3xxxx|[![46373](https://img.shields.io/github/stars/grisp/rebar3_grisp)](https://github.com/grisp/rebar3_grisp)
 |17|[rebar3_audit](https://hex.pm/packages/rebar3_audit)|0.2.8|2026-09-06|Audit rebar3 dependencies for known vulnerabilities|1xxxx|
 |18|[rebar3_erllambda](https://hex.pm/packages/rebar3_erllambda)|1.1.4|2026-04-09|Rebar3 plugin for erllambda functions|1xxxx|[![46360](https://img.shields.io/github/stars/alertlogic/rebar3_erllambda)](https://github.com/alertlogic/rebar3_erllambda)
@@ -23,7 +23,7 @@
 |20|[rebar_safe](https://hex.pm/packages/rebar_safe)|1.1.0|2026-06-02|SAFE rebar plugin|5xxx|
 |21|[rebar3_nova](https://hex.pm/packages/rebar3_nova)|0.14.0|2026-11-06|Rebar3 plugin for scaffolding and managing Nova framework projects|3xxx|[![46392](https://img.shields.io/github/stars/novaframework/rebar3_nova)](https://github.com/novaframework/rebar3_nova)
 |22|[rebar3_kura](https://hex.pm/packages/rebar3_kura)|0.18.0|2026-11-06|Rebar3 plugin for auto-generating Kura migrations from schema changes|2xxx|[![46380](https://img.shields.io/github/stars/Taure/rebar3_kura)](https://github.com/Taure/rebar3_kura)
-|23|[rebar3_fly](https://hex.pm/packages/rebar3_fly)|0.2.0|2026-03-12|Rebar3 plugin for deploying Erlang/OTP applications to Fly.io|2xxx|
+|23|[rebar3_fly](https://hex.pm/packages/rebar3_fly)|0.2.3|2026-11-15|Rebar3 plugin for deploying Erlang/OTP applications to Fly.io|2xxx|
 |24|[rebar_sbom](https://hex.pm/packages/rebar_sbom)|1.0.0|2026-06-03|Rebar plugin to generate CycloneDX SBoM|1xxx|[![3711456](https://img.shields.io/github/stars/stritzinger/rebar_sbom)](https://github.com/stritzinger/rebar_sbom)
 |25|[rebar3_efene](https://hex.pm/packages/rebar3_efene)|0.3.0|2026-06-23|Rebar3 plugin to compile, format, test and run efene code|1xxx|[![46346](https://img.shields.io/github/stars/efene/rebar3_efene)](https://github.com/efene/rebar3_efene)
 |26|[rebar3_grisp_io](https://hex.pm/packages/rebar3_grisp_io)|1.1.1|2026-10-26|Rebar plugin to integrate with grisp.io|1xxx|[![46374](https://img.shields.io/github/stars/grisp/rebar3_grisp_io)](https://github.com/grisp/rebar3_grisp_io)
@@ -35,7 +35,7 @@
 |32|[cassone](https://hex.pm/packages/cassone)|0.1.1|2026-02-07|Rebar3 plugin to package Erlang escripts and releases in standalone executables|2xx|
 |33|[rebar_calzone](https://hex.pm/packages/rebar_calzone)|1.0.1|2026-05-13|Rebar3 plugin for packaging escripts as Calzone binaries|2xx|
 |34|[rebar3_otter](https://hex.pm/packages/rebar3_otter)|0.3.1|2026-06-25|rebar3 plugin for building Rust NIF crates with otter|2xx|[![4461473](https://img.shields.io/github/stars/cubelio/otter)](https://github.com/cubelio/otter)
-|35|[rebar3_stale](https://hex.pm/packages/rebar3_stale)|0.1.4|2026-09-06|Rebar3 plugin for running only stale tests affected by changed modules|2xx|[![46411](https://img.shields.io/github/stars/Taure/rebar3_stale)](https://github.com/Taure/rebar3_stale)
+|35|[rebar3_stale](https://hex.pm/packages/rebar3_stale)|0.1.6|2026-11-15|Rebar3 plugin for running only stale tests affected by changed modules|2xx|[![46411](https://img.shields.io/github/stars/Taure/rebar3_stale)](https://github.com/Taure/rebar3_stale)
 |36|[rebar3_thrift](https://hex.pm/packages/rebar3_thrift)|0.8.0|2026-10-27|rebar3 plugin wrapping the thrift_generator IDL compiler|1xx|[![9472207](https://img.shields.io/github/stars/kpy3/thrift-erl)](https://github.com/kpy3/thrift-erl)
 |37|[rebar3_midgard](https://hex.pm/packages/rebar3_midgard)|0.4.0|2026-10-21|Midgard providers for Rebar3|1xx|[![9449322](https://img.shields.io/github/stars/leostera/midgard)](https://github.com/leostera/midgard)
 |38|[atomvm_rebar3_plugin](https://hex.pm/packages/atomvm_rebar3_plugin)|0.7.5|2025-05-27|A rebar plugin for manipulating AtomVM AVM files|10xxxx|[![7734](https://img.shields.io/github/stars/atomvm/atomvm_rebar3_plugin)](https://github.com/atomvm/atomvm_rebar3_plugin)

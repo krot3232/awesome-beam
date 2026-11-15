@@ -126,7 +126,7 @@
 |1|[gramps](https://hex.pm/packages/gramps)|6.0.1|2026-04-18|A Gleam HTTP and WebSocket helper library|41xxxx|[![39073](https://img.shields.io/github/stars/rawhat/gramps)](https://github.com/rawhat/gramps)
 |2|[stratus](https://hex.pm/packages/stratus)|3.0.0|2026-04-18|A Gleam WebSocket client|2xxxx|[![65050](https://img.shields.io/github/stars/rawhat/stratus)](https://github.com/rawhat/stratus)
 |3|[websocks](https://hex.pm/packages/websocks)|4.0.1|2026-07-29|🧦 WebSocket protocol in Gleam|1xxxx|[![67136](https://img.shields.io/github/stars/vshakitskiy/websocks)](https://github.com/vshakitskiy/websocks)
-|4|[collie](https://hex.pm/packages/collie)|4.0.0|2026-11-04|🐕 Websocket client in Gleam|9xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
+|4|[collie](https://hex.pm/packages/collie)|4.1.0|2026-11-15|🐕 Websocket client in Gleam|9xxx|[![32752](https://img.shields.io/github/stars/vshakitskiy/collie)](https://github.com/vshakitskiy/collie)
 |5|[discord_gleam_stratus](https://hex.pm/packages/discord_gleam_stratus)|1.0.3|2026-04-10|A Gleam WebSocket client|2xxx|[![33872](https://img.shields.io/github/stars/cyteon/discord_gleam)](https://github.com/cyteon/discord_gleam)
 |6|[howdy](https://hex.pm/packages/howdy)|1.0.1|2026-11-04|A web framework for Gleam: controllers, middleware, WebSockets, server-sent events and presence, served by ewe|1xxx|[![39692](https://img.shields.io/github/stars/howdy-gleam/howdy)](https://github.com/howdy-gleam/howdy)
 |7|[nerf](https://hex.pm/packages/nerf)|0.4.0|2023-05-24|Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client|1xxx|[![43284](https://img.shields.io/github/stars/lpil/nerf)](https://github.com/lpil/nerf)
