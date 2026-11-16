@@ -190,7 +190,7 @@
 |3|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|32xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)|gleam
 |4|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.3.0|2026-10-26|Modern TOML parser and encoder for Elixir with protocol-based struct support|5xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)|elixir
 |5|[tomlet](https://hex.pm/packages/tomlet)|1.5.0|2026-11-07|A round-tripping TOML parser and writer for Gleam, preserving comments, key order, and formatting.|4xxx|[![3520234](https://img.shields.io/github/stars/tylerbutler/tomlet)](https://github.com/tylerbutler/tomlet)|gleam
-|6|[llm_core](https://hex.pm/packages/llm_core)|0.9.6|2026-11-13|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|2xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)|elixir
+|6|[llm_core](https://hex.pm/packages/llm_core)|0.9.7|2026-11-16|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|2xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)|elixir
 ## XML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -252,7 +252,7 @@
 |5|[nova](https://hex.pm/packages/nova)|0.18.1|2026-10-15|Nova is a web application framework|8xxxx|[![43721](https://img.shields.io/github/stars/novaframework/nova)](https://github.com/novaframework/nova)|erlang
 |6|[nitro](https://hex.pm/packages/nitro)|11.4.16|2026-05-18|NITRO Nitrogen Web Framework|5xxxx|[![43586](https://img.shields.io/github/stars/synrc/nitro)](https://github.com/synrc/nitro)|erlang
 |7|[arctic](https://hex.pm/packages/arctic)|11.0.10|2025-07-16|A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!|3xxxx|[![7474](https://img.shields.io/github/stars/RyanBrewer317/arctic)](https://github.com/RyanBrewer317/arctic)|gleam
-|8|[livery](https://hex.pm/packages/livery)|0.14.0|2026-11-15|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|1xxxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)|erlang
+|8|[livery](https://hex.pm/packages/livery)|0.14.1|2026-11-16|Livery: a modern Erlang web framework over HTTP/1.1, HTTP/2, and HTTP/3|1xxxx|[![3749684](https://img.shields.io/github/stars/benoitc/livery)](https://github.com/benoitc/livery)|erlang
 |9|[glen](https://hex.pm/packages/glen)|2.2.3|2025-06-30|A peaceful web framework that targets JS.|8xxx|[![38466](https://img.shields.io/github/stars/MystPi/glen)](https://github.com/MystPi/glen)|gleam
 # [Concurrency and Distributed Systems](./Concurrency_and_Distributed_Systems)
 ## pool
@@ -260,7 +260,7 @@
 |-|-|-|-|:-|-|-|-
 |1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15415xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
 |2|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8914xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)|erlang
-|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.1.0|2026-08-25|A tiny resource-pool implementation|6292xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
+|3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.2.0|2026-11-16|A tiny resource-pool implementation|6292xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
 |4|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3119xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)|erlang
 |5|[worker_pool](https://hex.pm/packages/worker_pool)|7.0.0|2026-09-01|Erlang Worker Pool|156xxxx|[![67270](https://img.shields.io/github/stars/inaka/worker_pool)](https://github.com/inaka/worker_pool)|erlang
 |6|[memcachir](https://hex.pm/packages/memcachir)|3.3.1|2021-08-23|Memcached client, with connection pooling and cluster support.|74xxxx|[![42454](https://img.shields.io/github/stars/peillis/memcachir)](https://github.com/peillis/memcachir)|elixir
@@ -425,7 +425,7 @@
 |3|[hermes_mcp](https://hex.pm/packages/hermes_mcp)|0.14.1|2025-08-14|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|23xxxx|[![39515](https://img.shields.io/github/stars/cloudwalk/hermes-mcp)](https://github.com/cloudwalk/hermes-mcp)|elixir
 |4|[aide](https://hex.pm/packages/aide)|0.7.1|2026-02-23|Build Model Context Protocol (MCP) Servers (clients coming soon).|20xxxx|[![1468](https://img.shields.io/github/stars/crowdhailer/aide)](https://github.com/crowdhailer/aide)|gleam
 |5|[aide_generator](https://hex.pm/packages/aide_generator)|0.4.1|2026-02-23|Generate encoders and decoders for MCP tools |11xxxx|[![1469](https://img.shields.io/github/stars/crowdhailer/aide_generator)](https://github.com/crowdhailer/aide_generator)|gleam
-|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.5.3|2026-11-15|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
+|6|[barrel_mcp](https://hex.pm/packages/barrel_mcp)|4.6.0|2026-11-16|MCP Protocol Library for Erlang|1xxxx|[![3243364](https://img.shields.io/github/stars/barrel-platform/barrel_mcp)](https://github.com/barrel-platform/barrel_mcp)|erlang
 |7|[mcp_client](https://hex.pm/packages/mcp_client)|0.1.0|2026-04-23|MCP (Model Context Protocol) client for Gleam — connect to any MCP server via JSON-RPC 2.0 over STDIO|4xxx|[![42210](https://img.shields.io/github/stars/manelsen/mcp_client)](https://github.com/manelsen/mcp_client)|gleam
 |8|[erlmcp](https://hex.pm/packages/erlmcp)|0.5.1|2026-05-21|Erlang Model Context Protocol (MCP) SDK|7xx||erlang
 # [Configuration](./Configuration)
