@@ -5,9 +5,10 @@
 # Elixir TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|781xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
+|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|783xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
 |2|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.3.0|2026-10-26|Modern TOML parser and encoder for Elixir with protocol-based struct support|5xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)
-|3|[llm_core](https://hex.pm/packages/llm_core)|0.9.7|2026-11-16|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|2xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)
+|3|[llm_core](https://hex.pm/packages/llm_core)|0.9.7|2026-11-16|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|3xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)
+|4|[tome](https://hex.pm/packages/tome)|1.0.0|2026-11-15|A TOML 1.0 parser for Pooka|2xx|
 # Gleam TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
