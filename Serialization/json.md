@@ -76,6 +76,6 @@
 |4|[castor](https://hex.pm/packages/castor)|2.1.0|2026-03-24|Work with JSON Schema in Gleam. Supports building schemas as well as encoding decoding from json schema file.|2xxxx|[![32199](https://img.shields.io/github/stars/crowdhailer/castor)](https://github.com/crowdhailer/castor)
 |5|[jscheam](https://hex.pm/packages/jscheam)|2.0.0|2025-07-30|A Simple JSON Schema library for Gleam|2xxx|[![40497](https://img.shields.io/github/stars/Neofox/jscheam)](https://github.com/Neofox/jscheam)
 |6|[json_value](https://hex.pm/packages/json_value)|1.2.0|2026-08-22|Decode JSON to a generic value that can be manipulated|1xxx|[![40584](https://img.shields.io/github/stars/kwando/json_value)](https://github.com/kwando/json_value)
-|7|[atproto_lexicon](https://hex.pm/packages/atproto_lexicon)|0.3.1|2026-10-22|A faithful, bidirectional lexicon AST for atproto: decode/encode lexicon JSON with round-trip fidelity.|9xx|
+|7|[atproto_lexicon](https://hex.pm/packages/atproto_lexicon)|0.3.2|2026-11-18|A faithful, bidirectional lexicon AST for atproto: decode/encode lexicon JSON with round-trip fidelity.|9xx|
 |8|[convert_json](https://hex.pm/packages/convert_json)|2.0.0|2025-06-16|Encode and decode JSON from and to Gleam types|9xx|[![33013](https://img.shields.io/github/stars/Billuc/convert_json)](https://github.com/Billuc/convert_json)
 |9|[glon](https://hex.pm/packages/glon)|1.0.0|2026-02-05|JSON Schema generation and decoding for Gleam|3xx|
