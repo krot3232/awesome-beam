@@ -1,7 +1,7 @@
 # Erlang Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1602xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
+|1|[eredis](https://hex.pm/packages/eredis)|1.7.1|2023-07-11|Non-blocking Redis client with focus on performance and robustness.|1603xxxx|[![35170](https://img.shields.io/github/stars/Nordix/eredis)](https://github.com/Nordix/eredis)
 |2|[eredis_cluster](https://hex.pm/packages/eredis_cluster)|0.9.0|2022-07-29|An erlang wrapper for eredis library to support cluster mode|161xxxx|[![35171](https://img.shields.io/github/stars/Nordix/eredis_cluster)](https://github.com/Nordix/eredis_cluster)
 |3|[mc_eredis](https://hex.pm/packages/mc_eredis)|3.0.1|2026-10-19|Erlang Redis Client|7xxxx|[![42201](https://img.shields.io/github/stars/miniclip/eredis)](https://github.com/miniclip/eredis)
 |4|[redo](https://hex.pm/packages/redo)|2.0.1|2015-05-28|Pipelined Redis Erlang Driver|4xxxx|[![63050](https://img.shields.io/github/stars/heroku/redo)](https://github.com/heroku/redo)
@@ -17,10 +17,10 @@
 # Elixir Redis
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4646xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
+|1|[redix](https://hex.pm/packages/redix)|1.10.0|2026-10-22|Fast, pipelined, resilient Redis driver for Elixir.|4649xxxx|[![63035](https://img.shields.io/github/stars/whatyouhide/redix)](https://github.com/whatyouhide/redix)
 |2|[hammer_backend_redis](https://hex.pm/packages/hammer_backend_redis)|7.2.0|2026-09-08|Redis backend for Hammer rate-limiter|2341xxxx|[![39330](https://img.shields.io/github/stars/ExHammer/hammer-backend-redis)](https://github.com/ExHammer/hammer-backend-redis)
 |3|[phoenix_pubsub_redis](https://hex.pm/packages/phoenix_pubsub_redis)|3.1.1|2026-04-14|The Redis PubSub adapter for the Phoenix framework|358xxxx|[![44914](https://img.shields.io/github/stars/phoenixframework/phoenix_pubsub_redis)](https://github.com/phoenixframework/phoenix_pubsub_redis)
-|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.1.0|2026-10-18|Nebulex adapter for Redis|207xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
+|4|[nebulex_redis_adapter](https://hex.pm/packages/nebulex_redis_adapter)|3.1.0|2026-10-18|Nebulex adapter for Redis|208xxxx|[![43257](https://img.shields.io/github/stars/elixir-nebulex/nebulex_redis_adapter)](https://github.com/elixir-nebulex/nebulex_redis_adapter)
 |5|[exredis](https://hex.pm/packages/exredis)|0.3.0|2019-07-31|Redis client for Elixir|132xxxx|[![36725](https://img.shields.io/github/stars/artemeff/exredis)](https://github.com/artemeff/exredis)
 |6|[verk](https://hex.pm/packages/verk)|1.7.3|2021-09-14|Verk is a job processing system backed by Redis.|91xxxx|[![66839](https://img.shields.io/github/stars/edgurgel/verk)](https://github.com/edgurgel/verk)
 |7|[redis_mutex](https://hex.pm/packages/redis_mutex)|1.1.0|2024-10-01|RedisMutex is a library for creating a Redis lock for a single Redis instance|62xxxx|[![63024](https://img.shields.io/github/stars/podium/redis_mutex)](https://github.com/podium/redis_mutex)
@@ -111,7 +111,7 @@
 |92|[fake_riak](https://hex.pm/packages/fake_riak)|0.3.0|2026-07-24|In-memory fake for Riak, etcd, Redis and memcached that speaks their wire protocols on TCP, so you can point real clients at it. Ships as an escript.|5xx|[![4934133](https://img.shields.io/github/stars/bsanyi/fake_riak)](https://github.com/bsanyi/fake_riak)
 |93|[redis_queue_reader](https://hex.pm/packages/redis_queue_reader)|0.1.0|2016-12-02|This application reads from a redis queue (RPOP) and then executes functions from a list. The first function from the list does not receive parameter and must return true or false. The second function from the list takes a result of reading from the redis queue (:undefined, :no_connection or string that have been read from the redis queue). Every next function from the list gets the result of the calculation of the previous one.While the first function return false the next functions from list not be executed|5xx|[![63029](https://img.shields.io/github/stars/AlexeyAlexey/redis_queue_reader)](https://github.com/AlexeyAlexey/redis_queue_reader)
 |94|[plug_rate_limit_redis](https://hex.pm/packages/plug_rate_limit_redis)|0.1.0|2016-12-06|An Elixir plug rate limiting with redis.|5xx|[![45330](https://img.shields.io/github/stars/shufo/plug_rate_limit_redis)](https://github.com/shufo/plug_rate_limit_redis)
-|95|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.2.0|2026-11-11|Process-scoped Redis connections for concurrent ExUnit tests|4xx|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
+|95|[redix_sandbox](https://hex.pm/packages/redix_sandbox)|0.2.0|2026-11-11|Process-scoped Redis connections for concurrent ExUnit tests|5xx|[![7237706](https://img.shields.io/github/stars/ananthakumaran/redix_sandbox)](https://github.com/ananthakumaran/redix_sandbox)
 |96|[redis_session_plug](https://hex.pm/packages/redis_session_plug)|0.1.1|2018-01-23|The Redis Plug.Session adapter for the Phoenix framework.|4xx|
 |97|[redislog](https://hex.pm/packages/redislog)|0.1.0|2018-07-17|Redis pubsub backend for standard logger|4xx|[![63022](https://img.shields.io/github/stars/archydragon/elixir-redislog)](https://github.com/archydragon/elixir-redislog)
 |98|[ankusa_redis](https://hex.pm/packages/ankusa_redis)|0.7.0|2026-10-30|Ankusa Redis adapters: route and source stores shared across edge nodes, and a pub/sub sink.|4xx|[![8773270](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
