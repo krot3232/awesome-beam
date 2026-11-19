@@ -2,7 +2,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[re2](https://hex.pm/packages/re2)|1.9.8|2022-06-25|Erlang NIF bindings for RE2 regex library|53xxxx|[![46263](https://img.shields.io/github/stars/dukesoferl/re2)](https://github.com/dukesoferl/re2)
-|2|[re_tuner](https://hex.pm/packages/re_tuner)|0.1.21|2021-09-06|Erlang Regular Expressions simplifyer. Functions for simplifying working with Regular Expressions.|3xxx|[![63295](https://img.shields.io/github/stars/rustkas/re_tuner)](https://github.com/rustkas/re_tuner)
+|2|[re_tuner](https://hex.pm/packages/re_tuner)|0.1.21|2021-09-06|Erlang Regular Expressions simplifyer. Functions for simplifying working with Regular Expressions.|4xxx|[![63295](https://img.shields.io/github/stars/rustkas/re_tuner)](https://github.com/rustkas/re_tuner)
 |3|[xs_regex](https://hex.pm/packages/xs_regex)|0.1.0|2022-01-05|XML Schema regex translation library|1xxx|[![67446](https://img.shields.io/github/stars/zadean/xs_regex)](https://github.com/zadean/xs_regex)
 |4|[barrel_ngram](https://hex.pm/packages/barrel_ngram)|0.11.5|2026-11-14|Trigram substring and regex index over barrel_docdb documents|7xx|[![6552536](https://img.shields.io/github/stars/barrel-db/barrel)](https://github.com/barrel-db/barrel)
 # Elixir Regex

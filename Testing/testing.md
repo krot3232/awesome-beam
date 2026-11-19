@@ -1,14 +1,14 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|7009xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
-|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|702xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|7012xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|703xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|88xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|79xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
 |5|[unite](https://hex.pm/packages/unite)|0.4.3|2023-09-27|Pretty EUnit test formatters|22xxxx|[![66591](https://img.shields.io/github/stars/eproxus/unite)](https://github.com/eproxus/unite)
 |6|[triq](https://hex.pm/packages/triq)|1.3.0|2018-09-19|Triq (Term Reductive Invariant Questant) QuickCheck|9xxxx|
 |7|[eunit_addons](https://hex.pm/packages/eunit_addons)|1.2.0|2021-08-11|Addons for eunit|5xxxx|[![35466](https://img.shields.io/github/stars/klajo/eunit_addons)](https://github.com/klajo/eunit_addons)
-|8|[ct_groups_summary_hook](https://hex.pm/packages/ct_groups_summary_hook)|0.1.1|2024-08-28|Common Tests Group Summary Hook|2xxxx|[![33331](https://img.shields.io/github/stars/esl/ct_groups_summary_hook)](https://github.com/esl/ct_groups_summary_hook)
+|8|[ct_groups_summary_hook](https://hex.pm/packages/ct_groups_summary_hook)|0.1.1|2024-08-28|Common Tests Group Summary Hook|3xxxx|[![33331](https://img.shields.io/github/stars/esl/ct_groups_summary_hook)](https://github.com/esl/ct_groups_summary_hook)
 |9|[em](https://hex.pm/packages/em)|7.3.0|2023-03-28|An EasyMock inspired mocking library for erlang.|2xxxx|[![34972](https://img.shields.io/github/stars/sheyll/erlymock)](https://github.com/sheyll/erlymock)
 |10|[mockgyver](https://hex.pm/packages/mockgyver)|1.8.0|2023-05-28|Mocking library|5xxx|[![42822](https://img.shields.io/github/stars/klajo/mockgyver)](https://github.com/klajo/mockgyver)
 |11|[docker_compose_cth](https://hex.pm/packages/docker_compose_cth)|0.3.0|2019-08-25|A Common Test hook for starting and stopping docker-compose services|5xxx|
@@ -19,13 +19,13 @@
 |16|[hoax](https://hex.pm/packages/hoax)|0.11.2|2016-05-11|Yet another mocking library for Erlang|1xxx|[![39619](https://img.shields.io/github/stars/xenolinguist/hoax)](https://github.com/xenolinguist/hoax)
 |17|[doppler](https://hex.pm/packages/doppler)|0.1.0|2017-02-14|Yet another mocking library|1xxx|[![34038](https://img.shields.io/github/stars/funbox/doppler)](https://github.com/funbox/doppler)
 |18|[rebar3_efene_ct](https://hex.pm/packages/rebar3_efene_ct)|0.1.2|2018-05-20|efene rebar3 common test plugin|1xxx|[![46348](https://img.shields.io/github/stars/efene/rebar3_efene_compile)](https://github.com/efene/rebar3_efene_compile)
-|19|[eunit_sugar](https://hex.pm/packages/eunit_sugar)|0.1.0|2016-04-22|Helpers and sugars for eunit tests|7xx|[![35469](https://img.shields.io/github/stars/xenolinguist/eunit_sugar)](https://github.com/xenolinguist/eunit_sugar)
+|19|[eunit_sugar](https://hex.pm/packages/eunit_sugar)|0.1.0|2016-04-22|Helpers and sugars for eunit tests|8xx|[![35469](https://img.shields.io/github/stars/xenolinguist/eunit_sugar)](https://github.com/xenolinguist/eunit_sugar)
 |20|[rcl_test](https://hex.pm/packages/rcl_test)|0.2.0|2020-09-26|Common Test utilities for Riak Core Lite applications|5xx|[![46255](https://img.shields.io/github/stars/riak-core-lite/rcl_test)](https://github.com/riak-core-lite/rcl_test)
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2179xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
-|2|[patch](https://hex.pm/packages/patch)|0.16.1|2026-10-22|Ergonomic Mocking for Elixir Unit Testing|513xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2180xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|2|[patch](https://hex.pm/packages/patch)|0.16.1|2026-10-22|Ergonomic Mocking for Elixir Unit Testing|514xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
 |3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|268xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.17.1|2026-10-21|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|222xxxx|
 |5|[propcheck](https://hex.pm/packages/propcheck)|1.5.0|2025-04-21|PropCheck provides property based testing and is an Elixir layer aroundPropEr. It is also inspired by Quviq&#039;s QuickCheck Elixir library.|170xxxx|[![45752](https://img.shields.io/github/stars/alfert/propcheck)](https://github.com/alfert/propcheck)
@@ -51,7 +51,7 @@
 |25|[mixunit](https://hex.pm/packages/mixunit)|0.9.2|2015-05-13|an eunit task for mix|9xxx|[![42747](https://img.shields.io/github/stars/talentdeficit/mixunit)](https://github.com/talentdeficit/mixunit)
 |26|[web_spell](https://hex.pm/packages/web_spell)|0.4.0|2018-05-02|WebSpell is an HTTP mocking library for Elixir. It is somewhat inspired by WebMock for Ruby, but adapted to the different programming environment of Elixir.|8xxx|[![67137](https://img.shields.io/github/stars/langalex/web_spell)](https://github.com/langalex/web_spell)
 |27|[moxinet](https://hex.pm/packages/moxinet)|0.8.0|2026-08-10|Mocking server that, just like mox, allows parallel testing, but over HTTP.|8xxx|[![42975](https://img.shields.io/github/stars/johantell/moxinet)](https://github.com/johantell/moxinet)
-|28|[dummy](https://hex.pm/packages/dummy)|2.1.0|2024-08-19|Elixir mocking that makes sense. Dummy relies on meck and exposes a      simpler way to mock methods than mock|7xxx|
+|28|[dummy](https://hex.pm/packages/dummy)|2.1.0|2024-08-19|Elixir mocking that makes sense. Dummy relies on meck and exposes a      simpler way to mock methods than mock|8xxx|
 |29|[httpmock](https://hex.pm/packages/httpmock)|0.1.7|2024-07-10|HTTP mocking for Elixir|6xxx|[![39773](https://img.shields.io/github/stars/andridus/httpmock)](https://github.com/andridus/httpmock)
 |30|[ex_check_ng](https://hex.pm/packages/ex_check_ng)|1.0.0-rc.2|2026-07-08|One task to efficiently run all code analysis &amp; testing tools in an Elixir project. Community-maintained fork of ex_check.|5xxx|
 |31|[mutare](https://hex.pm/packages/mutare)|0.5.1|2026-10-04|A compile-once mutation testing tool for Elixir.|4xxx|[![7829411](https://img.shields.io/github/stars/foxbenjaminfox/mutare)](https://github.com/foxbenjaminfox/mutare)
@@ -76,7 +76,7 @@
 # Gleam Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|166xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
+|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|167xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
 |2|[qcheck](https://hex.pm/packages/qcheck)|1.0.5|2026-08-19|QuickCheck-inspired property testing with integrated shrinking|16xxxx|[![45903](https://img.shields.io/github/stars/mooreryan/gleam_qcheck)](https://github.com/mooreryan/gleam_qcheck)
 |3|[glacier_gleeunit](https://hex.pm/packages/glacier_gleeunit)|1.3.1003|2025-12-25|This is a fork of gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI.|1xxxx|[![38311](https://img.shields.io/github/stars/inoas/gleeunit)](https://github.com/inoas/gleeunit)
 |4|[glacier](https://hex.pm/packages/glacier)|1.3.3|2025-12-25|Glacier brings incremental interactive unit testing to Gleam. It is meant as a drop-in replacement for Gleeunit and depends on and wraps a fork of it.|1xxxx|[![38310](https://img.shields.io/github/stars/inoas/glacier)](https://github.com/inoas/glacier)
