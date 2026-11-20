@@ -75,8 +75,8 @@
 |55|[tube](https://hex.pm/packages/tube)|0.1.1|2016-07-28|WebSocket client library in pure elixir|9xx|[![66225](https://img.shields.io/github/stars/narrowtux/Tube)](https://github.com/narrowtux/Tube)
 |56|[cauldron_2d_net](https://hex.pm/packages/cauldron_2d_net)|0.3.4|2026-10-17|A Cauldron2D world over the network: served to browsers, desktops and terminals over a WebSocket or from node to node, and the links a client joins it by.|9xx|[![8282991](https://img.shields.io/github/stars/jaman/cauldron)](https://github.com/jaman/cauldron)
 |57|[fedecks_server](https://hex.pm/packages/fedecks_server)|0.1.1|2023-04-26|Adds an websocket endpoint to Phoenix for communicating with a FedecksClient (conceived to be a Nerves device)|8xx|
-|58|[deribit_api](https://hex.pm/packages/deribit_api)|0.4.3|2023-01-31|Deribit v2 WebSockets API client for Elixir|8xx|
-|59|[tulle](https://hex.pm/packages/tulle)|0.7.3|2024-06-06|Process pool based HTTP1/2 and Websocket client|8xx|[![66237](https://img.shields.io/github/stars/OdielDomanie/tulle)](https://github.com/OdielDomanie/tulle)
+|58|[tulle](https://hex.pm/packages/tulle)|0.7.3|2024-06-06|Process pool based HTTP1/2 and Websocket client|8xx|[![66237](https://img.shields.io/github/stars/OdielDomanie/tulle)](https://github.com/OdielDomanie/tulle)
+|59|[deribit_api](https://hex.pm/packages/deribit_api)|0.4.3|2023-01-31|Deribit v2 WebSockets API client for Elixir|8xx|
 |60|[websocket_mock](https://hex.pm/packages/websocket_mock)|0.3.0|2025-12-15|A lightweight WebSocket mock server for testing|8xx|[![67131](https://img.shields.io/github/stars/pascal736/websocket_mock)](https://github.com/pascal736/websocket_mock)
 |61|[exws](https://hex.pm/packages/exws)|0.0.3|2022-11-09|Elixir Websocket Server - Kitchen Sink Not Included|7xx|
 |62|[hassock](https://hex.pm/packages/hassock)|0.4.1|2026-11-03|Home Assistant WebSocket client for Elixir.|7xx|[![39401](https://img.shields.io/github/stars/bbangert/hassock)](https://github.com/bbangert/hassock)

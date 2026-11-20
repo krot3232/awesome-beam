@@ -245,7 +245,7 @@
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.16|2026-11-10|Peace of mind from prototype to production|16087xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.17|2026-11-20|Productive. Reliable. Fast. A productive web framework thatdoes not compromise speed or maintainability.|16087xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|325xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)|elixir
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|83xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)|elixir
 |4|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|36xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)|gleam
@@ -285,7 +285,7 @@
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.2.0|2026-11-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3249xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1150xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
 |4|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1136xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
-|5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.7.1|2026-10-15|A Kafka connector for Broadway|303xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
+|5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.7.2|2026-11-20|A Kafka connector for Broadway|303xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
 |6|[wolff](https://hex.pm/packages/wolff)|4.2.3|2026-11-10|Kafka&#039;s publisher|31xxxx||erlang
 |7|[franz](https://hex.pm/packages/franz)|3.0.0|2025-08-23|A Gleam library for interacting with Kafka|1xxx|[![37777](https://img.shields.io/github/stars/renatillas/franz)](https://github.com/renatillas/franz)|gleam
 ## NATS
@@ -420,7 +420,7 @@
 ## MCP
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[petal_components](https://hex.pm/packages/petal_components)|4.18.0|2026-11-11|Shadcn-style Phoenix LiveView components that AI assistants can actually use. Pair with the MCP server so AI coding tools can inspect the real component API.|151xxxx|[![44681](https://img.shields.io/github/stars/petalframework/petal_components)](https://github.com/petalframework/petal_components)|elixir
+|1|[petal_components](https://hex.pm/packages/petal_components)|4.18.1|2026-11-20|Shadcn-style Phoenix LiveView components that AI assistants can actually use. Pair with the MCP server so AI coding tools can inspect the real component API.|151xxxx|[![44681](https://img.shields.io/github/stars/petalframework/petal_components)](https://github.com/petalframework/petal_components)|elixir
 |2|[anubis_mcp](https://hex.pm/packages/anubis_mcp)|2.2.0|2026-10-19|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|58xxxx|[![7338](https://img.shields.io/github/stars/zoedsoupe/anubis-mcp)](https://github.com/zoedsoupe/anubis-mcp)|elixir
 |3|[hermes_mcp](https://hex.pm/packages/hermes_mcp)|0.14.1|2025-08-14|Model Context Protocol (MCP) implementation in Elixir with Phoenix integration|23xxxx|[![39515](https://img.shields.io/github/stars/cloudwalk/hermes-mcp)](https://github.com/cloudwalk/hermes-mcp)|elixir
 |4|[aide](https://hex.pm/packages/aide)|0.7.1|2026-02-23|Build Model Context Protocol (MCP) Servers (clients coming soon).|20xxxx|[![1468](https://img.shields.io/github/stars/crowdhailer/aide)](https://github.com/crowdhailer/aide)|gleam
