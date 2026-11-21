@@ -108,7 +108,7 @@
 |100|[aigptimage](https://hex.pm/packages/aigptimage)|0.1.0|2026-07-01|Lightweight Elixir helpers for AI GPT Image API, GPT Image 2 workflows, and MCP endpoints.|1xx|
 |101|[nerves_mcp](https://hex.pm/packages/nerves_mcp)|0.1.0|2026-11-18|MCP server that lets AI assistants work with Nerves devices over serial or SSH|5x|[![10764710](https://img.shields.io/github/stars/nerves-project/nerves_mcp)](https://github.com/nerves-project/nerves_mcp)
 |102|[tokenscope_studio](https://hex.pm/packages/tokenscope_studio)|0.1.0|2026-07-22|Pointer package for tokenscope, a small token-usage scope tool for LLM apps. Points to the canonical source repo and the measurement writeup on how much Claude Code / MCP servers actually cost in tokens (n=66 sessions).|1x|
-|103|[oz_mcp](https://hex.pm/packages/oz_mcp)|0.9.0|2026-11-21|An Elixir framework for MCP servers (revision 2025-11-25)|0|
+|103|[oz_mcp](https://hex.pm/packages/oz_mcp)|0.9.0|2026-11-21|An Elixir framework for MCP servers (revision 2025-11-25)|0|[![10905612](https://img.shields.io/github/stars/oz-elixir/oz_mcp)](https://github.com/oz-elixir/oz_mcp)
 # Gleam MCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
