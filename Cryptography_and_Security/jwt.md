@@ -8,7 +8,7 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.8.0|2026-11-13|JWT (JSON Web Token) library for Elixir.|5978xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.8.0|2026-11-13|JWT (JSON Web Token) library for Elixir.|5982xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|160xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|38xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
@@ -30,7 +30,7 @@
 |20|[bartender](https://hex.pm/packages/bartender)|0.1.0|2018-04-30|JWT authentication using Absinthe + Guardian|1xxx|[![31218](https://img.shields.io/github/stars/camirmas/bartender)](https://github.com/camirmas/bartender)
 |21|[firebase_jwt](https://hex.pm/packages/firebase_jwt)|0.2.1|2023-04-11|Verifying Firebase JWT with PEM from Google|1xxx|[![37494](https://img.shields.io/github/stars/ecpplus/ex-firebase-jwt)](https://github.com/ecpplus/ex-firebase-jwt)
 |22|[jwt_decoder](https://hex.pm/packages/jwt_decoder)|0.1.0|2020-11-04|Library used to get payload of a JWT|8xx|
-|23|[clerk_phoenix](https://hex.pm/packages/clerk_phoenix)|0.2.1|2026-03-13|ClerkPhoenix provides seamless integration between Clerk authentication and Phoenix applications.Features include JWT validation, session management, authentication plugs, and security hardening.|5xx|[![32533](https://img.shields.io/github/stars/jhlee111/clerk_phoenix)](https://github.com/jhlee111/clerk_phoenix)
+|23|[clerk_phoenix](https://hex.pm/packages/clerk_phoenix)|0.2.1|2026-03-13|ClerkPhoenix provides seamless integration between Clerk authentication and Phoenix applications.Features include JWT validation, session management, authentication plugs, and security hardening.|6xx|[![32533](https://img.shields.io/github/stars/jhlee111/clerk_phoenix)](https://github.com/jhlee111/clerk_phoenix)
 |24|[plug_shopify_jwt](https://hex.pm/packages/plug_shopify_jwt)|0.1.1|2021-07-23|A Plug to validate Shopify JWT|5xx|[![45353](https://img.shields.io/github/stars/byjpr/plug_shopify_jwt)](https://github.com/byjpr/plug_shopify_jwt)
 |25|[reckon_jwt](https://hex.pm/packages/reckon_jwt)|0.2.1|2025-07-26|JWT authentication library for Reckon microservices ecosystem|5xx|[![46449](https://img.shields.io/github/stars/reckon-db-org/reckon_jwt)](https://github.com/reckon-db-org/reckon_jwt)
 |26|[rephi](https://hex.pm/packages/rephi)|0.1.0|2025-06-23|Phoenix framework with JWT auth, RBAC authorization, WebSocket support, and multiple React frontends architecture|4xx|[![63170](https://img.shields.io/github/stars/thotenn/rephi)](https://github.com/thotenn/rephi)

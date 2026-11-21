@@ -14,7 +14,7 @@
 |3|[natsio](https://hex.pm/packages/natsio)|0.1.6|2017-12-27|NATS framework for Elixir|2xxx|[![43208](https://img.shields.io/github/stars/nats-io/elixir-nats)](https://github.com/nats-io/elixir-nats)
 |4|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|6xx|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)
 |5|[ankusa_nats](https://hex.pm/packages/ankusa_nats)|0.7.0|2026-10-28|Ankusa.Sink adapter publishing delivered hooks to a NATS JetStream subject.|4xx|[![8750757](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
-|6|[jetway](https://hex.pm/packages/jetway)|0.1.0|2026-11-18|A NATS JetStream producer for Broadway, built on gnat|4x|[![10761393](https://img.shields.io/github/stars/jamescarr/jetway)](https://github.com/jamescarr/jetway)
+|6|[jetway](https://hex.pm/packages/jetway)|0.1.0|2026-11-18|A NATS JetStream producer for Broadway, built on gnat|5x|[![10761393](https://img.shields.io/github/stars/jamescarr/jetway)](https://github.com/jamescarr/jetway)
 # Gleam NATS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

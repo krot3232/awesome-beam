@@ -1,8 +1,8 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1150xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
-|2|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1136xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1151xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|2|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1137xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.3|2026-11-10|Kafka&#039;s publisher|31xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.2|2026-09-15|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)
 |5|[kafe](https://hex.pm/packages/kafe)|2.2.3|2018-05-15|A Kafka client for Erlang and Elixir|2xxxx|[![40658](https://img.shields.io/github/stars/G-Corp/kafe)](https://github.com/G-Corp/kafe)
@@ -45,13 +45,13 @@
 |31|[off_broadway_kafka_pipeli ne ](https://hex.pm/packages/off_broadway_kafka_pipeline)|2.0.0|2023-06-06|Implementation of Broadway that supports a Kafka producer|9xx|[![43923](https://img.shields.io/github/stars/UrbanOS-Public/off_broadway_kafka)](https://github.com/UrbanOS-Public/off_broadway_kafka)
 |32|[ktsllex](https://hex.pm/packages/ktsllex)|0.0.2|2018-09-17|Kafka Topic and Schema creator|6xx|[![40987](https://img.shields.io/github/stars/quiqupltd/ktsllex)](https://github.com/quiqupltd/ktsllex)
 |33|[salt_kafka](https://hex.pm/packages/salt_kafka)|0.1.1|2020-10-13|Build microservices with Kafka + Avro schemas.|5xx|
-|34|[kafka_logger_backend](https://hex.pm/packages/kafka_logger_backend)|0.1.10|2017-04-03|A backend for Logger that logs to Kafka using Brod|4xx|[![40674](https://img.shields.io/github/stars/jdalberg/logger_kafka_backend)](https://github.com/jdalberg/logger_kafka_backend)
-|35|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.7.0|2026-10-28|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|4xx|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|34|[kafka_logger_backend](https://hex.pm/packages/kafka_logger_backend)|0.1.10|2017-04-03|A backend for Logger that logs to Kafka using Brod|5xx|[![40674](https://img.shields.io/github/stars/jdalberg/logger_kafka_backend)](https://github.com/jdalberg/logger_kafka_backend)
+|35|[ankusa_kafka](https://hex.pm/packages/ankusa_kafka)|0.7.0|2026-10-28|Ankusa.Sink adapter producing delivered hooks to a Kafka topic.|5xx|[![8570918](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
 |36|[kolt](https://hex.pm/packages/kolt)|0.1.0|2019-06-13|Kolt: A Kafka Offset Lag Tracker|4xx|[![40948](https://img.shields.io/github/stars/moskyb/kolt)](https://github.com/moskyb/kolt)
 |37|[kafka_event_serializer](https://hex.pm/packages/kafka_event_serializer)|1.0.0|2018-11-04|Encode and decode events from Kafka|4xx|[![40666](https://img.shields.io/github/stars/quiqupltd/event_serializer)](https://github.com/quiqupltd/event_serializer)
 |38|[raven_integration_kafka](https://hex.pm/packages/raven_integration_kafka)|0.3.3|2026-07-24|Apache Kafka broker monitor, with its dashboard panel bundled in the same package as a separate module (Integrations.Kafka.Display) — one install, both halves; a release without raven_web simply runs the monitor headless.|3xx|
-|39|[pulsarix](https://hex.pm/packages/pulsarix)|1.0.0|2025-10-30|A lightweight Kafka wrapper built on top of Brod,providing simple producer abstractions for Elixirapplications.|2xx|[![45853](https://img.shields.io/github/stars/GBMayombe/pulsarix)](https://github.com/GBMayombe/pulsarix)
-|40|[outboxer](https://hex.pm/packages/outboxer)|0.1.0|2026-11-14|Transactional outbox for Ecto (Postgres and SQLite) with ordered groups and pluggable relays for Kafka, SQS and Oban.|5x|[![10579771](https://img.shields.io/github/stars/epinault/outboxer)](https://github.com/epinault/outboxer)
+|39|[pulsarix](https://hex.pm/packages/pulsarix)|1.0.0|2025-10-30|A lightweight Kafka wrapper built on top of Brod,providing simple producer abstractions for Elixirapplications.|3xx|[![45853](https://img.shields.io/github/stars/GBMayombe/pulsarix)](https://github.com/GBMayombe/pulsarix)
+|40|[outboxer](https://hex.pm/packages/outboxer)|0.1.0|2026-11-14|Transactional outbox for Ecto (Postgres and SQLite) with ordered groups and pluggable relays for Kafka, SQS and Oban.|6x|[![10579771](https://img.shields.io/github/stars/epinault/outboxer)](https://github.com/epinault/outboxer)
 # Gleam Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

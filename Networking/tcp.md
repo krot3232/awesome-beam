@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16672xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16680xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|9xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -29,7 +29,7 @@
 |14|[clickhouse_adapter_ecto](https://hex.pm/packages/clickhouse_adapter_ecto)|1.0.0|2026-10-13|An Ecto adapter for ClickHouse that speaks its native TCP protocol.|1xxx|[![6149591](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
 |15|[compound](https://hex.pm/packages/compound)|0.2.0|2018-06-29|Compound is a minimalistic TCP Server written in Elixir|9xx|[![32854](https://img.shields.io/github/stars/lvlick/Compound)](https://github.com/lvlick/Compound)
 |16|[joker](https://hex.pm/packages/joker)|0.2.0|2016-07-27|Socket acceptor pool for TCP protocol written in Elixir.|9xx|[![40474](https://img.shields.io/github/stars/0x00evil/joker)](https://github.com/0x00evil/joker)
-|17|[rodeo_tcp](https://hex.pm/packages/rodeo_tcp)|0.2.0|2019-02-15|Rodeo provides a convenient way for creating a plain TCP mock server. This is useful for testing integrations with simple, proprietary TCP servers.|7xx|[![63429](https://img.shields.io/github/stars/suitepad-gmbh/rodeo)](https://github.com/suitepad-gmbh/rodeo)
+|17|[rodeo_tcp](https://hex.pm/packages/rodeo_tcp)|0.2.0|2019-02-15|Rodeo provides a convenient way for creating a plain TCP mock server. This is useful for testing integrations with simple, proprietary TCP servers.|8xx|[![63429](https://img.shields.io/github/stars/suitepad-gmbh/rodeo)](https://github.com/suitepad-gmbh/rodeo)
 |18|[ch_driver](https://hex.pm/packages/ch_driver)|0.4.0|2026-08-26|DBConnection driver speaking ClickHouse&#039;s native TCP protocol, including its LZ4/CityHash compression NIF and compressed-block wire envelope.|7xx|[![6149393](https://img.shields.io/github/stars/mfeckie/clickhouse_adapter_elixir)](https://github.com/mfeckie/clickhouse_adapter_elixir)
 |19|[routeros_api](https://hex.pm/packages/routeros_api)|0.3.0|2025-12-10|Elixir client for MikroTik RouterOS binary API with connection pooling, telemetry,and helper functions. Supports RouterOS 6.x and 7.x with both MD5 and plain textauthentication over TCP and TLS.|6xx|[![63476](https://img.shields.io/github/stars/jlbyh2o/routeros_api)](https://github.com/jlbyh2o/routeros_api)
 |20|[transport](https://hex.pm/packages/transport)|0.1.0|2020-05-08|an abstraction api and helpers for TCP and TLS|6xx|[![66131](https://img.shields.io/github/stars/ityonemo/transport)](https://github.com/ityonemo/transport)

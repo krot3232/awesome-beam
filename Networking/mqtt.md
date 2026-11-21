@@ -31,15 +31,15 @@
 |13|[phoenix_pubsub_vernemq](https://hex.pm/packages/phoenix_pubsub_vernemq)|0.0.3|2015-06-29|The VerneMQ MQTT pubsub adapter for the Phoenix framework|1xxx|[![44916](https://img.shields.io/github/stars/larshesel/phoenix_pubsub_vernemq)](https://github.com/larshesel/phoenix_pubsub_vernemq)
 |14|[mqttc](https://hex.pm/packages/mqttc)|0.2.1|2025-09-23|MQTT v5 Client for Elixir.|1xxx|[![43000](https://img.shields.io/github/stars/narslan/mqttc)](https://github.com/narslan/mqttc)
 |15|[control_packet](https://hex.pm/packages/control_packet)|1.1.1|2024-07-29|MQTT 5 packet decoder and encoder|9xx|[![33004](https://img.shields.io/github/stars/TimisRobert/control_packet)](https://github.com/TimisRobert/control_packet)
-|16|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|8xx|
+|16|[vmq_commons_fb](https://hex.pm/packages/vmq_commons_fb)|1.0.2|2017-11-02|OBSOLETE commons for MQTT|9xx|
 |17|[starflare_client](https://hex.pm/packages/starflare_client)|0.2.1|2024-07-29|MQTT 5 client|6xx|[![64898](https://img.shields.io/github/stars/TimisRobert/starflare_client)](https://github.com/TimisRobert/starflare_client)
 |18|[conduit_mqtt](https://hex.pm/packages/conduit_mqtt)|0.1.0|2018-10-29|MQTT adapter for Conduit.|5xx|[![32889](https://img.shields.io/github/stars/conduitframework/conduit_mqtt)](https://github.com/conduitframework/conduit_mqtt)
-|19|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|3xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)
+|19|[mqtt_app](https://hex.pm/packages/mqtt_app)|0.1.2|2025-11-10|MQTT packet encoder/decoder|4xx|[![42999](https://img.shields.io/github/stars/Pepethefrogger/elixir_mqtt)](https://github.com/Pepethefrogger/elixir_mqtt)
 |20|[off_broadway_mqtt](https://hex.pm/packages/off_broadway_mqtt)|0.1.0|2019-06-03|A MQTT connector for Broadway|3xx|
 |21|[stem_mqtt](https://hex.pm/packages/stem_mqtt)|0.9.0|2026-11-14|MQTT 3.1.1/5.0 client and embeddable broker for Elixir and Erlang, in Rust (precompiled NIF)|3xx|[![10329339](https://img.shields.io/github/stars/sorinirimies/stem-mqtt)](https://github.com/sorinirimies/stem-mqtt)
-|22|[simple_mqtt](https://hex.pm/packages/simple_mqtt)|0.1.0|2021-01-02|A basic, single node pub-sub implementation where publishers and subscribers use topics and topics filters compatible with MQTT.|2xx|[![64246](https://img.shields.io/github/stars/kmiecikt/simple_mqtt)](https://github.com/kmiecikt/simple_mqtt)
+|22|[simple_mqtt](https://hex.pm/packages/simple_mqtt)|0.1.0|2021-01-02|A basic, single node pub-sub implementation where publishers and subscribers use topics and topics filters compatible with MQTT.|3xx|[![64246](https://img.shields.io/github/stars/kmiecikt/simple_mqtt)](https://github.com/kmiecikt/simple_mqtt)
 |23|[nipper](https://hex.pm/packages/nipper)|0.1.0|2025-08-13|Lightweight, embeddable MQTT broker for BEAM-based edge applications|2xx|
-|24|[graviton_mq_mqtt](https://hex.pm/packages/graviton_mq_mqtt)|0.3.0|2026-11-08|Bounded, pure MQTT 5.0 codecs for GravitonMQ|1xx|[![9854105](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|24|[graviton_mq_mqtt](https://hex.pm/packages/graviton_mq_mqtt)|0.3.0|2026-11-08|Bounded, pure MQTT 5.0 codecs for GravitonMQ|2xx|[![9854105](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |25|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.3.0|2026-11-08|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|1xx|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |26|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.3.0|2026-11-08|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|1xx|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 # Gleam MQTT
@@ -51,4 +51,4 @@
 |4|[spoke_mqtt](https://hex.pm/packages/spoke_mqtt)|1.0.0|2025-07-20|Types and functions for MQTT 3.1.1 clients.|7xx|[![64762](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |5|[spoke_tcp](https://hex.pm/packages/spoke_tcp)|2.0.0|2025-07-20|A TCP transport channel for the spoke MQTT client.|6xx|[![64766](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
 |6|[spoke](https://hex.pm/packages/spoke)|1.0.2|2025-12-07|A Gleam MQTT 3.1.1 client for the Erlang runtime.|5xx|[![64760](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
-|7|[spoke_mqtt_js](https://hex.pm/packages/spoke_mqtt_js)|1.0.1|2025-08-03|A Gleam MQTT 3.1.1 client for the JavaScript runtime.|3xx|[![64764](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)
+|7|[spoke_mqtt_js](https://hex.pm/packages/spoke_mqtt_js)|1.0.1|2025-08-03|A Gleam MQTT 3.1.1 client for the JavaScript runtime.|4xx|[![64764](https://img.shields.io/github/stars/sbergen/spoke)](https://github.com/sbergen/spoke)

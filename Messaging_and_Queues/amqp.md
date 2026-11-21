@@ -1,7 +1,7 @@
 # Erlang AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2231xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
+|1|[amqp_client](https://hex.pm/packages/amqp_client)|4.3.4|2026-07-28|RabbitMQ AMQP Client|2232xxxx|[![1667](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |2|[amqp10_client](https://hex.pm/packages/amqp10_client)|4.3.7|2026-10-25|AMQP 1.0 client|210xxxx|[![1663](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server)](https://github.com/rabbitmq/rabbitmq-server)
 |3|[amqp_director](https://hex.pm/packages/amqp_director)|1.6.0|2022-05-20|A simplistic embeddable RPC Client/Server library for AMQP/RabbitMQ.|25xxxx|[![1668](https://img.shields.io/github/stars/issuu/amqp_director)](https://github.com/issuu/amqp_director)
 |4|[broen](https://hex.pm/packages/broen)|3.1.2|2025-01-09|broen provides a bridge between HTTP and AMQP|3xxxx|[![31838](https://img.shields.io/github/stars/issuu/broen)](https://github.com/issuu/broen)
@@ -15,7 +15,7 @@
 # Elixir AMQP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[amqp](https://hex.pm/packages/amqp)|4.3.0|2026-10-06|Idiomatic Elixir client for RabbitMQ.|1774xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
+|1|[amqp](https://hex.pm/packages/amqp)|4.3.0|2026-10-06|Idiomatic Elixir client for RabbitMQ.|1776xxxx|[![1662](https://img.shields.io/github/stars/pma/amqp)](https://github.com/pma/amqp)
 |2|[broadway_rabbitmq](https://hex.pm/packages/broadway_rabbitmq)|0.8.2|2024-11-12|A RabbitMQ connector for Broadway|369xxxx|[![31828](https://img.shields.io/github/stars/dashbitco/broadway_rabbitmq)](https://github.com/dashbitco/broadway_rabbitmq)
 |3|[amqpx](https://hex.pm/packages/amqpx)|7.2.0|2025-10-16|Fork of the AMQP library with some improvements and facilities|105xxxx|[![1673](https://img.shields.io/github/stars/primait/amqpx)](https://github.com/primait/amqpx)
 |4|[gen_rmq](https://hex.pm/packages/gen_rmq)|4.0.0|2022-03-16|Set of behaviours meant to be used to create RabbitMQ consumers and publishers.|58xxxx|[![38104](https://img.shields.io/github/stars/meltwater/gen_rmq)](https://github.com/meltwater/gen_rmq)
@@ -76,15 +76,15 @@
 |59|[rmq](https://hex.pm/packages/rmq)|0.4.0|2020-06-29|RMQ - a set of tools for convenient work with RabbitMQ|1xxx|[![63397](https://img.shields.io/github/stars/nmbrone/rmq)](https://github.com/nmbrone/rmq)
 |60|[rabbitmq_pool_ex](https://hex.pm/packages/rabbitmq_pool_ex)|1.2.0|2025-03-11|A lightweight Elixir library for managing RabbitMQ connection and channel pools.|1xxx|[![46060](https://img.shields.io/github/stars/JVZELLER/rabbitmq-pool-ex)](https://github.com/JVZELLER/rabbitmq-pool-ex)
 |61|[ex_rabbitmq_rpc](https://hex.pm/packages/ex_rabbitmq_rpc)|1.0.0|2018-02-14|RabbitMQ RPC Client and Server library for Elixir.|9xx|[![36707](https://img.shields.io/github/stars/StoiximanServices/ex_rabbitmq_rpc)](https://github.com/StoiximanServices/ex_rabbitmq_rpc)
-|62|[ex_aliyun_amqp](https://hex.pm/packages/ex_aliyun_amqp)|0.1.2|2019-12-05|Aliyun AMQP SDK for Elixir/Erlang|8xx|[![35587](https://img.shields.io/github/stars/edragonconnect/ex_aliyun_amqp)](https://github.com/edragonconnect/ex_aliyun_amqp)
+|62|[ex_aliyun_amqp](https://hex.pm/packages/ex_aliyun_amqp)|0.1.2|2019-12-05|Aliyun AMQP SDK for Elixir/Erlang|9xx|[![35587](https://img.shields.io/github/stars/edragonconnect/ex_aliyun_amqp)](https://github.com/edragonconnect/ex_aliyun_amqp)
 |63|[exrabbit](https://hex.pm/packages/exrabbit)|0.0.2|2014-04-27|RabbitMQ bindings and DSL for Elixir|8xx|[![36704](https://img.shields.io/github/stars/d0rc/exrabbit)](https://github.com/d0rc/exrabbit)
 |64|[errol](https://hex.pm/packages/errol)|0.2.0|2018-04-26|Opinionated RabbitMQ framework for Elixir|8xx|[![35321](https://img.shields.io/github/stars/uesteibar/errol)](https://github.com/uesteibar/errol)
 |65|[rbmq19](https://hex.pm/packages/rbmq19)|0.4.0|2017-08-03|Simple API for spawning RabbitMQ Producers and Consumers.|8xx|[![46242](https://img.shields.io/github/stars/audaxion/rbmq)](https://github.com/audaxion/rbmq)
 |66|[phoenix_pubsub_rabbitmq](https://hex.pm/packages/phoenix_pubsub_rabbitmq)|0.0.1|2015-03-24|RabbitMQ adapter for the Phoenix framework PubSub layer.|7xx|[![44913](https://img.shields.io/github/stars/pma/phoenix_pubsub_rabbitmq)](https://github.com/pma/phoenix_pubsub_rabbitmq)
 |67|[faux_mq](https://hex.pm/packages/faux_mq)|1.0.0|2026-04-06|Dummy AMQP 0-9-1 broker for integration testing with powerful mocking API.|6xx|[![37312](https://img.shields.io/github/stars/aszymanskiit/faux-mq)](https://github.com/aszymanskiit/faux-mq)
 |68|[rabbitex](https://hex.pm/packages/rabbitex)|0.1.1|2019-10-18|rabbitex contains a set of tools that make working with RabbitMQ consume/produce pipelines easier|5xx|[![46055](https://img.shields.io/github/stars/qworks-io/rabbitex)](https://github.com/qworks-io/rabbitex)
-|69|[rabbitmq_fabric](https://hex.pm/packages/rabbitmq_fabric)|0.0.1|2017-03-08|a DSL and some helpers to build reliable and solid RabbitMQ consumers|4xx|
-|70|[ankusa_rabbitmq](https://hex.pm/packages/ankusa_rabbitmq)|0.7.0|2026-10-28|Ankusa.Sink adapter publishing delivered hooks to a RabbitMQ exchange.|4xx|[![8570920](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|69|[ankusa_rabbitmq](https://hex.pm/packages/ankusa_rabbitmq)|0.7.0|2026-10-28|Ankusa.Sink adapter publishing delivered hooks to a RabbitMQ exchange.|4xx|[![8570920](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|70|[rabbitmq_fabric](https://hex.pm/packages/rabbitmq_fabric)|0.0.1|2017-03-08|a DSL and some helpers to build reliable and solid RabbitMQ consumers|4xx|
 |71|[remote_shell_executor](https://hex.pm/packages/remote_shell_executor)|0.1.1|2018-02-26|This is a GenServer-ish implementation of a remote shell execution agent.A process that waits for the message to arrive on the RabbitMQ queue, tries to process (via shell execute) the request and send response back via RabbitMQ queue.|4xx|
 |72|[phoenix_pubsub_conduit_am qp ](https://hex.pm/packages/phoenix_pubsub_conduit_amqp)|0.1.0|2018-01-23|AMQP adapter for Conduit.|4xx|[![44908](https://img.shields.io/github/stars/conduitframework/phoenix_pubsub_conduit_amqp)](https://github.com/conduitframework/phoenix_pubsub_conduit_amqp)
 |73|[white_rabbit](https://hex.pm/packages/white_rabbit)|0.2.1|2025-09-30|Library to handle all consuming, producing, and exchanging of RabbitMQ messages via AMQP 0-9-1 protocol. Also enables RPC across independent OTP apps over RabbitMQ queues.|4xx|[![67193](https://img.shields.io/github/stars/phillipjhl/white_rabbit)](https://github.com/phillipjhl/white_rabbit)
@@ -95,9 +95,9 @@
 |78|[herald_amqp](https://hex.pm/packages/herald_amqp)|0.1.0|2019-12-13|Plugin to use Herald with AMQP|3xx|
 |79|[gramnad_rpc](https://hex.pm/packages/gramnad_rpc)|0.1.0|2023-06-19|GramnadRPC is a library providing gen_server and tools to command CouchDB via the RabbitMQ RPC connection.|3xx|
 |80|[nldoc_stream](https://hex.pm/packages/nldoc_stream)|1.0.0|2025-01-27|Logic for consuming and producing on RabbitMQ Streams|2xx|
-|81|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|2xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
-|82|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|2xx|
-|83|[graviton_mq_amqp10](https://hex.pm/packages/graviton_mq_amqp10)|0.3.0|2026-11-08|Bounded, pure AMQP 1.0 types and codecs for GravitonMQ|1xx|[![9854102](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
+|81|[phi_accrual_amqp](https://hex.pm/packages/phi_accrual_amqp)|0.2.0|2026-08-20|Dedicated AMQP 0-9-1 consumer source for phi_accrual (RabbitMQ-class brokers; not AMQP 1.0). Treats broker deliveries as liveness signals; receiver-driven clock discipline. Envelope timestamp is diagnostic-only.|2xx|
+|82|[mississippi](https://hex.pm/packages/mississippi)|1.0.0|2025-02-07|A framework for handling distributed and ordered processing of data over AMQP queues.|2xx|[![42669](https://img.shields.io/github/stars/secomind/mississippi)](https://github.com/secomind/mississippi)
+|83|[graviton_mq_amqp10](https://hex.pm/packages/graviton_mq_amqp10)|0.3.0|2026-11-08|Bounded, pure AMQP 1.0 types and codecs for GravitonMQ|2xx|[![9854102](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |84|[graviton_mq_client](https://hex.pm/packages/graviton_mq_client)|0.3.0|2026-11-08|Independent AMQP 1.0 and MQTT 5.0 network clients for GravitonMQ|1xx|[![9854103](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |85|[graviton_mq](https://hex.pm/packages/graviton_mq)|0.3.0|2026-11-08|Embeddable GravitonMQ foundation with bounded AMQP 1.0 and MQTT codecs|1xx|[![9854101](https://img.shields.io/github/stars/gsmlg-dev/graviton_mq)](https://github.com/gsmlg-dev/graviton_mq)
 |86|[amqp_sidecar](https://hex.pm/packages/amqp_sidecar)|0.1.0|2026-11-07|Configurable AMQP sidecar for consuming and publishing RabbitMQ messages|8x|[![10263549](https://img.shields.io/github/stars/alesima/amqp_sidecar)](https://github.com/alesima/amqp_sidecar)
