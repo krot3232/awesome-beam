@@ -12,6 +12,7 @@
 |9|[bson_erlang](https://hex.pm/packages/bson_erlang)|0.3.1|2021-06-16|BSON are JSON-like objects with a standard binary serialization. See bsonspec.org|6xxxx|[![31868](https://img.shields.io/github/stars/filmor/bson-erlang)](https://github.com/filmor/bson-erlang)
 |10|[euneus](https://hex.pm/packages/euneus)|2.4.0|2024-09-07|An incredibly flexible and performant JSON parser, generator and formatter in pure Erlang|3xxxx|[![35463](https://img.shields.io/github/stars/williamthome/euneus)](https://github.com/williamthome/euneus)
 |11|[shiguredo_jsone](https://hex.pm/packages/shiguredo_jsone)|2025.1.0|2025-09-24|Erlang JSON library|3xxxx|[![64074](https://img.shields.io/github/stars/shiguredo/jsone)](https://github.com/shiguredo/jsone)
+|12|[pooka_json](https://hex.pm/packages/pooka_json)|1.0.0|2026-11-15|Typed JSON values and checked application decoders for Pooka|1xx|[![10650731](https://img.shields.io/github/stars/pooka-lang/json)](https://github.com/pooka-lang/json)
 # Elixir JSON
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
