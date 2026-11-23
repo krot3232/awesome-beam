@@ -5,12 +5,12 @@
 # Elixir TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|788xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
+|1|[toml](https://hex.pm/packages/toml)|0.7.0|2022-10-24|An implementation of TOML for Elixir projects|789xxxx|[![65990](https://img.shields.io/github/stars/bitwalker/toml-elixir)](https://github.com/bitwalker/toml-elixir)
 |2|[toml_elixir](https://hex.pm/packages/toml_elixir)|3.3.0|2026-10-26|Modern TOML parser and encoder for Elixir with protocol-based struct support|5xxxx|[![65994](https://img.shields.io/github/stars/nikolauska/toml_elixir)](https://github.com/nikolauska/toml_elixir)
 |3|[llm_core](https://hex.pm/packages/llm_core)|0.9.7|2026-11-16|Provider-agnostic LLM orchestration for Elixir. Composable ALF pipelines, hot-reload TOML config, CLI provider support, in-process agentic loops, structured output, and semantic memory.|3xxx|[![41554](https://img.shields.io/github/stars/fosferon/llm_core)](https://github.com/fosferon/llm_core)
-|4|[tome](https://hex.pm/packages/tome)|1.0.0|2026-11-15|A TOML 1.0 parser for Pooka|2xx|
+|4|[tome](https://hex.pm/packages/tome)|1.0.0|2026-11-15|A TOML 1.0 parser for Pooka|3xx|
 # Gleam TOML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|33xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)
-|2|[tomlet](https://hex.pm/packages/tomlet)|1.5.0|2026-11-07|A round-tripping TOML parser and writer for Gleam, preserving comments, key order, and formatting.|4xxx|[![3520234](https://img.shields.io/github/stars/tylerbutler/tomlet)](https://github.com/tylerbutler/tomlet)
+|1|[tom](https://hex.pm/packages/tom)|2.1.0|2026-04-30|A pure Gleam TOML parser!|34xxxx|[![65985](https://img.shields.io/github/stars/lpil/tom)](https://github.com/lpil/tom)
+|2|[tomlet](https://hex.pm/packages/tomlet)|1.5.0|2026-11-07|A round-tripping TOML parser and writer for Gleam, preserving comments, key order, and formatting.|5xxx|[![3520234](https://img.shields.io/github/stars/tylerbutler/tomlet)](https://github.com/tylerbutler/tomlet)

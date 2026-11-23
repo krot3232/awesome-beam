@@ -9,8 +9,8 @@
 |6|[elogstash](https://hex.pm/packages/elogstash)|1.0.0|2017-09-13|Logstash library to send information using UDP or TCP avoiding bottlenecks|6xx|[![34953](https://img.shields.io/github/stars/manuel-rubio/elogstash)](https://github.com/manuel-rubio/elogstash)
 |7|[enet](https://hex.pm/packages/enet)|1.0.0|2024-10-23|ENet - Reliable UDP networking library|4xx|[![35054](https://img.shields.io/github/stars/saltysystems/enet)](https://github.com/saltysystems/enet)
 |8|[graylog_logger](https://hex.pm/packages/graylog_logger)|1.0.1|2025-11-16|OTP logger backend that sends log events to Graylog via GELF UDP input.|3xx|[![39121](https://img.shields.io/github/stars/silviucpp/graylog_logger)](https://github.com/silviucpp/graylog_logger)
-|9|[myesockd](https://hex.pm/packages/myesockd)|5.9.4|2022-08-09|General Non-blocking TCP/SSL and UDP/DTLS Server|3xx|[![43135](https://img.shields.io/github/stars/edsonhuang/esockd)](https://github.com/edsonhuang/esockd)
-|10|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|2xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
+|9|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|3xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
+|10|[myesockd](https://hex.pm/packages/myesockd)|5.9.4|2022-08-09|General Non-blocking TCP/SSL and UDP/DTLS Server|3xx|[![43135](https://img.shields.io/github/stars/edsonhuang/esockd)](https://github.com/edsonhuang/esockd)
 |11|[masque](https://hex.pm/packages/masque)|0.9.0|2026-11-06|MASQUE for Erlang: CONNECT-UDP, CONNECT-IP, CONNECT-TCP and Connect-UDP-Bind over HTTP/3, HTTP/2 and HTTP/1.1|2xx|[![4064692](https://img.shields.io/github/stars/benoitc/erlang_masque)](https://github.com/benoitc/erlang_masque)
 |12|[inet_free_port](https://hex.pm/packages/inet_free_port)|0.2.0|2026-04-19|Erlang library for finding free TCP/UDP ports within a specified range|2xx|[![40072](https://img.shields.io/github/stars/krot3232/inet_free_port)](https://github.com/krot3232/inet_free_port)
 # Elixir UDP
