@@ -1,7 +1,7 @@
 # Erlang Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|7018xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
+|1|[meck](https://hex.pm/packages/meck)|1.2.0|2026-05-27|A mocking framework for Erlang|7019xxxx|[![42254](https://img.shields.io/github/stars/eproxus/meck)](https://github.com/eproxus/meck)
 |2|[proper](https://hex.pm/packages/proper)|1.5.0|2025-04-02|A QuickCheck-inspired property-based testing tool for Erlang|705xxxx|[![45755](https://img.shields.io/github/stars/proper-testing/proper)](https://github.com/proper-testing/proper)
 |3|[eunit_formatters](https://hex.pm/packages/eunit_formatters)|0.6.0|2025-04-22|Better output for eunit suites|88xxxx|[![35467](https://img.shields.io/github/stars/seancribbs/eunit_formatters)](https://github.com/seancribbs/eunit_formatters)
 |4|[cth_readable](https://hex.pm/packages/cth_readable)|1.6.1|2025-02-28|Common Test hooks for more readable logs|79xxxx|[![33332](https://img.shields.io/github/stars/ferd/cth_readable)](https://github.com/ferd/cth_readable)
@@ -24,7 +24,7 @@
 # Elixir Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2183xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
+|1|[mock](https://hex.pm/packages/mock)|0.3.9|2024-12-16|A mocking library for the Elixir language.We use the Erlang meck library to provide module mockingfunctionality for Elixir. It uses macros in Elixir to exposethe functionality in a convenient manner for integrating inElixir tests.|2184xxxx|[![42814](https://img.shields.io/github/stars/jjh42/mock)](https://github.com/jjh42/mock)
 |2|[patch](https://hex.pm/packages/patch)|0.16.1|2026-10-22|Ergonomic Mocking for Elixir Unit Testing|516xxxx|[![44530](https://img.shields.io/github/stars/ihumanable/patch)](https://github.com/ihumanable/patch)
 |3|[mockery](https://hex.pm/packages/mockery)|2.5.0|2025-09-24|Simple mocking library for asynchronous testing.|268xxxx|[![42817](https://img.shields.io/github/stars/appunite/mockery)](https://github.com/appunite/mockery)
 |4|[ex_check](https://hex.pm/packages/ex_check)|0.17.1|2026-10-21|One task to efficiently run all code analysis &amp; testing tools in an Elixir project|223xxxx|
@@ -76,7 +76,7 @@
 # Gleam Testing
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|169xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
+|1|[gleeunit](https://hex.pm/packages/gleeunit)|1.11.0|2026-06-07|A simple test runner for Gleam, using EUnit on Erlang|170xxxx|[![38456](https://img.shields.io/github/stars/lpil/gleeunit)](https://github.com/lpil/gleeunit)
 |2|[qcheck](https://hex.pm/packages/qcheck)|1.0.5|2026-08-19|QuickCheck-inspired property testing with integrated shrinking|17xxxx|[![45903](https://img.shields.io/github/stars/mooreryan/gleam_qcheck)](https://github.com/mooreryan/gleam_qcheck)
 |3|[glacier_gleeunit](https://hex.pm/packages/glacier_gleeunit)|1.3.1003|2025-12-25|This is a fork of gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI.|1xxxx|[![38311](https://img.shields.io/github/stars/inoas/gleeunit)](https://github.com/inoas/gleeunit)
 |4|[glacier](https://hex.pm/packages/glacier)|1.3.3|2025-12-25|Glacier brings incremental interactive unit testing to Gleam. It is meant as a drop-in replacement for Gleeunit and depends on and wraps a fork of it.|1xxxx|[![38310](https://img.shields.io/github/stars/inoas/glacier)](https://github.com/inoas/glacier)

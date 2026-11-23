@@ -8,8 +8,8 @@
 # Elixir XML
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7529xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
-|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7383xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
+|1|[xml_builder](https://hex.pm/packages/xml_builder)|2.4.1|2026-08-21|XML builder for Elixir|7530xxxx|[![67393](https://img.shields.io/github/stars/joshnuss/xml_builder)](https://github.com/joshnuss/xml_builder)
+|2|[sweet_xml](https://hex.pm/packages/sweet_xml)|0.7.5|2025-01-07|A sweet wrapper of :xmerl to help query XML docs|7384xxxx|[![65296](https://img.shields.io/github/stars/kbrw/sweet_xml)](https://github.com/kbrw/sweet_xml)
 |3|[elixir_xml_to_map](https://hex.pm/packages/elixir_xml_to_map)|3.1.0|2024-02-09|A module for converting an XML string to a map|7238xxxx|[![34908](https://img.shields.io/github/stars/homanchou/elixir-xml-to-map)](https://github.com/homanchou/elixir-xml-to-map)
 |4|[elixlsx](https://hex.pm/packages/elixlsx)|0.6.0|2024-03-03|Elixlsx is a writer for the MS Excel OpenXML format (.xlsx).|2936xxxx|[![34911](https://img.shields.io/github/stars/xou/elixlsx)](https://github.com/xou/elixlsx)
 |5|[saxy](https://hex.pm/packages/saxy)|1.7.0|2026-10-30|Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.|1001xxxx|[![63703](https://img.shields.io/github/stars/qcam/saxy)](https://github.com/qcam/saxy)

@@ -14,7 +14,7 @@
 # Elixir Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|235xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
+|1|[rexbug](https://hex.pm/packages/rexbug)|2.0.0-rc1|2023-07-23|Rexbug is a thin Elixir wrapper for :redbug production-friendly Erlangtracing debugger. It tries to preserve :redbug&#039;s simple and intuitiveinterface while making it more convenient to use by Elixir developers.|236xxxx|[![63316](https://img.shields.io/github/stars/nietaki/rexbug)](https://github.com/nietaki/rexbug)
 |2|[live_debugger](https://hex.pm/packages/live_debugger)|1.0.3|2026-10-09|Tool for debugging LiveView applications|93xxxx|[![41452](https://img.shields.io/github/stars/software-mansion/live-debugger)](https://github.com/software-mansion/live-debugger)
 |3|[mix_unused](https://hex.pm/packages/mix_unused)|0.4.1|2023-06-29|Mix compiler tracer for detecting unused public functions|52xxxx|[![42748](https://img.shields.io/github/stars/hauleth/mix_unused)](https://github.com/hauleth/mix_unused)
 |4|[chrome_remote_interface](https://hex.pm/packages/chrome_remote_interface)|0.4.1|2019-08-05|Chrome Debugging Protocol client for Elixir|27xxxx|[![32412](https://img.shields.io/github/stars/andrewvy/chrome-remote-interface)](https://github.com/andrewvy/chrome-remote-interface)
