@@ -8,12 +8,12 @@
 # Elixir JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[joken](https://hex.pm/packages/joken)|2.8.0|2026-11-13|JWT (JSON Web Token) library for Elixir.|5984xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
+|1|[joken](https://hex.pm/packages/joken)|2.8.0|2026-11-13|JWT (JSON Web Token) library for Elixir.|5988xxxx|[![40470](https://img.shields.io/github/stars/joken-elixir/joken)](https://github.com/joken-elixir/joken)
 |2|[json_web_token](https://hex.pm/packages/json_web_token)|0.2.10|2019-06-28|Elixir implementation of the JSON Web Token (JWT), RFC 7519|160xxxx|[![40586](https://img.shields.io/github/stars/garyf/json_web_token_ex)](https://github.com/garyf/json_web_token_ex)
 |3|[yajwt](https://hex.pm/packages/yajwt)|1.4.2|2025-08-17|Yet another JWT lib|38xxxx|[![67471](https://img.shields.io/github/stars/princemaple/elixir-jwt)](https://github.com/princemaple/elixir-jwt)
 |4|[jwt_claims](https://hex.pm/packages/jwt_claims)|0.0.4|2019-06-28|Elixir implementation of JWT registered claims, RFC 7519|8xxxx|[![40637](https://img.shields.io/github/stars/garyf/jwt_claims_ex)](https://github.com/garyf/jwt_claims_ex)
 |5|[kitten_blue](https://hex.pm/packages/kitten_blue)|0.9.2|2025-08-01|KittenBlue is a JOSE wrapper library that makes JWT implementation simpler for Elixir.|6xxxx|[![40907](https://img.shields.io/github/stars/ritou/elixir-kitten-blue)](https://github.com/ritou/elixir-kitten-blue)
-|6|[ash_authentication_oauth2 _server ](https://hex.pm/packages/ash_authentication_oauth2_server)|0.4.0|2026-10-05|An OAuth 2.1 authorization server for Ash Framework apps — RFC 7591 dynamicclient registration, PKCE, audience-bound JWTs, refresh-token rotation, anda built-in consent flow on top of ash_authentication + Phoenix.|4xxxx|[![3328881](https://img.shields.io/github/stars/ash-project/ash_authentication_oauth2_server)](https://github.com/ash-project/ash_authentication_oauth2_server)
+|6|[ash_authentication_oauth2 _server ](https://hex.pm/packages/ash_authentication_oauth2_server)|0.4.0|2026-10-05|An OAuth 2.1 authorization server for Ash Framework apps — RFC 7591 dynamicclient registration, PKCE, audience-bound JWTs, refresh-token rotation, anda built-in consent flow on top of ash_authentication + Phoenix.|5xxxx|[![3328881](https://img.shields.io/github/stars/ash-project/ash_authentication_oauth2_server)](https://github.com/ash-project/ash_authentication_oauth2_server)
 |7|[authex](https://hex.pm/packages/authex)|2.4.0|2025-10-20|Authex is a simple and opinionated JWT authentication and authorization library.|3xxxx|[![7776](https://img.shields.io/github/stars/nsweeting/authex)](https://github.com/nsweeting/authex)
 |8|[btrz_ex_auth_api](https://hex.pm/packages/btrz_ex_auth_api)|1.3.0|2024-03-21|Elixir package for authentication handling using Plug and Guardian (JWT)|3xxxx|[![31881](https://img.shields.io/github/stars/Betterez/btrz_ex_auth_api)](https://github.com/Betterez/btrz_ex_auth_api)
 |9|[auth0_plug](https://hex.pm/packages/auth0_plug)|1.4.1|2024-06-02|A plug for verifing Auth0 JWTs and accessing claims in successful requests.|1xxxx|
@@ -46,8 +46,8 @@
 # Gleam JWT
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|1xxxx|
-|2|[gose](https://hex.pm/packages/gose)|2.2.0|2026-09-21|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|1xxxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)
+|1|[gose](https://hex.pm/packages/gose)|2.2.0|2026-09-21|Gleam implementation of JOSE (JWS, JWE, JWK, JWT) and COSE (COSE_Sign, COSE_Encrypt, COSE_Mac0, CWT) standards|1xxxx|[![39023](https://img.shields.io/github/stars/jtdowney/gose)](https://github.com/jtdowney/gose)
+|2|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|1xxxx|
 |3|[gwt](https://hex.pm/packages/gwt)|2.1.2|2025-08-11|A JWT library written in Gleam|1xxxx|[![39287](https://img.shields.io/github/stars/brettkolodny/gwt)](https://github.com/brettkolodny/gwt)
 |4|[ywt_erlang](https://hex.pm/packages/ywt_erlang)|2.0.0|2026-05-29|The ywt package for JWT targeting erlang.|3xxx|
 |5|[hellhound](https://hex.pm/packages/hellhound)|0.2.3|2026-11-19|Typed OIDC / OAuth 2.0, standalone JWT signing and bounded HTTPS credential exchange for Gleam on Erlang/OTP.|2xxx|[![9716560](https://img.shields.io/github/stars/gleam-dream/hellhound)](https://github.com/gleam-dream/hellhound)

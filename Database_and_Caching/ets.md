@@ -16,7 +16,7 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[memoize](https://hex.pm/packages/memoize)|1.4.5|2026-04-04|A method caching macro for elixir using CAS on ETS|2470xxxx|[![42465](https://img.shields.io/github/stars/melpon/memoize)](https://github.com/melpon/memoize)
-|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2107xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
+|2|[eternal](https://hex.pm/packages/eternal)|1.2.2|2020-12-02|Make your ETS tables live forever|2109xxxx|[![35406](https://img.shields.io/github/stars/whitfin/eternal)](https://github.com/whitfin/eternal)
 |3|[con_cache](https://hex.pm/packages/con_cache)|1.1.1|2025-01-30|ETS based key-value storage with support for row-level isolated writes,  TTL auto-purge, and modification callbacks.|523xxxx|[![32862](https://img.shields.io/github/stars/sasa1977/con_cache)](https://github.com/sasa1977/con_cache)
 |4|[semaphore](https://hex.pm/packages/semaphore)|1.3.0|2022-09-17|Fast semaphore using ETS.|233xxxx|[![63926](https://img.shields.io/github/stars/discordapp/semaphore)](https://github.com/discordapp/semaphore)
 |5|[event_bus](https://hex.pm/packages/event_bus)|1.7.0|2022-01-02|Traceable, extendable and minimalist event bus implementation for Elixirwith built-in event store and event watcher based on ETS|64xxxx|[![35486](https://img.shields.io/github/stars/otobus/event_bus)](https://github.com/otobus/event_bus)

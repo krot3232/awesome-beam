@@ -9,15 +9,15 @@
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc](https://hex.pm/packages/grpc)|1.1.0|2026-11-13|gRPC client implementation for Elixir|783xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
+|1|[grpc](https://hex.pm/packages/grpc)|1.1.0|2026-11-13|gRPC client implementation for Elixir|785xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|83xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)
-|4|[grpc_core](https://hex.pm/packages/grpc_core)|1.1.0|2026-11-13|Core gRPC types, codecs, and utilities for Elixir|33xxxx|
+|4|[grpc_core](https://hex.pm/packages/grpc_core)|1.1.0|2026-11-13|Core gRPC types, codecs, and utilities for Elixir|34xxxx|
 |5|[conn_grpc](https://hex.pm/packages/conn_grpc)|0.4.3|2026-03-17|Persistent channels, and channel pools for gRPC Elixir|26xxxx|[![32948](https://img.shields.io/github/stars/TheRealReal/conn_grpc)](https://github.com/TheRealReal/conn_grpc)
 |6|[grpc_reflection](https://hex.pm/packages/grpc_reflection)|0.5.1|2026-11-14|gRPC reflection server for Elixir|21xxxx|[![39196](https://img.shields.io/github/stars/elixir-grpc/grpc-reflection)](https://github.com/elixir-grpc/grpc-reflection)
 |7|[grpc_server](https://hex.pm/packages/grpc_server)|1.1.0|2026-11-13|gRPC server implementation for Elixir|18xxxx|
 |8|[mock_grpc](https://hex.pm/packages/mock_grpc)|1.0.0|2026-06-29|Concurrent mocks for gRPC Elixir|8xxxx|[![42821](https://img.shields.io/github/stars/TheRealReal/mock_grpc)](https://github.com/TheRealReal/mock_grpc)
-|9|[cratis_chronicle_contract s ](https://hex.pm/packages/cratis_chronicle_contracts)|20.0.0|2026-11-23|Generated Elixir gRPC contracts for Cratis Chronicle - the open-source event-sourcing database|4xxxx|[![204454](https://img.shields.io/github/stars/Cratis/Chronicle)](https://github.com/Cratis/Chronicle)
+|9|[cratis_chronicle_contract s ](https://hex.pm/packages/cratis_chronicle_contracts)|20.0.0|2026-11-24|Generated Elixir gRPC contracts for Cratis Chronicle - the open-source event-sourcing database|4xxxx|[![204454](https://img.shields.io/github/stars/Cratis/Chronicle)](https://github.com/Cratis/Chronicle)
 |10|[kujira_proto](https://hex.pm/packages/kujira_proto)|0.9.4|2024-04-27|Protobuf bindings and gRPC clients for the Kujira Blockchain|1xxxx|[![41005](https://img.shields.io/github/stars/Team-Kujira/proto-ex)](https://github.com/Team-Kujira/proto-ex)
 |11|[ex_sui](https://hex.pm/packages/ex_sui)|0.1.0|2025-07-02|An Elixir library to interface with the Sui blockchain using gRPC.|1xxxx|[![36908](https://img.shields.io/github/stars/briankariuki/ex_sui)](https://github.com/briankariuki/ex_sui)
 |12|[grpc_prometheus](https://hex.pm/packages/grpc_prometheus)|0.1.0|2019-12-25|Prometheus interceptor for gRPC|1xxxx|[![39195](https://img.shields.io/github/stars/elixir-grpc/grpc-prometheus)](https://github.com/elixir-grpc/grpc-prometheus)
@@ -29,7 +29,7 @@
 |18|[ex_google_stt](https://hex.pm/packages/ex_google_stt)|0.5.1|2024-08-09|Elixir client for Google Speech-to-Text streaming API using gRPC|6xxx|[![36155](https://img.shields.io/github/stars/luiz-pereira/ex_google_stt)](https://github.com/luiz-pereira/ex_google_stt)
 |19|[grpc_mock2](https://hex.pm/packages/grpc_mock2)|0.4.0|2023-03-08|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|4xxx|[![39194](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |20|[ex_dgraph](https://hex.pm/packages/ex_dgraph)|0.2.0-beta.3|2019-07-31|A gRPC based Dgraph client for Elixir.|3xxx|[![35957](https://img.shields.io/github/stars/ospaarmann/exdgraph)](https://github.com/ospaarmann/exdgraph)
-|21|[xai](https://hex.pm/packages/xai)|0.3.0|2026-10-13|Native Elixir gRPC client for the xAI API (Grok)|2xxx|
+|21|[xai](https://hex.pm/packages/xai)|0.3.0|2026-10-13|Native Elixir gRPC client for the xAI API (Grok)|3xxx|
 |22|[pubsub_grpc](https://hex.pm/packages/pubsub_grpc)|0.8.2|2026-11-23|Efficient Google Cloud Pub/Sub client using gRPC with GrpcConnectionPool library|2xxx|[![45841](https://img.shields.io/github/stars/nyo16/gcp_grpc_pubsub)](https://github.com/nyo16/gcp_grpc_pubsub)
 |23|[spannex](https://hex.pm/packages/spannex)|0.6.3|2024-03-21|Elixir client for the Google Cloud Spanner database using gRPC.|2xxx|[![64663](https://img.shields.io/github/stars/tyler-eon/spannex)](https://github.com/tyler-eon/spannex)
 |24|[exred_node_grpc_server](https://hex.pm/packages/exred_node_grpc_server)|0.1.4|2019-02-03|Exred node that sets up a gRPC server. Used with exred_node_grpc_twin|1xxx|[![36738](https://img.shields.io/github/stars/exredorg/exred_node_grpc_server)](https://github.com/exredorg/exred_node_grpc_server)
