@@ -171,7 +171,7 @@
 |6|[thoas](https://hex.pm/packages/thoas)|1.2.1|2024-05-13|A blazing fast JSON parser and generator in pure Erlang.|1262xxxx|[![65802](https://img.shields.io/github/stars/lpil/thoas)](https://github.com/lpil/thoas)|erlang
 |7|[gleam_json](https://hex.pm/packages/gleam_json)|3.1.0|2025-11-08|Work with JSON in Gleam|98xxxx|[![38381](https://img.shields.io/github/stars/gleam-lang/json)](https://github.com/gleam-lang/json)|gleam
 |8|[oas_generator_utils](https://hex.pm/packages/oas_generator_utils)|1.1.0|2025-12-17|Resuable utilities for projects generated with oas_generator for Open API Spec, JSON schema and MCP client or server.|3xxxx|[![43814](https://img.shields.io/github/stars/crowdhailer/oas_generator)](https://github.com/crowdhailer/oas_generator)|gleam
-|9|[json_blueprint](https://hex.pm/packages/json_blueprint)|2.2.0|2026-11-21|Simplify JSON encoding/decoding while automatically generating JSON schemas for your data types.|2xxxx|[![40515](https://img.shields.io/github/stars/lostbean/json_blueprint)](https://github.com/lostbean/json_blueprint)|gleam
+|9|[json_blueprint](https://hex.pm/packages/json_blueprint)|2.2.1|2026-11-24|Simplify JSON encoding/decoding while automatically generating JSON schemas for your data types.|2xxxx|[![40515](https://img.shields.io/github/stars/gleam-dream/json_blueprint)](https://github.com/gleam-dream/json_blueprint)|gleam
 ## YAML
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
@@ -245,7 +245,7 @@
 ## Web Framework
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.17|2026-11-20|Productive. Reliable. Fast. A productive web framework thatdoes not compromise speed or maintainability.|16118xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
+|1|[phoenix](https://hex.pm/packages/phoenix)|1.8.17|2026-11-24|Productive. Reliable. Fast. A productive web framework thatdoes not compromise speed or maintainability.|16118xxxx|[![44751](https://img.shields.io/github/stars/phoenixframework/phoenix)](https://github.com/phoenixframework/phoenix)|elixir
 |2|[phoenix_swagger](https://hex.pm/packages/phoenix_swagger)|0.8.5|2025-08-25|PhoenixSwagger is the library that provides swagger integration to the phoenix web framework.|325xxxx|[![44955](https://img.shields.io/github/stars/xerions/phoenix_swagger)](https://github.com/xerions/phoenix_swagger)|elixir
 |3|[raxx](https://hex.pm/packages/raxx)|1.1.0|2019-09-04|Interface for HTTP webservers, frameworks and clients.|83xxxx|[![46220](https://img.shields.io/github/stars/crowdhailer/raxx)](https://github.com/crowdhailer/raxx)|elixir
 |4|[wisp](https://hex.pm/packages/wisp)|2.2.2|2026-03-27|A practical web framework for Gleam|37xxxx|[![67219](https://img.shields.io/github/stars/gleam-wisp/wisp)](https://github.com/gleam-wisp/wisp)|gleam
@@ -258,7 +258,7 @@
 ## pool
 ||Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |-|-|-|-|:-|-|-|-
-|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.2|2026-07-06|Database connection behaviour for database transactions and connection pooling|15483xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
+|1|[db_connection](https://hex.pm/packages/db_connection)|2.10.3|2026-11-24|Database connection behaviour for database transactions and connection pooling|15483xxxx|[![33547](https://img.shields.io/github/stars/elixir-ecto/db_connection)](https://github.com/elixir-ecto/db_connection)|elixir
 |2|[poolboy](https://hex.pm/packages/poolboy)|1.5.2|2019-08-10|A hunky Erlang worker pool factory|8935xxxx|[![45498](https://img.shields.io/github/stars/devinus/poolboy)](https://github.com/devinus/poolboy)|erlang
 |3|[nimble_pool](https://hex.pm/packages/nimble_pool)|1.2.0|2026-11-16|A tiny resource-pool implementation|6361xxxx|[![43560](https://img.shields.io/github/stars/dashbitco/nimble_pool)](https://github.com/dashbitco/nimble_pool)|elixir
 |4|[acceptor_pool](https://hex.pm/packages/acceptor_pool)|1.0.1|2025-12-15|A tcp acceptor pool library|3148xxxx|[![102](https://img.shields.io/github/stars/fishcakez/acceptor_pool)](https://github.com/fishcakez/acceptor_pool)|erlang
@@ -284,7 +284,7 @@
 |1|[kayrock](https://hex.pm/packages/kayrock)|1.1.0|2026-11-07|Elixir interface to the Kafka protocol|3734xxxx|[![40726](https://img.shields.io/github/stars/kafkaex/kayrock)](https://github.com/kafkaex/kayrock)|elixir
 |2|[kafka_ex](https://hex.pm/packages/kafka_ex)|1.2.0|2026-11-09|Elixir client for Apache Kafka with automatic API version negotiation, SASL authentication (PLAIN, SCRAM, OAuth, MSK IAM), consumer groups, compression, and telemetry support.|3249xxxx|[![40667](https://img.shields.io/github/stars/kafkaex/kafka_ex)](https://github.com/kafkaex/kafka_ex)|elixir
 |3|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1153xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)|erlang
-|4|[brod](https://hex.pm/packages/brod)|4.7.0|2026-09-25|Apache Kafka Erlang client library|1138xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
+|4|[brod](https://hex.pm/packages/brod)|4.7.1|2026-11-24|Apache Kafka Erlang client library|1138xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)|erlang
 |5|[broadway_kafka](https://hex.pm/packages/broadway_kafka)|0.7.2|2026-11-20|A Kafka connector for Broadway|304xxxx|[![31827](https://img.shields.io/github/stars/dashbitco/broadway_kafka)](https://github.com/dashbitco/broadway_kafka)|elixir
 |6|[wolff](https://hex.pm/packages/wolff)|4.2.3|2026-11-10|Kafka&#039;s publisher|32xxxx||erlang
 |7|[franz](https://hex.pm/packages/franz)|3.0.0|2025-08-23|A Gleam library for interacting with Kafka|1xxx|[![37777](https://img.shields.io/github/stars/renatillas/franz)](https://github.com/renatillas/franz)|gleam
@@ -334,7 +334,7 @@
 |5|[prometheus_ex](https://hex.pm/packages/prometheus_ex)|5.1.0|2026-02-10|Elixir-friendly Prometheus monitoring system client.|6723xxxx|[![45724](https://img.shields.io/github/stars/prometheus-erl/prometheus.ex)](https://github.com/prometheus-erl/prometheus.ex)|elixir
 |6|[prometheus_phoenix](https://hex.pm/packages/prometheus_phoenix)|1.3.0|2019-07-18|Prometheus monitoring system client Phoenix instrumenter.|5796xxxx|[![45729](https://img.shields.io/github/stars/deadtrickster/prometheus-phoenix)](https://github.com/deadtrickster/prometheus-phoenix)|elixir
 |7|[textmetrics](https://hex.pm/packages/textmetrics)|0.12.0|2026-11-23|Text comparisons, diffs, counts, and English readability for Gleam|5xxx|[![87623](https://img.shields.io/github/stars/nao1215/textmetrics)](https://github.com/nao1215/textmetrics)|gleam
-|8|[sinal](https://hex.pm/packages/sinal)|0.1.0|2026-10-26|A strongly-typed take on Erlang :telemetry, built for Gleam&#039;s generics instead of dynamic maps and atoms.|3xxx|[![9702634](https://img.shields.io/github/stars/gleam-dream/sinal)](https://github.com/gleam-dream/sinal)|gleam
+|8|[sinal](https://hex.pm/packages/sinal)|0.1.0|2026-11-24|A strongly-typed take on Erlang :telemetry, built for Gleam&#039;s generics instead of dynamic maps and atoms.|3xxx|[![9702634](https://img.shields.io/github/stars/gleam-dream/sinal)](https://github.com/gleam-dream/sinal)|gleam
 |9|[themis](https://hex.pm/packages/themis)|4.1.1|2025-12-07|Prometheus client in pure Gleam!|3xxx|[![65785](https://img.shields.io/github/stars/guillheu/Themis)](https://github.com/guillheu/Themis)|gleam
 # [Testing](./Testing)
 ## Testing
