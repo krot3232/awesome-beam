@@ -12,11 +12,11 @@
 # Elixir DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|1018xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
+|1|[dns_cluster](https://hex.pm/packages/dns_cluster)|0.3.1|2026-10-01|Simple DNS clustering for distributed Elixir nodes|1022xxxx|[![33952](https://img.shields.io/github/stars/phoenixframework/dns_cluster)](https://github.com/phoenixframework/dns_cluster)
 |2|[dns](https://hex.pm/packages/dns)|2.4.0|2022-06-12|DNS library for Elixir using inet_dns module.|148xxxx|[![33951](https://img.shields.io/github/stars/tungd/elixir-dns)](https://github.com/tungd/elixir-dns)
 |3|[peerage](https://hex.pm/packages/peerage)|1.0.3|2019-02-07|Easy clustering, pluggable discovery: via DNS (for Kubernetes, Weave, discoverd, Swarm and others), UDP multicast, or a plain list of nodes. Easy extensibility for custom Providers.|68xxxx|[![44613](https://img.shields.io/github/stars/mrluc/peerage)](https://github.com/mrluc/peerage)
 |4|[mdns_lite](https://hex.pm/packages/mdns_lite)|0.9.3|2026-11-23|A simple, no frills mDNS implementation in Elixir|42xxxx|[![42244](https://img.shields.io/github/stars/nerves-networking/mdns_lite)](https://github.com/nerves-networking/mdns_lite)
-|5|[nerves_discovery](https://hex.pm/packages/nerves_discovery)|0.1.6|2026-11-23|Discover Nerves devices using mDNS|8xxxx|[![43291](https://img.shields.io/github/stars/nerves-networking/nerves_discovery)](https://github.com/nerves-networking/nerves_discovery)
+|5|[nerves_discovery](https://hex.pm/packages/nerves_discovery)|0.1.7|2026-11-24|Discover Nerves devices using mDNS|8xxxx|[![43291](https://img.shields.io/github/stars/nerves-networking/nerves_discovery)](https://github.com/nerves-networking/nerves_discovery)
 |6|[mdns](https://hex.pm/packages/mdns)|1.0.13|2022-09-19|A simple mDNS (zeroconf, bonjour) server and client for device discovery on your local network.|5xxxx|[![42241](https://img.shields.io/github/stars/NationalAssociationOfRealtors/mdns)](https://github.com/NationalAssociationOfRealtors/mdns)
 |7|[dnsimple](https://hex.pm/packages/dnsimple)|10.2.0|2026-09-22|Elixir client for the DNSimple API v2.|2xxxx|[![33954](https://img.shields.io/github/stars/dnsimple/dnsimple-elixir)](https://github.com/dnsimple/dnsimple-elixir)
 |8|[public_suffix_list](https://hex.pm/packages/public_suffix_list)|0.7.1|2026-06-16|Parse DNS domains using public suffix list.|1xxxx|[![45832](https://img.shields.io/github/stars/cogini/public_suffix_list)](https://github.com/cogini/public_suffix_list)
@@ -46,6 +46,7 @@
 |32|[dnsmasqex](https://hex.pm/packages/dnsmasqex)|0.1.2|2026-09-29|dnsmasq DHCP and DNS servers for VintageNet|2xx|[![8776942](https://img.shields.io/github/stars/haruno-haru/dnsmasqex)](https://github.com/haruno-haru/dnsmasqex)
 |33|[dnsrobot](https://hex.pm/packages/dnsrobot)|0.1.0|2026-03-13|Official Elixir client for DNS Robot (dnsrobot.net) — DNS lookups, WHOIS, SSL checks, SPF/DKIM/DMARC validation, and more.|2xx|[![33955](https://img.shields.io/github/stars/dnsrobot/dnsrobot-elixir)](https://github.com/dnsrobot/dnsrobot-elixir)
 |34|[adns](https://hex.pm/packages/adns)|0.1.0|2026-09-19|Elixir DNS codec, concurrent UDP client/server, and pluggable resolvers (RFC 1035).|1xx|[![8391985](https://img.shields.io/github/stars/pau-bur/adns)](https://github.com/pau-bur/adns)
+|35|[nbpr_dnsmasq](https://hex.pm/packages/nbpr_dnsmasq)|2.93.0|2026-11-25|Lightweight DHCP/DNS server (dnsmasq) packaged for Nerves|0|[![11067838](https://img.shields.io/github/stars/jimsynz/nbpr)](https://github.com/jimsynz/nbpr)
 # Gleam DNS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -53,4 +54,4 @@
 |2|[nessie](https://hex.pm/packages/nessie)|0.1.0|2024-04-07|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|5xx|[![43437](https://img.shields.io/github/stars/ckreiling/nessie)](https://github.com/ckreiling/nessie)
 |3|[esdee](https://hex.pm/packages/esdee)|1.0.1|2025-12-25|Gleam DNS-SD discovery on Erlang|4xx|[![35348](https://img.shields.io/github/stars/sbergen/esdee)](https://github.com/sbergen/esdee)
 |4|[nessie_2](https://hex.pm/packages/nessie_2)|0.2.0|2025-11-14|Gleam bindings for Erlang&#039;s built-in DNS resolution modules.|2xx|[![43438](https://img.shields.io/github/stars/violetbuse/nessie_2)](https://github.com/violetbuse/nessie_2)
-|5|[giddy](https://hex.pm/packages/giddy)|0.2.0|2026-11-10|DNS queries and hostname resolution for gleam&#039;s erlang and javascript targets|1xx|
+|5|[giddy](https://hex.pm/packages/giddy)|0.3.0|2026-11-25|DNS queries and hostname resolution for gleam&#039;s erlang and javascript targets|1xx|
