@@ -126,6 +126,7 @@
 |85|[ml_serve](https://hex.pm/packages/ml_serve)|0.1.3|2026-09-09|Serve machine learning models in Elixir. Production ML inference for Phoenix and the BEAM:OTP supervision, worker pools, dynamic batching, caching, telemetry, model versioning andzero-downtime canary rollout around any backend — Nx, Bumblebee, ONNX, Python or a remoteservice.|2xx|[![7939445](https://img.shields.io/github/stars/jamesnjovu/ml_serve)](https://github.com/jamesnjovu/ml_serve)
 |86|[cistern](https://hex.pm/packages/cistern)|0.1.1|2026-09-05|A Redix wrapper with a Poolboy-managed connection pool and typed read helpers.|1xx|[![7774380](https://img.shields.io/github/stars/DennisKh/cistern)](https://github.com/DennisKh/cistern)
 |87|[shardex](https://hex.pm/packages/shardex)|0.1.0|2026-11-04|Route keys and batches to sharded pools: Ecto, Redis, Elasticsearch or anything with a child spec.|1xx|[![10120253](https://img.shields.io/github/stars/epinault/shardex)](https://github.com/epinault/shardex)
+|88|[mf_handheld](https://hex.pm/packages/mf_handheld)|0.1.0|2026-11-25|Standalone synthetic medical peripheral client with TLS transport and bounded disk spool|0|[![11090496](https://img.shields.io/github/stars/nshkrdotcom/med_fabric)](https://github.com/nshkrdotcom/med_fabric)
 # Gleam pool
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

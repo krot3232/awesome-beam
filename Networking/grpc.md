@@ -6,6 +6,7 @@
 |3|[grpc_update](https://hex.pm/packages/grpc_update)|2.0.0|2022-06-22|The Elixir implementation of gRPC|6xx|
 |4|[egrpc](https://hex.pm/packages/egrpc)|0.1.2|2026-10-13|A gRPC client library for Erlang built on top of gun.|4xx|[![34660](https://img.shields.io/github/stars/belltoy/egrpc)](https://github.com/belltoy/egrpc)
 |5|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|1xx|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)
+|6|[roadrunner_grpc_protobuf](https://hex.pm/packages/roadrunner_grpc_protobuf)|0.1.0-rc.1|2026-11-25|Protocol Buffers for Roadrunner&#039;s gRPC, with gpb.|0|[![11095284](https://img.shields.io/github/stars/arizona-framework/roadrunner_grpc_protobuf)](https://github.com/arizona-framework/roadrunner_grpc_protobuf)
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
