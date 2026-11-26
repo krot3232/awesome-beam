@@ -1,7 +1,7 @@
 # Erlang TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16704xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
+|1|[ranch](https://hex.pm/packages/ranch)|2.4.0|2026-11-09|Socket acceptor pool for TCP protocols.|16713xxxx|[![46120](https://img.shields.io/github/stars/ninenines/ranch)](https://github.com/ninenines/ranch)
 |2|[eredis_sync](https://hex.pm/packages/eredis_sync)|0.1.4|2020-11-17|A direct Redis client operating on a TCP socket|2xxxx|[![35175](https://img.shields.io/github/stars/funbox/eredis_sync)](https://github.com/funbox/eredis_sync)
 |3|[cloudi_service_tcp](https://hex.pm/packages/cloudi_service_tcp)|2.0.7|2023-10-26|Erlang/Elixir Cloud Framework TCP Service|9xxx|[![32635](https://img.shields.io/github/stars/CloudI/cloudi_service_tcp)](https://github.com/CloudI/cloudi_service_tcp)
 |4|[teacup](https://hex.pm/packages/teacup)|0.3.4|2016-04-15|Simple TCP client library for Erlang|8xxx|
@@ -43,7 +43,7 @@
 |28|[yaads](https://hex.pm/packages/yaads)|0.1.2|2026-11-10|Beckhoff ADS in pure Elixir: a client for TwinCAT PLCs that reads, writes and watches variables by name, over TCP or Secure ADS (TLS), and finds PLCs and adds and deletes routes over UDP, without C in the BEAM.|1xx|[![10031630](https://img.shields.io/github/stars/tallakt/yaads)](https://github.com/tallakt/yaads)
 |29|[avmodbus](https://hex.pm/packages/avmodbus)|0.1.0|2026-10-28|Modbus RTU, ASCII, and TCP library designed for AtomVM|1xx|[![9776579](https://img.shields.io/github/stars/piyopiyoex/avmodbus)](https://github.com/piyopiyoex/avmodbus)
 |30|[meshcore](https://hex.pm/packages/meshcore)|0.1.0|2026-11-09|Elixir client for MeshCore companion radios over serial, TCP and BLE. A port of the meshcore_py library.|1xx|[![10346006](https://img.shields.io/github/stars/nyannus/meshcore_ex)](https://github.com/nyannus/meshcore_ex)
-|31|[nbpr_socketcand](https://hex.pm/packages/nbpr_socketcand)|0.1.1|2026-11-25|Daemon providing access to CAN interfaces over TCP (socketcand), packaged for Nerves|0|[![11067872](https://img.shields.io/github/stars/jimsynz/nbpr)](https://github.com/jimsynz/nbpr)
+|31|[nbpr_socketcand](https://hex.pm/packages/nbpr_socketcand)|0.1.1|2026-11-25|Daemon providing access to CAN interfaces over TCP (socketcand), packaged for Nerves|4x|[![11067872](https://img.shields.io/github/stars/jimsynz/nbpr)](https://github.com/jimsynz/nbpr)
 # Gleam TCP
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

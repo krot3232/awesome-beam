@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1028xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1029xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|13xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -10,7 +10,7 @@
 |7|[shiguredo_redbug](https://hex.pm/packages/shiguredo_redbug)|2022.2.0|2023-05-02|Erlang Tracing Debugger|7xxx|[![64075](https://img.shields.io/github/stars/shiguredo/redbug)](https://github.com/shiguredo/redbug)
 |8|[edbg](https://hex.pm/packages/edbg)|0.9.6|2024-01-31|TTY interface to the Erlang debugger and tracer|1xxx|[![34588](https://img.shields.io/github/stars/etnt/edbg)](https://github.com/etnt/edbg)
 |9|[edb](https://hex.pm/packages/edb)|0.5.0|2025-08-27|The edb debugger|8xx|
-|10|[edb_core](https://hex.pm/packages/edb_core)|0.5.0|2025-08-27|The core of the edb debugger|4xx|
+|10|[edb_core](https://hex.pm/packages/edb_core)|0.5.0|2025-08-27|The core of the edb debugger|5xx|
 # Elixir Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -43,14 +43,14 @@
 |27|[qq](https://hex.pm/packages/qq)|0.1.2|2017-09-04|Quick and dirty debugging output for elixir programmers.|1xxx|[![45933](https://img.shields.io/github/stars/mandarvaze/q)](https://github.com/mandarvaze/q)
 |28|[ex_pi](https://hex.pm/packages/ex_pi)|1.0.3|2020-12-29|Pretty Inspect pi() function for those, who love puts debugging.|9xx|[![36604](https://img.shields.io/github/stars/versilov/pi)](https://github.com/versilov/pi)
 |29|[debug](https://hex.pm/packages/debug)|0.1.0|2017-08-22|flexible debugging messages|9xx|[![33592](https://img.shields.io/github/stars/mndvns/debug)](https://github.com/mndvns/debug)
-|30|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|8xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
+|30|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|9xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
 |31|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|8xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
 |32|[probe](https://hex.pm/packages/probe)|1.0.1|2017-07-05|A super-powered version of IO.inspect for better print debugging.|7xx|[![45688](https://img.shields.io/github/stars/strobe-audio/probe)](https://github.com/strobe-audio/probe)
 |33|[ether](https://hex.pm/packages/ether)|0.0.1|2015-05-12|Elixir Debugger|7xx|[![35413](https://img.shields.io/github/stars/maarek/ether)](https://github.com/maarek/ether)
 |34|[slog](https://hex.pm/packages/slog)|0.1.1|2018-11-19|Print multiple values as string (except functions and binaries) for debugging.|6xx|[![64411](https://img.shields.io/github/stars/palerdot/slog)](https://github.com/palerdot/slog)
 |35|[crucible_trace](https://hex.pm/packages/crucible_trace)|0.3.1|2025-12-29|Structured causal reasoning chain logging for LLMs. Captures decision-making processes with cryptographic verification for transparency and debugging.|6xx|[![33253](https://img.shields.io/github/stars/North-Shore-AI/crucible_trace)](https://github.com/North-Shore-AI/crucible_trace)
-|36|[sink](https://hex.pm/packages/sink)|0.1.0|2026-01-13|Universal local adapter with web UI for debugging external service calls|5xx|
-|37|[exbug](https://hex.pm/packages/exbug)|0.0.1|2017-02-19|A more traditional experience for the :debugger module|5xx|[![35741](https://img.shields.io/github/stars/Gwash3189/exbug)](https://github.com/Gwash3189/exbug)
+|36|[sink](https://hex.pm/packages/sink)|0.1.0|2026-01-13|Universal local adapter with web UI for debugging external service calls|6xx|
+|37|[exbug](https://hex.pm/packages/exbug)|0.0.1|2017-02-19|A more traditional experience for the :debugger module|6xx|[![35741](https://img.shields.io/github/stars/Gwash3189/exbug)](https://github.com/Gwash3189/exbug)
 |38|[qdbg](https://hex.pm/packages/qdbg)|0.1.0|2017-08-03|Quick and dirty debugging output for elixir programmers.|4xx|[![45910](https://img.shields.io/github/stars/mandarvaze/q)](https://github.com/mandarvaze/q)
 |39|[phoenix_live_inspector](https://hex.pm/packages/phoenix_live_inspector)|0.1.2|2025-08-08|Phoenix LiveView Inspector - Real-time debugging and state inspection for LiveView applications.|4xx|[![44867](https://img.shields.io/github/stars/fawidev/phoenix_live_inspector)](https://github.com/fawidev/phoenix_live_inspector)
 |40|[opentelemetry_breathalyze r ](https://hex.pm/packages/opentelemetry_breathalyzer)|0.1.1|2023-12-21|An OpenTelemetry tracer for Absinthe (with Operation, Resolve and Middleware support).|4xx|[![44143](https://img.shields.io/github/stars/mbuffa/opentelemetry-breathalyzer)](https://github.com/mbuffa/opentelemetry-breathalyzer)
@@ -64,8 +64,8 @@
 |48|[phoenix_debug_bar](https://hex.pm/packages/phoenix_debug_bar)|0.1.0|2022-01-19|A debugging toolbar for Phoenix|2xx|
 |49|[jwt_lite](https://hex.pm/packages/jwt_lite)|0.1.0|2026-07-16|Lightweight JWT decoder for Elixir. Decodes and inspects JWTs without signature verification. Useful for debugging, logging, and introspection.|1xx|
 |50|[fathom](https://hex.pm/packages/fathom)|0.1.0|2026-10-01|A program database for Elixir codebases. Compiles your project with a tracer and dumps symbols, call graphs and framework facts into SQLite for agents to query.|1xx|[![8915650](https://img.shields.io/github/stars/thomaspmurphy/fathom)](https://github.com/thomaspmurphy/fathom)
-|51|[box_turtle](https://hex.pm/packages/box_turtle)|0.1.0|2026-11-03|A toolkit of Elixir building blocks: a convention-driven Ecto query/change layer, typed runtime configuration from environment variables, pipe-friendly debugging and small utilities.|8x|[![10057116](https://img.shields.io/github/stars/twajjo/box_turtle)](https://github.com/twajjo/box_turtle)
-|52|[nbpr_strace](https://hex.pm/packages/nbpr_strace)|6.18.0|2026-11-25|A useful diagnostic, instructional, and debugging tool.|0|[![11067873](https://img.shields.io/github/stars/jimsynz/nbpr)](https://github.com/jimsynz/nbpr)
+|51|[box_turtle](https://hex.pm/packages/box_turtle)|0.1.0|2026-11-03|A toolkit of Elixir building blocks: a convention-driven Ecto query/change layer, typed runtime configuration from environment variables, pipe-friendly debugging and small utilities.|9x|[![10057116](https://img.shields.io/github/stars/twajjo/box_turtle)](https://github.com/twajjo/box_turtle)
+|52|[nbpr_strace](https://hex.pm/packages/nbpr_strace)|6.18.0|2026-11-25|A useful diagnostic, instructional, and debugging tool.|3x|[![11067873](https://img.shields.io/github/stars/jimsynz/nbpr)](https://github.com/jimsynz/nbpr)
 # Gleam Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-

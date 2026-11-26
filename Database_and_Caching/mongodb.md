@@ -13,8 +13,8 @@
 |4|[opentelemetry_mongodb_dri ver ](https://hex.pm/packages/opentelemetry_mongodb_driver)|0.1.0|2023-08-23|Trace MongoDB queries with OpenTelemetry.|3xxxx|[![44167](https://img.shields.io/github/stars/open-telemetry/opentelemetry-erlang-contrib)](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
 |5|[mongo](https://hex.pm/packages/mongo)|0.5.4|2015-12-01|MongoDB driver for Elixir|6xxx|[![42899](https://img.shields.io/github/stars/checkiz/elixir-mongo)](https://github.com/checkiz/elixir-mongo)
 |6|[eidetic_eventstore_mongod b ](https://hex.pm/packages/eidetic_eventstore_mongodb)|1.0.0-alpha1|2018-04-02|A MongoDB EventStore for the Eidetic EventSourcing library|5xxx|
-|7|[yildun](https://hex.pm/packages/yildun)|0.1.2|2021-09-18|Yildun is a white-hued star in the northern circumpolar constellation of Ursa Minor, forming the second star in the bear&#039;s tail.And it is a very small library to support structs while using the MongoDB driver for Elixir.|5xxx|[![67535](https://img.shields.io/github/stars/zookzook/yildun)](https://github.com/zookzook/yildun)
-|8|[mongoman](https://hex.pm/packages/mongoman)|0.3.6|2016-12-12|Configures and starts local or distributed MongoDB clusters|5xxx|[![42908](https://img.shields.io/github/stars/vertify/mongoman)](https://github.com/vertify/mongoman)
+|7|[mongoman](https://hex.pm/packages/mongoman)|0.3.6|2016-12-12|Configures and starts local or distributed MongoDB clusters|5xxx|[![42908](https://img.shields.io/github/stars/vertify/mongoman)](https://github.com/vertify/mongoman)
+|8|[yildun](https://hex.pm/packages/yildun)|0.1.2|2021-09-18|Yildun is a white-hued star in the northern circumpolar constellation of Ursa Minor, forming the second star in the bear&#039;s tail.And it is a very small library to support structs while using the MongoDB driver for Elixir.|5xxx|[![67535](https://img.shields.io/github/stars/zookzook/yildun)](https://github.com/zookzook/yildun)
 |9|[trifle_stats](https://hex.pm/packages/trifle_stats)|2.7.0|2026-07-30|Time-series metrics for Elixir. Track custom business metrics using your existing Postgres, MongoDB, Redis, MySQL, or SQLite.|2xxx|[![66168](https://img.shields.io/github/stars/trifle-io/trifle_stats)](https://github.com/trifle-io/trifle_stats)
 |10|[mongox](https://hex.pm/packages/mongox)|0.2.0|2016-12-19|MongoDB driver for Elixir.|2xxx|[![42912](https://img.shields.io/github/stars/emerleite/mongox)](https://github.com/emerleite/mongox)
 |11|[mongox_ecto](https://hex.pm/packages/mongox_ecto)|0.2.0|2016-12-19|MongoDB adapter for Ecto|1xxx|[![42913](https://img.shields.io/github/stars/emerleite/mongox_ecto)](https://github.com/emerleite/mongox_ecto)
@@ -31,4 +31,4 @@
 # Gleam MongoDB
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[mungo](https://hex.pm/packages/mungo)|0.27.0|2024-12-20|A MongoDB driver for Gleam (formerly gleam_mongo)|2xxx|[![43092](https://img.shields.io/github/stars/massivefermion/mungo)](https://github.com/massivefermion/mungo)
+|1|[mungo](https://hex.pm/packages/mungo)|0.27.0|2024-12-20|A MongoDB driver for Gleam (formerly gleam_mongo)|3xxx|[![43092](https://img.shields.io/github/stars/massivefermion/mungo)](https://github.com/massivefermion/mungo)
