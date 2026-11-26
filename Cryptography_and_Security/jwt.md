@@ -50,5 +50,5 @@
 |2|[ywt_webcrypto](https://hex.pm/packages/ywt_webcrypto)|2.0.0|2026-05-29|The ywt package for JWT targeting javascript.|1xxxx|
 |3|[gwt](https://hex.pm/packages/gwt)|2.1.2|2025-08-11|A JWT library written in Gleam|1xxxx|[![39287](https://img.shields.io/github/stars/brettkolodny/gwt)](https://github.com/brettkolodny/gwt)
 |4|[ywt_erlang](https://hex.pm/packages/ywt_erlang)|2.0.0|2026-05-29|The ywt package for JWT targeting erlang.|3xxx|
-|5|[hellhound](https://hex.pm/packages/hellhound)|0.3.0|2026-11-25|Typed OIDC / OAuth 2.0, standalone JWT signing and bounded HTTPS credential exchange for Gleam on Erlang/OTP.|2xxx|[![9716560](https://img.shields.io/github/stars/gleam-dream/hellhound)](https://github.com/gleam-dream/hellhound)
+|5|[hellhound](https://hex.pm/packages/hellhound)|0.4.0|2026-11-26|Typed OIDC / OAuth 2.0, standalone JWT signing and bounded HTTPS credential exchange for Gleam on Erlang/OTP.|2xxx|[![9716560](https://img.shields.io/github/stars/gleam-dream/hellhound)](https://github.com/gleam-dream/hellhound)
 |6|[gjwt](https://hex.pm/packages/gjwt)|2.0.1|2026-04-27|A gleam abstraction to interact with erlang_jose for JWT&#039;s|1xxx|[![38307](https://img.shields.io/github/stars/BradBot1/gleam_gjwt)](https://github.com/BradBot1/gleam_gjwt)

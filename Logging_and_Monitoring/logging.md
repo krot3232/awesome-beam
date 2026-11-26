@@ -36,6 +36,7 @@
 |33|[graylog_logger](https://hex.pm/packages/graylog_logger)|1.0.1|2025-11-16|OTP logger backend that sends log events to Graylog via GELF UDP input.|3xx|[![39121](https://img.shields.io/github/stars/silviucpp/graylog_logger)](https://github.com/silviucpp/graylog_logger)
 |34|[logger_udp](https://hex.pm/packages/logger_udp)|1.0.0|2025-03-03|Erlang handler for UDP logging|3xx|[![41680](https://img.shields.io/github/stars/hauleth/logger_udp)](https://github.com/hauleth/logger_udp)
 |35|[logger_telegram_h](https://hex.pm/packages/logger_telegram_h)|0.1.0|2026-04-16|Telegram logging handler for Erlang|2xx|[![41679](https://img.shields.io/github/stars/krot3232/logger_telegram_h)](https://github.com/krot3232/logger_telegram_h)
+|36|[loggit](https://hex.pm/packages/loggit)|1.0.0|2026-11-26|Structured Pooka logging on Erlang/OTP Logger|0|[![11136293](https://img.shields.io/github/stars/peregrinefinch/loggit)](https://github.com/peregrinefinch/loggit)
 # Elixir Logging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
@@ -219,8 +220,8 @@
 |178|[logger_file_backend_win](https://hex.pm/packages/logger_file_backend_win)|0.0.2|2021-12-23|Logger backend that writes to a file, rotated daily.|6xx|[![41647](https://img.shields.io/github/stars/simonmcconnell/logger_file_backend_win)](https://github.com/simonmcconnell/logger_file_backend_win)
 |179|[logger_webhook_backend](https://hex.pm/packages/logger_webhook_backend)|0.0.4|2025-01-16|A Logger backend that sends logs to a webhook.|6xx|[![41681](https://img.shields.io/github/stars/therealowenrees/logger_webhook_backend)](https://github.com/therealowenrees/logger_webhook_backend)
 |180|[logger_loki_backend](https://hex.pm/packages/logger_loki_backend)|0.0.1|2023-05-24|Elixir Logger Backend for Grafana Loki|6xx|[![41667](https://img.shields.io/github/stars/bamorim/logger_loki_backend)](https://github.com/bamorim/logger_loki_backend)
-|181|[jop](https://hex.pm/packages/jop)|0.1.4|2026-03-11|an in-memory logger for spatial / temporal search|6xx|[![40477](https://img.shields.io/github/stars/bougueil/jop)](https://github.com/bougueil/jop)
-|182|[esyslog](https://hex.pm/packages/esyslog)|0.1.0|2017-07-09|Simple Syslog Collector|6xx|[![35394](https://img.shields.io/github/stars/jbenden/esyslog)](https://github.com/jbenden/esyslog)
+|181|[esyslog](https://hex.pm/packages/esyslog)|0.1.0|2017-07-09|Simple Syslog Collector|6xx|[![35394](https://img.shields.io/github/stars/jbenden/esyslog)](https://github.com/jbenden/esyslog)
+|182|[jop](https://hex.pm/packages/jop)|0.1.4|2026-03-11|an in-memory logger for spatial / temporal search|6xx|[![40477](https://img.shields.io/github/stars/bougueil/jop)](https://github.com/bougueil/jop)
 |183|[logdna](https://hex.pm/packages/logdna)|0.0.0|2019-10-13|Logdna Logger Backend|6xx|[![41617](https://img.shields.io/github/stars/Waasi/logdna)](https://github.com/Waasi/logdna)
 |184|[documentr](https://hex.pm/packages/documentr)|0.1.0|2017-10-31|This is a logger plugin that will log your API for automating documentation.|5xx|[![33992](https://img.shields.io/github/stars/blackode/printex)](https://github.com/blackode/printex)
 |185|[logger_2k17](https://hex.pm/packages/logger_2k17)|0.1.0|2017-03-10|Finally a logger module for 2k17. Replaces Logger with a new and freshmodule with meaningful methods like fyi and omg instead of info anderror.|5xx|[![41631](https://img.shields.io/github/stars/davejlong/logger_2k17)](https://github.com/davejlong/logger_2k17)
