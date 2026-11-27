@@ -1,7 +1,7 @@
 # Erlang Kafka
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1154xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
+|1|[kafka_protocol](https://hex.pm/packages/kafka_protocol)|4.3.8|2026-11-01|Kafka protocol library for Erlang/Elixir|1155xxxx|[![40677](https://img.shields.io/github/stars/kafka4beam/kafka_protocol)](https://github.com/kafka4beam/kafka_protocol)
 |2|[brod](https://hex.pm/packages/brod)|4.7.1|2026-11-24|Apache Kafka Erlang client library|1141xxxx|[![31833](https://img.shields.io/github/stars/kafka4beam/brod)](https://github.com/kafka4beam/brod)
 |3|[wolff](https://hex.pm/packages/wolff)|4.2.3|2026-11-10|Kafka&#039;s publisher|32xxxx|
 |4|[erlkaf](https://hex.pm/packages/erlkaf)|2.2.2|2026-09-15|erlkaf - Erlang Kafka library based on librdkafka|12xxxx|[![35261](https://img.shields.io/github/stars/silviucpp/erlkaf)](https://github.com/silviucpp/erlkaf)

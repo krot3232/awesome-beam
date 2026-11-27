@@ -1,7 +1,7 @@
 # Erlang Mnesia
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|407xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
+|1|[khepri_mnesia_migration](https://hex.pm/packages/khepri_mnesia_migration)|0.8.1|2026-01-08|Tools to migrate between Mnesia and Khepri|409xxxx|[![40790](https://img.shields.io/github/stars/rabbitmq/khepri_mnesia_migration)](https://github.com/rabbitmq/khepri_mnesia_migration)
 |2|[lbm_kv](https://hex.pm/packages/lbm_kv)|0.0.2|2016-08-03|A simple, distributed, Mnesia-based key-value-store.|1xxxx|[![41158](https://img.shields.io/github/stars/lindenbaum/lbm_kv)](https://github.com/lindenbaum/lbm_kv)
 |3|[tivan_rocksdb](https://hex.pm/packages/tivan_rocksdb)|1.0.0|2019-12-30|RocksDB backend plugin for Mnesia|2xxx|
 |4|[tivan](https://hex.pm/packages/tivan)|1.2.15|2019-12-31|Wrapper for mnesia with loaded functionality|5xx|
@@ -27,7 +27,7 @@
 |15|[lethe](https://hex.pm/packages/lethe)|0.6.0|2021-01-12|A friendly query DSL for Mnesia|2xxx|[![41223](https://img.shields.io/github/stars/queer/lethe)](https://github.com/queer/lethe)
 |16|[mnesiam](https://hex.pm/packages/mnesiam)|0.1.1|2017-05-13|Mnesiam is a Mnesia db manager for painless Mnesia clustering.|2xxx|[![42789](https://img.shields.io/github/stars/mustafaturan/mnesiam)](https://github.com/mustafaturan/mnesiam)
 |17|[enki](https://hex.pm/packages/enki)|0.2.0|2019-10-17|A simple queue with Mnesia persistence and TTF|2xxx|[![35060](https://img.shields.io/github/stars/Lazarus404/enki)](https://github.com/Lazarus404/enki)
-|18|[mcc](https://hex.pm/packages/mcc)|1.2.0|2019-04-09|Cache built via mnesia which support expiration and cluster.|1xxx|[![42197](https://img.shields.io/github/stars/ArcBlock/mcc)](https://github.com/ArcBlock/mcc)
+|18|[mcc](https://hex.pm/packages/mcc)|1.2.0|2019-04-09|Cache built via mnesia which support expiration and cluster.|2xxx|[![42197](https://img.shields.io/github/stars/ArcBlock/mcc)](https://github.com/ArcBlock/mcc)
 |19|[quantum_storage_mnesia](https://hex.pm/packages/quantum_storage_mnesia)|1.0.0|2020-06-15|Quantum Storage Adapter based on Mnesia|1xxx|[![45972](https://img.shields.io/github/stars/sezaru/quantum_storage_mnesia)](https://github.com/sezaru/quantum_storage_mnesia)
 |20|[blackout](https://hex.pm/packages/blackout)|0.1.0|2018-10-02|A very thin wrapper around Erlang&#039;s mnesia used to provide distributed rate limiting, with little to no configuration and a simple API for developer happiness.|1xxx|[![31566](https://img.shields.io/github/stars/chrisalmeida/blackout)](https://github.com/chrisalmeida/blackout)
 |21|[minirate](https://hex.pm/packages/minirate)|0.1.13|2025-08-30|A dead simple distributed rate limiter using Mnesia|1xxx|[![42645](https://img.shields.io/github/stars/4xposed/minirate)](https://github.com/4xposed/minirate)

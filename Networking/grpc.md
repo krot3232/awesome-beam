@@ -2,15 +2,15 @@
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
 |1|[grpc_cowlib](https://hex.pm/packages/grpc_cowlib)|2.8.1|2019-12-24|gRPC forked cowlib: Support library for manipulating Web protocols.|5115xxxx|[![39189](https://img.shields.io/github/stars/elixir-grpc/cowlib)](https://github.com/elixir-grpc/cowlib)
-|2|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.5|2026-11-14|gRPC for Erlang on the livery HTTP/2 stack: server and client|7xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
+|2|[livery_grpc](https://hex.pm/packages/livery_grpc)|0.2.5|2026-11-14|gRPC for Erlang on the livery HTTP/2 stack: server and client|8xxx|[![4085806](https://img.shields.io/github/stars/benoitc/livery_grpc)](https://github.com/benoitc/livery_grpc)
 |3|[grpc_update](https://hex.pm/packages/grpc_update)|2.0.0|2022-06-22|The Elixir implementation of gRPC|7xx|
 |4|[egrpc](https://hex.pm/packages/egrpc)|0.1.2|2026-10-13|A gRPC client library for Erlang built on top of gun.|4xx|[![34660](https://img.shields.io/github/stars/belltoy/egrpc)](https://github.com/belltoy/egrpc)
 |5|[livery_grpc_a2a](https://hex.pm/packages/livery_grpc_a2a)|0.1.0|2026-09-21|Agent2Agent (A2A) gRPC binding for livery_grpc|1xx|[![8470804](https://img.shields.io/github/stars/benoitc/livery_grpc_a2a)](https://github.com/benoitc/livery_grpc_a2a)
-|6|[roadrunner_grpc_protobuf](https://hex.pm/packages/roadrunner_grpc_protobuf)|0.1.0-rc.1|2026-11-25|Protocol Buffers for Roadrunner&#039;s gRPC, with gpb.|5x|[![11095284](https://img.shields.io/github/stars/arizona-framework/roadrunner_grpc_protobuf)](https://github.com/arizona-framework/roadrunner_grpc_protobuf)
+|6|[roadrunner_grpc_protobuf](https://hex.pm/packages/roadrunner_grpc_protobuf)|0.1.0-rc.1|2026-11-25|Protocol Buffers for Roadrunner&#039;s gRPC, with gpb.|1xx|[![11095284](https://img.shields.io/github/stars/arizona-framework/roadrunner_grpc_protobuf)](https://github.com/arizona-framework/roadrunner_grpc_protobuf)
 # Elixir gRPC
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[grpc](https://hex.pm/packages/grpc)|1.1.0|2026-11-13|gRPC client implementation for Elixir|788xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
+|1|[grpc](https://hex.pm/packages/grpc)|1.1.0|2026-11-13|gRPC client implementation for Elixir|789xxxx|[![39181](https://img.shields.io/github/stars/elixir-grpc/grpc)](https://github.com/elixir-grpc/grpc)
 |2|[grpc_mock](https://hex.pm/packages/grpc_mock)|0.3.0|2018-12-20|GrpcMock is mocking library for [Elixir gRPC implementation](https://github.com/tony612/grpc-elixir).It provides seamless mock creation based on pb.ex definition andusual mocking &quot;expect&quot; - &quot;verify&quot; mechanisms.|83xxxx|[![39193](https://img.shields.io/github/stars/renderedtext/grpc-mock)](https://github.com/renderedtext/grpc-mock)
 |3|[grpc_fresha](https://hex.pm/packages/grpc_fresha)|0.6.7|2025-07-28|The Elixir implementation of gRPC|60xxxx|[![39190](https://img.shields.io/github/stars/surgeventures/grpc)](https://github.com/surgeventures/grpc)
 |4|[grpc_core](https://hex.pm/packages/grpc_core)|1.1.0|2026-11-13|Core gRPC types, codecs, and utilities for Elixir|35xxxx|
