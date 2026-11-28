@@ -1,7 +1,7 @@
 # Erlang Debugging
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
-|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1031xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
+|1|[redbug](https://hex.pm/packages/redbug)|2.1.0|2024-09-25|Erlang Tracing Debugger|1032xxxx|[![46481](https://img.shields.io/github/stars/massemanet/redbug)](https://github.com/massemanet/redbug)
 |2|[eper](https://hex.pm/packages/eper)|0.99.1|2018-07-09|Erlang Performance and Debugging Tools|57xxxx|[![35125](https://img.shields.io/github/stars/massemanet/eper)](https://github.com/massemanet/eper)
 |3|[erlang_doctor](https://hex.pm/packages/erlang_doctor)|1.0.0|2026-07-28|Lightweight tracing, debugging and profiling utility for Erlang|13xxxx|[![35191](https://img.shields.io/github/stars/chrzaszcz/erlang_doctor)](https://github.com/chrzaszcz/erlang_doctor)
 |4|[xprof](https://hex.pm/packages/xprof)|2.0.0-rc.5|2021-10-29|Visual tracer and profiler for BEAM languages|3xxxx|[![67430](https://img.shields.io/github/stars/appliscale/xprof)](https://github.com/appliscale/xprof)
@@ -37,14 +37,14 @@
 |21|[examine](https://hex.pm/packages/examine)|0.3.0|2020-10-02|Enhanced inspect debugging.|3xxx|[![35595](https://img.shields.io/github/stars/mbgardner/examine)](https://github.com/mbgardner/examine)
 |22|[mimicron](https://hex.pm/packages/mimicron)|0.1.1|2019-07-27|callstack tracer|2xxx|[![42619](https://img.shields.io/github/stars/jcoder39/mimicron)](https://github.com/jcoder39/mimicron)
 |23|[clouseau](https://hex.pm/packages/clouseau)|0.5.0|2019-09-22|Debugging tool. A wrapper around IO.inspect that provides some enhancements|2xxx|[![32647](https://img.shields.io/github/stars/voger/clouseau)](https://github.com/voger/clouseau)
-|24|[ex_debug](https://hex.pm/packages/ex_debug)|1.0.0|2024-04-18|Library with debugging functions for making life easier.|1xxx|[![35947](https://img.shields.io/github/stars/JosePamplona/ExDebug)](https://github.com/JosePamplona/ExDebug)
-|25|[ex_debugger](https://hex.pm/packages/ex_debugger)|0.1.5|2021-11-10|Facilitate debugging by auto-annotating your code-base|1xxx|[![35948](https://img.shields.io/github/stars/Ajwah/ex_debugger)](https://github.com/Ajwah/ex_debugger)
+|24|[ex_debugger](https://hex.pm/packages/ex_debugger)|0.1.5|2021-11-10|Facilitate debugging by auto-annotating your code-base|1xxx|[![35948](https://img.shields.io/github/stars/Ajwah/ex_debugger)](https://github.com/Ajwah/ex_debugger)
+|25|[ex_debug](https://hex.pm/packages/ex_debug)|1.0.0|2024-04-18|Library with debugging functions for making life easier.|1xxx|[![35947](https://img.shields.io/github/stars/JosePamplona/ExDebug)](https://github.com/JosePamplona/ExDebug)
 |26|[traceroute](https://hex.pm/packages/traceroute)|0.2.6|2026-04-02|Runs traceroutes and pings natively in Elixir|1xxx|[![66071](https://img.shields.io/github/stars/PJUllrich/traceroute)](https://github.com/PJUllrich/traceroute)
 |27|[qq](https://hex.pm/packages/qq)|0.1.2|2017-09-04|Quick and dirty debugging output for elixir programmers.|1xxx|[![45933](https://img.shields.io/github/stars/mandarvaze/q)](https://github.com/mandarvaze/q)
 |28|[ex_pi](https://hex.pm/packages/ex_pi)|1.0.3|2020-12-29|Pretty Inspect pi() function for those, who love puts debugging.|9xx|[![36604](https://img.shields.io/github/stars/versilov/pi)](https://github.com/versilov/pi)
-|29|[debug](https://hex.pm/packages/debug)|0.1.0|2017-08-22|flexible debugging messages|9xx|[![33592](https://img.shields.io/github/stars/mndvns/debug)](https://github.com/mndvns/debug)
-|30|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|9xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
-|31|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|8xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
+|29|[sherlock_mem](https://hex.pm/packages/sherlock_mem)|0.1.2|2019-10-01|Memory tracer for GenServer|9xx|[![64065](https://img.shields.io/github/stars/timuryan/sherlock_mem)](https://github.com/timuryan/sherlock_mem)
+|30|[debug](https://hex.pm/packages/debug)|0.1.0|2017-08-22|flexible debugging messages|9xx|[![33592](https://img.shields.io/github/stars/mndvns/debug)](https://github.com/mndvns/debug)
+|31|[logger_sigil_l](https://hex.pm/packages/logger_sigil_l)|0.1.3|2022-02-18|LoggerSigilL provides a short syntax for logging while debugging an application, like ~w(a b c)|9xx|[![41672](https://img.shields.io/github/stars/nottewae/logger_sigil_l)](https://github.com/nottewae/logger_sigil_l)
 |32|[probe](https://hex.pm/packages/probe)|1.0.1|2017-07-05|A super-powered version of IO.inspect for better print debugging.|7xx|[![45688](https://img.shields.io/github/stars/strobe-audio/probe)](https://github.com/strobe-audio/probe)
 |33|[ether](https://hex.pm/packages/ether)|0.0.1|2015-05-12|Elixir Debugger|7xx|[![35413](https://img.shields.io/github/stars/maarek/ether)](https://github.com/maarek/ether)
 |34|[slog](https://hex.pm/packages/slog)|0.1.1|2018-11-19|Print multiple values as string (except functions and binaries) for debugging.|6xx|[![64411](https://img.shields.io/github/stars/palerdot/slog)](https://github.com/palerdot/slog)

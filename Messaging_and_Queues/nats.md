@@ -12,9 +12,9 @@
 |1|[nats_streaming](https://hex.pm/packages/nats_streaming)|0.0.3|2026-07-01|BETA support for interacting with a NATS streaming server|4xxx|[![43210](https://img.shields.io/github/stars/mmmries/nats.ex_streaming)](https://github.com/mmmries/nats.ex_streaming)
 |2|[natsex](https://hex.pm/packages/natsex)|0.9.1|2018-12-19|Client for NATS|4xxx|[![43206](https://img.shields.io/github/stars/bersegosx/Natsex)](https://github.com/bersegosx/Natsex)
 |3|[natsio](https://hex.pm/packages/natsio)|0.1.6|2017-12-27|NATS framework for Elixir|2xxx|[![43208](https://img.shields.io/github/stars/nats-io/elixir-nats)](https://github.com/nats-io/elixir-nats)
-|4|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|6xx|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)
-|5|[ankusa_nats](https://hex.pm/packages/ankusa_nats)|0.7.0|2026-10-28|Ankusa.Sink adapter publishing delivered hooks to a NATS JetStream subject.|4xx|[![8750757](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
-|6|[jetway](https://hex.pm/packages/jetway)|0.1.0|2026-11-18|A NATS JetStream producer for Broadway, built on gnat|9x|[![10761393](https://img.shields.io/github/stars/jamescarr/jetway)](https://github.com/jamescarr/jetway)
+|4|[nats](https://hex.pm/packages/nats)|0.0.1|2015-09-08|A NATS client written in elixir supporting pub/sub for microservices|7xx|[![43203](https://img.shields.io/github/stars/aforward/elixir_nats)](https://github.com/aforward/elixir_nats)
+|5|[ankusa_nats](https://hex.pm/packages/ankusa_nats)|0.7.0|2026-10-28|Ankusa.Sink adapter publishing delivered hooks to a NATS JetStream subject.|5xx|[![8750757](https://img.shields.io/github/stars/jamescarr/ankusa)](https://github.com/jamescarr/ankusa)
+|6|[jetway](https://hex.pm/packages/jetway)|0.1.0|2026-11-18|A NATS JetStream producer for Broadway, built on gnat|1xx|[![10761393](https://img.shields.io/github/stars/jamescarr/jetway)](https://github.com/jamescarr/jetway)
 # Gleam NATS
 | |Name|Ver|Update|Description|Download|Stars&nbsp;&nbsp;&nbsp;&nbsp;
 |:-|-|-|-|:-|-|-
